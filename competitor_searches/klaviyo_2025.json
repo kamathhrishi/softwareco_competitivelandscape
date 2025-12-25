@@ -1,0 +1,19 @@
+{
+  "company": "Klaviyo, Inc.",
+  "ticker": "KVYO",
+  "year": 2025,
+  "search_query": "Klaviyo competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Klaviyo is a marketing automation platform focused on email and SMS marketing for e-commerce businesses. The company's data-driven approach and Shopify integration make it a leader in the e-commerce marketing space.",
+  "competitors": [
+    {"name": "Mailchimp (Intuit)", "notes": "Email marketing platform with broader SMB marketing tools, owned by Intuit"},
+    {"name": "Attentive", "notes": "SMS marketing platform competing in mobile messaging for e-commerce"},
+    {"name": "Omnisend", "notes": "E-commerce marketing automation for email, SMS, and push notifications"},
+    {"name": "Braze", "notes": "Customer engagement platform with cross-channel marketing capabilities"},
+    {"name": "Postscript", "notes": "SMS marketing platform focused on Shopify merchants"},
+    {"name": "Drip", "notes": "E-commerce CRM and marketing automation platform"},
+    {"name": "ActiveCampaign", "notes": "Marketing automation with CRM and email marketing for SMBs"},
+    {"name": "HubSpot Marketing Hub", "notes": "Inbound marketing platform with email and automation tools"}
+  ],
+  "sources": ["G2 Crowd", "eMarketer"]
+}

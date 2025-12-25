@@ -1,0 +1,19 @@
+{
+  "company": "Dropbox, Inc.",
+  "ticker": "DBX",
+  "year": 2025,
+  "search_query": "Dropbox competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Dropbox has evolved from cloud storage to a smart workspace platform with Dropbox Dash AI-powered universal search and collaboration tools. The company focuses on helping distributed teams organize work.",
+  "competitors": [
+    {"name": "Google Drive/Workspace", "notes": "Integrated cloud storage with Google's productivity suite"},
+    {"name": "Microsoft OneDrive", "notes": "Cloud storage integrated with Microsoft 365 ecosystem"},
+    {"name": "Box", "notes": "Enterprise-focused cloud content management platform"},
+    {"name": "Apple iCloud", "notes": "Cloud storage for Apple ecosystem users"},
+    {"name": "Notion", "notes": "All-in-one workspace competing in team collaboration and documentation"},
+    {"name": "Sync.com", "notes": "Privacy-focused cloud storage with end-to-end encryption"},
+    {"name": "pCloud", "notes": "Cloud storage with lifetime plans and strong security features"},
+    {"name": "Egnyte", "notes": "Enterprise file sync and share with hybrid cloud capabilities"}
+  ],
+  "sources": ["TechRadar", "PCMag"]
+}

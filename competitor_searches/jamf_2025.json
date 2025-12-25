@@ -1,0 +1,50 @@
+{
+  "company": "Jamf",
+  "ticker": "JAMF",
+  "year": 2025,
+  "search_query": "Jamf competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Jamf is an Apple-focused mobile device management (MDM) and endpoint management platform. While Jamf dominates the Apple device management market, organizations increasingly seek alternatives due to higher pricing, complexity requiring specialized training, and its Apple-only focus creating challenges for mixed device environments. The market includes both Apple-focused competitors and cross-platform MDM solutions.",
+  "competitors": [
+    {
+      "name": "Microsoft Intune",
+      "notes": "Dominant cross-platform MDM competitor with nearly 95% market share in endpoint management. Unlike Jamf's Apple-only focus, Intune manages Windows, macOS, iOS, and Android devices from a single console with deep Microsoft 365 and Azure AD integration."
+    },
+    {
+      "name": "Kandji",
+      "notes": "Premier Apple-focused alternative to Jamf. Offers streamlined automation through pre-built Blueprints that eliminate manual configuration complexity. Provides out-of-the-box templates for compliance, security policies, and device setup without requiring custom scripting like Jamf."
+    },
+    {
+      "name": "NinjaOne",
+      "notes": "Unified endpoint management solution serving over 20,000 customers. Cross-platform competitor that remotely monitors and manages Windows, macOS, and Linux devices in a single pane of glass with a 'power through simplicity' philosophy."
+    },
+    {
+      "name": "ManageEngine Mobile Device Manager Plus",
+      "notes": "Rated as the best overall Jamf Pro alternative. Comprehensive MDM solution offering multi-platform device management at competitive pricing."
+    },
+    {
+      "name": "VMware Workspace ONE UEM",
+      "notes": "Competes with Jamf for enterprise MDM. Excels with multi-platform support and advanced analytics, appealing to organizations requiring extensive feature sets and platform flexibility beyond Apple devices."
+    },
+    {
+      "name": "Addigy",
+      "notes": "Apple-focused MDM competitor targeting the same market as Jamf with simplified deployment and management for macOS and iOS devices."
+    },
+    {
+      "name": "Mosyle",
+      "notes": "Apple device management competitor offering MDM capabilities specifically designed for Apple ecosystems at competitive pricing points."
+    },
+    {
+      "name": "JumpCloud",
+      "notes": "Cross-platform directory and MDM solution that competes with Jamf for organizations managing mixed device environments requiring unified identity and access management."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/endpoint-management-tools/vendor/jamf-software/product/jamf-pro/alternatives",
+    "https://www.rippling.com/blog/alternative-to-jamf",
+    "https://www.ninjaone.com/blog/alternatives-to-jamf/",
+    "https://www.g2.com/products/jamf-pro/competitors/alternatives",
+    "https://www.siit.io/tools/alternatives/jamf-alternatives",
+    "https://www.zluri.com/blog/jamf-connect-alternatives"
+  ]
+}

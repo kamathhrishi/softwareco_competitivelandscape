@@ -1,0 +1,19 @@
+{
+  "company": "DocuSign, Inc.",
+  "ticker": "DOCU",
+  "year": 2025,
+  "search_query": "DocuSign competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "DocuSign is the market leader in electronic signature and agreement cloud solutions. The company has expanded into intelligent agreement management with AI-powered contract analytics.",
+  "competitors": [
+    {"name": "Adobe Sign", "notes": "Part of Adobe Document Cloud, strong integration with Adobe ecosystem"},
+    {"name": "Dropbox Sign (HelloSign)", "notes": "E-signature solution integrated with Dropbox, acquired in 2019"},
+    {"name": "PandaDoc", "notes": "Document automation platform with proposals, quotes, and e-signatures"},
+    {"name": "SignNow", "notes": "E-signature platform owned by airSlate with focus on ease of use"},
+    {"name": "Docusign CLM competitors", "notes": "Contract lifecycle management competitors like Icertis, Agiloft"},
+    {"name": "Zoho Sign", "notes": "E-signature solution part of Zoho's business software suite"},
+    {"name": "OneSpan Sign", "notes": "Enterprise e-signature with focus on security and compliance"},
+    {"name": "Conga", "notes": "Revenue lifecycle management including contract management and e-signature"}
+  ],
+  "sources": ["G2 Crowd", "Gartner"]
+}

@@ -1,0 +1,19 @@
+{
+  "company": "Dayforce (formerly Ceridian)",
+  "ticker": "DAY",
+  "year": 2025,
+  "search_query": "Dayforce Ceridian competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Ceridian rebranded to Dayforce in 2024, reflecting its flagship HCM platform. The company competes in the human capital management space with unified payroll, HR, benefits, and workforce management solutions.",
+  "competitors": [
+    {"name": "Workday", "notes": "Leading cloud HCM and financial management platform for large enterprises"},
+    {"name": "ADP", "notes": "Largest payroll and HR services provider globally with comprehensive HCM offerings"},
+    {"name": "UKG (Ultimate Kronos Group)", "notes": "Major HCM provider formed from Ultimate Software and Kronos merger"},
+    {"name": "Paylocity", "notes": "Cloud-based payroll and HCM solutions targeting mid-market companies"},
+    {"name": "Paycom", "notes": "Single-database HCM platform with employee self-service focus"},
+    {"name": "Paychex", "notes": "Payroll and HR services for small to mid-sized businesses"},
+    {"name": "SAP SuccessFactors", "notes": "Enterprise HCM suite integrated with SAP ecosystem"},
+    {"name": "Oracle HCM Cloud", "notes": "Comprehensive cloud HCM solution for large enterprises"}
+  ],
+  "sources": ["Gartner", "G2 Crowd"]
+}

@@ -1,0 +1,19 @@
+{
+  "company": "Nutanix, Inc.",
+  "ticker": "NTNX",
+  "year": 2025,
+  "search_query": "Nutanix competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Nutanix provides hyperconverged infrastructure (HCI) and hybrid multicloud solutions. The company has transitioned to a subscription model with focus on hybrid cloud management and Kubernetes support.",
+  "competitors": [
+    {"name": "VMware (Broadcom)", "notes": "Major competitor in virtualization and HCI with vSAN, now part of Broadcom"},
+    {"name": "Dell VxRail", "notes": "VMware-based HCI appliance from Dell Technologies"},
+    {"name": "HPE SimpliVity", "notes": "Hyperconverged infrastructure platform from Hewlett Packard Enterprise"},
+    {"name": "Cisco HyperFlex", "notes": "Hyperconverged infrastructure integrated with Cisco UCS"},
+    {"name": "Microsoft Azure Stack HCI", "notes": "Hybrid cloud HCI solution from Microsoft"},
+    {"name": "Scale Computing", "notes": "Edge computing and HCI for mid-market and edge deployments"},
+    {"name": "Red Hat OpenShift", "notes": "Kubernetes platform competing in hybrid cloud orchestration"},
+    {"name": "NetApp", "notes": "Hybrid cloud data services and infrastructure solutions"}
+  ],
+  "sources": ["Gartner HCI Magic Quadrant", "IDC"]
+}

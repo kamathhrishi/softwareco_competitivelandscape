@@ -1,0 +1,19 @@
+{
+  "company": "Box, Inc.",
+  "ticker": "BOX",
+  "year": 2025,
+  "search_query": "Box competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Box continues to focus on enterprise content management and collaboration with AI-powered features. The company emphasizes security, compliance, and integration capabilities for regulated industries.",
+  "competitors": [
+    {"name": "Dropbox", "notes": "Primary competitor in cloud file storage and sharing, though Dropbox focuses more on individual/SMB while Box targets enterprise"},
+    {"name": "Microsoft OneDrive/SharePoint", "notes": "Integrated with Microsoft 365 suite, major competitor for enterprise content management"},
+    {"name": "Google Drive", "notes": "Cloud storage integrated with Google Workspace, competing for enterprise collaboration"},
+    {"name": "Citrix ShareFile", "notes": "Enterprise file sharing and sync with focus on security and compliance"},
+    {"name": "Egnyte", "notes": "Hybrid cloud content platform targeting enterprise file services and governance"},
+    {"name": "Dropbox Business", "notes": "Enterprise-focused offering competing for business cloud storage market"},
+    {"name": "iManage", "notes": "Document management for professional services competing in legal and financial verticals"},
+    {"name": "M-Files", "notes": "Intelligent information management platform competing in enterprise content management"}
+  ],
+  "sources": ["G2 Crowd", "Gartner research"]
+}

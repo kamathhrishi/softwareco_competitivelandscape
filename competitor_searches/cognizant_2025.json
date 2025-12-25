@@ -1,0 +1,19 @@
+{
+  "company": "Cognizant Technology Solutions",
+  "ticker": "CTSH",
+  "year": 2025,
+  "search_query": "Cognizant competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Cognizant focuses on AI-first transformation, cloud modernization, and industry solutions in 2025. Generative AI implementation and enterprise AI adoption are driving new demand as clients modernize legacy systems.",
+  "competitors": [
+    {"name": "Accenture", "notes": "Market leader with massive AI and generative AI investments"},
+    {"name": "Infosys", "notes": "AI-powered services and Topaz AI platform competitor"},
+    {"name": "TCS", "notes": "Largest Indian IT services with broad AI and cloud offerings"},
+    {"name": "Wipro", "notes": "AI-driven IT services with industry-specific solutions"},
+    {"name": "HCL Technologies", "notes": "Engineering and IT services with GenAI capabilities"},
+    {"name": "IBM Consulting", "notes": "watsonx and enterprise AI transformation services"},
+    {"name": "Capgemini", "notes": "European IT services with AI and intelligent industry focus"},
+    {"name": "Tech Mahindra", "notes": "AI and 5G transformation services competitor"}
+  ],
+  "sources": ["Gartner", "Industry analysis"]
+}

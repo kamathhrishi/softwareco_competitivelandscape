@@ -1,0 +1,19 @@
+{
+  "company": "Broadcom Inc.",
+  "ticker": "AVGO",
+  "year": 2000,
+  "search_query": "Broadcom competitors 2000",
+  "search_date": "2024-12-24",
+  "context": "Broadcom Corporation (original company, not current Broadcom Inc.) was a fabless semiconductor company focused on broadband communications chips in 2000. The company went public in 1998 and was a leader in cable modem and DSL chipsets during the dot-com boom.",
+  "competitors": [
+    {"name": "Texas Instruments", "notes": "Major semiconductor company competing in DSP and communications chips"},
+    {"name": "Intel", "notes": "Dominant chip maker with networking and communications products"},
+    {"name": "Conexant", "notes": "Spin-off from Rockwell focused on communications semiconductors"},
+    {"name": "Analog Devices", "notes": "Semiconductor company competing in signal processing and communications"},
+    {"name": "Applied Micro Circuits", "notes": "Fabless semiconductor company in networking and communications"},
+    {"name": "PMC-Sierra", "notes": "Semiconductor solutions for networking and communications"},
+    {"name": "Vitesse Semiconductor", "notes": "Networking and communications ICs competitor"},
+    {"name": "Marvell Technology", "notes": "Fabless semiconductor company in storage and communications"}
+  ],
+  "sources": ["Historical semiconductor industry analysis"]
+}

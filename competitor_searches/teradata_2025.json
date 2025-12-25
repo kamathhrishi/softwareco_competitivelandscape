@@ -1,0 +1,52 @@
+{
+  "company": "Teradata",
+  "ticker": "TDC",
+  "year": 2025,
+  "search_query": "Teradata TDC competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Teradata is a legacy data warehousing and analytics company transitioning to a multi-cloud ecosystem. Operating in the rapidly growing cloud analytics market projected to reach $539.5 billion by 2035 (28.5% CAGR from 2025), Teradata competes in enterprise data warehousing and analytics with its hybrid architecture supporting on-premises, private cloud, and public cloud deployments.",
+  "competitors": [
+    {
+      "name": "Snowflake",
+      "notes": "Primary cloud-native competitor in enterprise data warehousing, offering multi-cloud platform focused on unifying data and AI-powered analytics. Direct competitor in the same data warehousing and analytics landscape"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Top alternative and major competitive threat currently raising $10B at $62B valuation. Databricks Data Intelligence Platform is the leading Teradata Vantage alternative, risking customer acquisition during Teradata's cloud migration cycles"
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "notes": "Major database and analytics competitor, one of the top three Teradata Vantage alternatives, leveraging Microsoft's enterprise relationships and Azure cloud infrastructure"
+    },
+    {
+      "name": "Google Cloud BigQuery",
+      "notes": "Cloud-native data warehouse competitor from Google, offering serverless analytics and integration with Google Cloud ecosystem"
+    },
+    {
+      "name": "SAP HANA Cloud",
+      "notes": "Enterprise competitor in cloud database management and in-memory analytics, with SAP being listed as one of Teradata's primary competitors alongside strong ERP market position"
+    },
+    {
+      "name": "IBM",
+      "notes": "Primary legacy competitor in enterprise data warehousing and analytics, competing with similar hybrid cloud approaches and enterprise customer base"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Major enterprise database and analytics competitor, one of Teradata's primary competitors with strong presence in on-premises and cloud data warehousing"
+    },
+    {
+      "name": "Starburst",
+      "notes": "Emerging competitor in distributed query engines and data lake analytics, offering modern alternative to traditional data warehousing approaches"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NYSE/TDC/competitors-and-alternatives/",
+    "https://csimarket.com/stocks/competitionSEG2.php?code=TDC",
+    "https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/teradata/alternatives",
+    "https://www.latterly.org/teradata-competitors/",
+    "https://seekingalpha.com/article/4746366-teradatas-tightrope-navigating-cloud-migration-as-competitor-builds-its-warchest",
+    "https://www.nasdaq.com/articles/snowflake-vs-teradata-which-data-cloud-stock-has-more-upside",
+    "https://www.g2.com/products/teradata-teradata-vantage/competitors/alternatives",
+    "https://www.cbinsights.com/company/teradata-corporation"
+  ]
+}

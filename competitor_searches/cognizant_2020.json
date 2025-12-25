@@ -1,0 +1,19 @@
+{
+  "company": "Cognizant Technology Solutions",
+  "ticker": "CTSH",
+  "year": 2020,
+  "search_query": "Cognizant competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Cognizant focused on digital transformation, cloud migration, and industry-specific solutions in 2020. The pandemic accelerated digital adoption and cloud migration, driving demand for transformation services.",
+  "competitors": [
+    {"name": "Accenture", "notes": "Market leader in consulting and digital transformation services"},
+    {"name": "Infosys", "notes": "Digital services and cloud transformation competitor"},
+    {"name": "TCS", "notes": "Largest Indian IT services with strong digital growth"},
+    {"name": "Wipro", "notes": "IT services with increased digital and cloud focus"},
+    {"name": "HCL Technologies", "notes": "Growing through cloud and digital engineering services"},
+    {"name": "IBM Consulting", "notes": "Hybrid cloud and AI transformation services"},
+    {"name": "Capgemini", "notes": "European IT services with strong digital practice"},
+    {"name": "Tech Mahindra", "notes": "Digital transformation and 5G services"}
+  ],
+  "sources": ["Gartner", "Industry analysis"]
+}

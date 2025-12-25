@@ -1,0 +1,19 @@
+{
+  "company": "Manhattan Associates, Inc.",
+  "ticker": "MANH",
+  "year": 2025,
+  "search_query": "Manhattan Associates competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Manhattan Associates provides supply chain and omnichannel solutions including warehouse management (WMS), transportation management (TMS), and point of sale systems. The company focuses on retail, wholesale, and logistics.",
+  "competitors": [
+    {"name": "Blue Yonder", "notes": "End-to-end supply chain solutions including WMS and TMS"},
+    {"name": "SAP Supply Chain", "notes": "Integrated supply chain management within SAP ecosystem"},
+    {"name": "Oracle Supply Chain Cloud", "notes": "Cloud-based SCM including warehouse and transportation management"},
+    {"name": "Körber", "notes": "Supply chain software including warehouse management systems"},
+    {"name": "Infor WMS", "notes": "Warehouse management solutions for various industries"},
+    {"name": "HighJump (Körber)", "notes": "Warehouse and transportation management systems"},
+    {"name": "Softeon", "notes": "WMS and fulfillment solutions for complex operations"},
+    {"name": "Deposco", "notes": "Cloud-native supply chain solutions for omnichannel fulfillment"}
+  ],
+  "sources": ["Gartner WMS Magic Quadrant", "Industry analysis"]
+}

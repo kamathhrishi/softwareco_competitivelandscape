@@ -1,0 +1,19 @@
+{
+  "company": "Freshworks Inc.",
+  "ticker": "FRSH",
+  "year": 2025,
+  "search_query": "Freshworks competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Freshworks provides cloud-based customer engagement software including Freshdesk (support), Freshsales (CRM), and Freshservice (ITSM). The company targets SMBs and mid-market with affordable, easy-to-use solutions.",
+  "competitors": [
+    {"name": "Zendesk", "notes": "Primary competitor in customer support and service desk software"},
+    {"name": "Salesforce Service Cloud", "notes": "Enterprise customer service platform with broader CRM ecosystem"},
+    {"name": "ServiceNow", "notes": "Enterprise IT service management competing with Freshservice"},
+    {"name": "HubSpot", "notes": "CRM and marketing platform competing across multiple product lines"},
+    {"name": "Zoho", "notes": "Business software suite with similar SMB focus and pricing"},
+    {"name": "Intercom", "notes": "Customer messaging platform competing in support and engagement"},
+    {"name": "Jira Service Management", "notes": "Atlassian's ITSM solution competing with Freshservice"},
+    {"name": "Monday.com", "notes": "Work management platform with CRM and service capabilities"}
+  ],
+  "sources": ["G2 Crowd", "Gartner"]
+}

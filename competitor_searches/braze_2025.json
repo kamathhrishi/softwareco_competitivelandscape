@@ -1,0 +1,19 @@
+{
+  "company": "Braze, Inc.",
+  "ticker": "BRZE",
+  "year": 2025,
+  "search_query": "Braze competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Braze is a leading customer engagement platform helping brands build lasting relationships through personalized cross-channel messaging. AI and real-time personalization are key differentiators in 2025.",
+  "competitors": [
+    {"name": "Salesforce Marketing Cloud", "notes": "Enterprise marketing automation platform with broad CRM integration capabilities"},
+    {"name": "Adobe Experience Cloud", "notes": "Comprehensive marketing and experience platform for enterprise customers"},
+    {"name": "Iterable", "notes": "Cross-channel marketing platform focused on growth marketing and personalization"},
+    {"name": "Klaviyo", "notes": "Marketing automation platform particularly strong in e-commerce with email and SMS"},
+    {"name": "Customer.io", "notes": "Automated messaging platform for targeted customer communication"},
+    {"name": "OneSignal", "notes": "Push notification and in-app messaging platform for mobile engagement"},
+    {"name": "Leanplum", "notes": "Mobile marketing automation platform for personalized messaging"},
+    {"name": "Airship", "notes": "Mobile app experience platform for push, SMS, and in-app messaging"}
+  ],
+  "sources": ["G2 Crowd", "Forrester Wave"]
+}

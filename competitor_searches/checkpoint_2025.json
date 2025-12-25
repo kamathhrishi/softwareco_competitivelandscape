@@ -1,0 +1,19 @@
+{
+  "company": "Check Point Software Technologies",
+  "ticker": "CHKP",
+  "year": 2025,
+  "search_query": "Check Point Software competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Check Point competes in the consolidated security platform market with its Infinity architecture. AI-powered threat prevention and unified security management are key differentiators as organizations simplify their security stack.",
+  "competitors": [
+    {"name": "Palo Alto Networks", "notes": "Industry leader with platformization strategy and AI-driven security"},
+    {"name": "Fortinet", "notes": "Major competitor with integrated Security Fabric across network and cloud"},
+    {"name": "CrowdStrike", "notes": "Leading cloud-native security platform expanding beyond endpoint"},
+    {"name": "Cisco", "notes": "Broad security portfolio with AI and cloud security integration"},
+    {"name": "Zscaler", "notes": "Cloud-native zero trust and SASE market leader"},
+    {"name": "Microsoft Security", "notes": "Expanding security business with Copilot for Security AI"},
+    {"name": "SentinelOne", "notes": "AI-powered security platform for endpoint, cloud, and identity"},
+    {"name": "Cloudflare", "notes": "Edge security and zero trust competing with traditional firewall vendors"}
+  ],
+  "sources": ["Gartner Magic Quadrant", "Forrester Wave"]
+}

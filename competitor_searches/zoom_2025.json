@@ -1,0 +1,54 @@
+{
+  "company": "Zoom Video Communications",
+  "ticker": "ZM",
+  "year": 2025,
+  "search_query": "Zoom Video Communications competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Zoom dominates the video conferencing market with a 55.91% market share, 300 million daily active users, and over 504,900 business customers. The company reported $4.665 billion in revenue for fiscal year 2025. Despite this dominance, competitors are gaining ground through enterprise integrations (Microsoft Teams), education focus (Google Meet), and niche offerings for specific use cases.",
+  "competitors": [
+    {
+      "name": "Microsoft Teams",
+      "notes": "Most significant competitor with over 320 million global users and approximately 32.29% market share. Used by 91% of Fortune 100 companies. Differentiates through seamless integration with Office applications and AI-powered features like automated meeting summaries."
+    },
+    {
+      "name": "Google Meet",
+      "notes": "Integrated with Google Workspace with over 300 million monthly users. Strong presence especially in education sector. Benefits from tight integration with Gmail, Calendar, and other Google productivity tools."
+    },
+    {
+      "name": "Cisco Webex",
+      "notes": "Long-standing enterprise solution maintaining strong foothold in government and large corporations, with market share ranging from 5% to 9.43%. Known for security and compliance features critical for regulated industries."
+    },
+    {
+      "name": "RingCentral",
+      "notes": "Holds 5.31% market share and is a notable competitor in the UCaaS (Unified Communications as a Service) space. Offers integrated communication solutions combining video conferencing with phone systems and messaging."
+    },
+    {
+      "name": "GoTo Meeting (LogMeIn)",
+      "notes": "Provides HD video communication for up to 250 participants with business chat messaging, unlimited cloud recording, and workflow integrations. Established player in the web conferencing market with enterprise features."
+    },
+    {
+      "name": "Dialpad Ai Meetings",
+      "notes": "Offers AI-powered workflow automation and free plans. Leverages AI technology for transcription, real-time insights, and automated follow-ups, appealing to businesses seeking intelligent meeting solutions."
+    },
+    {
+      "name": "Slack (Salesforce)",
+      "notes": "Offers huddles with video chat capabilities, multi-user screen sharing, and integrated chat threads for smaller, more casual meetings. Strong in team collaboration with video as a complementary feature."
+    },
+    {
+      "name": "TeamViewer",
+      "notes": "Competitor offering remote access and meeting capabilities. Known for screen sharing and remote support functionality beyond just video conferencing, serving IT support and technical assistance use cases."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/meeting-solutions/vendor/zoom/alternatives",
+    "https://getvoip.com/blog/zoom-alternatives/",
+    "https://www.techradar.com/best/zoom-alternatives",
+    "https://zapier.com/blog/best-zoom-alternatives/",
+    "https://www.zoom.com/en/blog/video-conference-software/",
+    "https://www.ringcentral.com/us/en/blog/zoom-alternatives/",
+    "https://riverside.fm/blog/zoom-alternative",
+    "https://pitchbook.com/profiles/company/56017-63",
+    "https://www.nearhub.us/blog/top-7-free-zoom-alternatives",
+    "https://matrixbcg.com/blogs/competitors/zoom"
+  ]
+}

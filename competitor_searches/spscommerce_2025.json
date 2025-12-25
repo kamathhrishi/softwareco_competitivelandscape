@@ -1,0 +1,51 @@
+{
+  "company": "SPS Commerce",
+  "ticker": "SPSC",
+  "year": 2025,
+  "search_query": "SPS Commerce SPSC competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "SPS Commerce is a provider of cloud-based supply chain management services for retailers, grocers, distributors, suppliers, and logistics firms. With $730M in trailing 12-month revenue as of September 2025, the company operates in the competitive retail-tech and EDI software markets, holding a 5.78% market share in retail-tech.",
+  "competitors": [
+    {
+      "name": "Manhattan Associates",
+      "notes": "Enterprise-level competitor in supply chain and commerce solutions, directly competing in cloud-based supply chain management services for retailers and distributors"
+    },
+    {
+      "name": "E2open",
+      "notes": "Major competitor in supply chain software and network solutions, offering cloud-based platform for supply chain visibility and collaboration"
+    },
+    {
+      "name": "Cleo Integration Cloud",
+      "notes": "Top EDI software alternative to SPS Commerce Fulfillment EDI, providing integration and data exchange solutions for supply chain partners"
+    },
+    {
+      "name": "TrueCommerce EDI",
+      "notes": "Direct competitor in EDI software market, offering electronic data interchange solutions for retail and supply chain connectivity"
+    },
+    {
+      "name": "Cegid",
+      "notes": "Leading retail-tech competitor with 21.44% market share in the category, significantly larger than SPS Commerce's 5.78% share"
+    },
+    {
+      "name": "MuleSoft Anypoint Platform",
+      "notes": "Alternative EDI and integration platform competitor, providing API-led connectivity and integration services for supply chain operations"
+    },
+    {
+      "name": "Boomi",
+      "notes": "Cloud-based integration platform competitor, offering similar EDI and supply chain integration capabilities"
+    },
+    {
+      "name": "Logicbroker",
+      "notes": "EDI and integration software competitor focused on connecting trading partners and enabling dropship and marketplace commerce"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/SPSC/competitors-and-alternatives/",
+    "https://www.gurufocus.com/stock/SPSC/analysis",
+    "https://6sense.com/tech/retail-tech/sps-commerce-market-share",
+    "https://csimarket.com/stocks/compet_glance.php?code=SPSC",
+    "https://www.capterra.com/p/155593/SPS-Commerce/alternatives/",
+    "https://www.g2.com/products/sps-commerce-fulfillment-edi/competitors/alternatives",
+    "https://www.selecthub.com/edi-software/sps-commerce-fulfillment/alternatives/"
+  ]
+}

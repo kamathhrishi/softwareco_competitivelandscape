@@ -1,0 +1,19 @@
+{
+  "company": "Samsara Inc.",
+  "ticker": "IOT",
+  "year": 2025,
+  "search_query": "Samsara competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Samsara provides IoT solutions for fleet management, equipment monitoring, and site visibility. The Connected Operations Cloud helps organizations with physical operations manage vehicles, assets, and industrial equipment.",
+  "competitors": [
+    {"name": "Verizon Connect", "notes": "Fleet management and telematics solutions from Verizon"},
+    {"name": "Geotab", "notes": "Telematics and fleet management platform with open ecosystem"},
+    {"name": "Omnitracs", "notes": "Fleet management and compliance solutions for trucking industry"},
+    {"name": "Motive (KeepTruckin)", "notes": "Fleet management platform with ELD, dashcams, and asset tracking"},
+    {"name": "Teletrac Navman", "notes": "GPS fleet tracking and management solutions"},
+    {"name": "Trimble Transportation", "notes": "Fleet management and transportation solutions from Trimble"},
+    {"name": "Platform Science", "notes": "Open fleet IoT platform for trucking and logistics"},
+    {"name": "Lytx", "notes": "Video telematics and fleet safety solutions"}
+  ],
+  "sources": ["Industry analysis", "Fleet management research"]
+}

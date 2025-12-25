@@ -1,0 +1,19 @@
+{
+  "company": "Check Point Software Technologies",
+  "ticker": "CHKP",
+  "year": 2010,
+  "search_query": "Check Point Software competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Check Point maintained leadership in enterprise security gateways while facing competition from next-generation firewall vendors. The company was expanding into data security and endpoint protection.",
+  "competitors": [
+    {"name": "Cisco ASA", "notes": "Enterprise firewall and VPN leader, major Check Point competitor"},
+    {"name": "Juniper Networks", "notes": "SRX series firewalls and security solutions"},
+    {"name": "Fortinet", "notes": "Growing UTM/NGFW competitor with FortiGate appliances"},
+    {"name": "Palo Alto Networks", "notes": "Emerging next-generation firewall vendor disrupting the market"},
+    {"name": "McAfee", "notes": "Enterprise security software including network security"},
+    {"name": "Symantec", "notes": "Endpoint and network security solutions"},
+    {"name": "SonicWall", "notes": "SMB-focused UTM appliances"},
+    {"name": "WatchGuard", "notes": "Unified threat management solutions"}
+  ],
+  "sources": ["Gartner Magic Quadrant", "Industry analysis"]
+}

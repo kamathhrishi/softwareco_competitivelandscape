@@ -1,0 +1,19 @@
+{
+  "company": "Check Point Software Technologies",
+  "ticker": "CHKP",
+  "year": 2005,
+  "search_query": "Check Point Software competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Check Point remained a leader in enterprise firewall and VPN solutions in 2005. The company faced increased competition from UTM appliances and Cisco's growing security portfolio.",
+  "competitors": [
+    {"name": "Cisco", "notes": "Major competitor with PIX and ASA firewalls, plus broader security portfolio"},
+    {"name": "Juniper Networks", "notes": "Acquired NetScreen, competing with firewall and VPN appliances"},
+    {"name": "Fortinet", "notes": "Emerging competitor with UTM appliances combining multiple security functions"},
+    {"name": "SonicWall", "notes": "UTM appliances targeting SMB and mid-market"},
+    {"name": "Symantec", "notes": "Enterprise security software and gateway solutions"},
+    {"name": "ISS (IBM)", "notes": "Intrusion prevention and security management"},
+    {"name": "WatchGuard", "notes": "UTM solutions for small and mid-sized businesses"},
+    {"name": "McAfee", "notes": "Security software expanding into network security"}
+  ],
+  "sources": ["Historical security industry analysis"]
+}

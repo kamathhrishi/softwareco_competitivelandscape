@@ -1,0 +1,50 @@
+{
+  "company": "HashiCorp",
+  "ticker": "HCP",
+  "year": 2025,
+  "search_query": "HashiCorp competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "HashiCorp provides multi-cloud infrastructure automation tools including Terraform (IaC), Vault (secrets management), and Nomad (container orchestration). In 2023, HashiCorp changed their license from MPL 2.0 to BuSL, leading many companies to seek alternative solutions. The company competes across infrastructure as code, privileged access management, and container orchestration markets.",
+  "competitors": [
+    {
+      "name": "Red Hat Ansible Automation Platform",
+      "notes": "Competes with Terraform in the infrastructure as code space. IT automation and configuration management solution for managing and automating infrastructure and complex workflows."
+    },
+    {
+      "name": "Puppet Enterprise",
+      "notes": "Direct Terraform competitor. IT automation and configuration management solution that enables users to manage and automate infrastructure and complex workflows."
+    },
+    {
+      "name": "AWS CloudFormation",
+      "notes": "Competes with Terraform for infrastructure as code capabilities, specifically for AWS-native deployments and cloud resource management."
+    },
+    {
+      "name": "CyberArk Privileged Access Manager",
+      "notes": "Competes with HashiCorp Vault in the privileged access management and secrets management space for enterprise security."
+    },
+    {
+      "name": "Akeyless Identity Security Platform",
+      "notes": "Direct competitor to HashiCorp Vault for secrets management and privileged access. Provides cloud-native security solutions for identity and access management."
+    },
+    {
+      "name": "Infisical",
+      "notes": "Open source competitor to Vault that emerged after HashiCorp's license change. Provides end-to-end secret management including encrypted version-controlled storage, dynamic secrets, integrations, and certificate lifecycle management."
+    },
+    {
+      "name": "Amazon ECS (Elastic Container Service)",
+      "notes": "Competes with HashiCorp Nomad for container orchestration and management, providing AWS-native container deployment capabilities."
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Broad competitor across HashiCorp's cloud management portfolio, offering Azure Automation and native cloud infrastructure tools that compete with Terraform and other HashiCorp products."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/privileged-access-management/vendor/hashicorp/alternatives",
+    "https://www.g2.com/products/hashicorp-terraform/competitors/alternatives",
+    "https://www.g2.com/products/hashicorp-vault/competitors/alternatives",
+    "https://technologycounter.com/products/hashicorp/alternatives",
+    "https://infisical.com/blog/hashicorp-vault-alternatives",
+    "https://www.trustradius.com/products/hashicorp-terraform/competitors"
+  ]
+}

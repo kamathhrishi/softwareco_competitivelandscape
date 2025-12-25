@@ -1,0 +1,19 @@
+{
+  "company": "Dynatrace, Inc.",
+  "ticker": "DT",
+  "year": 2025,
+  "search_query": "Dynatrace competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Dynatrace provides an AI-powered software intelligence platform for unified observability, application security, and business analytics. The company's Davis AI engine differentiates its automated analysis capabilities.",
+  "competitors": [
+    {"name": "Datadog", "notes": "Leading cloud monitoring and security platform with broad observability capabilities"},
+    {"name": "Splunk (Cisco)", "notes": "Data platform for security and observability, acquired by Cisco in 2024"},
+    {"name": "New Relic", "notes": "All-in-one observability platform for developers and operations teams"},
+    {"name": "Elastic Observability", "notes": "Open platform for search, observability, and security solutions"},
+    {"name": "AppDynamics (Cisco)", "notes": "Application performance monitoring and business observability"},
+    {"name": "Honeycomb", "notes": "Observability platform focused on debugging production systems"},
+    {"name": "Grafana Labs", "notes": "Open source observability stack with dashboards and monitoring"},
+    {"name": "ServiceNow ITOM", "notes": "IT operations management with AIOps and observability capabilities"}
+  ],
+  "sources": ["Gartner APM Magic Quadrant", "Forrester Wave"]
+}

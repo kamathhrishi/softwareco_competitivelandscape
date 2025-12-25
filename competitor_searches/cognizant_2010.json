@@ -1,0 +1,19 @@
+{
+  "company": "Cognizant Technology Solutions",
+  "ticker": "CTSH",
+  "year": 2010,
+  "search_query": "Cognizant competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Cognizant was the fastest-growing large IT services company in 2010, known for its unique two-in-a-box delivery model combining US client engagement with India-based development. The company expanded into consulting and digital services.",
+  "competitors": [
+    {"name": "Infosys", "notes": "Leading Indian IT services competitor with consulting expansion"},
+    {"name": "TCS", "notes": "Largest Indian IT services company by revenue and headcount"},
+    {"name": "Wipro", "notes": "Indian IT services and BPO competitor"},
+    {"name": "Accenture", "notes": "Global leader in consulting and technology services"},
+    {"name": "IBM Global Services", "notes": "Enterprise IT services with strong infrastructure business"},
+    {"name": "HCL Technologies", "notes": "Growing Indian IT services competitor"},
+    {"name": "Capgemini", "notes": "European IT services with growing US presence"},
+    {"name": "iGate", "notes": "IT services competitor later acquired by Capgemini"}
+  ],
+  "sources": ["Industry analysis", "Gartner research"]
+}

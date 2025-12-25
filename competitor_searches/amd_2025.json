@@ -1,0 +1,50 @@
+{
+  "company": "Advanced Micro Devices",
+  "ticker": "AMD",
+  "year": 2025,
+  "search_query": "AMD competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "AMD continues to compete in the CPU, GPU, and AI chip markets. In 2025, AMD has gained significant ground against Intel in the CPU market, winning in five categories compared to Intel's three. The company is also expanding into the AI chip market, competing with NVIDIA's dominant position while targeting $2 billion in AI chip sales.",
+  "competitors": [
+    {
+      "name": "Intel",
+      "notes": "AMD's most significant and long-standing competitor since 1981 in the x86 microprocessor market. Competes in personal computer and server markets, though AMD has been gaining market share with competitive performance in gaming and data centers."
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "GPU market leader with a $5 trillion valuation as of late October 2025. Dominates in gaming, AI, and data center markets. NVIDIA has maintained GPU market leadership for over two decades and is also working on CPU designs that could compete with AMD."
+    },
+    {
+      "name": "TSMC (Taiwan Semiconductor Manufacturing Company)",
+      "notes": "Leading semiconductor manufacturer that produces chips for AMD and competitors. While also a manufacturing partner, TSMC competes in foundry business and invests heavily in R&D to stay at the forefront of manufacturing technology."
+    },
+    {
+      "name": "Samsung Electronics",
+      "notes": "Competes with TSMC and Intel in the foundry business line and manufactures chips for AMD. Also develops its own semiconductor solutions competing across multiple markets."
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Major competitor in mobile processors and emerging markets. Competes in the semiconductor space with specialized chips for communications and mobile devices."
+    },
+    {
+      "name": "Broadcom",
+      "notes": "Semiconductor and infrastructure software company, one of the world's largest chip manufacturers specializing in communications and networking chips. Partner with OpenAI for AI silicon development."
+    },
+    {
+      "name": "Google (Tensor processors)",
+      "notes": "Designing custom AI silicon with Tensor processors, competing in the AI chip market where AMD is expanding its presence."
+    },
+    {
+      "name": "Amazon, Apple, Meta",
+      "notes": "Tech giants designing their own AI silicon, creating competition in the AI chip market where AMD is targeting growth and market share expansion."
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/AMD/competitors-and-alternatives/",
+    "https://www.tomshardware.com/features/amd-vs-intel-cpus",
+    "https://www.marketing91.com/amd-competitors/",
+    "https://www.latterly.org/amd-competitors/",
+    "https://www.newcomer.co/p/amds-rise-signals-fresh-competition",
+    "https://www.bloomberg.com/news/articles/2025-11-05/nvidia-s-hopper-blackwell-ai-chips-are-market-leaders-can-intel-amd-compete"
+  ]
+}

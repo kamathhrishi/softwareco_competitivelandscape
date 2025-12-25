@@ -1,0 +1,50 @@
+{
+  "company": "JFrog",
+  "ticker": "FROG",
+  "year": 2025,
+  "search_query": "JFrog competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "JFrog provides a universal DevOps platform centered around Artifactory, a universal artifact repository manager that stores and manages binary artifacts throughout the software development lifecycle. The company competes in the DevOps platforms, artifact repository management, and software supply chain security markets. JFrog faces competition from both specialized artifact repository tools and broader DevOps platforms, with pricing and complexity being common challenges for smaller organizations.",
+  "competitors": [
+    {
+      "name": "Sonatype Nexus",
+      "notes": "Primary competitor to JFrog Artifactory. Open source repository that supports many artifact formats including Docker, Java, and npm. Can publish and retrieve versioned apps and their dependencies in CI/CD pipelines."
+    },
+    {
+      "name": "GitHub",
+      "notes": "Competes with JFrog across DevOps platforms and artifact management. GitHub Packages provides native package publishing and consumption within repositories, integrated with GitHub Actions for CI/CD workflows."
+    },
+    {
+      "name": "GitLab",
+      "notes": "Full DevOps platform competitor offering integrated git repository management, code reviews, issue tracking, CI/CD, and package registry capabilities that compete with JFrog's platform approach."
+    },
+    {
+      "name": "Jenkins",
+      "notes": "Competes in the CI/CD and DevOps automation space. While primarily a CI/CD server, Jenkins integrates with artifact repositories and competes for DevOps workflow automation."
+    },
+    {
+      "name": "Bitbucket",
+      "notes": "Competes with JFrog in code repository and DevOps workflows. Offers built-in CI/CD capabilities and artifact management with superior Jira integration for Atlassian ecosystem users."
+    },
+    {
+      "name": "CloudBees",
+      "notes": "Enterprise DevOps platform competitor providing continuous integration, delivery, and software supply chain management solutions that overlap with JFrog's offerings."
+    },
+    {
+      "name": "Azure DevOps",
+      "notes": "Microsoft's comprehensive DevOps platform competing with JFrog. Provides Azure Artifacts for package management alongside integrated CI/CD, repositories, and project management tools."
+    },
+    {
+      "name": "Balena",
+      "notes": "Competes with JFrog Connect in the IoT device management space. Provides centralized container management platform for IoT devices and edge computing deployments."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/application-security-testing/vendor/jfrog/product/jfrog-software-supply-chain-platform/alternatives",
+    "https://www.g2.com/products/jfrog-2024-03-28/competitors/alternatives",
+    "https://www.trustradius.com/products/jfrog-artifactory/competitors",
+    "https://codefresh.io/learn/jfrog-artifactory/top-9-artifactory-alternatives-in-2025/",
+    "https://www.saasworthy.com/product-alternative/27417/jfrog-artifactory",
+    "https://stackshare.io/jfrog-artifactory/alternatives"
+  ]
+}

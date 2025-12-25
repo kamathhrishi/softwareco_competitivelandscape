@@ -1,0 +1,50 @@
+{
+  "company": "Intel Corporation",
+  "ticker": "INTC",
+  "year": 2025,
+  "search_query": "Intel competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Intel faces significant challenges in 2025 after years of missteps caused its products to lose edge to competitors and its manufacturing segment to fall behind TSMC. However, 2025 brought positive developments with a new CEO, massive investments from the US government, NVIDIA, and SoftBank, pushing the stock over 80% for the year. Intel continues losing CPU market share to AMD and ARM while trying to build its foundry business.",
+  "competitors": [
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Leading competitor in CPUs, GPUs, and semiconductor components for computing, gaming, and data centers. AMD has gained significant market share with Ryzen processors offering competitive performance at lower costs. AMD wins the 2025 CPU face-off with victories in five categories compared to Intel's three, with phenomenal gaming performance gains."
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Leading supplier of graphics processing units (GPUs) for gaming and artificial intelligence applications. Dominates the AI chip market and is also a potential customer for Intel's foundry business while competing in the products segment."
+    },
+    {
+      "name": "TSMC (Taiwan Semiconductor Manufacturing Co.)",
+      "notes": "World's largest semiconductor foundry that has surpassed Intel in manufacturing capabilities. Intel's biggest potential foundry customers have longstanding relationships with TSMC, making competition in the foundry business particularly challenging."
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Known for mobile phone processors and wireless technologies. A major competitor in the mobile and emerging processor markets, and also a potential customer for Intel's foundry business while maintaining strong ties with TSMC."
+    },
+    {
+      "name": "ARM (Advanced RISC Machine)",
+      "notes": "UK-based company focused on designing energy-efficient processors. Intel's chips have been losing market share to ARM-based designs, particularly in mobile and emerging computing segments."
+    },
+    {
+      "name": "Samsung",
+      "notes": "Major player in consumer electronics and semiconductor industries. Competes in memory, manufacturing, and various chip markets where Intel operates."
+    },
+    {
+      "name": "Micron Technology",
+      "notes": "Provider of memory and storage solutions competing with Intel in the memory and storage semiconductor markets."
+    },
+    {
+      "name": "Broadcom",
+      "notes": "Offers unique products, services, and technologies competing with Intel across various semiconductor segments including networking and communications chips."
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/INTC/competitors-and-alternatives/",
+    "https://www.tomshardware.com/features/amd-vs-intel-cpus",
+    "https://businessmodelanalyst.com/intel-competitors-alternatives/",
+    "https://finance.yahoo.com/news/intel-stock-soared-in-2025-but-the-chipmaker-still-has-a-long-road-ahead-140004121.html",
+    "https://www.rankred.com/top-intel-competitors/",
+    "https://www.benzinga.com/insights/news/25/12/49562296/comparing-intel-with-industry-competitors-in-semiconductors-amp-semiconductor-equipment-industry"
+  ]
+}

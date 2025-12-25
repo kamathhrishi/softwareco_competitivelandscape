@@ -1,0 +1,19 @@
+{
+  "company": "Cognizant Technology Solutions",
+  "ticker": "CTSH",
+  "year": 2000,
+  "search_query": "Cognizant competitors 2000",
+  "search_date": "2024-12-24",
+  "context": "Cognizant went public in 1998 and was a fast-growing IT services company in 2000. The company leveraged its India-based delivery model to provide application development and maintenance services during the Y2K and dot-com boom.",
+  "competitors": [
+    {"name": "Infosys", "notes": "Indian IT services competitor with similar offshore delivery model"},
+    {"name": "Wipro", "notes": "Indian IT services company competing in application development"},
+    {"name": "Tata Consultancy Services (TCS)", "notes": "Largest Indian IT services firm, major competitor"},
+    {"name": "Accenture", "notes": "Global consulting and technology services leader"},
+    {"name": "IBM Global Services", "notes": "Major IT services competitor with global presence"},
+    {"name": "EDS", "notes": "IT services and outsourcing company, later acquired by HP"},
+    {"name": "Computer Sciences Corporation (CSC)", "notes": "IT services and consulting competitor"},
+    {"name": "Satyam Computer Services", "notes": "Indian IT services competitor, later became Tech Mahindra"}
+  ],
+  "sources": ["Historical IT services industry analysis"]
+}

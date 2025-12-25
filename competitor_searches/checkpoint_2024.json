@@ -1,0 +1,19 @@
+{
+  "company": "Check Point Software Technologies",
+  "ticker": "CHKP",
+  "year": 2024,
+  "search_query": "Check Point Software competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Check Point continues to compete in network security while expanding cloud and AI-powered security. The company's Infinity platform provides consolidated security across all vectors with ThreatCloud AI.",
+  "competitors": [
+    {"name": "Palo Alto Networks", "notes": "Market leader with comprehensive security platform and Cortex AI"},
+    {"name": "Fortinet", "notes": "Major competitor with Security Fabric and FortiGate NGFW"},
+    {"name": "Cisco", "notes": "Security business with SecureX and cloud security solutions"},
+    {"name": "CrowdStrike", "notes": "Leading endpoint and cloud security platform"},
+    {"name": "Zscaler", "notes": "Cloud-native zero trust and SASE platform"},
+    {"name": "Microsoft", "notes": "Growing security stack with Defender and Sentinel"},
+    {"name": "SentinelOne", "notes": "AI-powered endpoint and cloud security platform"},
+    {"name": "Cloudflare", "notes": "Network security and zero trust competing in SASE"}
+  ],
+  "sources": ["Gartner Magic Quadrant", "Forrester Wave"]
+}

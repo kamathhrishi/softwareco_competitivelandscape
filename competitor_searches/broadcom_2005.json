@@ -1,0 +1,19 @@
+{
+  "company": "Broadcom Inc.",
+  "ticker": "AVGO",
+  "year": 2005,
+  "search_query": "Broadcom competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Broadcom Corporation was a leading fabless semiconductor company in 2005, having expanded from broadband into wireless, networking, and Bluetooth chips. The company was competing in the growing mobile device and Wi-Fi markets.",
+  "competitors": [
+    {"name": "Qualcomm", "notes": "Wireless communications chip leader, major competitor in mobile technologies"},
+    {"name": "Marvell Technology", "notes": "Fabless semiconductor competitor in storage and networking"},
+    {"name": "Intel", "notes": "Major chipmaker with wireless and networking products"},
+    {"name": "Texas Instruments", "notes": "Diversified semiconductor company competing in wireless and DSP"},
+    {"name": "Atheros Communications", "notes": "Wireless networking chip company, later acquired by Qualcomm"},
+    {"name": "Agere Systems", "notes": "Semiconductor company in wireless and storage, later merged with LSI"},
+    {"name": "Silicon Laboratories", "notes": "Mixed-signal chip company in communications markets"},
+    {"name": "Conexant", "notes": "Broadband and communications semiconductor provider"}
+  ],
+  "sources": ["Historical semiconductor industry analysis"]
+}

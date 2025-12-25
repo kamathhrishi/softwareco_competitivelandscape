@@ -1,0 +1,19 @@
+{
+  "company": "Sprinklr, Inc.",
+  "ticker": "CXM",
+  "year": 2025,
+  "search_query": "Sprinklr competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Sprinklr provides a unified customer experience management platform covering social media, customer care, marketing, and research. The AI-powered platform helps enterprises manage customer interactions at scale.",
+  "competitors": [
+    {"name": "Salesforce Marketing Cloud", "notes": "Enterprise marketing automation with social and customer service capabilities"},
+    {"name": "Sprout Social", "notes": "Social media management and analytics platform"},
+    {"name": "Hootsuite", "notes": "Social media management platform for enterprises and agencies"},
+    {"name": "Khoros (Spredfast + Lithium)", "notes": "Social media and community management platform"},
+    {"name": "Qualtrics", "notes": "Experience management competing in customer and brand research"},
+    {"name": "Medallia", "notes": "Customer and employee experience platform with feedback management"},
+    {"name": "NICE CXone", "notes": "Contact center platform competing in customer care"},
+    {"name": "Emplifi (Socialbakers)", "notes": "Social media marketing and commerce platform"}
+  ],
+  "sources": ["Gartner", "Forrester Wave"]
+}

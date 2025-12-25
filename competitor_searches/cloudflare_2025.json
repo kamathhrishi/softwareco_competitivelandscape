@@ -1,0 +1,19 @@
+{
+  "company": "Cloudflare, Inc.",
+  "ticker": "NET",
+  "year": 2025,
+  "search_query": "Cloudflare competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Cloudflare has expanded beyond CDN and DDoS protection to become a comprehensive cloud platform with edge computing, zero trust security, and developer tools. The company's global network spans 300+ cities.",
+  "competitors": [
+    {"name": "Akamai Technologies", "notes": "Largest CDN provider with comprehensive edge and security solutions"},
+    {"name": "Fastly", "notes": "Edge cloud platform focused on real-time content delivery and compute"},
+    {"name": "Amazon CloudFront", "notes": "AWS CDN service integrated with the broader AWS ecosystem"},
+    {"name": "Microsoft Azure CDN", "notes": "Microsoft's content delivery network integrated with Azure"},
+    {"name": "Zscaler", "notes": "Zero trust security platform competing in cloud security space"},
+    {"name": "Palo Alto Networks Prisma", "notes": "Cloud security platform with SASE and zero trust offerings"},
+    {"name": "Imperva", "notes": "Application and data security including CDN and DDoS protection"},
+    {"name": "F5 Networks", "notes": "Application delivery and security services including CDN"}
+  ],
+  "sources": ["Gartner CDN Magic Quadrant", "Forrester Wave"]
+}

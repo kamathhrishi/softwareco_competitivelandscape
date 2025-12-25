@@ -1,0 +1,52 @@
+{
+  "company": "The Trade Desk",
+  "ticker": "TTD",
+  "year": 2025,
+  "search_query": "The Trade Desk TTD competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "The Trade Desk is a leading independent demand-side platform (DSP) focused on the open internet, holding 6.77% market share in the video ad platform category. Operating in the digital advertising market expected to grow at 15.4% CAGR from 2025 to 2030, TTD faces intensifying competition from both walled gardens (Meta, Apple, Google, Amazon) that control inventory and first-party data, and other independent DSP platforms.",
+  "competitors": [
+    {
+      "name": "Google DV360 (Display & Video 360)",
+      "notes": "Primary DSP competitor and walled garden powerhouse, deeply integrated with Google's services including YouTube and Search. Co-dominates the DSP landscape alongside The Trade Desk but operates within Google's ecosystem"
+    },
+    {
+      "name": "Amazon Advertising",
+      "notes": "Major walled garden competitor with strong growth, delivering $17.6 billion in Q3 2025 revenues (up 22% YoY). Leverages first-party e-commerce data for highly targeted advertising, creating growing competitive pressure especially in CTV and retail media"
+    },
+    {
+      "name": "Meta Platforms",
+      "notes": "Dominant walled garden competitor controlling Facebook and Instagram inventory with extensive first-party user data enabling highly targeted ad campaigns across social media properties"
+    },
+    {
+      "name": "StackAdapt",
+      "notes": "Top independent alternative to The Trade Desk, offering multi-channel programmatic advertising platform competing in the open internet DSP space"
+    },
+    {
+      "name": "Viant Technology",
+      "notes": "Cross-channel advertising software competitor and DSP platform alternative, focusing on people-based advertising and identity solutions"
+    },
+    {
+      "name": "AdRoll",
+      "notes": "Alternative DSP platform competing in cross-channel advertising, particularly strong in retargeting and e-commerce advertising solutions"
+    },
+    {
+      "name": "LiveRamp Data Collaboration Platform",
+      "notes": "Competitor in data connectivity and addressability for advertising, enabling identity resolution and data collaboration for targeted advertising campaigns"
+    },
+    {
+      "name": "Mediaocean",
+      "notes": "Advertising software competitor providing ad tech platform and workflow solutions, competing in campaign management and programmatic buying"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/TTD/competitors-and-alternatives/",
+    "https://www.trustradius.com/products/the-trade-desk/competitors",
+    "https://www.g2.com/products/the-trade-desk/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/ad-tech-platforms/vendor/the-trade-desk/product/the-trade-desk/alternatives",
+    "https://improvado.io/blog/dv360-vs-the-trade-desk",
+    "https://finance.yahoo.com/news/ttd-vs-amzn-ad-tech-180800579.html",
+    "https://6sense.com/tech/video-ad-platform/the-trade-desk-market-share",
+    "https://tracxn.com/d/companies/the-trade-desk/__NO68rlFZ3HkX9PHbfLVRBsnFK0tWFRNqcjMtJWp_PxY"
+  ]
+}

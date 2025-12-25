@@ -1,0 +1,51 @@
+{
+  "company": "Appian Corporation",
+  "ticker": "APPN",
+  "year": 2025,
+  "search_query": "Appian competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Appian operates in the enterprise low-code/no-code automation and business process management market. While Appian remains a significant player in enterprise process automation, 2025's market demands greater agility and cost-effectiveness. Many businesses seek alternatives due to Appian's high pricing (positioned as enterprise-grade with prohibitively high costs for SMBs), steep learning curve requiring technical expertise, and limited UI/UX customization compared to modern low-code platforms.",
+  "competitors": [
+    {
+      "name": "Pega Platform",
+      "notes": "Enterprise-grade automation platform known for AI-powered decision-making capabilities and robust workflow automation. Designed for large organizations with advanced features including robotic process automation (RPA) and customer engagement tools. One of the top Appian alternatives."
+    },
+    {
+      "name": "OutSystems",
+      "notes": "Handles enterprise-scale applications well with AI development tools and broad integration support. Best for large enterprises needing advanced features, though pricing and complexity are geared toward large teams only."
+    },
+    {
+      "name": "Mendix",
+      "notes": "Low-code platform-as-a-service with mobile and social extensions, acquired by Siemens in August 2018. Targets mid-sized and large companies building customer-facing mobile apps and complex B2B platforms."
+    },
+    {
+      "name": "UiPath Agentic Automation",
+      "notes": "One of the best Appian alternatives, focusing on robotic process automation (RPA) and intelligent automation for enterprise workflows."
+    },
+    {
+      "name": "Creatio",
+      "notes": "Stands out with its unified no-code platform empowering users to automate workflows and create applications with maximum freedom. Features innovative composable architecture allowing non-technical users and citizen developers to create applications without coding expertise, shortening development from weeks/months to hours."
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "notes": "Similar app to Appian offering workflow automation and low-code development integrated with Microsoft ecosystem, providing cost-effective alternative for organizations already using Microsoft products."
+    },
+    {
+      "name": "Nintex",
+      "notes": "Workflow automation platform competing with Appian in business process management, offering easier-to-use solutions for mid-market companies."
+    },
+    {
+      "name": "Automation Anywhere",
+      "notes": "One of the top Appian alternatives, specializing in intelligent automation and RPA solutions for enterprise process automation."
+    }
+  ],
+  "sources": [
+    "https://www.blaze.tech/post/appian-competitors",
+    "https://www.appsmith.com/blog/appian-competitors",
+    "https://www.gartner.com/reviews/market/robotic-process-automation/vendor/appian/alternatives",
+    "https://www.flowforma.com/blog/appian-alternative",
+    "https://www.cflowapps.com/appian-alternatives/",
+    "https://www.g2.com/products/appian/competitors/alternatives",
+    "https://www.creatio.com/glossary/appian-alternatives"
+  ]
+}

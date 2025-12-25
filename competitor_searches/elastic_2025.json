@@ -1,0 +1,19 @@
+{
+  "company": "Elastic N.V.",
+  "ticker": "ESTC",
+  "year": 2025,
+  "search_query": "Elastic competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Elastic provides the Elastic Stack (Elasticsearch, Kibana, Beats, Logstash) for search, observability, and security use cases. The company competes across enterprise search, SIEM, and observability markets.",
+  "competitors": [
+    {"name": "Splunk (Cisco)", "notes": "Major competitor in log management, SIEM, and observability"},
+    {"name": "Datadog", "notes": "Cloud-native monitoring platform competing in observability"},
+    {"name": "OpenSearch (AWS)", "notes": "AWS-backed fork of Elasticsearch created after licensing changes"},
+    {"name": "Sumo Logic", "notes": "Cloud-native machine data analytics for logs and metrics"},
+    {"name": "Dynatrace", "notes": "Application performance and observability platform"},
+    {"name": "CrowdStrike Falcon LogScale", "notes": "Log management solution from security vendor"},
+    {"name": "Algolia", "notes": "Search and discovery API competing in enterprise search"},
+    {"name": "Microsoft Sentinel", "notes": "Cloud-native SIEM competing in security analytics"}
+  ],
+  "sources": ["Gartner", "G2 Crowd"]
+}

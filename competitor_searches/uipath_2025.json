@@ -1,0 +1,54 @@
+{
+  "company": "UiPath",
+  "ticker": "PATH",
+  "year": 2025,
+  "search_query": "UiPath competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "UiPath operates in the RPA (Robotic Process Automation) and Business Automation Platform market, combining traditional RPA with generative AI and AI agents. The competitive landscape includes enterprise-grade platforms, low-code alternatives, and Microsoft's Power Automate. Organizations consider alternatives due to UiPath's high pricing ($420/month for Pro Plan) and complexity requiring specialized technical expertise.",
+  "competitors": [
+    {
+      "name": "Automation Anywhere",
+      "notes": "Recognized as the best overall UiPath alternative. Fully cloud-native solution built for enterprise-scale automation, combining traditional RPA with generative AI, AI agents, and tools for process discovery and orchestration. Known for cost-effective setup compared to UiPath's higher initial investment."
+    },
+    {
+      "name": "SS&C Blue Prism",
+      "notes": "Designed for IT-led deployments with tight controls for governance, compliance, and system orchestration. Organizations with deep IT alignment and legacy infrastructure often prefer Blue Prism. Visual interface helps manage complex workflows across multiple systems."
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "notes": "Natural alternative for organizations already using Microsoft 365 or Azure. Offers low-code automation with native integration into SharePoint, Outlook, Excel, and Teams. Generally lower setup expenses compared to UiPath Platform's higher costs."
+    },
+    {
+      "name": "Appian",
+      "notes": "Leading low-code software development platform that enables organizations to rapidly develop powerful and unique applications. Applications created on Appian's platform help companies drive digital transformation and competitive differentiation."
+    },
+    {
+      "name": "Pega Robotic Process Automation",
+      "notes": "Enterprise-grade RPA solution from Pegasystems, offering robotic automation integrated with case management and business process management capabilities. Suitable for organizations requiring comprehensive process automation."
+    },
+    {
+      "name": "Zoho RPA",
+      "notes": "Straightforward, low-code RPA tool that doesn't require heavy IT involvement. Designed to automate repetitive tasks and UI interactions across web and desktop applications without needing advanced technical skills, making it ideal for SMBs."
+    },
+    {
+      "name": "OutSystems",
+      "notes": "AI-powered low-code platform that helps build enterprise-grade, mission-critical software in a fraction of the time. Uses low-code and GenAI to accelerate software development for organizations seeking faster deployment."
+    },
+    {
+      "name": "WorkFusion",
+      "notes": "RPA platform that combines automation with AI and machine learning capabilities. Notable alternative for organizations seeking intelligent automation solutions beyond basic task automation."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/robotic-process-automation/vendor/uipath/product/uipath-agentic-automation/alternatives",
+    "https://www.zluri.com/blog/uipath-alternatives",
+    "https://www.marketbeat.com/stocks/NYSE/PATH/competitors-and-alternatives/",
+    "https://www.g2.com/products/uipath-agentic-automation/competitors/alternatives",
+    "https://workdone.ai/uipath-alternatives-key-limitations-top-competitors-for-2025/",
+    "https://www.getmagical.com/blog/best-uipath-alternatives",
+    "https://www.gartner.com/reviews/market/robotic-process-automation/vendor/uipath/product/uipath-business-automation-platform/alternatives",
+    "https://www.peerspot.com/products/uipath-alternatives-and-competitors",
+    "https://www.multimodal.dev/post/top-11-uipath-alternatives",
+    "https://www.zoho.com/rpa/alternatives/uipath.html"
+  ]
+}
