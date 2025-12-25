@@ -1,0 +1,16 @@
+{
+  "company": "Roku, Inc.",
+  "ticker": "ROKU",
+  "year": 2015,
+  "search_query": "Roku competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "Streaming sticks became dominant form factor. Chromecast at $35 was cheapest. Fire TV Stick with voice at $50 matched Roku Streaming Stick price. Fire TV had 8GB storage vs Roku's 256MB.",
+  "competitors": [
+    {"name": "Amazon Fire TV Stick", "notes": "$40-50, 8GB storage, Alexa voice remote option"},
+    {"name": "Google Chromecast", "notes": "New 2015 model at $35, dual-band WiFi, phone casting"},
+    {"name": "Apple TV", "notes": "Premium option with App Store and Siri"},
+    {"name": "Nvidia Shield", "notes": "Android TV gaming-focused device"},
+    {"name": "Intel Compute Stick", "notes": "Full Windows PC in stick form"}
+  ],
+  "sources": ["Streaming device industry analysis"]
+}

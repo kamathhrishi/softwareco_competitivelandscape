@@ -1,0 +1,18 @@
+{
+  "company": "Wayfair Inc.",
+  "ticker": "W",
+  "year": 2015,
+  "search_query": "Wayfair competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "Wayfair went public in 2014. Company established as major online furniture destination. Competed with both traditional retailers and e-commerce giants.",
+  "competitors": [
+    {"name": "Amazon", "notes": "Growing home and furniture marketplace"},
+    {"name": "Overstock", "notes": "Long-time online furniture competitor"},
+    {"name": "IKEA", "notes": "Global furniture leader expanding online"},
+    {"name": "Williams-Sonoma", "notes": "Pottery Barn, West Elm with strong online presence"},
+    {"name": "Home Depot", "notes": "Home improvement retailer with decor"},
+    {"name": "Walmart", "notes": "Aggressive e-commerce expansion"},
+    {"name": "Target", "notes": "Home decor focus, growing online"}
+  ],
+  "sources": ["E-commerce and furniture retail analysis"]
+}

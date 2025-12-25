@@ -1,0 +1,19 @@
+{
+  "company": "eBay Inc.",
+  "ticker": "EBAY",
+  "year": 2020,
+  "search_query": "eBay competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "eBay benefited from COVID e-commerce surge while focusing on managed payments and advertising. Sold StubHub and Classifieds businesses.",
+  "competitors": [
+    {"name": "Amazon", "notes": "Dominant e-commerce platform"},
+    {"name": "Etsy", "notes": "Handmade and vintage marketplace"},
+    {"name": "Mercari", "notes": "Mobile-first resale marketplace"},
+    {"name": "Poshmark", "notes": "Social commerce for fashion"},
+    {"name": "Facebook Marketplace", "notes": "Local buying and selling"},
+    {"name": "Walmart", "notes": "E-commerce expansion"},
+    {"name": "Shopify", "notes": "Enabling merchant competition"},
+    {"name": "ThredUp", "notes": "Online consignment"}
+  ],
+  "sources": ["E-commerce industry analysis"]
+}

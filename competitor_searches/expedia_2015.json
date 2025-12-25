@@ -1,0 +1,19 @@
+{
+  "company": "Expedia Group, Inc.",
+  "ticker": "EXPE",
+  "year": 2015,
+  "search_query": "Expedia competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "Expedia acquired Orbitz and Travelocity, consolidating OTA market. Competed with Priceline Group for global travel booking dominance.",
+  "competitors": [
+    {"name": "Priceline Group", "notes": "Booking.com parent, main rival"},
+    {"name": "TripAdvisor", "notes": "Reviews expanding to booking"},
+    {"name": "Google", "notes": "Travel search and Hotel Finder"},
+    {"name": "Airbnb", "notes": "Alternative accommodations growth"},
+    {"name": "Ctrip", "notes": "Chinese travel giant"},
+    {"name": "Kayak", "notes": "Metasearch (Priceline owned)"},
+    {"name": "Trivago", "notes": "Hotel metasearch (Expedia stake)"},
+    {"name": "HRS", "notes": "European hotel booking"}
+  ],
+  "sources": ["Travel industry analysis"]
+}

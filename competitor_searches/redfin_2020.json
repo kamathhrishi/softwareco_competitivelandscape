@@ -1,0 +1,18 @@
+{
+  "company": "Redfin Corporation",
+  "ticker": "RDFN",
+  "year": 2020,
+  "search_query": "Redfin competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Redfin expanded into iBuying with RedfinNow, representing 25%+ of 2020 revenue. Hot housing market during pandemic. Competed with Opendoor and Zillow Offers in instant buying space.",
+  "competitors": [
+    {"name": "Zillow", "notes": "Zillow Offers iBuying, dominant real estate portal"},
+    {"name": "Opendoor", "notes": "iBuying market leader, 9,193 homes sold in 2020"},
+    {"name": "Offerpad", "notes": "Second largest iBuyer competitor"},
+    {"name": "Realtor.com", "notes": "Major listing portal"},
+    {"name": "Compass", "notes": "Well-funded tech-enabled brokerage"},
+    {"name": "Keller Williams", "notes": "Largest brokerage, exploring iBuying"},
+    {"name": "Knock", "notes": "Home trade-in platform"}
+  ],
+  "sources": ["Real estate technology analysis", "iBuyer industry analysis"]
+}

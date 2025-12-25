@@ -1,0 +1,18 @@
+{
+  "company": "Unity Software Inc.",
+  "ticker": "U",
+  "year": 2005,
+  "search_query": "Unity Technologies competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Unity was founded and released at Apple's WWDC 2005 as a Mac OS X game engine. Early focus on making game development accessible. Unreal and CryEngine dominated AAA development.",
+  "competitors": [
+    {"name": "Unreal Engine", "notes": "Epic Games' industry-leading engine since 1998"},
+    {"name": "CryEngine", "notes": "Crytek's engine known for graphics, powered Far Cry"},
+    {"name": "id Tech", "notes": "id Software's engine powering Doom and Quake"},
+    {"name": "Source Engine", "notes": "Valve's engine for Half-Life 2"},
+    {"name": "RenderWare", "notes": "Middleware for game development"},
+    {"name": "Torque Game Engine", "notes": "GarageGames' indie-focused engine"},
+    {"name": "Custom engines", "notes": "Major studios built proprietary engines"}
+  ],
+  "sources": ["Game engine industry analysis"]
+}

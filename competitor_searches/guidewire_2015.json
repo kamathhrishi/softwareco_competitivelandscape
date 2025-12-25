@@ -1,0 +1,18 @@
+{
+  "company": "Guidewire Software, Inc.",
+  "ticker": "GWRE",
+  "year": 2015,
+  "search_query": "Guidewire competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "Guidewire became leading P&C insurance platform. InsurTech movement beginning. Cloud deployment options emerging. Company had established strong market position.",
+  "competitors": [
+    {"name": "Duck Creek Technologies", "notes": "Core insurance platform competitor"},
+    {"name": "Majesco", "notes": "Cloud insurance platform"},
+    {"name": "Oracle Insurance", "notes": "Enterprise insurance solutions"},
+    {"name": "SAP Insurance", "notes": "Enterprise software for insurers"},
+    {"name": "Sapiens", "notes": "Insurance software provider"},
+    {"name": "Insurity", "notes": "Insurance software and analytics"},
+    {"name": "EIS Group", "notes": "Digital insurance platform"}
+  ],
+  "sources": ["Insurance technology analysis"]
+}

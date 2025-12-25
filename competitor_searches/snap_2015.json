@@ -1,0 +1,18 @@
+{
+  "company": "Snap Inc.",
+  "ticker": "SNAP",
+  "year": 2015,
+  "search_query": "Snapchat competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "Snapchat was dominant ephemeral messaging app among young users. Stories feature launched. Company reportedly rejected $3B acquisition offer from Facebook. Valuation reached $16B.",
+  "competitors": [
+    {"name": "Instagram", "notes": "Photo sharing, Facebook-owned, Stories copied from Snapchat later"},
+    {"name": "Facebook Messenger", "notes": "Facebook's messaging platform"},
+    {"name": "WhatsApp", "notes": "Facebook-owned messaging, 800M+ users"},
+    {"name": "Twitter", "notes": "Microblogging and news platform"},
+    {"name": "Vine", "notes": "Short-form video (shut down 2017)"},
+    {"name": "Kik", "notes": "Messaging app popular with teens"},
+    {"name": "WeChat", "notes": "Dominant messaging in China"}
+  ],
+  "sources": ["Social media industry analysis"]
+}

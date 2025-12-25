@@ -1,0 +1,18 @@
+{
+  "company": "HashiCorp, Inc.",
+  "ticker": "HCP",
+  "year": 2015,
+  "search_query": "HashiCorp competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "HashiCorp was gaining traction with Vagrant, Terraform, and Consul. DevOps and infrastructure as code movement growing. Docker popularizing containerization. Cloud infrastructure management becoming critical.",
+  "competitors": [
+    {"name": "Puppet", "notes": "Configuration management and automation"},
+    {"name": "Chef", "notes": "Infrastructure automation platform"},
+    {"name": "Ansible", "notes": "IT automation, acquired by Red Hat 2015"},
+    {"name": "AWS CloudFormation", "notes": "AWS infrastructure as code"},
+    {"name": "Docker", "notes": "Container platform and tooling"},
+    {"name": "Kubernetes", "notes": "Container orchestration, growing adoption"},
+    {"name": "SaltStack", "notes": "Event-driven IT automation"}
+  ],
+  "sources": ["DevOps and infrastructure technology analysis"]
+}

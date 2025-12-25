@@ -1,0 +1,19 @@
+{
+  "company": "Electronic Arts Inc.",
+  "ticker": "EA",
+  "year": 2020,
+  "search_query": "Electronic Arts competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "EA benefited from COVID-19 gaming surge. Apex Legends grew, FIFA and Madden remained strong. The company expanded mobile with acquisitions.",
+  "competitors": [
+    {"name": "Activision Blizzard", "notes": "Call of Duty, World of Warcraft publisher"},
+    {"name": "Take-Two Interactive", "notes": "GTA, NBA 2K publisher"},
+    {"name": "Epic Games", "notes": "Fortnite, Unreal Engine"},
+    {"name": "Ubisoft", "notes": "Assassin's Creed, Far Cry"},
+    {"name": "Sony PlayStation Studios", "notes": "First-party PS games"},
+    {"name": "Microsoft Xbox", "notes": "Game Pass, first-party studios"},
+    {"name": "Nintendo", "notes": "Switch exclusives"},
+    {"name": "Tencent", "notes": "Chinese gaming giant"}
+  ],
+  "sources": ["Gaming industry analysis"]
+}

@@ -1,0 +1,18 @@
+{
+  "company": "Take-Two Interactive Software, Inc.",
+  "ticker": "TTWO",
+  "year": 2010,
+  "search_query": "Take-Two Interactive competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Red Dead Redemption released to critical acclaim. Take-Two rejected hostile takeover bid from EA in 2008. Company solidified position with Rockstar and 2K labels.",
+  "competitors": [
+    {"name": "Electronic Arts", "notes": "Attempted hostile takeover of Take-Two in 2008"},
+    {"name": "Activision Blizzard", "notes": "Merged 2008, Call of Duty Modern Warfare dominance"},
+    {"name": "Ubisoft", "notes": "Assassin's Creed franchise, major AAA publisher"},
+    {"name": "THQ", "notes": "Still active before 2012 bankruptcy"},
+    {"name": "Sony Computer Entertainment", "notes": "First-party PlayStation exclusives"},
+    {"name": "Microsoft Game Studios", "notes": "First-party Xbox exclusives, Halo franchise"},
+    {"name": "Warner Bros. Interactive", "notes": "Growing presence in gaming"}
+  ],
+  "sources": ["Video game industry analysis"]
+}

@@ -1,0 +1,18 @@
+{
+  "company": "PayPal Holdings, Inc.",
+  "ticker": "PYPL",
+  "year": 2010,
+  "search_query": "PayPal competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "PayPal was part of eBay. Mobile payments emerged as new frontier. Square launched with mobile card reader. Stripe was founded this year, marking beginning of developer-focused payment processing.",
+  "competitors": [
+    {"name": "Square", "notes": "Founded 2009 by Jack Dorsey, first mobile credit card reader"},
+    {"name": "Stripe", "notes": "Founded 2010, developer-focused online payment processing"},
+    {"name": "Google Checkout", "notes": "Google's online payment service"},
+    {"name": "Amazon Payments", "notes": "Amazon's payment processing for merchants"},
+    {"name": "Authorize.Net", "notes": "Traditional payment gateway for merchants"},
+    {"name": "Skrill (Moneybookers)", "notes": "European digital wallet and payments"},
+    {"name": "Dwolla", "notes": "Bank transfer payment network"}
+  ],
+  "sources": ["Online payments industry analysis"]
+}

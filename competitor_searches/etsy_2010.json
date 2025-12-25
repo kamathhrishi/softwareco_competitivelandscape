@@ -1,0 +1,18 @@
+{
+  "company": "Etsy, Inc.",
+  "ticker": "ETSY",
+  "year": 2010,
+  "search_query": "Etsy competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Etsy focused on handmade, vintage, and craft supplies marketplace. Founded 2005, growing as alternative to mass-produced goods. Seller community and authenticity were key differentiators.",
+  "competitors": [
+    {"name": "eBay", "notes": "Largest online marketplace, auction and fixed price"},
+    {"name": "Amazon", "notes": "E-commerce giant with Handmade program later"},
+    {"name": "ArtFire", "notes": "Handmade goods marketplace competitor"},
+    {"name": "DaWanda", "notes": "German handmade marketplace (closed 2018)"},
+    {"name": "Zibbet", "notes": "Handmade and vintage goods marketplace"},
+    {"name": "iCraft", "notes": "Handmade goods marketplace"},
+    {"name": "Bonanza", "notes": "Online marketplace for unique items"}
+  ],
+  "sources": ["E-commerce and handmade marketplace analysis"]
+}

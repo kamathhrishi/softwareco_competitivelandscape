@@ -1,0 +1,18 @@
+{
+  "company": "Unity Software Inc.",
+  "ticker": "U",
+  "year": 2010,
+  "search_query": "Unity Technologies competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Unity grew popular for mobile and indie game development. iPhone App Store created new game market. Unity's accessibility and cross-platform support attracted developers.",
+  "competitors": [
+    {"name": "Unreal Engine", "notes": "Industry leader for AAA games, higher learning curve"},
+    {"name": "CryEngine", "notes": "Known for Crysis graphics, 'Can it run Crysis?' meme"},
+    {"name": "Cocos2d", "notes": "Open source framework for 2D mobile games"},
+    {"name": "Corona SDK", "notes": "Lua-based mobile game development"},
+    {"name": "GameMaker", "notes": "YoYo Games' 2D game development tool"},
+    {"name": "Torque 3D", "notes": "Open source game engine"},
+    {"name": "id Tech 5", "notes": "id Software's latest engine iteration"}
+  ],
+  "sources": ["Game engine industry analysis"]
+}

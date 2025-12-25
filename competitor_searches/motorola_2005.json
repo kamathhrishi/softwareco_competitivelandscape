@@ -1,0 +1,18 @@
+{
+  "company": "Motorola Solutions, Inc.",
+  "ticker": "MSI",
+  "year": 2005,
+  "search_query": "Motorola competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Motorola RAZR V3 was the most popular phone in US 2005-2007. RAZR success made Motorola division profitable again and briefly overtook Nokia in North America. However, over-reliance on RAZR design would later hurt company.",
+  "competitors": [
+    {"name": "Nokia", "notes": "Launched N-Series and E-Series phones, N70 popular model"},
+    {"name": "Samsung", "notes": "D500 slider phone challenged RAZR, growing market share"},
+    {"name": "Sony Ericsson", "notes": "K750 Cybershot and W800 Walkman phones broke new ground"},
+    {"name": "LG", "notes": "Chocolate phone and fashion-forward designs"},
+    {"name": "BlackBerry (RIM)", "notes": "8700 series for business email users"},
+    {"name": "Siemens", "notes": "German mobile phone maker"},
+    {"name": "Palm", "notes": "Treo smartphones"}
+  ],
+  "sources": ["Mobile phone industry analysis"]
+}

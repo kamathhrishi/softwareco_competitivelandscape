@@ -1,0 +1,18 @@
+{
+  "company": "Take-Two Interactive Software, Inc.",
+  "ticker": "TTWO",
+  "year": 2020,
+  "search_query": "Take-Two Interactive competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Gaming industry surged during COVID-19 lockdowns. Take-Two reported 15% increase in digital GAAP net income to $711M. NBA 2K continued to dominate basketball gaming. GTA V remained a top seller years after release.",
+  "competitors": [
+    {"name": "Activision Blizzard", "notes": "Call of Duty Warzone success, before Microsoft acquisition"},
+    {"name": "Electronic Arts", "notes": "$7.4B revenue FY2024, FIFA and Madden dominance"},
+    {"name": "Sony Interactive Entertainment", "notes": "$25B gaming revenue FY2023, PlayStation exclusives"},
+    {"name": "Nintendo", "notes": "Animal Crossing phenomenon during pandemic"},
+    {"name": "Ubisoft", "notes": "Assassin's Creed Valhalla release"},
+    {"name": "Tencent", "notes": "World's largest gaming company by revenue"},
+    {"name": "Epic Games", "notes": "Fortnite success, Unreal Engine, Epic Games Store"}
+  ],
+  "sources": ["Video game industry analysis"]
+}

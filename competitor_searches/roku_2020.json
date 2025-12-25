@@ -1,0 +1,18 @@
+{
+  "company": "Roku, Inc.",
+  "ticker": "ROKU",
+  "year": 2020,
+  "search_query": "Roku competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Roku was #1 smart TV OS in US. Ad sales on Roku Channel grew 71% to $1.27B. Company competed in both streaming devices and smart TV operating systems. Amazon Fire TV surpassed 250M devices globally.",
+  "competitors": [
+    {"name": "Amazon Fire TV", "notes": "Closest rival, Fire TV Stick and Fire TV Cube devices"},
+    {"name": "Apple TV 4K", "notes": "Premium option with Apple ecosystem integration"},
+    {"name": "Google Chromecast", "notes": "Chromecast with Google TV launched 2020"},
+    {"name": "Samsung Tizen OS", "notes": "Built-in smart TV platform"},
+    {"name": "LG webOS", "notes": "LG's smart TV operating system"},
+    {"name": "Vizio SmartCast", "notes": "Vizio's smart TV platform"},
+    {"name": "Android TV", "notes": "Google's TV platform on various devices"}
+  ],
+  "sources": ["Streaming device industry analysis"]
+}

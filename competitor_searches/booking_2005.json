@@ -1,0 +1,19 @@
+{
+  "company": "Booking Holdings, Inc.",
+  "ticker": "BKNG",
+  "year": 2005,
+  "search_query": "Priceline competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Priceline acquired Booking.com, transforming from name-your-price to hotel metasearch. The company began European expansion that would drive future growth.",
+  "competitors": [
+    {"name": "Expedia", "notes": "Major OTA spun from Microsoft"},
+    {"name": "Travelocity", "notes": "Sabre-owned OTA"},
+    {"name": "Orbitz", "notes": "Airline-founded OTA"},
+    {"name": "Hotels.com", "notes": "Hotel booking site"},
+    {"name": "Hotwire", "notes": "Opaque pricing travel"},
+    {"name": "Lastminute.com", "notes": "European travel site"},
+    {"name": "CheapTickets", "notes": "Discount travel booking"},
+    {"name": "Traditional Travel Agents", "notes": "Legacy distribution"}
+  ],
+  "sources": ["Travel industry analysis"]
+}

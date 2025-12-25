@@ -1,0 +1,19 @@
+{
+  "company": "Etsy, Inc.",
+  "ticker": "ETSY",
+  "year": 2020,
+  "search_query": "Etsy competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Etsy surged during COVID as demand for masks and home goods exploded. Revenue nearly doubled. The company became a go-to for handmade and unique items.",
+  "competitors": [
+    {"name": "Amazon Handmade", "notes": "Amazon's artisan marketplace"},
+    {"name": "eBay", "notes": "General marketplace with vintage"},
+    {"name": "Shopify", "notes": "Enables independent sellers"},
+    {"name": "Facebook Marketplace", "notes": "Local and social selling"},
+    {"name": "Pinterest", "notes": "Visual discovery and shopping"},
+    {"name": "Depop", "notes": "Gen Z fashion resale"},
+    {"name": "Poshmark", "notes": "Fashion resale marketplace"},
+    {"name": "Mercari", "notes": "Mobile resale marketplace"}
+  ],
+  "sources": ["E-commerce industry analysis"]
+}

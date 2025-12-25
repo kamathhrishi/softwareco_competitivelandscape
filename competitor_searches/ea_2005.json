@@ -1,0 +1,19 @@
+{
+  "company": "Electronic Arts Inc.",
+  "ticker": "EA",
+  "year": 2005,
+  "search_query": "Electronic Arts competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "EA was the world's largest game publisher. The company acquired exclusive NFL license and continued dominance in sports, Need for Speed, and The Sims.",
+  "competitors": [
+    {"name": "Activision", "notes": "Tony Hawk, Spider-Man games"},
+    {"name": "Take-Two Interactive", "notes": "GTA San Andreas success"},
+    {"name": "THQ", "notes": "WWE, licensed games"},
+    {"name": "Ubisoft", "notes": "Splinter Cell, Prince of Persia"},
+    {"name": "Vivendi Games", "notes": "World of Warcraft launch"},
+    {"name": "Midway Games", "notes": "Mortal Kombat publisher"},
+    {"name": "Atari", "notes": "Legacy publisher struggling"},
+    {"name": "Sega", "notes": "Third-party publisher now"}
+  ],
+  "sources": ["Gaming industry analysis"]
+}

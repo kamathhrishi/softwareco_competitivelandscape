@@ -1,0 +1,17 @@
+{
+  "company": "PayPal Holdings, Inc.",
+  "ticker": "PYPL",
+  "year": 2000,
+  "search_query": "PayPal competitors 2000",
+  "search_date": "2024-12-24",
+  "context": "Confinity merged with X.com (Elon Musk's company) in March 2000. PayPal dominated eBay payments with 40% of transactions. eBay's Billpoint had only 15% of sellers vs PayPal's 60%.",
+  "competitors": [
+    {"name": "Billpoint", "notes": "eBay's payment system with Wells Fargo, only 15% seller adoption"},
+    {"name": "X.com", "notes": "Elon Musk's online banking company, merged with Confinity"},
+    {"name": "Yahoo! PayDirect", "notes": "Yahoo's online payment service"},
+    {"name": "Citibank c2it", "notes": "Citibank's person-to-person payment service"},
+    {"name": "Western Union", "notes": "Traditional money transfer service going online"},
+    {"name": "Credit card processors", "notes": "Traditional merchant payment processing"}
+  ],
+  "sources": ["PayPal company history", "Online payments industry analysis"]
+}

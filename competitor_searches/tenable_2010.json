@@ -1,0 +1,18 @@
+{
+  "company": "Tenable Holdings, Inc.",
+  "ticker": "TENB",
+  "year": 2010,
+  "search_query": "Tenable competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Nessus remained popular open-source and commercial vulnerability scanner. Cloud computing introduced new security challenges. Compliance requirements like PCI-DSS drove vulnerability management adoption.",
+  "competitors": [
+    {"name": "Qualys", "notes": "SaaS vulnerability management leader"},
+    {"name": "Rapid7", "notes": "Nexpose vulnerability management"},
+    {"name": "McAfee Vulnerability Manager", "notes": "Enterprise security suite component"},
+    {"name": "IBM ISS", "notes": "Internet Security Systems division"},
+    {"name": "nCircle", "notes": "Vulnerability management solutions"},
+    {"name": "Tripwire", "notes": "Security configuration and compliance"},
+    {"name": "BeyondTrust", "notes": "Vulnerability and privilege management"}
+  ],
+  "sources": ["Cybersecurity industry analysis"]
+}

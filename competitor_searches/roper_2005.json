@@ -1,0 +1,18 @@
+{
+  "company": "Roper Technologies, Inc.",
+  "ticker": "ROP",
+  "year": 2005,
+  "search_query": "Roper Industries competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Roper Industries continued diversified acquisition strategy. Company operated in RF technology, industrial technology, energy systems and controls, and scientific imaging segments.",
+  "competitors": [
+    {"name": "Danaher Corporation", "notes": "Similar acquisition-driven industrial conglomerate"},
+    {"name": "Dover Corporation", "notes": "Diversified industrial products"},
+    {"name": "AMETEK", "notes": "Electronic instruments manufacturer"},
+    {"name": "Honeywell", "notes": "Aerospace, building technologies, performance materials"},
+    {"name": "Rockwell Automation", "notes": "Industrial automation and information"},
+    {"name": "Emerson Electric", "notes": "Technology and engineering solutions"},
+    {"name": "Thermo Fisher Scientific", "notes": "Scientific instruments and lab equipment"}
+  ],
+  "sources": ["Industrial technology industry analysis"]
+}

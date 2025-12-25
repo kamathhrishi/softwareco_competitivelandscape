@@ -1,0 +1,18 @@
+{
+  "company": "Five9, Inc.",
+  "ticker": "FIVN",
+  "year": 2010,
+  "search_query": "Five9 competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "Cloud contact center adoption growing. Five9 expanding capabilities. Traditional on-premise vendors beginning cloud transitions. SaaS model proving viable for contact centers.",
+  "competitors": [
+    {"name": "Avaya", "notes": "Legacy on-premise leader transitioning to cloud"},
+    {"name": "Cisco", "notes": "Enterprise contact center solutions"},
+    {"name": "Genesys", "notes": "Major contact center platform"},
+    {"name": "Interactive Intelligence", "notes": "Cloud contact center competitor"},
+    {"name": "inContact", "notes": "Cloud contact center (later acquired by NICE)"},
+    {"name": "Aspect Software", "notes": "Workforce optimization and contact center"},
+    {"name": "LiveOps", "notes": "Cloud contact center platform"}
+  ],
+  "sources": ["Contact center industry analysis"]
+}

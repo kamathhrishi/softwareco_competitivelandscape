@@ -1,0 +1,18 @@
+{
+  "company": "WEX Inc.",
+  "ticker": "WEX",
+  "year": 2000,
+  "search_query": "WEX Fleet competitors 2000",
+  "search_date": "2024-12-24",
+  "context": "WEX (Wright Express) focused on fleet card payment solutions. Fleet management and fuel card services were core business. Corporate expense management market was fragmented.",
+  "competitors": [
+    {"name": "FleetCor", "notes": "Fleet fuel cards and payment solutions"},
+    {"name": "Comdata", "notes": "Fleet and trucking payment cards"},
+    {"name": "Voyager", "notes": "Fleet card program by US Bank"},
+    {"name": "PHH", "notes": "Fleet management services"},
+    {"name": "ARI", "notes": "Automotive fleet management"},
+    {"name": "GE Capital Fleet Services", "notes": "Fleet leasing and management"},
+    {"name": "Fuelman", "notes": "Fuel card provider"}
+  ],
+  "sources": ["Fleet management industry analysis"]
+}

@@ -1,0 +1,18 @@
+{
+  "company": "Zillow Group, Inc.",
+  "ticker": "ZG",
+  "year": 2020,
+  "search_query": "Zillow competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Zillow expanded into iBuying with Zillow Offers, competing directly with Opendoor and Offerpad. Hot housing market during pandemic. Company would exit iBuying in 2021 after significant losses.",
+  "competitors": [
+    {"name": "Opendoor", "notes": "iBuying market leader, sold 9,193 homes in 2020, $2.6B revenue"},
+    {"name": "Offerpad", "notes": "Second largest iBuyer, 5,337 homes sold in 2020"},
+    {"name": "Redfin", "notes": "RedfinNow iBuying service, 25%+ of 2020 revenue from iBuying"},
+    {"name": "Realtor.com", "notes": "Major listing portal competitor"},
+    {"name": "Homes.com", "notes": "Real estate listings platform"},
+    {"name": "Knock", "notes": "Home trade-in program"},
+    {"name": "Orchard", "notes": "Move-first home buying platform"}
+  ],
+  "sources": ["Real estate technology analysis", "iBuyer industry analysis"]
+}

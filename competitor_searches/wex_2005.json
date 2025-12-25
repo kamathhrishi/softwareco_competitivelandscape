@@ -1,0 +1,18 @@
+{
+  "company": "WEX Inc.",
+  "ticker": "WEX",
+  "year": 2005,
+  "search_query": "WEX Fleet competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Wright Express went public in 2005. Fleet card and payment processing services growing. Company expanding beyond traditional fleet fuel cards into broader payment solutions.",
+  "competitors": [
+    {"name": "FleetCor", "notes": "Major fleet card competitor"},
+    {"name": "Comdata", "notes": "Fleet payment and trucking cards"},
+    {"name": "Voyager Fleet", "notes": "Fleet card program"},
+    {"name": "PHH Arval", "notes": "Fleet management company"},
+    {"name": "Donlen", "notes": "Fleet leasing and management"},
+    {"name": "Element Fleet", "notes": "Fleet management services"},
+    {"name": "Automotive Resources International", "notes": "Fleet management"}
+  ],
+  "sources": ["Fleet management industry analysis"]
+}

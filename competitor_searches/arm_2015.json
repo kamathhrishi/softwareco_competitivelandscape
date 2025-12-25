@@ -1,0 +1,19 @@
+{
+  "company": "Arm Holdings plc",
+  "ticker": "ARM",
+  "year": 2015,
+  "search_query": "ARM Holdings competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "ARM dominated mobile processor IP with designs in virtually all smartphones. SoftBank acquisition discussions began. The company expanded into IoT and servers.",
+  "competitors": [
+    {"name": "Intel", "notes": "x86 architecture, attempting mobile with Atom"},
+    {"name": "MIPS Technologies", "notes": "Alternative RISC architecture"},
+    {"name": "Imagination Technologies", "notes": "GPU IP competitor"},
+    {"name": "Synopsys", "notes": "Processor IP offerings"},
+    {"name": "Cadence", "notes": "Design IP competitor"},
+    {"name": "CEVA", "notes": "DSP and connectivity IP"},
+    {"name": "Qualcomm", "notes": "Major licensee, custom cores"},
+    {"name": "Apple", "notes": "Custom ARM chip designs"}
+  ],
+  "sources": ["Semiconductor industry analysis"]
+}

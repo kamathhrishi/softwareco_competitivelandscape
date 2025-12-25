@@ -1,0 +1,19 @@
+{
+  "company": "Netflix, Inc.",
+  "ticker": "NFLX",
+  "year": 2015,
+  "search_query": "Netflix competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "Netflix expanded globally and invested heavily in original content. House of Cards, Orange is the New Black proved streaming originals could rival traditional TV.",
+  "competitors": [
+    {"name": "Amazon Prime Video", "notes": "Bundled with Prime shipping"},
+    {"name": "Hulu", "notes": "Network-owned streaming service"},
+    {"name": "HBO Now", "notes": "HBO's standalone streaming"},
+    {"name": "YouTube", "notes": "Free video platform"},
+    {"name": "Cable/Satellite TV", "notes": "Traditional pay TV declining"},
+    {"name": "Apple", "notes": "iTunes video, Apple TV box"},
+    {"name": "Showtime", "notes": "Premium cable streaming"},
+    {"name": "Vudu", "notes": "Walmart's video service"}
+  ],
+  "sources": ["Streaming industry analysis"]
+}
