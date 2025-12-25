@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Electronic Arts competitors 2025",
   "search_date": "2024-12-24",
-  "context": "EA is a major game publisher focusing on sports (EA Sports FC, Madden), live services (Apex Legends), and franchises (The Sims, Battlefield). The company invests in AI and new IP.",
+  "context": "Electronic Arts Inc. is a video game company focused on sports games, action titles, and mobile gaming. Sports gaming leader. Live service games and mobile expansion.",
   "competitors": [
-    {"name": "Microsoft Gaming", "notes": "Activision Blizzard, Bethesda, Xbox Game Studios"},
-    {"name": "Take-Two Interactive", "notes": "GTA VI upcoming, NBA 2K, mobile through Zynga"},
-    {"name": "Sony Interactive", "notes": "PlayStation Studios exclusives"},
-    {"name": "Nintendo", "notes": "First-party games on Nintendo platforms"},
-    {"name": "Ubisoft", "notes": "Major publisher with large franchises"},
-    {"name": "Tencent", "notes": "Global gaming leader with investments"},
-    {"name": "Epic Games", "notes": "Fortnite platform and Unreal Engine"},
-    {"name": "NetEase", "notes": "Chinese gaming company expanding globally"}
+    {
+      "name": "Microsoft Gaming",
+      "notes": "Activision Blizzard, Bethesda, Xbox Game Studios"
+    },
+    {
+      "name": "Take-Two Interactive",
+      "notes": "GTA VI upcoming, NBA 2K, mobile through Zynga"
+    },
+    {
+      "name": "Sony Interactive",
+      "notes": "PlayStation Studios exclusives"
+    },
+    {
+      "name": "Nintendo",
+      "notes": "First-party games on Nintendo platforms"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Major publisher with large franchises"
+    },
+    {
+      "name": "Tencent",
+      "notes": "Global gaming leader with investments"
+    },
+    {
+      "name": "Epic Games",
+      "notes": "Fortnite platform and Unreal Engine"
+    },
+    {
+      "name": "NetEase",
+      "notes": "Chinese gaming company expanding globally"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

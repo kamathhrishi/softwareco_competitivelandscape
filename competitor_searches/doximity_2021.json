@@ -4,16 +4,42 @@
   "year": 2021,
   "search_query": "Doximity competitors 2021",
   "search_date": "2024-12-24",
-  "context": "Doximity went public in June 2021 as the largest digital platform for US physicians with 80%+ of doctors as members. Revenue comes from pharma marketing and hiring solutions.",
+  "context": "Doximity, Inc. is a digital platform for medical professionals focused on physician network, telehealth, and healthcare professional tools. IPO. Leading digital network for US physicians.",
   "competitors": [
-    {"name": "LinkedIn", "notes": "Professional network with healthcare professionals"},
-    {"name": "Sermo", "notes": "Physician social network and market research"},
-    {"name": "Medscape (WebMD)", "notes": "Medical news and CME for physicians"},
-    {"name": "UpToDate (Wolters Kluwer)", "notes": "Clinical decision support resource"},
-    {"name": "Epocrates", "notes": "Drug reference app for physicians"},
-    {"name": "Figure 1", "notes": "Medical image sharing network"},
-    {"name": "PracticeMatch", "notes": "Physician recruitment platform"},
-    {"name": "Health eCareers", "notes": "Healthcare job board"}
+    {
+      "name": "LinkedIn",
+      "notes": "Professional network with healthcare professionals"
+    },
+    {
+      "name": "Sermo",
+      "notes": "Physician social network and market research"
+    },
+    {
+      "name": "Medscape (WebMD)",
+      "notes": "Medical news and CME for physicians"
+    },
+    {
+      "name": "UpToDate (Wolters Kluwer)",
+      "notes": "Clinical decision support resource"
+    },
+    {
+      "name": "Epocrates",
+      "notes": "Drug reference app for physicians"
+    },
+    {
+      "name": "Figure 1",
+      "notes": "Medical image sharing network"
+    },
+    {
+      "name": "PracticeMatch",
+      "notes": "Physician recruitment platform"
+    },
+    {
+      "name": "Health eCareers",
+      "notes": "Healthcare job board"
+    }
   ],
-  "sources": ["Healthcare technology analysis"]
+  "sources": [
+    "Healthcare technology analysis"
+  ]
 }

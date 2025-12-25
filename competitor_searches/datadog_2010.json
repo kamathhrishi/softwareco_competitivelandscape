@@ -5,15 +5,41 @@
   "search_query": "Datadog monitoring competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Splunk", "notes": "Established player in log management and SIEM"},
-    {"name": "New Relic", "notes": "Founded in 2008, application performance monitoring platform"},
-    {"name": "Sumo Logic", "notes": "Founded April 2010, cloud-native log management"},
-    {"name": "Amazon CloudWatch", "notes": "Founded August 2010, AWS monitoring service"},
-    {"name": "Nagios", "notes": "Open-source infrastructure monitoring tool"},
-    {"name": "Zabbix", "notes": "Open-source monitoring software for networks"},
-    {"name": "AppDynamics", "notes": "Application performance monitoring platform"},
-    {"name": "Dynatrace", "notes": "Software monitoring solution"}
+    {
+      "name": "Splunk",
+      "notes": "Established player in log management and SIEM"
+    },
+    {
+      "name": "New Relic",
+      "notes": "Founded in 2008, application performance monitoring platform"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Founded April 2010, cloud-native log management"
+    },
+    {
+      "name": "Amazon CloudWatch",
+      "notes": "Founded August 2010, AWS monitoring service"
+    },
+    {
+      "name": "Nagios",
+      "notes": "Open-source infrastructure monitoring tool"
+    },
+    {
+      "name": "Zabbix",
+      "notes": "Open-source monitoring software for networks"
+    },
+    {
+      "name": "AppDynamics",
+      "notes": "Application performance monitoring platform"
+    },
+    {
+      "name": "Dynatrace",
+      "notes": "Software monitoring solution"
+    }
   ],
-  "context": "Datadog was founded in 2010 by Olivier Pomel and Alexis Le-Quoc. The cloud monitoring industry was just emerging. Early competitors included established monitoring tools (Nagios, Zabbix) and emerging cloud-native platforms.",
-  "sources": ["https://www.gartner.com/reviews/market/observability-platforms/vendor/datadog/product/datadog/alternatives"]
+  "context": "Datadog, Inc. is a cloud monitoring and observability platform focused on infrastructure monitoring, APM, log management, and security. Founded for cloud infrastructure monitoring. DevOps observability.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/observability-platforms/vendor/datadog/product/datadog/alternatives"
+  ]
 }

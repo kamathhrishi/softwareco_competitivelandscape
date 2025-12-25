@@ -5,8 +5,14 @@
   "search_query": "Tenable Nessus vulnerability scanner competitors 2002",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Very Limited Competition", "notes": "In 2002, Nessus was pioneering the remote vulnerability scanner market. Tenable founded in 2002."}
+    {
+      "name": "Very Limited Competition",
+      "notes": "In 2002, Nessus was pioneering the remote vulnerability scanner market. Tenable founded in 2002."
+    }
   ],
-  "context": "2002 was Tenable's founding year. Nessus, created by Renaud Deraison in 1998 as open-source, had essentially invented remote vulnerability scanners. At this time, Nessus went from being the only vulnerability scanner to the leading one. Competitive landscape was minimal. Nessus remained open-source until October 2005.",
-  "sources": ["https://www.comparitech.com/net-admin/nessus-vulnerability-scanner-review/", "https://www.g2.com/products/tenable-nessus/competitors/alternatives"]
+  "context": "Tenable Holdings, Inc. is a cyber exposure management company focused on vulnerability management, cloud security, and exposure analytics. Founded. Nessus vulnerability scanner.",
+  "sources": [
+    "https://www.comparitech.com/net-admin/nessus-vulnerability-scanner-review/",
+    "https://www.g2.com/products/tenable-nessus/competitors/alternatives"
+  ]
 }

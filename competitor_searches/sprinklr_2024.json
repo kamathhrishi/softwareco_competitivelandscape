@@ -5,20 +5,62 @@
   "search_query": "Sprinklr competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Sprout Social", "notes": "Major competitor with AI-powered workflows and publishing"},
-    {"name": "Hootsuite", "notes": "Established competitor, relies on third-party apps"},
-    {"name": "Brandwatch", "notes": "Data analytics for consumer intelligence, sentiment analysis"},
-    {"name": "Meltwater", "notes": "Social monitoring, analytics, influencer marketing"},
-    {"name": "Buffer", "notes": "Targets creators, startups, small businesses"},
-    {"name": "Vista Social", "notes": "Disruptive platform with streamlined workflows"},
-    {"name": "Konnect Insights", "notes": "AI-powered real-time social monitoring"},
-    {"name": "Socialinsider", "notes": "Competitor intelligence, affordable pricing"},
-    {"name": "Rival IQ", "notes": "Analytics and competitive benchmarking"},
-    {"name": "BuzzSumo", "notes": "Content and influencer discovery"},
-    {"name": "Agorapulse", "notes": "Comprehensive management tools"},
-    {"name": "Zoho Social", "notes": "Broader suite including CRM and email"},
-    {"name": "Emplifi", "notes": "Top Sprinklr alternative per Gartner"}
+    {
+      "name": "Sprout Social",
+      "notes": "Major competitor with AI-powered workflows and publishing"
+    },
+    {
+      "name": "Hootsuite",
+      "notes": "Established competitor, relies on third-party apps"
+    },
+    {
+      "name": "Brandwatch",
+      "notes": "Data analytics for consumer intelligence, sentiment analysis"
+    },
+    {
+      "name": "Meltwater",
+      "notes": "Social monitoring, analytics, influencer marketing"
+    },
+    {
+      "name": "Buffer",
+      "notes": "Targets creators, startups, small businesses"
+    },
+    {
+      "name": "Vista Social",
+      "notes": "Disruptive platform with streamlined workflows"
+    },
+    {
+      "name": "Konnect Insights",
+      "notes": "AI-powered real-time social monitoring"
+    },
+    {
+      "name": "Socialinsider",
+      "notes": "Competitor intelligence, affordable pricing"
+    },
+    {
+      "name": "Rival IQ",
+      "notes": "Analytics and competitive benchmarking"
+    },
+    {
+      "name": "BuzzSumo",
+      "notes": "Content and influencer discovery"
+    },
+    {
+      "name": "Agorapulse",
+      "notes": "Comprehensive management tools"
+    },
+    {
+      "name": "Zoho Social",
+      "notes": "Broader suite including CRM and email"
+    },
+    {
+      "name": "Emplifi",
+      "notes": "Top Sprinklr alternative per Gartner"
+    }
   ],
-  "context": "By 2024, Sprinklr named Leader in Forrester Wave Social Suites Q4 2024. Criticized for steep learning curve, difficult interface, high costs requiring on-site training. Competition differentiated by ease of use, pricing, AI capabilities, and target segments.",
-  "sources": ["https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprinklr/product/sprinklr-social/alternatives", "https://vistasocial.com/insights/sprinklr-alternatives/"]
+  "context": "Sprinklr, Inc. is a unified customer experience management platform focused on social media management, customer care, and marketing. Sprinklr AI for customer experience.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprinklr/product/sprinklr-social/alternatives",
+    "https://vistasocial.com/insights/sprinklr-alternatives/"
+  ]
 }

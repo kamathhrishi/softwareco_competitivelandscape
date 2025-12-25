@@ -4,15 +4,38 @@
   "year": 2000,
   "search_query": "Roper Industries competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Roper Industries was a diversified industrial company manufacturing RF products, industrial technology products, energy systems, and medical imaging equipment. Founded in 1890, company was in acquisition-driven growth phase.",
+  "context": "Roper Technologies, Inc. is a diversified technology company focused on application software, network software, and technology products. Diversified industrial manufacturer with tech focus.",
   "competitors": [
-    {"name": "Danaher Corporation", "notes": "Diversified industrial conglomerate"},
-    {"name": "Dover Corporation", "notes": "Diversified industrial manufacturer"},
-    {"name": "Illinois Tool Works", "notes": "Diversified manufacturer of industrial products"},
-    {"name": "Honeywell", "notes": "Diversified technology and manufacturing"},
-    {"name": "Emerson Electric", "notes": "Technology and engineering company"},
-    {"name": "AMETEK", "notes": "Electronic instruments and electromechanical devices"},
-    {"name": "Parker Hannifin", "notes": "Motion and control technologies"}
+    {
+      "name": "Danaher Corporation",
+      "notes": "Diversified industrial conglomerate"
+    },
+    {
+      "name": "Dover Corporation",
+      "notes": "Diversified industrial manufacturer"
+    },
+    {
+      "name": "Illinois Tool Works",
+      "notes": "Diversified manufacturer of industrial products"
+    },
+    {
+      "name": "Honeywell",
+      "notes": "Diversified technology and manufacturing"
+    },
+    {
+      "name": "Emerson Electric",
+      "notes": "Technology and engineering company"
+    },
+    {
+      "name": "AMETEK",
+      "notes": "Electronic instruments and electromechanical devices"
+    },
+    {
+      "name": "Parker Hannifin",
+      "notes": "Motion and control technologies"
+    }
   ],
-  "sources": ["Industrial technology industry analysis"]
+  "sources": [
+    "Industrial technology industry analysis"
+  ]
 }

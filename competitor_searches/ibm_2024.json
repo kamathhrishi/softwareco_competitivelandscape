@@ -5,21 +5,68 @@
   "search_query": "IBM competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon Web Services (AWS)", "notes": "Leading cloud infrastructure provider, formidable rival in PaaS and IaaS"},
-    {"name": "Microsoft", "notes": "Competitor in Azure cloud, enterprise software, and AI solutions"},
-    {"name": "Google Cloud Platform (GCP)", "notes": "Major competitor in cloud computing and AI"},
-    {"name": "Oracle Cloud", "notes": "Competitor in cloud infrastructure and enterprise software"},
-    {"name": "Accenture", "notes": "Leading IT consulting competitor with partnerships with Microsoft, Oracle, and SAP"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Major IT services and transformation competitor"},
-    {"name": "Hewlett Packard Enterprise (HPE)", "notes": "Competitor in enterprise infrastructure and services"},
-    {"name": "Dell Technologies", "notes": "Hardware and infrastructure competitor"},
-    {"name": "Palo Alto Networks", "notes": "Cybersecurity competitor; May 2024 partnership where IBM Consulting became main firm for implementing Palo Alto platforms"},
-    {"name": "Cisco Systems", "notes": "Competitor in networking and cybersecurity"},
-    {"name": "Fortinet", "notes": "Cybersecurity and network security competitor"},
-    {"name": "SAP", "notes": "Enterprise software and AI solutions competitor"},
-    {"name": "Adobe", "notes": "Competitor in enterprise software and AI solutions"},
-    {"name": "Infosys", "notes": "IT services and consulting competitor"}
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Leading cloud infrastructure provider, formidable rival in PaaS and IaaS"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in Azure cloud, enterprise software, and AI solutions"
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "notes": "Major competitor in cloud computing and AI"
+    },
+    {
+      "name": "Oracle Cloud",
+      "notes": "Competitor in cloud infrastructure and enterprise software"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Leading IT consulting competitor with partnerships with Microsoft, Oracle, and SAP"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Major IT services and transformation competitor"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Competitor in enterprise infrastructure and services"
+    },
+    {
+      "name": "Dell Technologies",
+      "notes": "Hardware and infrastructure competitor"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Cybersecurity competitor; May 2024 partnership where IBM Consulting became main firm for implementing Palo Alto platforms"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in networking and cybersecurity"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Cybersecurity and network security competitor"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software and AI solutions competitor"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Competitor in enterprise software and AI solutions"
+    },
+    {
+      "name": "Infosys",
+      "notes": "IT services and consulting competitor"
+    }
   ],
-  "context": "In 2024, IBM's competitive landscape spans cloud computing, enterprise software and AI, hardware, IT consulting, and cybersecurity. A significant development was the May 2024 partnership with Palo Alto Networks, where IBM Consulting became the primary firm for implementing Palo Alto's cybersecurity platforms.",
-  "sources": ["https://businessmodelanalyst.com/ibm-competitors/", "https://fourweekmba.com/ibm-competitors/", "https://www.owler.com/company/ibm", "https://pitchgrade.com/companies/ibm"]
+  "context": "International Business Machines Corporation is a technology and consulting company focused on hybrid cloud, AI, enterprise software, and consulting. WatsonX AI platform. HashiCorp acquisition. Hybrid cloud.",
+  "sources": [
+    "https://businessmodelanalyst.com/ibm-competitors/",
+    "https://fourweekmba.com/ibm-competitors/",
+    "https://www.owler.com/company/ibm",
+    "https://pitchgrade.com/companies/ibm"
+  ]
 }

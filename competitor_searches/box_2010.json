@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Box.com competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Box focused on enterprise cloud storage and collaboration. Dropbox targeted consumers. Neither Google Drive (2012) nor iCloud (2011) existed yet. Microsoft SharePoint was primary enterprise competitor.",
+  "context": "Box, Inc. is a cloud content management and collaboration platform focused on enterprise file sharing, security, and workflow automation. Enterprise cloud storage and collaboration. Competing with Dropbox.",
   "competitors": [
-    {"name": "Dropbox", "notes": "Consumer-focused cloud storage, 2007 founding"},
-    {"name": "Microsoft SharePoint", "notes": "Enterprise document collaboration and storage"},
-    {"name": "Google Docs", "notes": "Document collaboration, not yet Google Drive"},
-    {"name": "EMC Mozy", "notes": "Enterprise backup and cloud storage"},
-    {"name": "Citrix ShareFile", "notes": "Enterprise file sync and sharing"},
-    {"name": "SugarSync", "notes": "Cloud storage and backup service"},
-    {"name": "Egnyte", "notes": "Enterprise file sync solution"}
+    {
+      "name": "Dropbox",
+      "notes": "Consumer-focused cloud storage, 2007 founding"
+    },
+    {
+      "name": "Microsoft SharePoint",
+      "notes": "Enterprise document collaboration and storage"
+    },
+    {
+      "name": "Google Docs",
+      "notes": "Document collaboration, not yet Google Drive"
+    },
+    {
+      "name": "EMC Mozy",
+      "notes": "Enterprise backup and cloud storage"
+    },
+    {
+      "name": "Citrix ShareFile",
+      "notes": "Enterprise file sync and sharing"
+    },
+    {
+      "name": "SugarSync",
+      "notes": "Cloud storage and backup service"
+    },
+    {
+      "name": "Egnyte",
+      "notes": "Enterprise file sync solution"
+    }
   ],
-  "sources": ["Cloud storage industry analysis"]
+  "sources": [
+    "Cloud storage industry analysis"
+  ]
 }

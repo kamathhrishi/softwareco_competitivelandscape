@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Navan competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Navan (formerly TripActions) went public at $6B+ valuation with stock priced at $25. The travel and expense platform reported $329M revenue in H1 2025, up 30% YoY.",
+  "context": "Navan (formerly TripActions) is a corporate travel and expense management platform focused on business travel booking, expense management, and corporate cards. Corporate travel recovery. Competing with SAP Concur, Brex.",
   "competitors": [
-    {"name": "SAP Concur", "notes": "Enterprise travel and expense leader"},
-    {"name": "Brex", "notes": "Corporate cards with travel features"},
-    {"name": "Expensify", "notes": "Expense management software"},
-    {"name": "Ramp", "notes": "Corporate cards and expense platform"},
-    {"name": "Egencia (Amex GBT)", "notes": "American Express corporate travel"},
-    {"name": "TravelPerk", "notes": "European business travel platform"},
-    {"name": "Coupa", "notes": "Spend management including T&E"},
-    {"name": "Chrome River", "notes": "Enterprise expense management"}
+    {
+      "name": "SAP Concur",
+      "notes": "Enterprise travel and expense leader"
+    },
+    {
+      "name": "Brex",
+      "notes": "Corporate cards with travel features"
+    },
+    {
+      "name": "Expensify",
+      "notes": "Expense management software"
+    },
+    {
+      "name": "Ramp",
+      "notes": "Corporate cards and expense platform"
+    },
+    {
+      "name": "Egencia (Amex GBT)",
+      "notes": "American Express corporate travel"
+    },
+    {
+      "name": "TravelPerk",
+      "notes": "European business travel platform"
+    },
+    {
+      "name": "Coupa",
+      "notes": "Spend management including T&E"
+    },
+    {
+      "name": "Chrome River",
+      "notes": "Enterprise expense management"
+    }
   ],
-  "sources": ["Travel tech analysis", "Inc."]
+  "sources": [
+    "Travel tech analysis",
+    "Inc."
+  ]
 }

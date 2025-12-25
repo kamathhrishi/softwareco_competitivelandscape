@@ -5,14 +5,37 @@
   "search_query": "Amazon e-commerce AWS competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Walmart", "notes": "Walmart.com 124% increase in Q4 2020 sales"},
-    {"name": "eBay", "notes": "Strong alternative in e-commerce marketplace"},
-    {"name": "Alibaba", "notes": "758 million active users as of June 2020"},
-    {"name": "Shopify", "notes": "Partnered with Oberlo for drop-shipping in 2020"},
-    {"name": "Microsoft Azure", "notes": "$50B annual cloud revenues in 2020, growing faster than AWS"},
-    {"name": "Google Cloud", "notes": "$2.6B Q1 2020, +53% YoY"},
-    {"name": "Alibaba Cloud", "notes": "+60% YoY growth, outpacing AWS's 29%"}
+    {
+      "name": "Walmart",
+      "notes": "Walmart.com 124% increase in Q4 2020 sales"
+    },
+    {
+      "name": "eBay",
+      "notes": "Strong alternative in e-commerce marketplace"
+    },
+    {
+      "name": "Alibaba",
+      "notes": "758 million active users as of June 2020"
+    },
+    {
+      "name": "Shopify",
+      "notes": "Partnered with Oberlo for drop-shipping in 2020"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "$50B annual cloud revenues in 2020, growing faster than AWS"
+    },
+    {
+      "name": "Google Cloud",
+      "notes": "$2.6B Q1 2020, +53% YoY"
+    },
+    {
+      "name": "Alibaba Cloud",
+      "notes": "+60% YoY growth, outpacing AWS's 29%"
+    }
   ],
-  "context": "Pandemic accelerated e-commerce and cloud. AWS 32.4% market share but competitors growing faster. Prime reached 142.5M US members.",
-  "sources": ["https://doit.software/blog/amazon-competitors"]
+  "context": "Amazon.com, Inc. is a e-commerce, cloud computing, and technology conglomerate focused on online retail, AWS cloud services, streaming, devices, and advertising. Pandemic e-commerce surge. AWS essential for remote work. Hired 500K+ workers to meet demand.",
+  "sources": [
+    "https://doit.software/blog/amazon-competitors"
+  ]
 }

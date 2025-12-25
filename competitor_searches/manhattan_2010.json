@@ -5,12 +5,33 @@
   "search_query": "Manhattan Associates supply chain WMS competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "SAP", "notes": "Market leader with $1.317 billion in 2010 revenue, SAP EWM establishing foothold in automated warehouses"},
-    {"name": "Oracle", "notes": "Second largest with $1.21 billion in 2010 revenue, strong in enterprise WMS"},
-    {"name": "JDA Software", "notes": "$362 million in 2010 revenue, acquired i2 Technologies in early 2010, later became Blue Yonder"},
-    {"name": "RedPrairie", "notes": "$94 million in 2010 revenue, competed closely with Manhattan in WMS market"},
-    {"name": "Accellos", "notes": "WMS solutions provider, later acquired by Aptean"}
+    {
+      "name": "SAP",
+      "notes": "Market leader with $1.317 billion in 2010 revenue, SAP EWM establishing foothold in automated warehouses"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Second largest with $1.21 billion in 2010 revenue, strong in enterprise WMS"
+    },
+    {
+      "name": "JDA Software",
+      "notes": "$362 million in 2010 revenue, acquired i2 Technologies in early 2010, later became Blue Yonder"
+    },
+    {
+      "name": "RedPrairie",
+      "notes": "$94 million in 2010 revenue, competed closely with Manhattan in WMS market"
+    },
+    {
+      "name": "Accellos",
+      "notes": "WMS solutions provider, later acquired by Aptean"
+    }
   ],
-  "context": "In 2010, Manhattan Associates ranked 4th in the WMS market with $136 million in revenue, staging an impressive comeback after revenue decline in 2009. The company had regained its position above RedPrairie. The WMS market grew nearly 10% in 2010 from $1 billion to $1.1 billion. SAP and Oracle dominated with combined revenue exceeding $2.5 billion, while Manhattan was establishing itself with a platform approach to supply chain that analysts viewed favorably. JDA Software's acquisition of i2 Technologies in early 2010 was the most noteworthy industry event. Manhattan was recognized for being on the right path with its unified platform strategy.",
-  "sources": ["https://www.manh.com/", "https://craft.co/manhattan-associates/competitors", "https://www.mmh.com/article/top_20_supply_chain_management_software_providers", "https://www.peerspot.com/products/manhattan-associates-warehouse-management-alternatives-and-competitors", "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors"]
+  "context": "Manhattan Associates, Inc. is a supply chain and omnichannel software company focused on warehouse management, transportation, and retail solutions. Cloud platform development. Omnichannel commerce.",
+  "sources": [
+    "https://www.manh.com/",
+    "https://craft.co/manhattan-associates/competitors",
+    "https://www.mmh.com/article/top_20_supply_chain_management_software_providers",
+    "https://www.peerspot.com/products/manhattan-associates-warehouse-management-alternatives-and-competitors",
+    "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors"
+  ]
 }

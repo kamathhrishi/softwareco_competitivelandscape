@@ -4,16 +4,42 @@
   "year": 2000,
   "search_query": "Check Point Software competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Check Point was the dominant leader in enterprise firewall and VPN solutions in 2000. The company's FireWall-1 product held majority market share as enterprises built internet security infrastructure during the dot-com era.",
+  "context": "Check Point Software Technologies is a cybersecurity company focused on network security, cloud security, and threat prevention. Firewall market leader. VPN-1 and FireWall-1 products.",
   "competitors": [
-    {"name": "Cisco PIX", "notes": "Cisco's hardware firewall appliance competing in enterprise security"},
-    {"name": "Axent Technologies", "notes": "Network security software, later acquired by Symantec"},
-    {"name": "Network Associates", "notes": "Security software company formed from McAfee and Network General merger"},
-    {"name": "Internet Security Systems (ISS)", "notes": "Intrusion detection and security management solutions"},
-    {"name": "Symantec", "notes": "Security software expanding into enterprise network security"},
-    {"name": "CyberGuard", "notes": "Firewall and VPN solutions provider"},
-    {"name": "NetScreen Technologies", "notes": "Hardware firewall and VPN appliances, later acquired by Juniper"},
-    {"name": "Raptor Systems", "notes": "Firewall solutions, acquired by Axent/Symantec"}
+    {
+      "name": "Cisco PIX",
+      "notes": "Cisco's hardware firewall appliance competing in enterprise security"
+    },
+    {
+      "name": "Axent Technologies",
+      "notes": "Network security software, later acquired by Symantec"
+    },
+    {
+      "name": "Network Associates",
+      "notes": "Security software company formed from McAfee and Network General merger"
+    },
+    {
+      "name": "Internet Security Systems (ISS)",
+      "notes": "Intrusion detection and security management solutions"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Security software expanding into enterprise network security"
+    },
+    {
+      "name": "CyberGuard",
+      "notes": "Firewall and VPN solutions provider"
+    },
+    {
+      "name": "NetScreen Technologies",
+      "notes": "Hardware firewall and VPN appliances, later acquired by Juniper"
+    },
+    {
+      "name": "Raptor Systems",
+      "notes": "Firewall solutions, acquired by Axent/Symantec"
+    }
   ],
-  "sources": ["Historical security industry analysis"]
+  "sources": [
+    "Historical security industry analysis"
+  ]
 }

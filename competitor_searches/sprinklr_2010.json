@@ -5,10 +5,22 @@
   "search_query": "Sprinklr social media management competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Hootsuite", "notes": "Founded 2008, veteran in social media management"},
-    {"name": "Sprout Social", "notes": "Founded 2010, same year as Sprinklr"},
-    {"name": "AgoraPulse", "notes": "Founded 2010 in Paris, emerging competitor"}
+    {
+      "name": "Hootsuite",
+      "notes": "Founded 2008, veteran in social media management"
+    },
+    {
+      "name": "Sprout Social",
+      "notes": "Founded 2010, same year as Sprinklr"
+    },
+    {
+      "name": "AgoraPulse",
+      "notes": "Founded 2010 in Paris, emerging competitor"
+    }
   ],
-  "context": "In 2010, social media management industry was in early stages. Sprinklr was founded in 2010 as customer experience management tool. Hootsuite (founded 2008) was one of the earliest. Sprout Social and AgoraPulse also founded in 2010, marking market formation period.",
-  "sources": ["https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprinklr/product/sprinklr-social/alternatives", "https://sproutsocial.com/insights/sprout-social-vs-sprinklr/"]
+  "context": "Sprinklr, Inc. is a unified customer experience management platform focused on social media management, customer care, and marketing. Founded for social media management.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprinklr/product/sprinklr-social/alternatives",
+    "https://sproutsocial.com/insights/sprout-social-vs-sprinklr/"
+  ]
 }

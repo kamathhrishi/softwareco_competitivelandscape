@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Uber competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Uber was the dominant ride-hailing platform globally in 2015, valued at $50B+. The company was expanding aggressively worldwide while facing regulatory battles and competition from local players.",
+  "context": "Uber Technologies, Inc. is a mobility and delivery platform focused on ridesharing, food delivery, and freight. Global rideshare expansion. Massive funding rounds.",
   "competitors": [
-    {"name": "Lyft", "notes": "Primary US competitor focused on friendlier brand positioning"},
-    {"name": "Didi Chuxing", "notes": "Chinese ride-hailing giant, later acquired Uber China"},
-    {"name": "Ola", "notes": "Indian ride-hailing competitor"},
-    {"name": "Grab", "notes": "Southeast Asian ride-hailing and super-app"},
-    {"name": "Gett", "notes": "Ride-hailing service in Israel and Europe"},
-    {"name": "Hailo", "notes": "Taxi-hailing app in UK/Europe"},
-    {"name": "Sidecar", "notes": "Early ride-sharing competitor (shut down 2015)"},
-    {"name": "Traditional Taxis", "notes": "Incumbent taxi industry fighting Uber's disruption"}
+    {
+      "name": "Lyft",
+      "notes": "Primary US competitor focused on friendlier brand positioning"
+    },
+    {
+      "name": "Didi Chuxing",
+      "notes": "Chinese ride-hailing giant, later acquired Uber China"
+    },
+    {
+      "name": "Ola",
+      "notes": "Indian ride-hailing competitor"
+    },
+    {
+      "name": "Grab",
+      "notes": "Southeast Asian ride-hailing and super-app"
+    },
+    {
+      "name": "Gett",
+      "notes": "Ride-hailing service in Israel and Europe"
+    },
+    {
+      "name": "Hailo",
+      "notes": "Taxi-hailing app in UK/Europe"
+    },
+    {
+      "name": "Sidecar",
+      "notes": "Early ride-sharing competitor (shut down 2015)"
+    },
+    {
+      "name": "Traditional Taxis",
+      "notes": "Incumbent taxi industry fighting Uber's disruption"
+    }
   ],
-  "sources": ["Ride-hailing industry analysis"]
+  "sources": [
+    "Ride-hailing industry analysis"
+  ]
 }

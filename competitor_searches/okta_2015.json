@@ -5,12 +5,29 @@
   "search_query": "Okta identity management competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Microsoft Azure AD", "notes": "Growing enterprise identity solution tied to Office 365"},
-    {"name": "Ping Identity", "notes": "Enterprise identity management, particularly on-premises"},
-    {"name": "OneLogin", "notes": "Cloud identity management competitor"},
-    {"name": "Centrify", "notes": "Identity and access management for hybrid IT"},
-    {"name": "RSA", "notes": "Enterprise security and identity management"}
+    {
+      "name": "Microsoft Azure AD",
+      "notes": "Growing enterprise identity solution tied to Office 365"
+    },
+    {
+      "name": "Ping Identity",
+      "notes": "Enterprise identity management, particularly on-premises"
+    },
+    {
+      "name": "OneLogin",
+      "notes": "Cloud identity management competitor"
+    },
+    {
+      "name": "Centrify",
+      "notes": "Identity and access management for hybrid IT"
+    },
+    {
+      "name": "RSA",
+      "notes": "Enterprise security and identity management"
+    }
   ],
-  "context": "In 2015, Okta was emerging as a cloud-first identity management leader. Microsoft Azure AD was growing with Office 365 adoption but Okta focused on multi-vendor cloud environments. The identity-as-a-service market was maturing with enterprises adopting cloud SSO and identity management. Okta was preparing for its 2017 IPO. Competition centered on cloud versus on-premises deployment, with Okta positioned as the cloud-native option.",
-  "sources": ["https://www.g2.com/products/okta/competitors/alternatives"]
+  "context": "Okta, Inc. is a identity and access management company focused on workforce identity, customer identity, and privileged access. IPO. Cloud identity leader for enterprises.",
+  "sources": [
+    "https://www.g2.com/products/okta/competitors/alternatives"
+  ]
 }

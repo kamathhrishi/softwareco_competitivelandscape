@@ -5,18 +5,56 @@
   "search_query": "Jamf competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Kandji", "notes": "Premier Apple-focused MDM alternative founded 2018. Offers streamlined automation with pre-built Blueprints, eliminating complexity of manual configuration. Zero-touch deployment to compliance enforcement"},
-    {"name": "Mosyle", "notes": "Top Apple-only MDM competitor alongside Kandji, particularly strong in education sector. Founded 2012"},
-    {"name": "Addigy", "notes": "Prominent Apple-focused MDM platform founded 2013, listed among Jamf's top competitors"},
-    {"name": "Microsoft Intune", "notes": "Dominates cross-platform MDM with ~95% market share in endpoint management. Deep integration with Microsoft 365, Azure AD, Windows ecosystems"},
-    {"name": "NinjaOne", "notes": "Unified endpoint management with 20,000+ customers. Remotely monitors and manages Windows, macOS, and Linux devices in single pane of glass"},
-    {"name": "Scalefusion", "notes": "Cross-platform MDM managing Android, iOS, macOS, Windows, and Linux. Integrates with Apple Business Manager and Apple School Manager"},
-    {"name": "ManageEngine Mobile Device Manager Plus", "notes": "Rated as best overall Jamf Pro alternative by G2. Cross-platform device management solution"},
-    {"name": "Rippling IT", "notes": "Integrates device management with payroll, benefits, and identity systems. Automated device provisioning and identity management synchronized with HR events"},
-    {"name": "JumpCloud", "notes": "Cross-platform MDM and identity management platform, unified directory service"},
-    {"name": "Hexnode", "notes": "Cross-platform MDM solution supporting multiple device types"},
-    {"name": "IBM MaaS360", "notes": "Enterprise mobility management platform with AI-powered security"}
+    {
+      "name": "Kandji",
+      "notes": "Premier Apple-focused MDM alternative founded 2018. Offers streamlined automation with pre-built Blueprints, eliminating complexity of manual configuration. Zero-touch deployment to compliance enforcement"
+    },
+    {
+      "name": "Mosyle",
+      "notes": "Top Apple-only MDM competitor alongside Kandji, particularly strong in education sector. Founded 2012"
+    },
+    {
+      "name": "Addigy",
+      "notes": "Prominent Apple-focused MDM platform founded 2013, listed among Jamf's top competitors"
+    },
+    {
+      "name": "Microsoft Intune",
+      "notes": "Dominates cross-platform MDM with ~95% market share in endpoint management. Deep integration with Microsoft 365, Azure AD, Windows ecosystems"
+    },
+    {
+      "name": "NinjaOne",
+      "notes": "Unified endpoint management with 20,000+ customers. Remotely monitors and manages Windows, macOS, and Linux devices in single pane of glass"
+    },
+    {
+      "name": "Scalefusion",
+      "notes": "Cross-platform MDM managing Android, iOS, macOS, Windows, and Linux. Integrates with Apple Business Manager and Apple School Manager"
+    },
+    {
+      "name": "ManageEngine Mobile Device Manager Plus",
+      "notes": "Rated as best overall Jamf Pro alternative by G2. Cross-platform device management solution"
+    },
+    {
+      "name": "Rippling IT",
+      "notes": "Integrates device management with payroll, benefits, and identity systems. Automated device provisioning and identity management synchronized with HR events"
+    },
+    {
+      "name": "JumpCloud",
+      "notes": "Cross-platform MDM and identity management platform, unified directory service"
+    },
+    {
+      "name": "Hexnode",
+      "notes": "Cross-platform MDM solution supporting multiple device types"
+    },
+    {
+      "name": "IBM MaaS360",
+      "notes": "Enterprise mobility management platform with AI-powered security"
+    }
   ],
-  "context": "The 2024 MDM landscape is highly competitive and segmented into Apple-focused versus cross-platform solutions. Jamf remains the dominant Apple-only MDM provider with 70,000+ companies after 20+ years, but faces increasing competition from newer Apple-focused entrants like Kandji (2018) offering simpler configuration and automation. Cross-platform competitors like Microsoft Intune dominate overall endpoint management with ~95% market share by supporting all major OS platforms. Organizations seek alternatives to Jamf due to higher pricing, complexity requiring specialized training, and Apple-only focus creating challenges for mixed device environments. The market has matured with 72% of employees choosing Mac over PC in employee-choice programs, driving enterprise adoption.",
-  "sources": ["https://medium.com/predict/best-jamf-pro-alternatives-a774ec3cb6e0", "https://www.rippling.com/blog/alternative-to-jamf", "https://www.ninjaone.com/blog/alternatives-to-jamf/", "https://www.g2.com/products/jamf-pro/competitors/alternatives"]
+  "context": "Jamf Holding Corp. is a Apple device management company focused on Apple enterprise management, security, and identity. Apple security and identity expansion.",
+  "sources": [
+    "https://medium.com/predict/best-jamf-pro-alternatives-a774ec3cb6e0",
+    "https://www.rippling.com/blog/alternative-to-jamf",
+    "https://www.ninjaone.com/blog/alternatives-to-jamf/",
+    "https://www.g2.com/products/jamf-pro/competitors/alternatives"
+  ]
 }

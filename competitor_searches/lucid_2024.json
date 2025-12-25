@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Lucid Motors competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Lucid launched the Gravity SUV and continued Air sedan production. The company received additional funding from Saudi PIF while working to scale production and reduce costs.",
+  "context": "Lucid Group, Inc. is a electric vehicle manufacturer focused on luxury electric sedans and SUVs. Gravity SUV launch. Saudi PIF investment support.",
   "competitors": [
-    {"name": "Tesla", "notes": "Market leader with Model S, X, 3, Y"},
-    {"name": "Mercedes EQS", "notes": "Direct luxury EV sedan competitor"},
-    {"name": "BMW i7", "notes": "BMW's flagship electric sedan"},
-    {"name": "Porsche Taycan", "notes": "Performance-focused luxury EV"},
-    {"name": "Rivian", "notes": "Premium EV startup"},
-    {"name": "Polestar", "notes": "Volvo/Geely premium EV brand"},
-    {"name": "Audi e-tron GT", "notes": "Luxury performance EV"},
-    {"name": "Fisker", "notes": "EV startup (filed bankruptcy 2024)"}
+    {
+      "name": "Tesla",
+      "notes": "Market leader with Model S, X, 3, Y"
+    },
+    {
+      "name": "Mercedes EQS",
+      "notes": "Direct luxury EV sedan competitor"
+    },
+    {
+      "name": "BMW i7",
+      "notes": "BMW's flagship electric sedan"
+    },
+    {
+      "name": "Porsche Taycan",
+      "notes": "Performance-focused luxury EV"
+    },
+    {
+      "name": "Rivian",
+      "notes": "Premium EV startup"
+    },
+    {
+      "name": "Polestar",
+      "notes": "Volvo/Geely premium EV brand"
+    },
+    {
+      "name": "Audi e-tron GT",
+      "notes": "Luxury performance EV"
+    },
+    {
+      "name": "Fisker",
+      "notes": "EV startup (filed bankruptcy 2024)"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

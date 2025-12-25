@@ -5,15 +5,41 @@
   "search_query": "Fortinet security competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Leading NGFW provider with advanced features and threat intelligence"},
-    {"name": "Cisco Systems", "notes": "Dominant market leader with comprehensive security portfolio"},
-    {"name": "Check Point Software Technologies", "notes": "Established leader with Quantum firewall range"},
-    {"name": "Juniper Networks", "notes": "High-performance, scalable security solutions"},
-    {"name": "CrowdStrike", "notes": "Emerging endpoint security competitor"},
-    {"name": "Zscaler", "notes": "Cloud-native security provider offering cloud firewall"},
-    {"name": "Barracuda Networks", "notes": "CloudGen Firewall for cloud environments"},
-    {"name": "SonicWall", "notes": "Comprehensive network security with user-friendly deployment"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading NGFW provider with advanced features and threat intelligence"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Dominant market leader with comprehensive security portfolio"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Established leader with Quantum firewall range"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "High-performance, scalable security solutions"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Emerging endpoint security competitor"
+    },
+    {
+      "name": "Zscaler",
+      "notes": "Cloud-native security provider offering cloud firewall"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "CloudGen Firewall for cloud environments"
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Comprehensive network security with user-friendly deployment"
+    }
   ],
-  "context": "By 2015, the network security market had evolved significantly with the emergence of cloud-native security providers like Zscaler. The NGFW market was mature with established leaders competing on advanced features, threat intelligence, and cloud integration.",
-  "sources": ["https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"]
+  "context": "Fortinet, Inc. is a cybersecurity company focused on network security, firewalls, and security fabric. Security fabric vision. SD-WAN integration.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"
+  ]
 }

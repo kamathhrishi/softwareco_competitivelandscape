@@ -5,12 +5,29 @@
   "search_query": "Teradata data warehouse competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Oracle Exadata", "notes": "Database machine for data warehousing and OLTP"},
-    {"name": "IBM Netezza", "notes": "Data warehouse appliance, acquired by IBM 2010"},
-    {"name": "Greenplum", "notes": "Massively parallel data warehouse, acquired by EMC 2010"},
-    {"name": "Microsoft SQL Server", "notes": "Enterprise database with analytics"},
-    {"name": "SAP Business Objects", "notes": "Business intelligence and data warehousing"}
+    {
+      "name": "Oracle Exadata",
+      "notes": "Database machine for data warehousing and OLTP"
+    },
+    {
+      "name": "IBM Netezza",
+      "notes": "Data warehouse appliance, acquired by IBM 2010"
+    },
+    {
+      "name": "Greenplum",
+      "notes": "Massively parallel data warehouse, acquired by EMC 2010"
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "notes": "Enterprise database with analytics"
+    },
+    {
+      "name": "SAP Business Objects",
+      "notes": "Business intelligence and data warehousing"
+    }
   ],
-  "context": "In 2010, Teradata was the leading enterprise data warehouse vendor. IBM acquired Netezza for $1.7B and EMC acquired Greenplum, signaling market consolidation. Oracle Exadata competed with engineered systems approach. The data warehouse market was mature but growing with big data trends. Hadoop was emerging as potential competitor/complement. Teradata focused on enterprise analytics and petabyte-scale data warehousing.",
-  "sources": ["https://6sense.com/tech/data-warehouse/teradata-market-share"]
+  "context": "Teradata Corporation is a cloud analytics and data platform company focused on enterprise data warehousing and analytics. Big data and Hadoop integration.",
+  "sources": [
+    "https://6sense.com/tech/data-warehouse/teradata-market-share"
+  ]
 }

@@ -5,13 +5,35 @@
   "search_query": "Cisco competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Juniper Networks", "notes": "Launched M40 backbone router in 1998, gained 30% of SP market share by 2000"},
-    {"name": "Nortel Networks", "notes": "Major rival in network equipment market, distant No. 2 or No. 3 to Cisco in enterprise networking"},
-    {"name": "Lucent Technologies", "notes": "Top three competitors in the network equipment market"},
-    {"name": "3Com", "notes": "Enterprise rival competing in routing and switching"},
-    {"name": "Bay Networks", "notes": "Formed from merger of SynOptics and Wellfleet, later acquired by Nortel"},
-    {"name": "Cabletron", "notes": "Enterprise rival in routing and switching markets"}
+    {
+      "name": "Juniper Networks",
+      "notes": "Launched M40 backbone router in 1998, gained 30% of SP market share by 2000"
+    },
+    {
+      "name": "Nortel Networks",
+      "notes": "Major rival in network equipment market, distant No. 2 or No. 3 to Cisco in enterprise networking"
+    },
+    {
+      "name": "Lucent Technologies",
+      "notes": "Top three competitors in the network equipment market"
+    },
+    {
+      "name": "3Com",
+      "notes": "Enterprise rival competing in routing and switching"
+    },
+    {
+      "name": "Bay Networks",
+      "notes": "Formed from merger of SynOptics and Wellfleet, later acquired by Nortel"
+    },
+    {
+      "name": "Cabletron",
+      "notes": "Enterprise rival in routing and switching markets"
+    }
   ],
-  "context": "In 2000, Cisco was at the height of the dot-com bubble and became the most valuable company in the world with market cap over $500 billion. It was 'Cisco vs. everybody else' in the network equipment market.",
-  "sources": ["https://www.cnn.com/2000/TECH/computing/01/07/cisco.fight.idg/index.html", "https://www.networkworld.com/article/816281/lan-wan-cisco-vs-bay-3com-cabletron-juniper.html", "https://en.wikipedia.org/wiki/Cisco"]
+  "context": "Cisco Systems, Inc. is a networking and communications technology company focused on network infrastructure, security, and collaboration solutions. Briefly most valuable company during dot-com peak. Router/switch dominance.",
+  "sources": [
+    "https://www.cnn.com/2000/TECH/computing/01/07/cisco.fight.idg/index.html",
+    "https://www.networkworld.com/article/816281/lan-wan-cisco-vs-bay-3com-cabletron-juniper.html",
+    "https://en.wikipedia.org/wiki/Cisco"
+  ]
 }

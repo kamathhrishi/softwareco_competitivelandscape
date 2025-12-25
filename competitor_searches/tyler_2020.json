@@ -5,12 +5,30 @@
   "search_query": "Tyler Technologies government software competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Oracle", "notes": "Enterprise solutions for government with broad application suite"},
-    {"name": "SAP", "notes": "Enterprise ERP with public sector capabilities"},
-    {"name": "CentralSquare Technologies", "notes": "Public safety and administration software, formed from Superion and Aptean merger"},
-    {"name": "Accela", "notes": "Civic engagement and government management software"},
-    {"name": "Granicus", "notes": "Government communications and engagement platform"}
+    {
+      "name": "Oracle",
+      "notes": "Enterprise solutions for government with broad application suite"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise ERP with public sector capabilities"
+    },
+    {
+      "name": "CentralSquare Technologies",
+      "notes": "Public safety and administration software, formed from Superion and Aptean merger"
+    },
+    {
+      "name": "Accela",
+      "notes": "Civic engagement and government management software"
+    },
+    {
+      "name": "Granicus",
+      "notes": "Government communications and engagement platform"
+    }
   ],
-  "context": "In 2020, Tyler Technologies maintained leadership in state and local government software. The pandemic accelerated government digital transformation and cloud adoption. CentralSquare Technologies, formed from the 2018 merger of Superion and TriTech Software, was a key competitor in public safety software. Tyler's acquisition strategy continued to expand its comprehensive government solution suite. The shift to remote government services created new opportunities for cloud-based solutions.",
-  "sources": ["https://craft.co/tyler-technologies/competitors", "https://www.gartner.com/reviews/market/erp-for-government"]
+  "context": "Tyler Technologies, Inc. is a government software company focused on software for local government, courts, and public safety. NIC acquisition for digital government services.",
+  "sources": [
+    "https://craft.co/tyler-technologies/competitors",
+    "https://www.gartner.com/reviews/market/erp-for-government"
+  ]
 }

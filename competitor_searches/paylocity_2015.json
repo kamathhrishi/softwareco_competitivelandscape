@@ -5,12 +5,29 @@
   "search_query": "Paylocity payroll HR competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Paycom", "notes": "Primary competitor in cloud-based HCM"},
-    {"name": "ADP", "notes": "Market leader in payroll services"},
-    {"name": "Paychex", "notes": "Major payroll and HR services provider"},
-    {"name": "Ultimate Software", "notes": "Cloud HCM platform for enterprises"},
-    {"name": "Ceridian", "notes": "HR and payroll solutions with Dayforce"}
+    {
+      "name": "Paycom",
+      "notes": "Primary competitor in cloud-based HCM"
+    },
+    {
+      "name": "ADP",
+      "notes": "Market leader in payroll services"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll and HR services provider"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud HCM platform for enterprises"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "HR and payroll solutions with Dayforce"
+    }
   ],
-  "context": "In 2015, Paylocity had recently IPO'd (March 2014) and competed with Paycom in the cloud HCM mid-market. The company focused on modern user experience and client service. Traditional payroll giants ADP and Paychex were migrating customers to cloud solutions. Ultimate Software and Ceridian were growing cloud HCM competitors. Market dynamics favored cloud-native platforms over legacy on-premises systems.",
-  "sources": ["https://craft.co/paylocity/competitors"]
+  "context": "Paylocity Holding Corporation is a cloud HCM software company focused on payroll, HR, benefits, and workforce management for mid-market. IPO. Benefits administration and talent management.",
+  "sources": [
+    "https://craft.co/paylocity/competitors"
+  ]
 }

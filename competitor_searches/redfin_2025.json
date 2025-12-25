@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Redfin competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Redfin offers discounted brokerage services leveraging technology and salaried agents. Post-NAR settlement, the company's transparent pricing model may benefit from industry changes.",
+  "context": "Redfin Corporation is a technology-powered real estate brokerage focused on real estate brokerage, iBuying, and mortgage services. Tech brokerage leader. Competing with traditional agents, Zillow.",
   "competitors": [
-    {"name": "Zillow", "notes": "Leading portal with agent network and mortgages"},
-    {"name": "Compass", "notes": "Tech-enabled brokerage for luxury market"},
-    {"name": "eXp Realty", "notes": "Virtual brokerage with agent ownership"},
-    {"name": "Opendoor", "notes": "iBuyer and home transaction services"},
-    {"name": "Traditional Brokerages", "notes": "Established real estate companies"},
-    {"name": "Homes.com (CoStar)", "notes": "Growing portal with agent services"},
-    {"name": "Rocket Homes", "notes": "Integrated with Rocket mortgage"},
-    {"name": "Clever Real Estate", "notes": "Discount agent matching service"}
+    {
+      "name": "Zillow",
+      "notes": "Leading portal with agent network and mortgages"
+    },
+    {
+      "name": "Compass",
+      "notes": "Tech-enabled brokerage for luxury market"
+    },
+    {
+      "name": "eXp Realty",
+      "notes": "Virtual brokerage with agent ownership"
+    },
+    {
+      "name": "Opendoor",
+      "notes": "iBuyer and home transaction services"
+    },
+    {
+      "name": "Traditional Brokerages",
+      "notes": "Established real estate companies"
+    },
+    {
+      "name": "Homes.com (CoStar)",
+      "notes": "Growing portal with agent services"
+    },
+    {
+      "name": "Rocket Homes",
+      "notes": "Integrated with Rocket mortgage"
+    },
+    {
+      "name": "Clever Real Estate",
+      "notes": "Discount agent matching service"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

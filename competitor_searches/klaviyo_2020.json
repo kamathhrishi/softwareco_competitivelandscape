@@ -5,17 +5,51 @@
   "search_query": "Klaviyo email marketing competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Omnisend", "notes": "Most direct Klaviyo competitor for ecommerce, combines email, SMS, web push, and automations; easier to use and cheaper"},
-    {"name": "Mailchimp", "notes": "Most popular email marketing solution for ecommerce brands with simple functionality and strong market dominance"},
-    {"name": "ActiveCampaign", "notes": "Full-service marketing automation platform with easy-to-use email editor and advanced ecommerce features"},
-    {"name": "Drip", "notes": "Ecommerce marketing platform for email & SMS (acquired by Redbrick in 2020)"},
-    {"name": "Shopify Email", "notes": "Native Shopify email marketing solution for ecommerce stores"},
-    {"name": "GetResponse", "notes": "Omnichannel marketing platform with email, SMS, landing pages, and webinars"},
-    {"name": "HubSpot", "notes": "Comprehensive platform with CRM functionality, broader ecosystem than Klaviyo's ecommerce focus"},
-    {"name": "MailerLite", "notes": "Affordable email marketing alternative"},
-    {"name": "Brevo", "notes": "Affordable option suitable for small businesses and creators"},
-    {"name": "Yotpo", "notes": "Acquired SMSBump in 2020 and Swell Rewards in 2018, expanding into ecommerce marketing space"}
+    {
+      "name": "Omnisend",
+      "notes": "Most direct Klaviyo competitor for ecommerce, combines email, SMS, web push, and automations; easier to use and cheaper"
+    },
+    {
+      "name": "Mailchimp",
+      "notes": "Most popular email marketing solution for ecommerce brands with simple functionality and strong market dominance"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "Full-service marketing automation platform with easy-to-use email editor and advanced ecommerce features"
+    },
+    {
+      "name": "Drip",
+      "notes": "Ecommerce marketing platform for email & SMS (acquired by Redbrick in 2020)"
+    },
+    {
+      "name": "Shopify Email",
+      "notes": "Native Shopify email marketing solution for ecommerce stores"
+    },
+    {
+      "name": "GetResponse",
+      "notes": "Omnichannel marketing platform with email, SMS, landing pages, and webinars"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Comprehensive platform with CRM functionality, broader ecosystem than Klaviyo's ecommerce focus"
+    },
+    {
+      "name": "MailerLite",
+      "notes": "Affordable email marketing alternative"
+    },
+    {
+      "name": "Brevo",
+      "notes": "Affordable option suitable for small businesses and creators"
+    },
+    {
+      "name": "Yotpo",
+      "notes": "Acquired SMSBump in 2020 and Swell Rewards in 2018, expanding into ecommerce marketing space"
+    }
   ],
-  "context": "By 2020, the ecommerce email marketing landscape had evolved significantly with increased focus on omnichannel approaches (email + SMS + push notifications). Klaviyo faced competition from established players like Mailchimp and ActiveCampaign, as well as specialized ecommerce competitors like Omnisend and Drip. The market saw consolidation with Drip being acquired by Redbrick in 2020. SMS marketing was becoming increasingly important.",
-  "sources": ["https://targetbay.com/klaviyo-alternatives/", "https://www.campaignmonitor.com/blog/email-marketing/klaviyo-alternatives/", "https://www.emailvendorselection.com/klaviyo-alternatives/"]
+  "context": "Klaviyo, Inc. is a marketing automation platform focused on email and SMS marketing for e-commerce. E-commerce boom drove growth. Customer data platform.",
+  "sources": [
+    "https://targetbay.com/klaviyo-alternatives/",
+    "https://www.campaignmonitor.com/blog/email-marketing/klaviyo-alternatives/",
+    "https://www.emailvendorselection.com/klaviyo-alternatives/"
+  ]
 }

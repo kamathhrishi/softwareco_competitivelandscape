@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "CoreWeave competitors 2025",
   "search_date": "2024-12-24",
-  "context": "CoreWeave went public in 2025, becoming a major AI infrastructure company. The company operates massive GPU clusters with NVIDIA H100 and Blackwell chips, serving AI labs and enterprises building foundation models.",
+  "context": "CoreWeave, Inc. is a GPU cloud provider focused on specialized cloud infrastructure for AI, ML, and GPU workloads. IPO preparation. Essential GPU cloud for AI training and inference.",
   "competitors": [
-    {"name": "Amazon Web Services", "notes": "Dominant cloud with Trainium/Inferentia chips and NVIDIA GPUs"},
-    {"name": "Microsoft Azure", "notes": "Cloud partner with OpenAI, massive GPU infrastructure investments"},
-    {"name": "Google Cloud", "notes": "TPU and GPU cloud with Gemini AI integration"},
-    {"name": "Oracle Cloud", "notes": "Aggressive AI cloud expansion with NVIDIA partnership"},
-    {"name": "Lambda Labs", "notes": "Focused GPU cloud for AI training"},
-    {"name": "Together AI", "notes": "AI inference and training platform"},
-    {"name": "Crusoe Energy", "notes": "Climate-focused AI cloud infrastructure"},
-    {"name": "Nebius", "notes": "AI cloud from Yandex spinoff with European focus"}
+    {
+      "name": "Amazon Web Services",
+      "notes": "Dominant cloud with Trainium/Inferentia chips and NVIDIA GPUs"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Cloud partner with OpenAI, massive GPU infrastructure investments"
+    },
+    {
+      "name": "Google Cloud",
+      "notes": "TPU and GPU cloud with Gemini AI integration"
+    },
+    {
+      "name": "Oracle Cloud",
+      "notes": "Aggressive AI cloud expansion with NVIDIA partnership"
+    },
+    {
+      "name": "Lambda Labs",
+      "notes": "Focused GPU cloud for AI training"
+    },
+    {
+      "name": "Together AI",
+      "notes": "AI inference and training platform"
+    },
+    {
+      "name": "Crusoe Energy",
+      "notes": "Climate-focused AI cloud infrastructure"
+    },
+    {
+      "name": "Nebius",
+      "notes": "AI cloud from Yandex spinoff with European focus"
+    }
   ],
-  "sources": ["Cloud infrastructure analysis"]
+  "sources": [
+    "Cloud infrastructure analysis"
+  ]
 }

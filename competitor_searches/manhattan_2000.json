@@ -5,11 +5,29 @@
   "search_query": "Manhattan Associates supply chain WMS competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "SAP", "notes": "Major ERP and supply chain software provider with warehouse logistics solutions"},
-    {"name": "Oracle", "notes": "Enterprise software provider with warehouse management capabilities"},
-    {"name": "i2 Technologies", "notes": "Supply chain planning and optimization software (later acquired by JDA in 2010)"},
-    {"name": "RedPrairie", "notes": "WMS and supply chain execution software provider"}
+    {
+      "name": "SAP",
+      "notes": "Major ERP and supply chain software provider with warehouse logistics solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software provider with warehouse management capabilities"
+    },
+    {
+      "name": "i2 Technologies",
+      "notes": "Supply chain planning and optimization software (later acquired by JDA in 2010)"
+    },
+    {
+      "name": "RedPrairie",
+      "notes": "WMS and supply chain execution software provider"
+    }
   ],
-  "context": "In the early 2000s, the WMS market was dominated by large ERP vendors like SAP and Oracle, along with specialized supply chain software providers. Manhattan Associates was emerging as a key player in warehouse management systems. The market was characterized by on-premise software solutions, and Manhattan was competing against both enterprise resource planning vendors extending into logistics and dedicated supply chain software companies. Historical data from this period is limited, but major players included SAP, Oracle, i2 Technologies, and RedPrairie.",
-  "sources": ["https://www.manh.com/", "https://www.g2.com/products/manhattan-active-warehouse-management/competitors/alternatives", "https://www.peerspot.com/products/manhattan-associates-warehouse-management-alternatives-and-competitors", "https://6sense.com/tech/supply-chain-management/manhattan-associates-market-share", "https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/manhattan-associates/alternatives"]
+  "context": "Manhattan Associates, Inc. is a supply chain and omnichannel software company focused on warehouse management, transportation, and retail solutions. Warehouse management system leader.",
+  "sources": [
+    "https://www.manh.com/",
+    "https://www.g2.com/products/manhattan-active-warehouse-management/competitors/alternatives",
+    "https://www.peerspot.com/products/manhattan-associates-warehouse-management-alternatives-and-competitors",
+    "https://6sense.com/tech/supply-chain-management/manhattan-associates-market-share",
+    "https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/manhattan-associates/alternatives"
+  ]
 }

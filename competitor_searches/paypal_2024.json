@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "PayPal competitors 2024",
   "search_date": "2024-12-24",
-  "context": "PayPal faced growth challenges and leadership changes. New CEO Alex Chriss focused on innovation with Fastlane checkout and AI features while Venmo monetization improved.",
+  "context": "PayPal Holdings, Inc. is a digital payments company focused on online payments, Venmo, Braintree, and merchant services. Venmo monetization. Fastlane checkout. PYUSD stablecoin.",
   "competitors": [
-    {"name": "Apple Pay", "notes": "Growing wallet with Tap to Pay and online checkout"},
-    {"name": "Block (Square)", "notes": "Cash App and Square competing across payments"},
-    {"name": "Stripe", "notes": "Leading payment infrastructure for internet businesses"},
-    {"name": "Adyen", "notes": "Unified commerce platform for enterprises"},
-    {"name": "Klarna", "notes": "BNPL leader expanding into broader payments"},
-    {"name": "Affirm", "notes": "BNPL competitor with Amazon partnership"},
-    {"name": "Shopify Payments", "notes": "Integrated payments for Shopify merchants"},
-    {"name": "Zelle", "notes": "Bank P2P network with higher volume than Venmo"}
+    {
+      "name": "Apple Pay",
+      "notes": "Growing wallet with Tap to Pay and online checkout"
+    },
+    {
+      "name": "Block (Square)",
+      "notes": "Cash App and Square competing across payments"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Leading payment infrastructure for internet businesses"
+    },
+    {
+      "name": "Adyen",
+      "notes": "Unified commerce platform for enterprises"
+    },
+    {
+      "name": "Klarna",
+      "notes": "BNPL leader expanding into broader payments"
+    },
+    {
+      "name": "Affirm",
+      "notes": "BNPL competitor with Amazon partnership"
+    },
+    {
+      "name": "Shopify Payments",
+      "notes": "Integrated payments for Shopify merchants"
+    },
+    {
+      "name": "Zelle",
+      "notes": "Bank P2P network with higher volume than Venmo"
+    }
   ],
-  "sources": ["Payments industry analysis"]
+  "sources": [
+    "Payments industry analysis"
+  ]
 }

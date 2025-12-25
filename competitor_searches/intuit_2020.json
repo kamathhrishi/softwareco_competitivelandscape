@@ -5,17 +5,51 @@
   "search_query": "Intuit TurboTax QuickBooks competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Xero", "notes": "Major cloud accounting competitor, strong globally for SMBs"},
-    {"name": "FreshBooks", "notes": "Cloud accounting for service businesses, freelancers, entrepreneurs"},
-    {"name": "Wave Financial", "notes": "Free accounting software with invoicing and reporting (acquired by H&R Block in 2020)"},
-    {"name": "H&R Block", "notes": "Top tax preparation competitor with 12,000+ physical locations, acquired Wave"},
-    {"name": "TaxACT", "notes": "Best tax software for independent contractors, founded 1998"},
-    {"name": "Credit Karma", "notes": "Free tax filing competitor (acquired by Intuit for $7B in 2020)"},
-    {"name": "Sage 50cloud", "notes": "Small business accounting solution"},
-    {"name": "Anrok", "notes": "QuickBooks competitor in accounting space"},
-    {"name": "Ember", "notes": "QuickBooks competitor"},
-    {"name": "Autobooks", "notes": "QuickBooks competitor"}
+    {
+      "name": "Xero",
+      "notes": "Major cloud accounting competitor, strong globally for SMBs"
+    },
+    {
+      "name": "FreshBooks",
+      "notes": "Cloud accounting for service businesses, freelancers, entrepreneurs"
+    },
+    {
+      "name": "Wave Financial",
+      "notes": "Free accounting software with invoicing and reporting (acquired by H&R Block in 2020)"
+    },
+    {
+      "name": "H&R Block",
+      "notes": "Top tax preparation competitor with 12,000+ physical locations, acquired Wave"
+    },
+    {
+      "name": "TaxACT",
+      "notes": "Best tax software for independent contractors, founded 1998"
+    },
+    {
+      "name": "Credit Karma",
+      "notes": "Free tax filing competitor (acquired by Intuit for $7B in 2020)"
+    },
+    {
+      "name": "Sage 50cloud",
+      "notes": "Small business accounting solution"
+    },
+    {
+      "name": "Anrok",
+      "notes": "QuickBooks competitor in accounting space"
+    },
+    {
+      "name": "Ember",
+      "notes": "QuickBooks competitor"
+    },
+    {
+      "name": "Autobooks",
+      "notes": "QuickBooks competitor"
+    }
   ],
-  "context": "2020 was transformative for Intuit. The company acquired Credit Karma for over $7 billion. H&R Block acquired Wave Financial. The accounting software market was fully cloud-based.",
-  "sources": ["https://thebrandhopper.com/2024/07/07/exploring-intuit-top-competitors-alternatives/", "https://www.cbinsights.com/company/intuit-quickbooks/alternatives-competitors", "https://whatcompetitors.com/intuit/"]
+  "context": "Intuit Inc. is a financial software company focused on TurboTax, QuickBooks, Credit Karma, and Mailchimp. Acquired Credit Karma for $7.1B and Mailchimp for $12B.",
+  "sources": [
+    "https://thebrandhopper.com/2024/07/07/exploring-intuit-top-competitors-alternatives/",
+    "https://www.cbinsights.com/company/intuit-quickbooks/alternatives-competitors",
+    "https://whatcompetitors.com/intuit/"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Airbnb competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Airbnb went public in December 2020 despite pandemic devastation to travel. The company pivoted to long-term stays and local travel, emerging stronger as travelers preferred private accommodations.",
+  "context": "Airbnb, Inc. is a online marketplace for short-term lodging and experiences focused on vacation rentals, unique stays, and travel experiences. COVID-19 initially devastated bookings, then recovered with domestic travel and longer stays.",
   "competitors": [
-    {"name": "Vrbo (Expedia)", "notes": "Vacation rental platform focused on family travel and whole homes"},
-    {"name": "Booking.com", "notes": "OTA with massive vacation rental inventory competing globally"},
-    {"name": "Marriott Homes & Villas", "notes": "Hotel chain's premium home rental offering"},
-    {"name": "Sonder", "notes": "Professionally managed apartment rentals"},
-    {"name": "Vacasa", "notes": "Vacation rental management company with large inventory"},
-    {"name": "Hotels", "notes": "Traditional hotels adapting with enhanced cleaning protocols"},
-    {"name": "Hipcamp", "notes": "Camping and glamping accommodations platform"},
-    {"name": "Getaway", "notes": "Cabin rental company for nature escapes"}
+    {
+      "name": "Vrbo (Expedia)",
+      "notes": "Vacation rental platform focused on family travel and whole homes"
+    },
+    {
+      "name": "Booking.com",
+      "notes": "OTA with massive vacation rental inventory competing globally"
+    },
+    {
+      "name": "Marriott Homes & Villas",
+      "notes": "Hotel chain's premium home rental offering"
+    },
+    {
+      "name": "Sonder",
+      "notes": "Professionally managed apartment rentals"
+    },
+    {
+      "name": "Vacasa",
+      "notes": "Vacation rental management company with large inventory"
+    },
+    {
+      "name": "Hotels",
+      "notes": "Traditional hotels adapting with enhanced cleaning protocols"
+    },
+    {
+      "name": "Hipcamp",
+      "notes": "Camping and glamping accommodations platform"
+    },
+    {
+      "name": "Getaway",
+      "notes": "Cabin rental company for nature escapes"
+    }
   ],
-  "sources": ["Travel and hospitality industry analysis"]
+  "sources": [
+    "Travel and hospitality industry analysis"
+  ]
 }

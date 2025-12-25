@@ -5,10 +5,23 @@
   "search_query": "AMD CPU GPU competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Intel", "notes": "Primary CPU competitor. Intel had Pentium 4 and Pentium D processors. AMD released first dual-core Opteron (April 2005) and Athlon 64 X2 (May 2005)"},
-    {"name": "NVIDIA", "notes": "GPU market competitor (AMD not yet in GPU market). NVIDIA dominated graphics cards"},
-    {"name": "ATI Technologies", "notes": "GPU market competitor. Major graphics card manufacturer that AMD would acquire in 2006"}
+    {
+      "name": "Intel",
+      "notes": "Primary CPU competitor. Intel had Pentium 4 and Pentium D processors. AMD released first dual-core Opteron (April 2005) and Athlon 64 X2 (May 2005)"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "GPU market competitor (AMD not yet in GPU market). NVIDIA dominated graphics cards"
+    },
+    {
+      "name": "ATI Technologies",
+      "notes": "GPU market competitor. Major graphics card manufacturer that AMD would acquire in 2006"
+    }
   ],
-  "context": "In 2005, AMD made significant advances in CPU technology. On April 21, 2005, AMD released the first dual-core Opteron. A month later, the Athlon 64 X2, the first desktop-based dual-core processor family. AMD would acquire ATI in 2006, gaining Radeon graphics cards.",
-  "sources": ["https://en.wikipedia.org/wiki/AMD", "https://www.tomshardware.com/reviews/mother-cpu-charts-2005,1175.html", "https://www.microchipusa.com/articles/the-history-of-amd-a-complete-overview"]
+  "context": "Advanced Micro Devices, Inc. is a semiconductor company designing CPUs, GPUs, and data center chips focused on processors for PCs, gaming, data centers, and embedded systems. Launched dual-core Athlon 64 X2. Acquired ATI Technologies for $5.4B to compete in graphics.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/AMD",
+    "https://www.tomshardware.com/reviews/mother-cpu-charts-2005,1175.html",
+    "https://www.microchipusa.com/articles/the-history-of-amd-a-complete-overview"
+  ]
 }

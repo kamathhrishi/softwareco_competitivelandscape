@@ -4,16 +4,42 @@
   "year": 2005,
   "search_query": "Cognizant competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Cognizant was one of the fastest-growing IT services companies in 2005, expanding beyond traditional ADM into BPO, consulting, and industry-specific solutions. Healthcare and financial services were key verticals.",
+  "context": "Cognizant Technology Solutions is a IT services and consulting company focused on digital transformation, technology consulting, and outsourcing. Expanding digital and consulting practices. Healthcare vertical strength.",
   "competitors": [
-    {"name": "Infosys", "notes": "Primary competitor among Indian IT services firms"},
-    {"name": "Wipro", "notes": "Indian IT services and BPO competitor"},
-    {"name": "TCS", "notes": "Largest Indian IT services company by revenue"},
-    {"name": "Accenture", "notes": "Global consulting and technology leader"},
-    {"name": "IBM Global Services", "notes": "Major IT services with strong enterprise relationships"},
-    {"name": "Capgemini", "notes": "European IT services and consulting competitor"},
-    {"name": "HCL Technologies", "notes": "Indian IT services competitor growing in infrastructure"},
-    {"name": "Satyam", "notes": "Indian IT services competitor with strong US presence"}
+    {
+      "name": "Infosys",
+      "notes": "Primary competitor among Indian IT services firms"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services and BPO competitor"
+    },
+    {
+      "name": "TCS",
+      "notes": "Largest Indian IT services company by revenue"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Global consulting and technology leader"
+    },
+    {
+      "name": "IBM Global Services",
+      "notes": "Major IT services with strong enterprise relationships"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "European IT services and consulting competitor"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "Indian IT services competitor growing in infrastructure"
+    },
+    {
+      "name": "Satyam",
+      "notes": "Indian IT services competitor with strong US presence"
+    }
   ],
-  "sources": ["Historical IT services industry analysis"]
+  "sources": [
+    "Historical IT services industry analysis"
+  ]
 }

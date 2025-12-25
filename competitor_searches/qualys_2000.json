@@ -5,9 +5,18 @@
   "search_query": "Qualys vulnerability management competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Internet Security Systems (ISS)", "notes": "Early vulnerability scanning competitor"},
-    {"name": "Nessus", "notes": "One of the first vulnerability scanners, open-source project started 1998"}
+    {
+      "name": "Internet Security Systems (ISS)",
+      "notes": "Early vulnerability scanning competitor"
+    },
+    {
+      "name": "Nessus",
+      "notes": "One of the first vulnerability scanners, open-source project started 1998"
+    }
   ],
-  "context": "The vulnerability management market was very nascent in 2000, just one year after Qualys launched in 1999. The industry was in early stages with limited competitors. Most vulnerability assessment was done with on-premises tools. Qualys pioneered the cloud-based security model.",
-  "sources": ["https://www.secopsolution.com/blog/top-10-qualys-alternatives", "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives"]
+  "context": "Qualys, Inc. is a cloud security and compliance company focused on vulnerability management, compliance, and web app security. Founded for vulnerability scanning as a service.",
+  "sources": [
+    "https://www.secopsolution.com/blog/top-10-qualys-alternatives",
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives"
+  ]
 }

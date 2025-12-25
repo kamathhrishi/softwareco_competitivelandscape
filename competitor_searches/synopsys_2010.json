@@ -5,10 +5,22 @@
   "search_query": "Synopsys chip design competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cadence Design Systems", "notes": "Primary competitor offering comprehensive suite of EDA tools and IP products"},
-    {"name": "Mentor Graphics", "notes": "Major competitor providing EDA software and hardware solutions, later acquired by Siemens in 2017"},
-    {"name": "Magma Design Automation", "notes": "Significant competitor with patent disputes, acquired by Synopsys in 2011 for $507 million"}
+    {
+      "name": "Cadence Design Systems",
+      "notes": "Primary competitor offering comprehensive suite of EDA tools and IP products"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Major competitor providing EDA software and hardware solutions, later acquired by Siemens in 2017"
+    },
+    {
+      "name": "Magma Design Automation",
+      "notes": "Significant competitor with patent disputes, acquired by Synopsys in 2011 for $507 million"
+    }
   ],
-  "context": "In 2010, Synopsys continued to face competition from the established 'Big Three' oligopoly. The year was marked by strategic acquisitions as Synopsys acquired CoWare in February 2010 and Virage Logic later in 2010.",
-  "sources": ["https://en.wikipedia.org/wiki/Synopsys", "https://www.cbinsights.com/company/synopsys-2/alternatives-competitors"]
+  "context": "Synopsys, Inc. is a electronic design automation company focused on chip design software, IP, and software security. FPGA prototyping. Software security emerging.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synopsys",
+    "https://www.cbinsights.com/company/synopsys-2/alternatives-competitors"
+  ]
 }

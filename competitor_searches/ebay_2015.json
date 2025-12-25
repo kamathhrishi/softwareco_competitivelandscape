@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "eBay competitors 2015",
   "search_date": "2024-12-24",
-  "context": "eBay spun off PayPal as separate company. Focused on structured data, mobile, and improving buyer experience against Amazon competition.",
+  "context": "eBay Inc. is a e-commerce marketplace platform focused on online auctions, fixed-price sales, and classifieds. Spun off PayPal. Focused on core marketplace.",
   "competitors": [
-    {"name": "Amazon", "notes": "Growing marketplace dominance"},
-    {"name": "Alibaba", "notes": "Chinese e-commerce giant IPO'd"},
-    {"name": "Etsy", "notes": "IPO'd, handmade focus"},
-    {"name": "Walmart", "notes": "E-commerce investments"},
-    {"name": "Rakuten", "notes": "Japanese marketplace"},
-    {"name": "Craigslist", "notes": "Local classifieds"},
-    {"name": "Mercari", "notes": "Japanese resale app"},
-    {"name": "Bonanza", "notes": "Marketplace alternative"}
+    {
+      "name": "Amazon",
+      "notes": "Growing marketplace dominance"
+    },
+    {
+      "name": "Alibaba",
+      "notes": "Chinese e-commerce giant IPO'd"
+    },
+    {
+      "name": "Etsy",
+      "notes": "IPO'd, handmade focus"
+    },
+    {
+      "name": "Walmart",
+      "notes": "E-commerce investments"
+    },
+    {
+      "name": "Rakuten",
+      "notes": "Japanese marketplace"
+    },
+    {
+      "name": "Craigslist",
+      "notes": "Local classifieds"
+    },
+    {
+      "name": "Mercari",
+      "notes": "Japanese resale app"
+    },
+    {
+      "name": "Bonanza",
+      "notes": "Marketplace alternative"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

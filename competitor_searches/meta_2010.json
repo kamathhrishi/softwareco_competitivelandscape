@@ -5,14 +5,37 @@
   "search_query": "Facebook competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Twitter", "notes": "Most direct competitor with microblogging format"},
-    {"name": "LinkedIn", "notes": "Professional networking platform"},
-    {"name": "Pinterest", "notes": "Launched in 2010, visual discovery platform"},
-    {"name": "Quora", "notes": "Q&A platform launched to public in 2010"},
-    {"name": "Diaspora", "notes": "Open-source social network developed 2010"},
-    {"name": "Google/Orkut", "notes": "Google competing through Orkut"},
-    {"name": "MySpace", "notes": "Declining from earlier dominance"}
+    {
+      "name": "Twitter",
+      "notes": "Most direct competitor with microblogging format"
+    },
+    {
+      "name": "LinkedIn",
+      "notes": "Professional networking platform"
+    },
+    {
+      "name": "Pinterest",
+      "notes": "Launched in 2010, visual discovery platform"
+    },
+    {
+      "name": "Quora",
+      "notes": "Q&A platform launched to public in 2010"
+    },
+    {
+      "name": "Diaspora",
+      "notes": "Open-source social network developed 2010"
+    },
+    {
+      "name": "Google/Orkut",
+      "notes": "Google competing through Orkut"
+    },
+    {
+      "name": "MySpace",
+      "notes": "Declining from earlier dominance"
+    }
   ],
-  "context": "Facebook became largest social network after opening to public in 2006. Pinterest and Quora launched in 2010. MySpace declining.",
-  "sources": ["https://www.marketing91.com/13-facebook-competitors/"]
+  "context": "Meta Platforms, Inc. is a social media and technology company focused on Facebook, Instagram, WhatsApp, and metaverse investments. Facebook dominant social network. 500M+ users.",
+  "sources": [
+    "https://www.marketing91.com/13-facebook-competitors/"
+  ]
 }

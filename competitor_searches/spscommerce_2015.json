@@ -5,15 +5,42 @@
   "search_query": "SPS Commerce EDI supply chain competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Sterling Commerce (IBM)", "notes": "On-premise and cloud EDI solutions"},
-    {"name": "GXS (OpenText)", "notes": "Major EDI with hybrid cloud/on-premise offerings"},
-    {"name": "TrueCommerce", "notes": "EDI compliance and trading partner connectivity"},
-    {"name": "DiCentral", "notes": "EDI and supply chain integration services"},
-    {"name": "Hewlett Packard Enterprise", "notes": "Supply chain management software"},
-    {"name": "SAP", "notes": "ERP with integrated supply chain capabilities"},
-    {"name": "Oracle", "notes": "ERP and B2B solutions for enterprises"},
-    {"name": "Cleo Integration Cloud", "notes": "Cloud-based integration for EDI and supply chain"}
+    {
+      "name": "Sterling Commerce (IBM)",
+      "notes": "On-premise and cloud EDI solutions"
+    },
+    {
+      "name": "GXS (OpenText)",
+      "notes": "Major EDI with hybrid cloud/on-premise offerings"
+    },
+    {
+      "name": "TrueCommerce",
+      "notes": "EDI compliance and trading partner connectivity"
+    },
+    {
+      "name": "DiCentral",
+      "notes": "EDI and supply chain integration services"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Supply chain management software"
+    },
+    {
+      "name": "SAP",
+      "notes": "ERP with integrated supply chain capabilities"
+    },
+    {
+      "name": "Oracle",
+      "notes": "ERP and B2B solutions for enterprises"
+    },
+    {
+      "name": "Cleo Integration Cloud",
+      "notes": "Cloud-based integration for EDI and supply chain"
+    }
   ],
-  "context": "By 2015, SPS Commerce's first-mover advantage in cloud EDI had eroded. Revenue grew from $45M (2010) to $159M (2015) at 29% CAGR, but margins cut in half due to competitive pressure. Economic earnings declined from $2M to -$4M.",
-  "sources": ["https://www.g2.com/products/sps-commerce-fulfillment-edi/competitors/alternatives", "https://seekingalpha.com/article/4004606-sps-commerce-overvalued"]
+  "context": "SPS Commerce, Inc. is a supply chain management software company focused on EDI, analytics, and retail supply chain network. Full-service EDI for retailers and suppliers.",
+  "sources": [
+    "https://www.g2.com/products/sps-commerce-fulfillment-edi/competitors/alternatives",
+    "https://seekingalpha.com/article/4004606-sps-commerce-overvalued"
+  ]
 }

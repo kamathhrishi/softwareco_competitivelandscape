@@ -4,7 +4,7 @@
   "year": 2005,
   "search_query": "Fortinet competitors 2005",
   "search_date": "2024-12-24",
-  "context": "2005 was a transformative year in the network security market, marked by significant consolidation and the emergence of next-generation firewall concepts. Fortinet, founded in 2000, was establishing itself as a unified threat management (UTM) vendor in a market dominated by established firewall and network security vendors. The year saw Juniper Networks completing its $4 billion acquisition of NetScreen Technologies in 2004 and releasing its first dedicated NAC product in late 2005. Most significantly, Palo Alto Networks was founded in 2005 by Nir Zuk (formerly of Check Point and Juniper), marking the birth of the next-generation firewall category. The market was transitioning from traditional stateful firewalls to integrated security appliances.",
+  "context": "Fortinet, Inc. is a cybersecurity company focused on network security, firewalls, and security fabric. UTM (unified threat management) market growth.",
   "competitors": [
     {
       "name": "Cisco",

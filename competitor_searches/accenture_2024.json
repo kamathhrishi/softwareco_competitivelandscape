@@ -4,26 +4,80 @@
   "year": 2024,
   "search_query": "Accenture competitors 2024",
   "search_date": "2025-12-24",
-  "context": "In 2024, Accenture operates in over 120 countries with 733,000+ employees and reported $64.11 billion in revenue. The market is characterized by intense focus on generative AI integration, cloud optimization, cybersecurity advancements, and sustainability consulting. Competition remains fierce from Big Four firms, Indian IT services giants, and specialized technology consultancies. Key trends include AI adoption, advanced data analytics, edge computing, and ESG transformation.",
+  "context": "Accenture is a global professional services and consulting firm focused on IT consulting, strategy, digital transformation, and technology services. Leading AI and generative AI consulting. Major investments in AI capabilities and partnerships.",
   "competitors": [
-    {"name": "Deloitte", "notes": "Top competitor with comprehensive consulting services spanning audit, tax, technology, and digital transformation across 150+ countries"},
-    {"name": "IBM Consulting", "notes": "Major competitor prioritizing AI, quantum computing, cloud services, and blockchain technology"},
-    {"name": "PricewaterhouseCoopers (PwC)", "notes": "Big Four firm with expanded digital strategy, risk management, and business transformation consulting"},
-    {"name": "KPMG", "notes": "Strong competitor in risk management, regulatory compliance, and technology consulting for regulated industries"},
-    {"name": "Ernst & Young (EY)", "notes": "Big Four firm with strong focus on digital transformation and emerging technology implementation"},
-    {"name": "Capgemini", "notes": "Global consulting and technology services leader with strength in digital transformation, data analytics, and AI"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Leading Indian IT services firm with strong execution capabilities and digital services"},
-    {"name": "Infosys", "notes": "Major competitor integrating AI into consulting services at scale with automation-driven efficiency"},
-    {"name": "Wipro", "notes": "Indian IT services leader with capabilities in business analytics, digital transformation, cloud, and cybersecurity"},
-    {"name": "Cognizant", "notes": "IT services firm offering digital strategy, technology consulting, and application development"},
-    {"name": "HCL Technologies", "notes": "Indian IT services company with engineering services and digital transformation capabilities"},
-    {"name": "DXC Technology", "notes": "Enterprise technology services provider with cloud and infrastructure expertise"},
-    {"name": "McKinsey & Company", "notes": "Premier strategy consulting firm with 100+ offices globally, part of 'Big Three' consultancies"},
-    {"name": "Boston Consulting Group (BCG)", "notes": "Elite strategy consulting firm with digital and technology capabilities"},
-    {"name": "Bain & Company", "notes": "Top-tier management consulting firm, part of 'Big Three'"},
-    {"name": "Oracle Consulting", "notes": "Cloud applications, infrastructure, and enterprise software consulting"},
-    {"name": "SAP Services", "notes": "Enterprise software implementation and cloud transformation services"},
-    {"name": "Microsoft Consulting", "notes": "Growing consulting practice around Azure, AI, and business applications"}
+    {
+      "name": "Deloitte",
+      "notes": "Top competitor with comprehensive consulting services spanning audit, tax, technology, and digital transformation across 150+ countries"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Major competitor prioritizing AI, quantum computing, cloud services, and blockchain technology"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC)",
+      "notes": "Big Four firm with expanded digital strategy, risk management, and business transformation consulting"
+    },
+    {
+      "name": "KPMG",
+      "notes": "Strong competitor in risk management, regulatory compliance, and technology consulting for regulated industries"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "notes": "Big Four firm with strong focus on digital transformation and emerging technology implementation"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "Global consulting and technology services leader with strength in digital transformation, data analytics, and AI"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Leading Indian IT services firm with strong execution capabilities and digital services"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Major competitor integrating AI into consulting services at scale with automation-driven efficiency"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services leader with capabilities in business analytics, digital transformation, cloud, and cybersecurity"
+    },
+    {
+      "name": "Cognizant",
+      "notes": "IT services firm offering digital strategy, technology consulting, and application development"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "Indian IT services company with engineering services and digital transformation capabilities"
+    },
+    {
+      "name": "DXC Technology",
+      "notes": "Enterprise technology services provider with cloud and infrastructure expertise"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Premier strategy consulting firm with 100+ offices globally, part of 'Big Three' consultancies"
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "notes": "Elite strategy consulting firm with digital and technology capabilities"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Top-tier management consulting firm, part of 'Big Three'"
+    },
+    {
+      "name": "Oracle Consulting",
+      "notes": "Cloud applications, infrastructure, and enterprise software consulting"
+    },
+    {
+      "name": "SAP Services",
+      "notes": "Enterprise software implementation and cloud transformation services"
+    },
+    {
+      "name": "Microsoft Consulting",
+      "notes": "Growing consulting practice around Azure, AI, and business applications"
+    }
   ],
   "sources": [
     "https://www.1840andco.com/blog/accenture-competitors",

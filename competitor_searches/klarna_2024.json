@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Klarna competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Klarna achieved profitability and prepared for US IPO. The company aggressively adopted AI, replacing hundreds of customer service roles with AI chatbots while expanding product offerings.",
+  "context": "Klarna Bank AB is a buy now, pay later fintech company focused on installment payments, shopping app, and merchant services. Valuation reset. Profitability focus. AI efficiency.",
   "competitors": [
-    {"name": "Affirm", "notes": "Leading US BNPL provider"},
-    {"name": "Afterpay", "notes": "Block-owned BNPL service"},
-    {"name": "PayPal Pay Later", "notes": "Integrated BNPL in PayPal ecosystem"},
-    {"name": "Apple Pay Later", "notes": "Apple's BNPL launched 2023"},
-    {"name": "Zip", "notes": "Global BNPL competitor"},
-    {"name": "Sezzle", "notes": "Gen Z focused BNPL"},
-    {"name": "Splitit", "notes": "Credit card based installments"},
-    {"name": "Traditional Credit", "notes": "Banks and credit card issuers"}
+    {
+      "name": "Affirm",
+      "notes": "Leading US BNPL provider"
+    },
+    {
+      "name": "Afterpay",
+      "notes": "Block-owned BNPL service"
+    },
+    {
+      "name": "PayPal Pay Later",
+      "notes": "Integrated BNPL in PayPal ecosystem"
+    },
+    {
+      "name": "Apple Pay Later",
+      "notes": "Apple's BNPL launched 2023"
+    },
+    {
+      "name": "Zip",
+      "notes": "Global BNPL competitor"
+    },
+    {
+      "name": "Sezzle",
+      "notes": "Gen Z focused BNPL"
+    },
+    {
+      "name": "Splitit",
+      "notes": "Credit card based installments"
+    },
+    {
+      "name": "Traditional Credit",
+      "notes": "Banks and credit card issuers"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

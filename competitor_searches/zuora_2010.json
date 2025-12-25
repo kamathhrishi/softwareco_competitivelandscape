@@ -5,12 +5,31 @@
   "search_query": "Zuora subscription billing competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Oracle", "notes": "Enterprise software company with billing and ERP solutions"},
-    {"name": "SAP", "notes": "German multinational with ERP and enterprise billing capabilities"},
-    {"name": "NetSuite", "notes": "Cloud-based ERP with billing functionality (later acquired by Oracle in 2016)"},
-    {"name": "Aria Systems", "notes": "Cloud-based billing platform for subscription and usage-based billing"},
-    {"name": "Salesforce", "notes": "CRM platform beginning to offer billing capabilities"}
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software company with billing and ERP solutions"
+    },
+    {
+      "name": "SAP",
+      "notes": "German multinational with ERP and enterprise billing capabilities"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Cloud-based ERP with billing functionality (later acquired by Oracle in 2016)"
+    },
+    {
+      "name": "Aria Systems",
+      "notes": "Cloud-based billing platform for subscription and usage-based billing"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "CRM platform beginning to offer billing capabilities"
+    }
   ],
-  "context": "In 2010, Zuora was still in its early growth phase, having just raised $20 million in Series C funding. The subscription billing market was nascent, with most competition coming from traditional ERP vendors (Oracle, SAP, NetSuite) that offered billing modules as part of broader enterprise systems. Purpose-built subscription billing platforms were rare. Zuora was founded in 2007 by former WebEx engineers and a Salesforce executive, positioning itself as a pioneer in cloud-based subscription management.",
-  "sources": ["https://en.wikipedia.org/wiki/Zuora", "https://attrock.com/blog/zuora-competitors/", "https://www.zoneandco.com/articles/zuora-competitors-top-16-alternatives-to-consider"]
+  "context": "Zuora, Inc. is a subscription management platform company focused on billing, revenue recognition, and subscription analytics. Subscription economy pioneer.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zuora",
+    "https://attrock.com/blog/zuora-competitors/",
+    "https://www.zoneandco.com/articles/zuora-competitors-top-16-alternatives-to-consider"
+  ]
 }

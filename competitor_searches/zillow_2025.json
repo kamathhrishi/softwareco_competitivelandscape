@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Zillow competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Zillow is the most visited real estate website in the US with 200M+ monthly visitors. The company focuses on housing super app vision with rentals, mortgages, and agent connections.",
+  "context": "Zillow Group, Inc. is a real estate technology company focused on real estate marketplace, rentals, and home services. Real estate platform leader. Competing with Redfin, CoStar.",
   "competitors": [
-    {"name": "Realtor.com", "notes": "Major portal with industry backing"},
-    {"name": "CoStar/Homes.com", "notes": "Aggressive expansion into residential"},
-    {"name": "Redfin", "notes": "Tech brokerage with commission savings"},
-    {"name": "Rocket Companies", "notes": "Mortgage leader with real estate expansion"},
-    {"name": "Opendoor", "notes": "iBuyer and real estate services"},
-    {"name": "Apartments.com", "notes": "Leading rental platform from CoStar"},
-    {"name": "Compass", "notes": "Tech-enabled luxury brokerage"},
-    {"name": "Traditional Agents", "notes": "NAR-affiliated brokerages"}
+    {
+      "name": "Realtor.com",
+      "notes": "Major portal with industry backing"
+    },
+    {
+      "name": "CoStar/Homes.com",
+      "notes": "Aggressive expansion into residential"
+    },
+    {
+      "name": "Redfin",
+      "notes": "Tech brokerage with commission savings"
+    },
+    {
+      "name": "Rocket Companies",
+      "notes": "Mortgage leader with real estate expansion"
+    },
+    {
+      "name": "Opendoor",
+      "notes": "iBuyer and real estate services"
+    },
+    {
+      "name": "Apartments.com",
+      "notes": "Leading rental platform from CoStar"
+    },
+    {
+      "name": "Compass",
+      "notes": "Tech-enabled luxury brokerage"
+    },
+    {
+      "name": "Traditional Agents",
+      "notes": "NAR-affiliated brokerages"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Teladoc competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Teladoc saw massive growth during pandemic as telehealth became essential. The company acquired Livongo for $18.5B to expand into chronic care management and digital health.",
+  "context": "Teladoc Health, Inc. is a virtual healthcare company focused on telehealth, chronic care management, and mental health. COVID drove telehealth adoption. Merged with Livongo.",
   "competitors": [
-    {"name": "Amwell (American Well)", "notes": "Telehealth platform competing for health system partnerships"},
-    {"name": "MDLive", "notes": "Virtual care provider later acquired by Cigna"},
-    {"name": "Doctor on Demand", "notes": "Telehealth provider merged with Grand Rounds"},
-    {"name": "Doxy.me", "notes": "Simple telehealth video platform"},
-    {"name": "Health system telehealth", "notes": "Epic MyChart, health systems building own capabilities"},
-    {"name": "Livongo (acquired)", "notes": "Digital chronic care management"},
-    {"name": "Omada Health", "notes": "Digital therapeutics for chronic conditions"},
-    {"name": "Ro", "notes": "Digital health company for telehealth and pharmacy"}
+    {
+      "name": "Amwell (American Well)",
+      "notes": "Telehealth platform competing for health system partnerships"
+    },
+    {
+      "name": "MDLive",
+      "notes": "Virtual care provider later acquired by Cigna"
+    },
+    {
+      "name": "Doctor on Demand",
+      "notes": "Telehealth provider merged with Grand Rounds"
+    },
+    {
+      "name": "Doxy.me",
+      "notes": "Simple telehealth video platform"
+    },
+    {
+      "name": "Health system telehealth",
+      "notes": "Epic MyChart, health systems building own capabilities"
+    },
+    {
+      "name": "Livongo (acquired)",
+      "notes": "Digital chronic care management"
+    },
+    {
+      "name": "Omada Health",
+      "notes": "Digital therapeutics for chronic conditions"
+    },
+    {
+      "name": "Ro",
+      "notes": "Digital health company for telehealth and pharmacy"
+    }
   ],
-  "sources": ["Digital health industry analysis"]
+  "sources": [
+    "Digital health industry analysis"
+  ]
 }

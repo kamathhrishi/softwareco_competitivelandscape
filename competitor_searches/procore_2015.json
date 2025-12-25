@@ -5,15 +5,42 @@
   "search_query": "Procore construction software competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk Construction Cloud", "notes": "Powerhouse offering Build, Takeoff, BIM Collaborate, and Docs products"},
-    {"name": "Oracle Primavera", "notes": "Diverse suite for project management, risk analysis and resource management"},
-    {"name": "Fieldwire", "notes": "Field construction project management solution, later acquired by Hilti"},
-    {"name": "PlanGrid", "notes": "Construction productivity software, later acquired by Autodesk"},
-    {"name": "BuildingConnected", "notes": "Construction network and preconstruction software platform"},
-    {"name": "e-Builder", "notes": "Cloud-based construction management for capital projects"},
-    {"name": "Smartsheet", "notes": "Flexible construction project management platform"},
-    {"name": "Buildertrend", "notes": "Construction management for home builders and remodelers"}
+    {
+      "name": "Autodesk Construction Cloud",
+      "notes": "Powerhouse offering Build, Takeoff, BIM Collaborate, and Docs products"
+    },
+    {
+      "name": "Oracle Primavera",
+      "notes": "Diverse suite for project management, risk analysis and resource management"
+    },
+    {
+      "name": "Fieldwire",
+      "notes": "Field construction project management solution, later acquired by Hilti"
+    },
+    {
+      "name": "PlanGrid",
+      "notes": "Construction productivity software, later acquired by Autodesk"
+    },
+    {
+      "name": "BuildingConnected",
+      "notes": "Construction network and preconstruction software platform"
+    },
+    {
+      "name": "e-Builder",
+      "notes": "Cloud-based construction management for capital projects"
+    },
+    {
+      "name": "Smartsheet",
+      "notes": "Flexible construction project management platform"
+    },
+    {
+      "name": "Buildertrend",
+      "notes": "Construction management for home builders and remodelers"
+    }
   ],
-  "context": "By 2015, Procore was an established cloud-based construction management platform competing in a growing market. The industry was transitioning from desktop to cloud-based solutions.",
-  "sources": ["https://www.g2.com/products/procore/competitors/alternatives", "https://revizto.com/en/procore-competitors-alternatives/"]
+  "context": "Procore Technologies, Inc. is a construction management software company focused on project management, financial management, and quality for construction. Expanded to financial and quality management.",
+  "sources": [
+    "https://www.g2.com/products/procore/competitors/alternatives",
+    "https://revizto.com/en/procore-competitors-alternatives/"
+  ]
 }

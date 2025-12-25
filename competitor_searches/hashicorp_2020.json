@@ -5,17 +5,50 @@
   "search_query": "HashiCorp Terraform Vault competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "CyberArk", "notes": "Primary competitor for Vault in secrets and privileged access management"},
-    {"name": "VMware", "notes": "Infrastructure and cloud management competitor"},
-    {"name": "Pulumi", "notes": "Infrastructure as code using real programming languages"},
-    {"name": "Azure Key Vault", "notes": "Microsoft's cloud-native secrets management"},
-    {"name": "AWS Secrets Manager", "notes": "Amazon's secrets management service"},
-    {"name": "CyberArk Conjur", "notes": "Open-source secrets management for DevOps"},
-    {"name": "Akeyless Vault", "notes": "Unified vault management for DevOps credentials"},
-    {"name": "Ansible", "notes": "Infrastructure automation and configuration management"},
-    {"name": "Chef", "notes": "Configuration management competitor"},
-    {"name": "Puppet", "notes": "Configuration management competitor"}
+    {
+      "name": "CyberArk",
+      "notes": "Primary competitor for Vault in secrets and privileged access management"
+    },
+    {
+      "name": "VMware",
+      "notes": "Infrastructure and cloud management competitor"
+    },
+    {
+      "name": "Pulumi",
+      "notes": "Infrastructure as code using real programming languages"
+    },
+    {
+      "name": "Azure Key Vault",
+      "notes": "Microsoft's cloud-native secrets management"
+    },
+    {
+      "name": "AWS Secrets Manager",
+      "notes": "Amazon's secrets management service"
+    },
+    {
+      "name": "CyberArk Conjur",
+      "notes": "Open-source secrets management for DevOps"
+    },
+    {
+      "name": "Akeyless Vault",
+      "notes": "Unified vault management for DevOps credentials"
+    },
+    {
+      "name": "Ansible",
+      "notes": "Infrastructure automation and configuration management"
+    },
+    {
+      "name": "Chef",
+      "notes": "Configuration management competitor"
+    },
+    {
+      "name": "Puppet",
+      "notes": "Configuration management competitor"
+    }
   ],
-  "context": "By 2020, HashiCorp was established in infrastructure automation and secrets management. Released Boundary in 2020. Cloud providers offered native alternatives (AWS Secrets Manager, Azure Key Vault). Pulumi emerged as notable Terraform competitor.",
-  "sources": ["https://www.owler.com/company/hashicorp", "https://infisical.com/blog/hashicorp-vault-alternatives"]
+  "context": "HashiCorp, Inc. is a infrastructure automation software company focused on Terraform, Vault, Consul for multi-cloud infrastructure. IPO. Multi-cloud infrastructure critical.",
+  "sources": [
+    "https://www.owler.com/company/hashicorp",
+    "https://infisical.com/blog/hashicorp-vault-alternatives"
+  ]
 }

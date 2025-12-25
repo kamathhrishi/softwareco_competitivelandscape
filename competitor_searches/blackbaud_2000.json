@@ -5,9 +5,18 @@
   "search_query": "Blackbaud nonprofit software competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Donor Management Software Vendors", "notes": "Early donor database software providers"},
-    {"name": "Custom Database Solutions", "notes": "Many nonprofits used custom-built databases or generic CRM"}
+    {
+      "name": "Donor Management Software Vendors",
+      "notes": "Early donor database software providers"
+    },
+    {
+      "name": "Custom Database Solutions",
+      "notes": "Many nonprofits used custom-built databases or generic CRM"
+    }
   ],
-  "context": "In 2000, Blackbaud (founded 1981) was among pioneering companies in nonprofit software. Raiser's Edge (launched 1988) was becoming the industry standard. Competitive landscape was limited compared to later years; cloud-based solutions and modern CRM had not yet emerged.",
-  "sources": ["https://www.bonterratech.com/blog/blackbaud-alternatives", "https://www.knack.com/blog/blackbaud-alternatives/"]
+  "context": "Blackbaud, Inc. is a software for nonprofits and social good organizations focused on fundraising, CRM, financial management, and analytics for nonprofits. Leading fundraising software for nonprofits. The Raiser's Edge dominant.",
+  "sources": [
+    "https://www.bonterratech.com/blog/blackbaud-alternatives",
+    "https://www.knack.com/blog/blackbaud-alternatives/"
+  ]
 }

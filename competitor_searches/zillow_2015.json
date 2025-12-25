@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Zillow competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Zillow acquired Trulia in 2015 to become the dominant real estate portal. The Zestimate home valuation and rental listings made Zillow the most visited real estate website.",
+  "context": "Zillow Group, Inc. is a real estate technology company focused on real estate marketplace, rentals, and home services. Acquired Trulia for $2.5B. Market dominance.",
   "competitors": [
-    {"name": "Realtor.com", "notes": "Official site of NAR with MLS listings"},
-    {"name": "Redfin", "notes": "Discount brokerage with technology focus"},
-    {"name": "Homes.com", "notes": "Real estate portal competing for listings"},
-    {"name": "Apartment.com", "notes": "Rental listings platform owned by CoStar"},
-    {"name": "Hotpads (Zillow)", "notes": "Rental platform acquired by Zillow"},
-    {"name": "Traditional Agents", "notes": "Real estate agents with local expertise"},
-    {"name": "Craigslist", "notes": "Classified ads for real estate"},
-    {"name": "Auction.com", "notes": "Foreclosure and auction listings"}
+    {
+      "name": "Realtor.com",
+      "notes": "Official site of NAR with MLS listings"
+    },
+    {
+      "name": "Redfin",
+      "notes": "Discount brokerage with technology focus"
+    },
+    {
+      "name": "Homes.com",
+      "notes": "Real estate portal competing for listings"
+    },
+    {
+      "name": "Apartment.com",
+      "notes": "Rental listings platform owned by CoStar"
+    },
+    {
+      "name": "Hotpads (Zillow)",
+      "notes": "Rental platform acquired by Zillow"
+    },
+    {
+      "name": "Traditional Agents",
+      "notes": "Real estate agents with local expertise"
+    },
+    {
+      "name": "Craigslist",
+      "notes": "Classified ads for real estate"
+    },
+    {
+      "name": "Auction.com",
+      "notes": "Foreclosure and auction listings"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

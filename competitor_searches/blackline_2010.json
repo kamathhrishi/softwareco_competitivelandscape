@@ -4,16 +4,43 @@
   "year": 2010,
   "search_query": "BlackLine competitors 2010",
   "search_date": "2024-12-24",
-  "context": "BlackLine was a growing provider of cloud-based financial close management solutions in 2010. The company was pioneering the transition from spreadsheet-based reconciliations to automated cloud solutions.",
+  "context": "BlackLine, Inc. is a cloud financial operations platform focused on accounting automation, financial close management, and intercompany solutions. Financial close management growing. Competing with manual spreadsheets.",
   "competitors": [
-    {"name": "Oracle Hyperion", "notes": "Enterprise performance management including financial close solutions"},
-    {"name": "SAP Financial Closing Cockpit", "notes": "Financial close management within SAP ecosystem"},
-    {"name": "Trintech", "notes": "Financial close and reconciliation software provider"},
-    {"name": "Spreadsheets (Excel)", "notes": "Primary competition as most companies still used manual spreadsheet processes"},
-    {"name": "IBM Cognos Controller", "notes": "Financial consolidation and close management from IBM"},
-    {"name": "FloQast", "notes": "Emerging competitor in accounting workflow automation"},
-    {"name": "Workiva", "notes": "SEC reporting and compliance platform with financial close features"},
-    {"name": "Host Analytics", "notes": "Cloud financial planning and close management"}
+    {
+      "name": "Oracle Hyperion",
+      "notes": "Enterprise performance management including financial close solutions"
+    },
+    {
+      "name": "SAP Financial Closing Cockpit",
+      "notes": "Financial close management within SAP ecosystem"
+    },
+    {
+      "name": "Trintech",
+      "notes": "Financial close and reconciliation software provider"
+    },
+    {
+      "name": "Spreadsheets (Excel)",
+      "notes": "Primary competition as most companies still used manual spreadsheet processes"
+    },
+    {
+      "name": "IBM Cognos Controller",
+      "notes": "Financial consolidation and close management from IBM"
+    },
+    {
+      "name": "FloQast",
+      "notes": "Emerging competitor in accounting workflow automation"
+    },
+    {
+      "name": "Workiva",
+      "notes": "SEC reporting and compliance platform with financial close features"
+    },
+    {
+      "name": "Host Analytics",
+      "notes": "Cloud financial planning and close management"
+    }
   ],
-  "sources": ["Industry analysis", "Financial software market research"]
+  "sources": [
+    "Industry analysis",
+    "Financial software market research"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "SoFi competitors 2020",
   "search_date": "2024-12-24",
-  "context": "SoFi was a leading fintech focused on student loan refinancing and personal loans, expanding into banking, investing, and credit cards to become a financial super-app.",
+  "context": "SoFi Technologies, Inc. is a digital financial services company focused on lending, banking, investing, and financial products. SPAC merger. Digital bank and lending platform.",
   "competitors": [
-    {"name": "LendingClub", "notes": "Personal loans marketplace, acquired Radius Bank"},
-    {"name": "Earnest", "notes": "Student loan refinancing (owned by Navient)"},
-    {"name": "Marcus (Goldman Sachs)", "notes": "Consumer banking and personal loans"},
-    {"name": "Discover", "notes": "Personal loans and student loan refinancing"},
-    {"name": "Robinhood", "notes": "Investing app competing in retail trading"},
-    {"name": "Chime", "notes": "Neobank with checking and savings accounts"},
-    {"name": "Upstart", "notes": "AI-powered personal lending platform"},
-    {"name": "CommonBond", "notes": "Student loan refinancing competitor"}
+    {
+      "name": "LendingClub",
+      "notes": "Personal loans marketplace, acquired Radius Bank"
+    },
+    {
+      "name": "Earnest",
+      "notes": "Student loan refinancing (owned by Navient)"
+    },
+    {
+      "name": "Marcus (Goldman Sachs)",
+      "notes": "Consumer banking and personal loans"
+    },
+    {
+      "name": "Discover",
+      "notes": "Personal loans and student loan refinancing"
+    },
+    {
+      "name": "Robinhood",
+      "notes": "Investing app competing in retail trading"
+    },
+    {
+      "name": "Chime",
+      "notes": "Neobank with checking and savings accounts"
+    },
+    {
+      "name": "Upstart",
+      "notes": "AI-powered personal lending platform"
+    },
+    {
+      "name": "CommonBond",
+      "notes": "Student loan refinancing competitor"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

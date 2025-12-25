@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Electronic Arts competitors 2024",
   "search_date": "2024-12-24",
-  "context": "EA is a major game publisher with EA Sports FC (formerly FIFA), Madden, The Sims, Battlefield, and Apex Legends. The company focuses on live services and mobile gaming.",
+  "context": "Electronic Arts Inc. is a video game company focused on sports games, action titles, and mobile gaming. EA Sports FC replaced FIFA. College Football 25 success.",
   "competitors": [
-    {"name": "Activision Blizzard (Microsoft)", "notes": "Call of Duty publisher now owned by Microsoft"},
-    {"name": "Take-Two Interactive", "notes": "GTA, NBA 2K, and Zynga mobile games"},
-    {"name": "Sony", "notes": "PlayStation Studios with exclusive content"},
-    {"name": "Nintendo", "notes": "First-party Nintendo games and Switch platform"},
-    {"name": "Ubisoft", "notes": "Assassin's Creed, Far Cry franchises"},
-    {"name": "Epic Games", "notes": "Fortnite and Epic Games Store"},
-    {"name": "Tencent", "notes": "World's largest gaming company by revenue"},
-    {"name": "Mobile Free-to-Play", "notes": "Various mobile game competitors"}
+    {
+      "name": "Activision Blizzard (Microsoft)",
+      "notes": "Call of Duty publisher now owned by Microsoft"
+    },
+    {
+      "name": "Take-Two Interactive",
+      "notes": "GTA, NBA 2K, and Zynga mobile games"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation Studios with exclusive content"
+    },
+    {
+      "name": "Nintendo",
+      "notes": "First-party Nintendo games and Switch platform"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Assassin's Creed, Far Cry franchises"
+    },
+    {
+      "name": "Epic Games",
+      "notes": "Fortnite and Epic Games Store"
+    },
+    {
+      "name": "Tencent",
+      "notes": "World's largest gaming company by revenue"
+    },
+    {
+      "name": "Mobile Free-to-Play",
+      "notes": "Various mobile game competitors"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

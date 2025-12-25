@@ -5,14 +5,37 @@
   "search_query": "Google competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft (Bing)", "notes": "~3.4% worldwide search share, competing across all segments"},
-    {"name": "Facebook (Meta)", "notes": "24% digital ad share globally vs Google's 29%"},
-    {"name": "Amazon", "notes": "US ad revenues surged 52.5% to $15.73B"},
-    {"name": "Apple", "notes": "iOS ~11% world market vs Android's 84%"},
-    {"name": "DuckDuckGo", "notes": "Privacy-focused, ~2% US search market"},
-    {"name": "Baidu", "notes": "Top competitor in China"},
-    {"name": "Yandex", "notes": "$3.02B revenue in 2020"}
+    {
+      "name": "Microsoft (Bing)",
+      "notes": "~3.4% worldwide search share, competing across all segments"
+    },
+    {
+      "name": "Facebook (Meta)",
+      "notes": "24% digital ad share globally vs Google's 29%"
+    },
+    {
+      "name": "Amazon",
+      "notes": "US ad revenues surged 52.5% to $15.73B"
+    },
+    {
+      "name": "Apple",
+      "notes": "iOS ~11% world market vs Android's 84%"
+    },
+    {
+      "name": "DuckDuckGo",
+      "notes": "Privacy-focused, ~2% US search market"
+    },
+    {
+      "name": "Baidu",
+      "notes": "Top competitor in China"
+    },
+    {
+      "name": "Yandex",
+      "notes": "$3.02B revenue in 2020"
+    }
   ],
-  "context": "Facebook-Google duopoly at 53% global ad share. Amazon emerged as fast-growing ad platform. Privacy concerns drove alternatives.",
-  "sources": ["https://bstrategyhub.com/google-competitors-alternatives/"]
+  "context": "Alphabet Inc. (Google) is a technology conglomerate focused on search, advertising, cloud, Android, YouTube, and AI. Remote work boosted Workspace. YouTube streaming wars.",
+  "sources": [
+    "https://bstrategyhub.com/google-competitors-alternatives/"
+  ]
 }

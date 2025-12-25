@@ -5,12 +5,30 @@
   "search_query": "SentinelOne endpoint security competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "CrowdStrike", "notes": "Primary competitor, leader in cloud-native endpoint protection"},
-    {"name": "Carbon Black", "notes": "Acquired by VMware in 2019, enterprise endpoint security"},
-    {"name": "Symantec Endpoint Protection", "notes": "Enterprise endpoint security from Broadcom"},
-    {"name": "Microsoft Defender for Endpoint", "notes": "Growing Microsoft endpoint security solution"},
-    {"name": "Cylance", "notes": "AI-based endpoint protection, acquired by BlackBerry in 2018"}
+    {
+      "name": "CrowdStrike",
+      "notes": "Primary competitor, leader in cloud-native endpoint protection"
+    },
+    {
+      "name": "Carbon Black",
+      "notes": "Acquired by VMware in 2019, enterprise endpoint security"
+    },
+    {
+      "name": "Symantec Endpoint Protection",
+      "notes": "Enterprise endpoint security from Broadcom"
+    },
+    {
+      "name": "Microsoft Defender for Endpoint",
+      "notes": "Growing Microsoft endpoint security solution"
+    },
+    {
+      "name": "Cylance",
+      "notes": "AI-based endpoint protection, acquired by BlackBerry in 2018"
+    }
   ],
-  "context": "In 2020, SentinelOne competed in the growing endpoint detection and response (EDR) market. CrowdStrike was the primary cloud-native competitor. VMware's 2019 acquisition of Carbon Black and BlackBerry's acquisition of Cylance showed market consolidation. The pandemic accelerated endpoint security demand as remote work expanded attack surfaces. SentinelOne was private, preparing for its June 2021 IPO at $8.9B valuation.",
-  "sources": ["https://www.gartner.com/reviews/market/endpoint-protection-platforms", "https://www.g2.com/products/sentinelone/competitors/alternatives"]
+  "context": "SentinelOne, Inc. is a autonomous cybersecurity platform company focused on endpoint protection, XDR, and AI-powered security. IPO. Singularity platform launched.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/endpoint-protection-platforms",
+    "https://www.g2.com/products/sentinelone/competitors/alternatives"
+  ]
 }

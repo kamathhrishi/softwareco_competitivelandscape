@@ -5,10 +5,21 @@
   "search_query": "NVIDIA competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "ATI Technologies", "notes": "Primary competitor, AMD began shopping for ATI in 2005"},
-    {"name": "AMD", "notes": "Competitor in chip realm, acquired ATI in 2006"},
-    {"name": "Intel", "notes": "Competitor in chip realm, focused on integrated graphics"}
+    {
+      "name": "ATI Technologies",
+      "notes": "Primary competitor, AMD began shopping for ATI in 2005"
+    },
+    {
+      "name": "AMD",
+      "notes": "Competitor in chip realm, acquired ATI in 2006"
+    },
+    {
+      "name": "Intel",
+      "notes": "Competitor in chip realm, focused on integrated graphics"
+    }
   ],
-  "context": "GPU market consolidated to two-horse race between NVIDIA and ATI. NVIDIA achieved $2.8B revenue. AMD's ATI acquisition in 2006 reshaped landscape.",
-  "sources": ["https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006"]
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. SLI technology. CUDA parallel computing development.",
+  "sources": [
+    "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2019,
   "search_query": "Pinterest competitors 2019",
   "search_date": "2024-12-24",
-  "context": "Pinterest went public in April 2019. The visual discovery platform had 300M+ monthly users using the platform for inspiration, planning, and shopping ideas.",
+  "context": "Pinterest, Inc. is a visual discovery and shopping platform focused on image-based social discovery and e-commerce integration. IPO. Visual discovery platform with shopping features.",
   "competitors": [
-    {"name": "Instagram", "notes": "Visual social platform with shopping features"},
-    {"name": "Google Images", "notes": "Visual search competing for discovery"},
-    {"name": "Amazon", "notes": "Product discovery and shopping"},
-    {"name": "Facebook", "notes": "Social advertising and Marketplace"},
-    {"name": "Houzz", "notes": "Home design platform with visual discovery"},
-    {"name": "Etsy", "notes": "Handmade and vintage goods marketplace"},
-    {"name": "YouTube", "notes": "Video tutorials for DIY and inspiration"},
-    {"name": "TikTok", "notes": "Emerging short-form video for inspiration content"}
+    {
+      "name": "Instagram",
+      "notes": "Visual social platform with shopping features"
+    },
+    {
+      "name": "Google Images",
+      "notes": "Visual search competing for discovery"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Product discovery and shopping"
+    },
+    {
+      "name": "Facebook",
+      "notes": "Social advertising and Marketplace"
+    },
+    {
+      "name": "Houzz",
+      "notes": "Home design platform with visual discovery"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Handmade and vintage goods marketplace"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video tutorials for DIY and inspiration"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Emerging short-form video for inspiration content"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

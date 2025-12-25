@@ -5,17 +5,50 @@
   "search_query": "Box competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Google Drive", "notes": "Top competitor with comprehensive cloud storage and collaboration"},
-    {"name": "Microsoft OneDrive", "notes": "Integrated with Microsoft 365 ecosystem"},
-    {"name": "Dropbox Business", "notes": "134.7M monthly visits (Nov 2024), major cloud storage competitor"},
-    {"name": "Citrix ShareFile", "notes": "Enterprise file sharing and collaboration"},
-    {"name": "Egnyte Connect", "notes": "Unified content security for multicloud, 16,000+ organizations"},
-    {"name": "Amazon WorkDocs", "notes": "AWS enterprise document storage and collaboration"},
-    {"name": "Sync.com", "notes": "Privacy-focused cloud storage"},
-    {"name": "M-Files", "notes": "Knowledge work automation platform with AI features"},
-    {"name": "OpenText", "notes": "Enterprise information management"},
-    {"name": "Veeam Software", "notes": "Backup and data management solutions"}
+    {
+      "name": "Google Drive",
+      "notes": "Top competitor with comprehensive cloud storage and collaboration"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "Integrated with Microsoft 365 ecosystem"
+    },
+    {
+      "name": "Dropbox Business",
+      "notes": "134.7M monthly visits (Nov 2024), major cloud storage competitor"
+    },
+    {
+      "name": "Citrix ShareFile",
+      "notes": "Enterprise file sharing and collaboration"
+    },
+    {
+      "name": "Egnyte Connect",
+      "notes": "Unified content security for multicloud, 16,000+ organizations"
+    },
+    {
+      "name": "Amazon WorkDocs",
+      "notes": "AWS enterprise document storage and collaboration"
+    },
+    {
+      "name": "Sync.com",
+      "notes": "Privacy-focused cloud storage"
+    },
+    {
+      "name": "M-Files",
+      "notes": "Knowledge work automation platform with AI features"
+    },
+    {
+      "name": "OpenText",
+      "notes": "Enterprise information management"
+    },
+    {
+      "name": "Veeam Software",
+      "notes": "Backup and data management solutions"
+    }
   ],
-  "context": "By 2024, Box serves 100,000+ businesses globally including 68% of Fortune 500. Box has evolved to be AI-powered enterprise solution. Market shows clear segmentation between enterprise-focused platforms prioritizing security/compliance and consumer-friendly alternatives.",
-  "sources": ["https://pitchgrade.com/companies/box-inc", "https://www.gartner.com/reviews/market/content-collaboration-tools/vendor/box/alternatives"]
+  "context": "Box, Inc. is a cloud content management and collaboration platform focused on enterprise file sharing, security, and workflow automation. AI-powered content intelligence. Box Hubs for content portals.",
+  "sources": [
+    "https://pitchgrade.com/companies/box-inc",
+    "https://www.gartner.com/reviews/market/content-collaboration-tools/vendor/box/alternatives"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "ARM Holdings competitors 2024",
   "search_date": "2024-12-24",
-  "context": "ARM stock soared as AI demand drove interest in power-efficient computing. The company's architecture powers virtually all smartphones and is gaining share in data centers and laptops.",
+  "context": "Arm Holdings plc is a semiconductor IP and architecture licensing company focused on processor architecture licensing for mobile, IoT, automotive, and data centers. IPO at $54.5B valuation. AI and data center momentum. Arm-based servers growing.",
   "competitors": [
-    {"name": "Intel", "notes": "Dominant in PC/server x86 architecture"},
-    {"name": "AMD", "notes": "x86 competitor gaining data center share"},
-    {"name": "RISC-V Foundation", "notes": "Growing open-source alternative"},
-    {"name": "NVIDIA", "notes": "GPU giant, ARM-based Grace CPU"},
-    {"name": "Qualcomm", "notes": "Customer and competitor with Nuvia acquisition"},
-    {"name": "Apple", "notes": "Custom ARM silicon for all products"},
-    {"name": "Ampere Computing", "notes": "ARM-based cloud processors"},
-    {"name": "MediaTek", "notes": "ARM licensee for mobile chips"}
+    {
+      "name": "Intel",
+      "notes": "Dominant in PC/server x86 architecture"
+    },
+    {
+      "name": "AMD",
+      "notes": "x86 competitor gaining data center share"
+    },
+    {
+      "name": "RISC-V Foundation",
+      "notes": "Growing open-source alternative"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "GPU giant, ARM-based Grace CPU"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Customer and competitor with Nuvia acquisition"
+    },
+    {
+      "name": "Apple",
+      "notes": "Custom ARM silicon for all products"
+    },
+    {
+      "name": "Ampere Computing",
+      "notes": "ARM-based cloud processors"
+    },
+    {
+      "name": "MediaTek",
+      "notes": "ARM licensee for mobile chips"
+    }
   ],
-  "sources": ["Semiconductor industry analysis"]
+  "sources": [
+    "Semiconductor industry analysis"
+  ]
 }

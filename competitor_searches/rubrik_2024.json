@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Rubrik competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Rubrik went public in April 2024, one of the notable enterprise software IPOs of the year. The company provides zero trust data security and ransomware protection for hybrid cloud environments.",
+  "context": "Rubrik, Inc. is a data security company focused on backup, recovery, and cyber resilience for hybrid cloud. IPO. Cyber recovery and data security platform.",
   "competitors": [
-    {"name": "Cohesity", "notes": "Closest competitor in modern data management"},
-    {"name": "Veeam", "notes": "Acquired by Insight, backup leader"},
-    {"name": "Commvault", "notes": "Legacy enterprise backup"},
-    {"name": "Veritas", "notes": "Traditional data protection vendor"},
-    {"name": "Dell Technologies", "notes": "Data Domain and PowerProtect"},
-    {"name": "Druva", "notes": "Cloud-native data protection"},
-    {"name": "HYCU", "notes": "Multi-cloud backup startup"},
-    {"name": "Clumio", "notes": "AWS-focused backup as a service"}
+    {
+      "name": "Cohesity",
+      "notes": "Closest competitor in modern data management"
+    },
+    {
+      "name": "Veeam",
+      "notes": "Acquired by Insight, backup leader"
+    },
+    {
+      "name": "Commvault",
+      "notes": "Legacy enterprise backup"
+    },
+    {
+      "name": "Veritas",
+      "notes": "Traditional data protection vendor"
+    },
+    {
+      "name": "Dell Technologies",
+      "notes": "Data Domain and PowerProtect"
+    },
+    {
+      "name": "Druva",
+      "notes": "Cloud-native data protection"
+    },
+    {
+      "name": "HYCU",
+      "notes": "Multi-cloud backup startup"
+    },
+    {
+      "name": "Clumio",
+      "notes": "AWS-focused backup as a service"
+    }
   ],
-  "sources": ["Data management industry analysis"]
+  "sources": [
+    "Data management industry analysis"
+  ]
 }

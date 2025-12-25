@@ -5,16 +5,47 @@
   "search_query": "Adobe competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk", "notes": "Top competitor with software including AutoCAD, Revit, Fusion 360, Maya for AEC, M&E, and MFG industries"},
-    {"name": "Microsoft", "notes": "Competitor with Office suite and enterprise software"},
-    {"name": "Apple", "notes": "Competitor in creative software with iMovie, GarageBand, Keynote"},
-    {"name": "Google", "notes": "Competitor in analytics and web-based tools"},
-    {"name": "Quark", "notes": "Desktop publishing software competitor"},
-    {"name": "Avid Technology", "notes": "Develops software for media creation - Pro Tools (audio), Media Composer (video)"},
-    {"name": "Sketch", "notes": "Established in 2010 as macOS-first digital design platform for UI/UX"},
-    {"name": "Salesforce", "notes": "Cloud-based CRM and enterprise software competitor"},
-    {"name": "Oracle", "notes": "Enterprise software and database competitor"}
+    {
+      "name": "Autodesk",
+      "notes": "Top competitor with software including AutoCAD, Revit, Fusion 360, Maya for AEC, M&E, and MFG industries"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor with Office suite and enterprise software"
+    },
+    {
+      "name": "Apple",
+      "notes": "Competitor in creative software with iMovie, GarageBand, Keynote"
+    },
+    {
+      "name": "Google",
+      "notes": "Competitor in analytics and web-based tools"
+    },
+    {
+      "name": "Quark",
+      "notes": "Desktop publishing software competitor"
+    },
+    {
+      "name": "Avid Technology",
+      "notes": "Develops software for media creation - Pro Tools (audio), Media Composer (video)"
+    },
+    {
+      "name": "Sketch",
+      "notes": "Established in 2010 as macOS-first digital design platform for UI/UX"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Cloud-based CRM and enterprise software competitor"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software and database competitor"
+    }
   ],
-  "context": "By 2010, Adobe had consolidated its position after the Macromedia acquisition. New entrants like Sketch (founded 2010) were beginning to challenge Adobe in specific areas like UI/UX design.",
-  "sources": ["https://www.marketing91.com/adobe-competitors/", "https://bstrategyhub.com/adobe-competitors-alternatives/", "https://craft.co/adobe/competitors"]
+  "context": "Adobe Inc. is a creative software and digital experience company focused on creative tools, document management, and digital marketing solutions. Launched Creative Suite 5. Flash facing competition from HTML5. iPad launch challenged Flash dominance.",
+  "sources": [
+    "https://www.marketing91.com/adobe-competitors/",
+    "https://bstrategyhub.com/adobe-competitors-alternatives/",
+    "https://craft.co/adobe/competitors"
+  ]
 }

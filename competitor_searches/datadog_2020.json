@@ -5,17 +5,50 @@
   "search_query": "Datadog monitoring competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dynatrace", "notes": "AI-powered monitoring with Davis AI engine"},
-    {"name": "New Relic", "notes": "Closest full replacement with comprehensive monitoring"},
-    {"name": "IBM Instana", "notes": "Acquired by IBM in December 2020, provides APM for microservices"},
-    {"name": "Splunk", "notes": "Operational intelligence for log management and security"},
-    {"name": "AppDynamics", "notes": "Cisco's full-stack observability platform"},
-    {"name": "Grafana", "notes": "Open-source data visualization tool"},
-    {"name": "LogicMonitor", "notes": "SaaS-based automated performance monitoring"},
-    {"name": "Sumo Logic", "notes": "Cloud-native analytics platform"},
-    {"name": "Amazon CloudWatch", "notes": "AWS monitoring service"},
-    {"name": "Microsoft Azure Monitor", "notes": "Cloud monitoring vendor for Azure"}
+    {
+      "name": "Dynatrace",
+      "notes": "AI-powered monitoring with Davis AI engine"
+    },
+    {
+      "name": "New Relic",
+      "notes": "Closest full replacement with comprehensive monitoring"
+    },
+    {
+      "name": "IBM Instana",
+      "notes": "Acquired by IBM in December 2020, provides APM for microservices"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Operational intelligence for log management and security"
+    },
+    {
+      "name": "AppDynamics",
+      "notes": "Cisco's full-stack observability platform"
+    },
+    {
+      "name": "Grafana",
+      "notes": "Open-source data visualization tool"
+    },
+    {
+      "name": "LogicMonitor",
+      "notes": "SaaS-based automated performance monitoring"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Cloud-native analytics platform"
+    },
+    {
+      "name": "Amazon CloudWatch",
+      "notes": "AWS monitoring service"
+    },
+    {
+      "name": "Microsoft Azure Monitor",
+      "notes": "Cloud monitoring vendor for Azure"
+    }
   ],
-  "context": "By 2020, Datadog had gone public (IPO in 2019) and the observability market had matured significantly. Key themes included AI-powered analytics, cloud-native support, and the rise of open-source alternatives.",
-  "sources": ["https://www.gartner.com/reviews/market/observability-platforms/vendor/datadog/product/datadog/alternatives", "https://www.cloudzero.com/blog/datadog-alternatives/"]
+  "context": "Datadog, Inc. is a cloud monitoring and observability platform focused on infrastructure monitoring, APM, log management, and security. IPO. Cloud adoption drove observability demand.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/observability-platforms/vendor/datadog/product/datadog/alternatives",
+    "https://www.cloudzero.com/blog/datadog-alternatives/"
+  ]
 }

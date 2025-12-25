@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Tempus AI competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Tempus AI is a leading healthcare AI company combining genomic data with clinical records for personalized medicine. The company continues to expand its precision medicine platform.",
+  "context": "Tempus AI, Inc. is a healthcare AI and precision medicine company focused on clinical AI, genomic sequencing, and data analytics for healthcare. Healthcare AI leader. Competing with Foundation Medicine, Illumina.",
   "competitors": [
-    {"name": "Foundation Medicine", "notes": "Roche-owned genomic testing leader"},
-    {"name": "Guardant Health", "notes": "Liquid biopsy and cancer detection"},
-    {"name": "Illumina", "notes": "Genomic sequencing hardware and services"},
-    {"name": "Grail", "notes": "Multi-cancer early detection (Illumina)"},
-    {"name": "Natera", "notes": "Cell-free DNA testing"},
-    {"name": "Exact Sciences", "notes": "Cancer screening and diagnostics"},
-    {"name": "Flatiron Health", "notes": "Roche-owned oncology data company"},
-    {"name": "SOPHiA Genetics", "notes": "AI-powered genomic analysis"}
+    {
+      "name": "Foundation Medicine",
+      "notes": "Roche-owned genomic testing leader"
+    },
+    {
+      "name": "Guardant Health",
+      "notes": "Liquid biopsy and cancer detection"
+    },
+    {
+      "name": "Illumina",
+      "notes": "Genomic sequencing hardware and services"
+    },
+    {
+      "name": "Grail",
+      "notes": "Multi-cancer early detection (Illumina)"
+    },
+    {
+      "name": "Natera",
+      "notes": "Cell-free DNA testing"
+    },
+    {
+      "name": "Exact Sciences",
+      "notes": "Cancer screening and diagnostics"
+    },
+    {
+      "name": "Flatiron Health",
+      "notes": "Roche-owned oncology data company"
+    },
+    {
+      "name": "SOPHiA Genetics",
+      "notes": "AI-powered genomic analysis"
+    }
   ],
-  "sources": ["Healthcare AI industry analysis"]
+  "sources": [
+    "Healthcare AI industry analysis"
+  ]
 }

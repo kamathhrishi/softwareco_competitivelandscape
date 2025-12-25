@@ -4,20 +4,56 @@
   "year": 2020,
   "search_query": "F5 Networks competitors 2020",
   "search_date": "2025-12-24",
-  "context": "F5 positioned itself as a multi-cloud application security and delivery leader. The market shifted toward cloud-native solutions, API protection, and hybrid/multi-cloud architectures. F5 acquired NGINX (2019) to strengthen its position in modern application architectures. Competition intensified from cloud-native security vendors and hyperscalers.",
+  "context": "F5, Inc. is a application delivery and security company focused on load balancing, application security, and multi-cloud networking. Acquired NGINX and Shape Security. Cloud-native focus.",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Dominant networking and cybersecurity player with comprehensive cloud security and application delivery solutions"},
-    {"name": "Palo Alto Networks", "notes": "Advanced cybersecurity with cloud security and AI-driven security analytics"},
-    {"name": "Akamai Technologies", "notes": "Content delivery and cloud security leader with edge platform for secure digital experiences"},
-    {"name": "Cloudflare", "notes": "Global web infrastructure, CDN, and DDoS mitigation provider"},
-    {"name": "Citrix ADC (NetScaler)", "notes": "Application delivery controller competing in ADC market"},
-    {"name": "A10 Networks", "notes": "Application delivery and security solutions with cloud-native capabilities"},
-    {"name": "Imperva", "notes": "WAF with flexible deployment across on-premises, AWS, Azure, and GCP"},
-    {"name": "AWS (Elastic Load Balancer)", "notes": "Cloud-native load balancing and application services"},
-    {"name": "Microsoft Azure", "notes": "Azure Application Gateway and Azure Front Door for application delivery"},
-    {"name": "Fortinet", "notes": "Security and networking solutions including web application firewalls"},
-    {"name": "Radware", "notes": "Application delivery and cybersecurity solutions"},
-    {"name": "VMware (Avi Networks)", "notes": "Software-defined application services platform"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Dominant networking and cybersecurity player with comprehensive cloud security and application delivery solutions"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Advanced cybersecurity with cloud security and AI-driven security analytics"
+    },
+    {
+      "name": "Akamai Technologies",
+      "notes": "Content delivery and cloud security leader with edge platform for secure digital experiences"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Global web infrastructure, CDN, and DDoS mitigation provider"
+    },
+    {
+      "name": "Citrix ADC (NetScaler)",
+      "notes": "Application delivery controller competing in ADC market"
+    },
+    {
+      "name": "A10 Networks",
+      "notes": "Application delivery and security solutions with cloud-native capabilities"
+    },
+    {
+      "name": "Imperva",
+      "notes": "WAF with flexible deployment across on-premises, AWS, Azure, and GCP"
+    },
+    {
+      "name": "AWS (Elastic Load Balancer)",
+      "notes": "Cloud-native load balancing and application services"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Azure Application Gateway and Azure Front Door for application delivery"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Security and networking solutions including web application firewalls"
+    },
+    {
+      "name": "Radware",
+      "notes": "Application delivery and cybersecurity solutions"
+    },
+    {
+      "name": "VMware (Avi Networks)",
+      "notes": "Software-defined application services platform"
+    }
   ],
   "sources": [
     "https://www.gartner.com/reviews/market/cloud-web-application-and-api-protection/vendor/f5/alternatives",

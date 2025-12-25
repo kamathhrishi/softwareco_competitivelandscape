@@ -5,18 +5,54 @@
   "search_query": "Autodesk competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "The 'Apple' of high-end engineering - CATIA, SOLIDWORKS; ranks above Autodesk in product quality"},
-    {"name": "Adobe", "notes": "Creative Cloud suite for media and entertainment, graphic design, video editing"},
-    {"name": "Bentley Systems", "notes": "Infrastructure and construction software, MicroStation product"},
-    {"name": "Trimble", "notes": "Construction, agriculture, geospatial industries; SketchUp 3D modeling tool"},
-    {"name": "ANSYS Inc.", "notes": "Engineering simulation software"},
-    {"name": "PTC", "notes": "CAD/CAM and PLM solutions"},
-    {"name": "Siemens", "notes": "PLM and digital industries software"},
-    {"name": "FreeCAD", "notes": "Best AutoCAD alternative - free and open source"},
-    {"name": "LibreCAD", "notes": "Open source 2D CAD application"},
-    {"name": "BricsCAD", "notes": "2D drafting and 3D modeling with AutoCAD-like interface"},
-    {"name": "Onshape", "notes": "Cloud-based CAD platform"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "The 'Apple' of high-end engineering - CATIA, SOLIDWORKS; ranks above Autodesk in product quality"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Creative Cloud suite for media and entertainment, graphic design, video editing"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Infrastructure and construction software, MicroStation product"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Construction, agriculture, geospatial industries; SketchUp 3D modeling tool"
+    },
+    {
+      "name": "ANSYS Inc.",
+      "notes": "Engineering simulation software"
+    },
+    {
+      "name": "PTC",
+      "notes": "CAD/CAM and PLM solutions"
+    },
+    {
+      "name": "Siemens",
+      "notes": "PLM and digital industries software"
+    },
+    {
+      "name": "FreeCAD",
+      "notes": "Best AutoCAD alternative - free and open source"
+    },
+    {
+      "name": "LibreCAD",
+      "notes": "Open source 2D CAD application"
+    },
+    {
+      "name": "BricsCAD",
+      "notes": "2D drafting and 3D modeling with AutoCAD-like interface"
+    },
+    {
+      "name": "Onshape",
+      "notes": "Cloud-based CAD platform"
+    }
   ],
-  "context": "By 2020, Autodesk faced competition across multiple fronts. Dassault Systèmes was characterized as the 'Apple of CAD' (high-end), while Autodesk was the 'Microsoft' (accessible/ubiquitous). A mature open-source ecosystem had emerged.",
-  "sources": ["https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives", "https://bstrategyhub.com/autodesk-competitors-and-alternatives/"]
+  "context": "Autodesk, Inc. is a design and make software company focused on CAD, 3D design, BIM, and manufacturing software. Cloud and subscription model mature. BIM and construction tech growth.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives",
+    "https://bstrategyhub.com/autodesk-competitors-and-alternatives/"
+  ]
 }

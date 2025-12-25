@@ -5,15 +5,43 @@
   "search_query": "Zoom video conferencing competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cisco Webex", "notes": "Big name in corporate video conferencing with impressive boardroom and office credentials, one of the most well-known alternatives to Zoom"},
-    {"name": "Skype", "notes": "Go-to platform for personal video chat since 2003 beta release, one of the biggest Zoom competitors from day one"},
-    {"name": "GoToMeeting", "notes": "Used for both internal and external meetings with elegant screen sharing and drawing features, simple to use"},
-    {"name": "Discord", "notes": "Launched in 2015, initially developed for gamers to interact and form communities, later expanded to various online communities"},
-    {"name": "BlueJeans", "notes": "Conferencing platform with integrated audio and video fidelity, comprehensive security options, one-click join without account requirement"},
-    {"name": "Google Meet", "notes": "Formerly Hangouts Meet, best-known video meeting platform available free for anyone with Google or Gmail account"},
-    {"name": "Microsoft Teams", "notes": "All-in-one tool for video conferencing, team chat, phone calls, file sharing, and day-to-day work communications"},
-    {"name": "IBM Sametime", "notes": "Provides real-time communication through instant messaging and audio/video conferencing, allows file sharing without limit"}
+    {
+      "name": "Cisco Webex",
+      "notes": "Big name in corporate video conferencing with impressive boardroom and office credentials, one of the most well-known alternatives to Zoom"
+    },
+    {
+      "name": "Skype",
+      "notes": "Go-to platform for personal video chat since 2003 beta release, one of the biggest Zoom competitors from day one"
+    },
+    {
+      "name": "GoToMeeting",
+      "notes": "Used for both internal and external meetings with elegant screen sharing and drawing features, simple to use"
+    },
+    {
+      "name": "Discord",
+      "notes": "Launched in 2015, initially developed for gamers to interact and form communities, later expanded to various online communities"
+    },
+    {
+      "name": "BlueJeans",
+      "notes": "Conferencing platform with integrated audio and video fidelity, comprehensive security options, one-click join without account requirement"
+    },
+    {
+      "name": "Google Meet",
+      "notes": "Formerly Hangouts Meet, best-known video meeting platform available free for anyone with Google or Gmail account"
+    },
+    {
+      "name": "Microsoft Teams",
+      "notes": "All-in-one tool for video conferencing, team chat, phone calls, file sharing, and day-to-day work communications"
+    },
+    {
+      "name": "IBM Sametime",
+      "notes": "Provides real-time communication through instant messaging and audio/video conferencing, allows file sharing without limit"
+    }
   ],
-  "context": "In 2015, Zoom was still a relatively young company (founded in 2011), and the video conferencing landscape was dominated by more established players like Cisco Webex, Skype, and GoToMeeting. The market saw new entrants like Discord in 2015, while established enterprise solutions like IBM Sametime and emerging cloud-based platforms like Google Meet (formerly Hangouts Meet) and Microsoft Teams were also competing for market share.",
-  "sources": ["https://zapier.com/blog/best-zoom-alternatives/", "https://www.vendr.com/blog/zoom-alternatives-competitors", "https://www.ringcentral.com/us/en/blog/zoom-alternatives/"]
+  "context": "Zoom Video Communications, Inc. is a video communications platform company focused on video meetings, webinars, and collaboration tools. Enterprise video meeting platform growing.",
+  "sources": [
+    "https://zapier.com/blog/best-zoom-alternatives/",
+    "https://www.vendr.com/blog/zoom-alternatives-competitors",
+    "https://www.ringcentral.com/us/en/blog/zoom-alternatives/"
+  ]
 }

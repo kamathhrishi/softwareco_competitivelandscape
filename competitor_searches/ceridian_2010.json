@@ -5,16 +5,45 @@
   "search_query": "Ceridian Dayforce HCM payroll competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "ADP", "notes": "Leading HCM provider with global presence"},
-    {"name": "Paychex", "notes": "Major payroll and HR services for SMBs"},
-    {"name": "Workday", "notes": "First cloud-native HRIS (launched 2005), gaining significant traction"},
-    {"name": "Oracle PeopleSoft", "notes": "Established enterprise HCM platform"},
-    {"name": "SAP SuccessFactors", "notes": "Cloud-based HCM suite covering HR, payroll, talent"},
-    {"name": "Ultimate Software", "notes": "Cloud-based HCM for mid-market and enterprise"},
-    {"name": "Kronos", "notes": "Leading workforce management and timekeeping solutions"},
-    {"name": "Sage Payroll", "notes": "Payroll management software provider"},
-    {"name": "Paylocity", "notes": "Cloud-based payroll and HCM software provider"}
+    {
+      "name": "ADP",
+      "notes": "Leading HCM provider with global presence"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll and HR services for SMBs"
+    },
+    {
+      "name": "Workday",
+      "notes": "First cloud-native HRIS (launched 2005), gaining significant traction"
+    },
+    {
+      "name": "Oracle PeopleSoft",
+      "notes": "Established enterprise HCM platform"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Cloud-based HCM suite covering HR, payroll, talent"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud-based HCM for mid-market and enterprise"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Leading workforce management and timekeeping solutions"
+    },
+    {
+      "name": "Sage Payroll",
+      "notes": "Payroll management software provider"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Cloud-based payroll and HCM software provider"
+    }
   ],
-  "context": "By 2010, the HCM market was shifting toward cloud-based solutions. Workday (launched 2005) was disrupting the traditional on-premise model. Ceridian was competing in both traditional payroll and developing cloud-based offerings.",
-  "sources": ["https://6sense.com/tech/payroll-management/dayforce-ceridian-hcm-market-share"]
+  "context": "Dayforce (formerly Ceridian HCM) is a human capital management software company focused on payroll, HR, talent management, and workforce management. Dayforce platform development. Single-application HCM vision.",
+  "sources": [
+    "https://6sense.com/tech/payroll-management/dayforce-ceridian-hcm-market-share"
+  ]
 }

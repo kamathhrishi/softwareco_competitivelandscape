@@ -5,12 +5,29 @@
   "search_query": "ANSYS simulation software competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes SIMULIA", "notes": "Abaqus structural analysis acquired 2005"},
-    {"name": "MSC Software", "notes": "Nastran and Adams simulation tools"},
-    {"name": "CD-adapco", "notes": "STAR-CCM+ CFD software"},
-    {"name": "Mentor Graphics", "notes": "Electronic design automation and thermal"},
-    {"name": "COMSOL", "notes": "Multiphysics simulation platform"}
+    {
+      "name": "Dassault Systèmes SIMULIA",
+      "notes": "Abaqus structural analysis acquired 2005"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Nastran and Adams simulation tools"
+    },
+    {
+      "name": "CD-adapco",
+      "notes": "STAR-CCM+ CFD software"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Electronic design automation and thermal"
+    },
+    {
+      "name": "COMSOL",
+      "notes": "Multiphysics simulation platform"
+    }
   ],
-  "context": "In 2010, ANSYS was a leading simulation software company that had acquired Ansoft (2008) for electromagnetic simulation. The company competed across structural, CFD, and electromagnetic simulation. Major competitors included Dassault's SIMULIA, MSC Software, and CD-adapco. The simulation market was growing with increased adoption in automotive, aerospace, and electronics industries. ANSYS differentiated with comprehensive multiphysics platform integrating multiple simulation disciplines.",
-  "sources": ["https://6sense.com/tech/simulation-modeling/ansys-market-share"]
+  "context": "ANSYS, Inc. is a engineering simulation software company focused on finite element analysis, CFD, electromagnetics, and multiphysics simulation. Multiphysics simulation becoming standard. Cloud simulation emerging.",
+  "sources": [
+    "https://6sense.com/tech/simulation-modeling/ansys-market-share"
+  ]
 }

@@ -4,15 +4,38 @@
   "year": 2015,
   "search_query": "Redfin competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Zillow acquired Trulia for $3.5B in 2014, creating dominant real estate portal. Redfin continued as tech-enabled discount brokerage. Real estate tech sector attracting significant investment.",
+  "context": "Redfin Corporation is a technology-powered real estate brokerage focused on real estate brokerage, iBuying, and mortgage services. Expanded markets. Mobile app and web tools.",
   "competitors": [
-    {"name": "Zillow", "notes": "Acquired Trulia for $3.5B, dominant real estate portal"},
-    {"name": "Trulia", "notes": "Now part of Zillow Group"},
-    {"name": "Realtor.com", "notes": "Official NAR listings, operated by Move Inc."},
-    {"name": "Coldwell Banker", "notes": "Traditional brokerage with online presence"},
-    {"name": "RE/MAX", "notes": "Major franchise network"},
-    {"name": "Keller Williams", "notes": "Largest real estate franchise by agent count"},
-    {"name": "Compass", "notes": "Tech-enabled brokerage launching in major markets"}
+    {
+      "name": "Zillow",
+      "notes": "Acquired Trulia for $3.5B, dominant real estate portal"
+    },
+    {
+      "name": "Trulia",
+      "notes": "Now part of Zillow Group"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "Official NAR listings, operated by Move Inc."
+    },
+    {
+      "name": "Coldwell Banker",
+      "notes": "Traditional brokerage with online presence"
+    },
+    {
+      "name": "RE/MAX",
+      "notes": "Major franchise network"
+    },
+    {
+      "name": "Keller Williams",
+      "notes": "Largest real estate franchise by agent count"
+    },
+    {
+      "name": "Compass",
+      "notes": "Tech-enabled brokerage launching in major markets"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

@@ -5,17 +5,51 @@
   "search_query": "Adobe competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk", "notes": "Top competitor with 39+ years of competition. Products include AutoCAD, Revit, Fusion 360, Maya"},
-    {"name": "Microsoft", "notes": "Major competitor in enterprise software and productivity tools"},
-    {"name": "Google", "notes": "Google Analytics is top competitor for Adobe Analytics, offering free analytics vs Adobe's ~$500/month"},
-    {"name": "Salesforce", "notes": "Cloud-based CRM and marketing platform competitor"},
-    {"name": "Figma", "notes": "Cloud-based design and prototyping tool emphasizing collaboration and real-time editing"},
-    {"name": "Apple", "notes": "Creative software competitor with iMovie, GarageBand, Keynote"},
-    {"name": "CyberLink", "notes": "Multimedia software with PowerDirector (video), PhotoDirector (photo)"},
-    {"name": "Avid", "notes": "Professional media creation software competitor"},
-    {"name": "DocuSign", "notes": "Competitor in document management and e-signature space"},
-    {"name": "Oracle", "notes": "Enterprise software competitor"}
+    {
+      "name": "Autodesk",
+      "notes": "Top competitor with 39+ years of competition. Products include AutoCAD, Revit, Fusion 360, Maya"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Major competitor in enterprise software and productivity tools"
+    },
+    {
+      "name": "Google",
+      "notes": "Google Analytics is top competitor for Adobe Analytics, offering free analytics vs Adobe's ~$500/month"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Cloud-based CRM and marketing platform competitor"
+    },
+    {
+      "name": "Figma",
+      "notes": "Cloud-based design and prototyping tool emphasizing collaboration and real-time editing"
+    },
+    {
+      "name": "Apple",
+      "notes": "Creative software competitor with iMovie, GarageBand, Keynote"
+    },
+    {
+      "name": "CyberLink",
+      "notes": "Multimedia software with PowerDirector (video), PhotoDirector (photo)"
+    },
+    {
+      "name": "Avid",
+      "notes": "Professional media creation software competitor"
+    },
+    {
+      "name": "DocuSign",
+      "notes": "Competitor in document management and e-signature space"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software competitor"
+    }
   ],
-  "context": "2015 was significant as Adobe moved to annual licensing for Creative Cloud software. Cloud-based competitors like Figma were gaining traction with collaborative features.",
-  "sources": ["https://bstrategyhub.com/adobe-competitors-alternatives/", "https://www.marketing91.com/adobe-competitors/", "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/adobe/alternatives"]
+  "context": "Adobe Inc. is a creative software and digital experience company focused on creative tools, document management, and digital marketing solutions. Successfully transitioned to Creative Cloud subscription model. Marketing Cloud growing rapidly.",
+  "sources": [
+    "https://bstrategyhub.com/adobe-competitors-alternatives/",
+    "https://www.marketing91.com/adobe-competitors/",
+    "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/adobe/alternatives"
+  ]
 }

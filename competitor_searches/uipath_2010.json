@@ -5,12 +5,29 @@
   "search_query": "UiPath automation competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Blue Prism", "notes": "UK RPA vendor, founded 2001"},
-    {"name": "Automation Anywhere", "notes": "Founded as Tethys Solutions in 2003"},
-    {"name": "Nice Systems", "notes": "Desktop automation solutions"},
-    {"name": "OpenSpan", "notes": "Desktop automation acquired by Pegasystems"},
-    {"name": "Pegasystems", "notes": "BPM with automation capabilities"}
+    {
+      "name": "Blue Prism",
+      "notes": "UK RPA vendor, founded 2001"
+    },
+    {
+      "name": "Automation Anywhere",
+      "notes": "Founded as Tethys Solutions in 2003"
+    },
+    {
+      "name": "Nice Systems",
+      "notes": "Desktop automation solutions"
+    },
+    {
+      "name": "OpenSpan",
+      "notes": "Desktop automation acquired by Pegasystems"
+    },
+    {
+      "name": "Pegasystems",
+      "notes": "BPM with automation capabilities"
+    }
   ],
-  "context": "In 2010, UiPath operated as DeskOver, a small Romanian software company founded in 2005 focused on computer vision and developer tools. The RPA market barely existed as a category. Blue Prism coined the term 'robotic process automation' and was focused on UK banking sector. UiPath had not yet pivoted to RPA platform. Desktop automation existed through tools from Nice, OpenSpan, and BPM vendors but enterprise RPA as later defined was not yet mainstream.",
-  "sources": ["https://www.uipath.com/company/about-us"]
+  "context": "UiPath Inc. is a enterprise automation platform company focused on robotic process automation and AI-powered automation. Founded for process automation tools.",
+  "sources": [
+    "https://www.uipath.com/company/about-us"
+  ]
 }

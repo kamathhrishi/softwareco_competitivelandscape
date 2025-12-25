@@ -5,14 +5,38 @@
   "search_query": "BlackLine accounting automation competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Runbook", "notes": "European competitor, acquired by BlackLine in 2016 for $34M"},
-    {"name": "Trintech", "notes": "Founded 1987, established financial close and reconciliation player"},
-    {"name": "Workiva", "notes": "Founded 2008, financial reporting and compliance automation"},
-    {"name": "Oracle Cloud EPM", "notes": "ERP vendor with integrated financial management"},
-    {"name": "SAP", "notes": "Major ERP with financial close capabilities"},
-    {"name": "Microsoft Dynamics", "notes": "ERP with financial management capabilities"},
-    {"name": "NetSuite", "notes": "Cloud ERP with Advanced Financial Close"}
+    {
+      "name": "Runbook",
+      "notes": "European competitor, acquired by BlackLine in 2016 for $34M"
+    },
+    {
+      "name": "Trintech",
+      "notes": "Founded 1987, established financial close and reconciliation player"
+    },
+    {
+      "name": "Workiva",
+      "notes": "Founded 2008, financial reporting and compliance automation"
+    },
+    {
+      "name": "Oracle Cloud EPM",
+      "notes": "ERP vendor with integrated financial management"
+    },
+    {
+      "name": "SAP",
+      "notes": "Major ERP with financial close capabilities"
+    },
+    {
+      "name": "Microsoft Dynamics",
+      "notes": "ERP with financial management capabilities"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Cloud ERP with Advanced Financial Close"
+    }
   ],
-  "context": "By 2015, BlackLine had $200M+ from Silver Lake Partners (2013). Formed strategic alliance with McGladrey for BPaaS. Market maturing with pure-play vendors and ERP providers competing. Positioning for October 2016 IPO.",
-  "sources": ["https://en.wikipedia.org/wiki/BlackLine_Systems", "https://www.solvexia.com/blog/blackline-alternatives"]
+  "context": "BlackLine, Inc. is a cloud financial operations platform focused on accounting automation, financial close management, and intercompany solutions. IPO. Expanding beyond reconciliations to full financial operations.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/BlackLine_Systems",
+    "https://www.solvexia.com/blog/blackline-alternatives"
+  ]
 }

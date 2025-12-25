@@ -5,18 +5,54 @@
   "search_query": "Tenable competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Qualys", "notes": "One of 'big three', cloud-based VM across on-prem, cloud, containers"},
-    {"name": "Rapid7 InsightVM", "notes": "Strongest competitor with asset discovery and remediation workflows"},
-    {"name": "Wiz", "notes": "Cloud security specialist with Kubernetes support"},
-    {"name": "CrowdStrike", "notes": "Major cybersecurity platform with endpoint protection"},
-    {"name": "Palo Alto Networks", "notes": "Comprehensive cybersecurity platform"},
-    {"name": "SentinelOne", "notes": "Endpoint security with threat detection"},
-    {"name": "Microsoft Defender VM", "notes": "Enterprise VM integrated with Microsoft ecosystem"},
-    {"name": "Heimdal", "notes": "AI and machine learning for automated security"},
-    {"name": "Arctic Wolf", "notes": "MDR services for threat detection"},
-    {"name": "Aqua Security", "notes": "Cloud-native security for Kubernetes and containers"},
-    {"name": "Cisco Vulnerability Management", "notes": "Network security giant's VM offering"}
+    {
+      "name": "Qualys",
+      "notes": "One of 'big three', cloud-based VM across on-prem, cloud, containers"
+    },
+    {
+      "name": "Rapid7 InsightVM",
+      "notes": "Strongest competitor with asset discovery and remediation workflows"
+    },
+    {
+      "name": "Wiz",
+      "notes": "Cloud security specialist with Kubernetes support"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Major cybersecurity platform with endpoint protection"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Comprehensive cybersecurity platform"
+    },
+    {
+      "name": "SentinelOne",
+      "notes": "Endpoint security with threat detection"
+    },
+    {
+      "name": "Microsoft Defender VM",
+      "notes": "Enterprise VM integrated with Microsoft ecosystem"
+    },
+    {
+      "name": "Heimdal",
+      "notes": "AI and machine learning for automated security"
+    },
+    {
+      "name": "Arctic Wolf",
+      "notes": "MDR services for threat detection"
+    },
+    {
+      "name": "Aqua Security",
+      "notes": "Cloud-native security for Kubernetes and containers"
+    },
+    {
+      "name": "Cisco Vulnerability Management",
+      "notes": "Network security giant's VM offering"
+    }
   ],
-  "context": "By 2024, Tenable served 43,000 organizations including 60% of Fortune 500. Competitive landscape highly diverse with traditional VM competitors, major cybersecurity platforms, cloud-native specialists, endpoint security vendors, and AI-powered solutions. Nessus remains industry standard despite increased competition.",
-  "sources": ["https://www.tenable.com/products/competitive-comparison", "https://www.comparably.com/companies/tenable/competitors"]
+  "context": "Tenable Holdings, Inc. is a cyber exposure management company focused on vulnerability management, cloud security, and exposure analytics. ExposureAI and cloud security posture.",
+  "sources": [
+    "https://www.tenable.com/products/competitive-comparison",
+    "https://www.comparably.com/companies/tenable/competitors"
+  ]
 }

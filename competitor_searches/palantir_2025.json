@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Palantir competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Palantir provides data analytics platforms for government and commercial customers. The company's AIP (Artificial Intelligence Platform) has driven growth as enterprises adopt AI-powered decision making.",
+  "context": "Palantir Technologies Inc. is a data analytics and AI platform company focused on government intelligence, commercial analytics, and AI operations. AI operations platform leader. Commercial growth accelerating.",
   "competitors": [
-    {"name": "C3.ai", "notes": "Enterprise AI software platform competing in data analytics and AI applications"},
-    {"name": "Databricks", "notes": "Unified analytics platform for data engineering, science, and AI"},
-    {"name": "Snowflake", "notes": "Cloud data platform competing in enterprise data analytics"},
-    {"name": "Microsoft Azure AI", "notes": "Cloud AI and analytics services integrated with Azure ecosystem"},
-    {"name": "Google Cloud AI", "notes": "AI and machine learning platform from Google Cloud"},
-    {"name": "IBM Consulting", "notes": "Enterprise consulting with AI and analytics capabilities"},
-    {"name": "Accenture AI", "notes": "Consulting firm with growing AI and analytics practice"},
-    {"name": "SAS", "notes": "Analytics and AI software for enterprise customers"}
+    {
+      "name": "C3.ai",
+      "notes": "Enterprise AI software platform competing in data analytics and AI applications"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Unified analytics platform for data engineering, science, and AI"
+    },
+    {
+      "name": "Snowflake",
+      "notes": "Cloud data platform competing in enterprise data analytics"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "notes": "Cloud AI and analytics services integrated with Azure ecosystem"
+    },
+    {
+      "name": "Google Cloud AI",
+      "notes": "AI and machine learning platform from Google Cloud"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Enterprise consulting with AI and analytics capabilities"
+    },
+    {
+      "name": "Accenture AI",
+      "notes": "Consulting firm with growing AI and analytics practice"
+    },
+    {
+      "name": "SAS",
+      "notes": "Analytics and AI software for enterprise customers"
+    }
   ],
-  "sources": ["Industry analysis", "Government contracting data"]
+  "sources": [
+    "Industry analysis",
+    "Government contracting data"
+  ]
 }

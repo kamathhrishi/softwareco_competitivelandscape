@@ -5,17 +5,52 @@
   "search_query": "C3.ai enterprise AI competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Palantir Technologies", "notes": "Heavyweight in enterprise analytics and AI, significantly larger than C3.ai, Gotham for government, Foundry and AIP for commercial"},
-    {"name": "IBM Watson", "notes": "Major enterprise AI competitor vying for market share"},
-    {"name": "Microsoft Azure AI", "notes": "Cloud AI platform competitor, C3.ai is most sought-after AI app on Azure marketplace"},
-    {"name": "Google Cloud AI", "notes": "Enterprise AI platform, C3.ai has alliance with Google Cloud"},
-    {"name": "Databricks", "notes": "Unified data analytics platform, focuses on data centralization vs C3.ai's enterprise AI applications"},
-    {"name": "DataRobot", "notes": "Enterprise AI platform competitor for automated machine learning"},
-    {"name": "Salesforce Einstein", "notes": "CRM-integrated AI platform"},
-    {"name": "Domino Data Lab", "notes": "Enterprise AI platform for building, deploying, and managing AI models"},
-    {"name": "Snorkel AI", "notes": "Data-centric AI platform competitor"},
-    {"name": "Altair AI Studio", "notes": "Best C3 AI Suite alternative for AI/ML development"}
+    {
+      "name": "Palantir Technologies",
+      "notes": "Heavyweight in enterprise analytics and AI, significantly larger than C3.ai, Gotham for government, Foundry and AIP for commercial"
+    },
+    {
+      "name": "IBM Watson",
+      "notes": "Major enterprise AI competitor vying for market share"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "notes": "Cloud AI platform competitor, C3.ai is most sought-after AI app on Azure marketplace"
+    },
+    {
+      "name": "Google Cloud AI",
+      "notes": "Enterprise AI platform, C3.ai has alliance with Google Cloud"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Unified data analytics platform, focuses on data centralization vs C3.ai's enterprise AI applications"
+    },
+    {
+      "name": "DataRobot",
+      "notes": "Enterprise AI platform competitor for automated machine learning"
+    },
+    {
+      "name": "Salesforce Einstein",
+      "notes": "CRM-integrated AI platform"
+    },
+    {
+      "name": "Domino Data Lab",
+      "notes": "Enterprise AI platform for building, deploying, and managing AI models"
+    },
+    {
+      "name": "Snorkel AI",
+      "notes": "Data-centric AI platform competitor"
+    },
+    {
+      "name": "Altair AI Studio",
+      "notes": "Best C3 AI Suite alternative for AI/ML development"
+    }
   ],
-  "context": "In 2024, C3.ai competes in the enterprise AI platform market against cloud hyperscalers (Microsoft Azure AI, Google Cloud AI), specialized AI platforms (Palantir, DataRobot, Databricks), and enterprise software vendors (IBM, Salesforce). The company reported net loss of $280M for fiscal 2024, raising financial sustainability questions. C3.ai's price-to-sales ratio of 10.5 is lower than peers Palantir and Snowflake. 40% of C3.ai deals focus on manufacturing and defense. The company announced expanded Microsoft alliance in late 2024, closing 28 new deals through joint engagements across nine industries. C3.ai remains the most sought-after AI application on Microsoft's Azure marketplace.",
-  "sources": ["https://www.cbinsights.com/company/c3-energy/alternatives-competitors", "https://pitchgrade.com/companies/c3ai-inc", "https://www.latterly.org/c3-ai-competitors/", "https://craft.co/c3-ai/competitors"]
+  "context": "C3.ai, Inc. is a enterprise AI software company focused on AI applications for enterprise, government, and defense. Generative AI pivot with C3 Generative AI. Partnership with Google Cloud.",
+  "sources": [
+    "https://www.cbinsights.com/company/c3-energy/alternatives-competitors",
+    "https://pitchgrade.com/companies/c3ai-inc",
+    "https://www.latterly.org/c3-ai-competitors/",
+    "https://craft.co/c3-ai/competitors"
+  ]
 }

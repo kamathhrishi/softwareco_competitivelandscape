@@ -5,14 +5,37 @@
   "search_query": "Google competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft (Bing)", "notes": "Bing plus Yahoo had 33.5% US market share"},
-    {"name": "Facebook", "notes": "19% mobile ad share vs Google's 33%. Surpassed Google in referral traffic"},
-    {"name": "Amazon", "notes": "Eric Schmidt called Amazon Google's biggest competitor"},
-    {"name": "Apple", "notes": "Named as main competitor"},
-    {"name": "Baidu", "notes": "75% market share in China"},
-    {"name": "Yandex", "notes": "Dominant in Russia"},
-    {"name": "DuckDuckGo", "notes": "Privacy-focused with ~2% US market"}
+    {
+      "name": "Microsoft (Bing)",
+      "notes": "Bing plus Yahoo had 33.5% US market share"
+    },
+    {
+      "name": "Facebook",
+      "notes": "19% mobile ad share vs Google's 33%. Surpassed Google in referral traffic"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Eric Schmidt called Amazon Google's biggest competitor"
+    },
+    {
+      "name": "Apple",
+      "notes": "Named as main competitor"
+    },
+    {
+      "name": "Baidu",
+      "notes": "75% market share in China"
+    },
+    {
+      "name": "Yandex",
+      "notes": "Dominant in Russia"
+    },
+    {
+      "name": "DuckDuckGo",
+      "notes": "Privacy-focused with ~2% US market"
+    }
   ],
-  "context": "Google reorganized into Alphabet subsidiary. Facebook-Google duopoly dominated 50%+ mobile ad market.",
-  "sources": ["https://searchengineland.com/competitive-threats-google-means-249772"]
+  "context": "Alphabet Inc. (Google) is a technology conglomerate focused on search, advertising, cloud, Android, YouTube, and AI. Restructured as Alphabet. Google Cloud Platform expansion.",
+  "sources": [
+    "https://searchengineland.com/competitive-threats-google-means-249772"
+  ]
 }

@@ -5,17 +5,50 @@
   "search_query": "Rapid7 competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "CrowdStrike", "notes": "Leading cloud-native endpoint protection with AI threat detection"},
-    {"name": "Tenable", "notes": "Risk-based vulnerability management with prioritization"},
-    {"name": "Orca Security", "notes": "Cloud security platform emerging competitor"},
-    {"name": "SentinelOne", "notes": "AI-driven autonomous threat detection for endpoints and cloud"},
-    {"name": "Secureworks", "notes": "MDR services and security operations platform"},
-    {"name": "Proofpoint", "notes": "Threat protection, email security, cloud app security"},
-    {"name": "BeyondTrust", "notes": "Privileged access management and vulnerability solutions"},
-    {"name": "Splunk", "notes": "SIEM and security analytics with data analysis"},
-    {"name": "FireEye", "notes": "Advanced threat intelligence and incident response"},
-    {"name": "Qualys", "notes": "Cloud-based vulnerability management and compliance"}
+    {
+      "name": "CrowdStrike",
+      "notes": "Leading cloud-native endpoint protection with AI threat detection"
+    },
+    {
+      "name": "Tenable",
+      "notes": "Risk-based vulnerability management with prioritization"
+    },
+    {
+      "name": "Orca Security",
+      "notes": "Cloud security platform emerging competitor"
+    },
+    {
+      "name": "SentinelOne",
+      "notes": "AI-driven autonomous threat detection for endpoints and cloud"
+    },
+    {
+      "name": "Secureworks",
+      "notes": "MDR services and security operations platform"
+    },
+    {
+      "name": "Proofpoint",
+      "notes": "Threat protection, email security, cloud app security"
+    },
+    {
+      "name": "BeyondTrust",
+      "notes": "Privileged access management and vulnerability solutions"
+    },
+    {
+      "name": "Splunk",
+      "notes": "SIEM and security analytics with data analysis"
+    },
+    {
+      "name": "FireEye",
+      "notes": "Advanced threat intelligence and incident response"
+    },
+    {
+      "name": "Qualys",
+      "notes": "Cloud-based vulnerability management and compliance"
+    }
   ],
-  "context": "2020 saw 140% increase in data breach cases from 2019 (per Kroll). Rapid7's InsightIDR SIEM competed against Splunk while facing cloud-native competitors like CrowdStrike and SentinelOne. COVID-19 accelerated demand for endpoint protection and MDR services.",
-  "sources": ["https://beaglesecurity.com/blog/article/best-rapid7-alternatives.html", "https://www.owler.com/company/rapid7"]
+  "context": "Rapid7, Inc. is a security analytics and automation company focused on vulnerability management, SIEM, and detection and response. Cloud SIEM and XDR. Managed detection and response.",
+  "sources": [
+    "https://beaglesecurity.com/blog/article/best-rapid7-alternatives.html",
+    "https://www.owler.com/company/rapid7"
+  ]
 }

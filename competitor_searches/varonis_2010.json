@@ -5,13 +5,35 @@
   "search_query": "Varonis competitors 2010",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "Microsoft", "notes": "File system security and access control built into Windows Server and Active Directory"},
-    {"name": "IBM", "notes": "Data security and compliance solutions for enterprise environments"},
-    {"name": "Symantec", "notes": "Enterprise security solutions including data loss prevention and access control"},
-    {"name": "NetApp", "notes": "Storage security and data management solutions (Varonis founders were former NetApp employees)"},
-    {"name": "EMC", "notes": "Storage and data security solutions for enterprise environments"},
-    {"name": "Quest Software", "notes": "File server management and security tools"}
+    {
+      "name": "Microsoft",
+      "notes": "File system security and access control built into Windows Server and Active Directory"
+    },
+    {
+      "name": "IBM",
+      "notes": "Data security and compliance solutions for enterprise environments"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Enterprise security solutions including data loss prevention and access control"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Storage security and data management solutions (Varonis founders were former NetApp employees)"
+    },
+    {
+      "name": "EMC",
+      "notes": "Storage and data security solutions for enterprise environments"
+    },
+    {
+      "name": "Quest Software",
+      "notes": "File server management and security tools"
+    }
   ],
-  "context": "Varonis Systems was founded in 2005 by Yaki Faitelson and Ohad Korkus, former employees of NetVision and NetApp. By 2010, the company was establishing itself in the emerging data security governance market with its platform for managing unstructured data and protecting against insider threats. The market for specialized data governance was still nascent, with most competition coming from traditional security vendors and storage companies that included basic access control features. Varonis focused on metadata analysis and data access governance for file systems and unstructured data.",
-  "sources": ["https://www.cbinsights.com/company/varonis-systems", "https://backtofrontshow.com/varonis-competitors/", "https://www.docontrol.io/blog/varonis-alternatives-and-competitors"]
+  "context": "Varonis Systems, Inc. is a data security platform company focused on data protection, insider threat detection, and compliance. Data governance and access management.",
+  "sources": [
+    "https://www.cbinsights.com/company/varonis-systems",
+    "https://backtofrontshow.com/varonis-competitors/",
+    "https://www.docontrol.io/blog/varonis-alternatives-and-competitors"
+  ]
 }

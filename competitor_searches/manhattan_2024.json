@@ -5,20 +5,67 @@
   "search_query": "Manhattan Associates competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Blue Yonder", "notes": "Top competitor, formerly JDA Software, AI-powered digital supply chain and omnichannel commerce solutions"},
-    {"name": "SAP", "notes": "SAP Ariba Sourcing (19.18% share), SAP SCM (18.77% share), SAP Ariba (11.12% share), SAP EWM for warehouse management"},
-    {"name": "Oracle", "notes": "Oracle Warehouse Management, enterprise supply chain solutions"},
-    {"name": "Infor", "notes": "Primary competitor with comprehensive supply chain and WMS solutions"},
-    {"name": "E2open", "notes": "Main competitor in cloud-based supply chain network platform"},
-    {"name": "GT Nexus", "notes": "Top competitor in supply chain visibility and collaboration platforms"},
-    {"name": "Descartes", "notes": "Top competitor in logistics technology and supply chain execution"},
-    {"name": "HighJump Software", "notes": "Supply chain execution and WMS solutions provider"},
-    {"name": "SSI SCHAEFER", "notes": "Warehouse automation and logistics systems with integrated software"},
-    {"name": "Honeywell Intelligrated", "notes": "Automated material handling and warehouse execution systems"},
-    {"name": "KNAPP", "notes": "Warehouse automation and software solutions provider"},
-    {"name": "Zetes", "notes": "Supply chain execution and identification solutions"},
-    {"name": "ToolsGroup", "notes": "AI-powered supply chain and retail planning software, demand forecasting and inventory optimization"}
+    {
+      "name": "Blue Yonder",
+      "notes": "Top competitor, formerly JDA Software, AI-powered digital supply chain and omnichannel commerce solutions"
+    },
+    {
+      "name": "SAP",
+      "notes": "SAP Ariba Sourcing (19.18% share), SAP SCM (18.77% share), SAP Ariba (11.12% share), SAP EWM for warehouse management"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Oracle Warehouse Management, enterprise supply chain solutions"
+    },
+    {
+      "name": "Infor",
+      "notes": "Primary competitor with comprehensive supply chain and WMS solutions"
+    },
+    {
+      "name": "E2open",
+      "notes": "Main competitor in cloud-based supply chain network platform"
+    },
+    {
+      "name": "GT Nexus",
+      "notes": "Top competitor in supply chain visibility and collaboration platforms"
+    },
+    {
+      "name": "Descartes",
+      "notes": "Top competitor in logistics technology and supply chain execution"
+    },
+    {
+      "name": "HighJump Software",
+      "notes": "Supply chain execution and WMS solutions provider"
+    },
+    {
+      "name": "SSI SCHAEFER",
+      "notes": "Warehouse automation and logistics systems with integrated software"
+    },
+    {
+      "name": "Honeywell Intelligrated",
+      "notes": "Automated material handling and warehouse execution systems"
+    },
+    {
+      "name": "KNAPP",
+      "notes": "Warehouse automation and software solutions provider"
+    },
+    {
+      "name": "Zetes",
+      "notes": "Supply chain execution and identification solutions"
+    },
+    {
+      "name": "ToolsGroup",
+      "notes": "AI-powered supply chain and retail planning software, demand forecasting and inventory optimization"
+    }
   ],
-  "context": "In 2024-2025, Manhattan Associates maintains 1.07% market share in supply chain management, competing with 167 tools in this category. The company ranks 6th among 746 active competitors. Manhattan is recognized as a 17-time Leader in Gartner's Magic Quadrant for WMS, known for cloud-native, microservices-based warehouse management solutions. Over 1,064 companies globally use Manhattan Associates, with 74.77% of customers based in the United States. The competitive landscape is dominated by SAP's multiple products controlling significant market share, while Blue Yonder remains the top direct competitor. The market has seen increased emphasis on AI-powered solutions (ToolsGroup, Blue Yonder) and cloud-native platforms. Competition comes from three main categories: (1) enterprise software giants (SAP, Oracle, Infor), (2) specialized supply chain platforms (E2open, GT Nexus, Descartes), and (3) automation vendors with software offerings (SSI SCHAEFER, Honeywell Intelligrated, KNAPP).",
-  "sources": ["https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors", "https://tracxn.com/d/companies/manhattan-associates/__6ZM3e3u2xfTYafhDprFYlEUZi2F3sMGfnV_kQj9koSo", "https://www.owler.com/company/manh", "https://sumble.com/tech/manhattan-associates", "https://craft.co/manhattan-associates/competitors", "https://6sense.com/tech/supply-chain-management/manhattan-associates-market-share", "https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/manhattan-associates/product/manhattan-scale/alternatives"]
+  "context": "Manhattan Associates, Inc. is a supply chain and omnichannel software company focused on warehouse management, transportation, and retail solutions. AI-powered supply chain optimization.",
+  "sources": [
+    "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors",
+    "https://tracxn.com/d/companies/manhattan-associates/__6ZM3e3u2xfTYafhDprFYlEUZi2F3sMGfnV_kQj9koSo",
+    "https://www.owler.com/company/manh",
+    "https://sumble.com/tech/manhattan-associates",
+    "https://craft.co/manhattan-associates/competitors",
+    "https://6sense.com/tech/supply-chain-management/manhattan-associates-market-share",
+    "https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/manhattan-associates/product/manhattan-scale/alternatives"
+  ]
 }

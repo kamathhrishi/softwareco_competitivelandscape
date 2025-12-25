@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "ServiceTitan competitors 2025",
   "search_date": "2024-12-24",
-  "context": "ServiceTitan went public in December 2024, opening 42% above IPO price. The company provides software for home services businesses (HVAC, plumbing, electrical) with Q2 revenue of $193M, up 24% YoY.",
+  "context": "ServiceTitan, Inc. is a software for home and commercial service businesses focused on field service management for HVAC, plumbing, electrical. Trades software platform. Competing with Salesforce Field Service.",
   "competitors": [
-    {"name": "Housecall Pro", "notes": "SMB home services software"},
-    {"name": "Jobber", "notes": "Field service management for SMBs"},
-    {"name": "FieldEdge", "notes": "HVAC and plumbing software"},
-    {"name": "ServiceMax", "notes": "Enterprise field service (PTC)"},
-    {"name": "Salesforce Field Service", "notes": "Enterprise field service platform"},
-    {"name": "Workiz", "notes": "Field service management software"},
-    {"name": "Zuper", "notes": "Field workforce management"},
-    {"name": "IFS", "notes": "Enterprise service management"}
+    {
+      "name": "Housecall Pro",
+      "notes": "SMB home services software"
+    },
+    {
+      "name": "Jobber",
+      "notes": "Field service management for SMBs"
+    },
+    {
+      "name": "FieldEdge",
+      "notes": "HVAC and plumbing software"
+    },
+    {
+      "name": "ServiceMax",
+      "notes": "Enterprise field service (PTC)"
+    },
+    {
+      "name": "Salesforce Field Service",
+      "notes": "Enterprise field service platform"
+    },
+    {
+      "name": "Workiz",
+      "notes": "Field service management software"
+    },
+    {
+      "name": "Zuper",
+      "notes": "Field workforce management"
+    },
+    {
+      "name": "IFS",
+      "notes": "Enterprise service management"
+    }
   ],
-  "sources": ["Home services software analysis", "CNBC"]
+  "sources": [
+    "Home services software analysis",
+    "CNBC"
+  ]
 }

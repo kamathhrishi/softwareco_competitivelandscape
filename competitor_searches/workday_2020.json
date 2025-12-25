@@ -5,16 +5,46 @@
   "search_query": "Workday competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "UKG (Ultimate Kronos Group)", "notes": "Formed through 2020 merger of Ultimate Software and Kronos; formidable competitor"},
-    {"name": "Oracle HCM Cloud", "notes": "Leader in cloud HCM for nine consecutive years; enterprise-grade capabilities"},
-    {"name": "SAP SuccessFactors", "notes": "Modular cloud-native HCM suite for global companies"},
-    {"name": "Infor CloudSuite HCM", "notes": "Acquired by Koch Industries in February 2020 ($13 billion transaction)"},
-    {"name": "Cornerstone OnDemand", "notes": "Acquired Saba Software in 2020, expanding learning capabilities"},
-    {"name": "ADP", "notes": "Global provider with ADP Vantage HCM for large enterprises"},
-    {"name": "BambooHR", "notes": "Alternative for smaller companies seeking simpler HCM"},
-    {"name": "IBM", "notes": "Broader technology competitor in enterprise software space"},
-    {"name": "Salesforce", "notes": "Competitor through HR/workforce solutions"}
+    {
+      "name": "UKG (Ultimate Kronos Group)",
+      "notes": "Formed through 2020 merger of Ultimate Software and Kronos; formidable competitor"
+    },
+    {
+      "name": "Oracle HCM Cloud",
+      "notes": "Leader in cloud HCM for nine consecutive years; enterprise-grade capabilities"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Modular cloud-native HCM suite for global companies"
+    },
+    {
+      "name": "Infor CloudSuite HCM",
+      "notes": "Acquired by Koch Industries in February 2020 ($13 billion transaction)"
+    },
+    {
+      "name": "Cornerstone OnDemand",
+      "notes": "Acquired Saba Software in 2020, expanding learning capabilities"
+    },
+    {
+      "name": "ADP",
+      "notes": "Global provider with ADP Vantage HCM for large enterprises"
+    },
+    {
+      "name": "BambooHR",
+      "notes": "Alternative for smaller companies seeking simpler HCM"
+    },
+    {
+      "name": "IBM",
+      "notes": "Broader technology competitor in enterprise software space"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Competitor through HR/workforce solutions"
+    }
   ],
-  "context": "2020 was a transformative year in the HCM market. The merger of Ultimate Software and Kronos created UKG, a major new competitor. The competitive landscape featured established enterprise players and the newly-formed UKG powerhouse.",
-  "sources": ["https://bstrategyhub.com/workday-competitors-alternatives/", "https://www.rippling.com/blog/workday-competitors"]
+  "context": "Workday, Inc. is a enterprise cloud applications company focused on HCM, finance, and planning software for enterprises. Adaptive planning acquisition. Peakon employee engagement.",
+  "sources": [
+    "https://bstrategyhub.com/workday-competitors-alternatives/",
+    "https://www.rippling.com/blog/workday-competitors"
+  ]
 }

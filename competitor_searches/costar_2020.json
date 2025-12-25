@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "CoStar Group competitors 2020",
   "search_date": "2024-12-24",
-  "context": "CoStar dominated commercial real estate data while expanding into residential through Homesnap acquisition. COVID-19 disrupted commercial real estate markets.",
+  "context": "CoStar Group, Inc. is a commercial real estate information and analytics company focused on commercial real estate data, analytics, and marketplace platforms. Acquired Homesnap. Residential real estate expansion strategy.",
   "competitors": [
-    {"name": "Zillow", "notes": "Residential real estate leader"},
-    {"name": "Redfin", "notes": "Tech-enabled brokerage"},
-    {"name": "RealPage", "notes": "Multifamily software (acquired by Thoma Bravo)"},
-    {"name": "Yardi Systems", "notes": "Property management software"},
-    {"name": "Real Capital Analytics", "notes": "Commercial property data"},
-    {"name": "REIS (Moody's)", "notes": "CRE market data"},
-    {"name": "Reonomy", "notes": "Commercial real estate AI"},
-    {"name": "CompStak", "notes": "Commercial lease data"}
+    {
+      "name": "Zillow",
+      "notes": "Residential real estate leader"
+    },
+    {
+      "name": "Redfin",
+      "notes": "Tech-enabled brokerage"
+    },
+    {
+      "name": "RealPage",
+      "notes": "Multifamily software (acquired by Thoma Bravo)"
+    },
+    {
+      "name": "Yardi Systems",
+      "notes": "Property management software"
+    },
+    {
+      "name": "Real Capital Analytics",
+      "notes": "Commercial property data"
+    },
+    {
+      "name": "REIS (Moody's)",
+      "notes": "CRE market data"
+    },
+    {
+      "name": "Reonomy",
+      "notes": "Commercial real estate AI"
+    },
+    {
+      "name": "CompStak",
+      "notes": "Commercial lease data"
+    }
   ],
-  "sources": ["Real estate tech analysis"]
+  "sources": [
+    "Real estate tech analysis"
+  ]
 }

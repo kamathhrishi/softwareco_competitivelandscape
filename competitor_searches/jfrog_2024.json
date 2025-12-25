@@ -5,20 +5,63 @@
   "search_query": "JFrog competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "GitLab", "notes": "Top overall alternative; complete DevOps platform with git repository management, CI/CD, code reviews, issue tracking, and integrated package registry"},
-    {"name": "GitHub", "notes": "Major platform competitor with GitHub Packages, Actions (CI/CD), and comprehensive DevOps capabilities"},
-    {"name": "Sonatype", "notes": "Primary software supply chain security and management competitor; operates Nexus Repository and focuses on open source vulnerability management"},
-    {"name": "Jenkins", "notes": "Open-source automation server for continuous integration and continuous delivery; competes in CI/CD space"},
-    {"name": "Red Hat Ansible Automation Platform", "notes": "Automation and infrastructure-as-code platform competing in DevOps toolchain space"},
-    {"name": "CloudBees", "notes": "Enterprise CI/CD platform based on Jenkins, competing in continuous delivery and DevOps automation"},
-    {"name": "Snyk", "notes": "Developer security platform for code security, open source vulnerability management, container security, and IaC scanning"},
-    {"name": "CircleCI", "notes": "Continuous integration and delivery platform competing in CI/CD space"},
-    {"name": "Anaconda", "notes": "Platform for data science and machine learning package management, competes in certain package repository segments"},
-    {"name": "Bitbucket", "notes": "Atlassian's git repository platform with superior Jira integration and built-in CI/CD"},
-    {"name": "Azure DevOps/Artifacts", "notes": "Microsoft's comprehensive DevOps platform with integrated artifact management"},
-    {"name": "Amazon ECR", "notes": "AWS container registry service for Docker images"},
-    {"name": "Google Cloud Artifact Registry", "notes": "Google's multi-format artifact repository with security scanning"}
+    {
+      "name": "GitLab",
+      "notes": "Top overall alternative; complete DevOps platform with git repository management, CI/CD, code reviews, issue tracking, and integrated package registry"
+    },
+    {
+      "name": "GitHub",
+      "notes": "Major platform competitor with GitHub Packages, Actions (CI/CD), and comprehensive DevOps capabilities"
+    },
+    {
+      "name": "Sonatype",
+      "notes": "Primary software supply chain security and management competitor; operates Nexus Repository and focuses on open source vulnerability management"
+    },
+    {
+      "name": "Jenkins",
+      "notes": "Open-source automation server for continuous integration and continuous delivery; competes in CI/CD space"
+    },
+    {
+      "name": "Red Hat Ansible Automation Platform",
+      "notes": "Automation and infrastructure-as-code platform competing in DevOps toolchain space"
+    },
+    {
+      "name": "CloudBees",
+      "notes": "Enterprise CI/CD platform based on Jenkins, competing in continuous delivery and DevOps automation"
+    },
+    {
+      "name": "Snyk",
+      "notes": "Developer security platform for code security, open source vulnerability management, container security, and IaC scanning"
+    },
+    {
+      "name": "CircleCI",
+      "notes": "Continuous integration and delivery platform competing in CI/CD space"
+    },
+    {
+      "name": "Anaconda",
+      "notes": "Platform for data science and machine learning package management, competes in certain package repository segments"
+    },
+    {
+      "name": "Bitbucket",
+      "notes": "Atlassian's git repository platform with superior Jira integration and built-in CI/CD"
+    },
+    {
+      "name": "Azure DevOps/Artifacts",
+      "notes": "Microsoft's comprehensive DevOps platform with integrated artifact management"
+    },
+    {
+      "name": "Amazon ECR",
+      "notes": "AWS container registry service for Docker images"
+    },
+    {
+      "name": "Google Cloud Artifact Registry",
+      "notes": "Google's multi-format artifact repository with security scanning"
+    }
   ],
-  "context": "By 2024, JFrog faces competition across multiple dimensions of the software supply chain. The competitive landscape has evolved beyond simple artifact storage to encompass comprehensive DevOps platforms (GitLab, GitHub, Azure DevOps) offering end-to-end solutions from source control to deployment. Security has become paramount, with dedicated software supply chain security vendors (Sonatype, Snyk) emphasizing vulnerability scanning and open source risk management. Cloud providers continue offering deeply integrated, fully-managed artifact services. The market now emphasizes AI/ML package management, container security, infrastructure-as-code scanning, and complete DevSecOps workflows.",
-  "sources": ["https://www.g2.com/products/jfrog-2024-03-28/competitors/alternatives", "https://www.gartner.com/reviews/market/application-security-testing/vendor/jfrog/product/jfrog-software-supply-chain-platform/alternatives", "https://www.cbinsights.com/company/jfrog/alternatives-competitors"]
+  "context": "JFrog Ltd. is a software supply chain platform company focused on binary management, DevOps, and software distribution. ML model management. Security scanning expansion.",
+  "sources": [
+    "https://www.g2.com/products/jfrog-2024-03-28/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/application-security-testing/vendor/jfrog/product/jfrog-software-supply-chain-platform/alternatives",
+    "https://www.cbinsights.com/company/jfrog/alternatives-competitors"
+  ]
 }

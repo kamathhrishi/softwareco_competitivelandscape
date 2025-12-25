@@ -5,12 +5,30 @@
   "search_query": "Intuit TurboTax QuickBooks competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Continued competition in personal finance space, though less intense in tax/accounting"},
-    {"name": "H&R Block", "notes": "Major tax preparation competitor with physical locations and software"},
-    {"name": "Sage (Peachtree)", "notes": "Established small business accounting software provider"},
-    {"name": "TaxACT", "notes": "Growing tax software competitor (founded 1998)"},
-    {"name": "NetSuite", "notes": "Emerging cloud-based ERP/accounting platform (IPO 2007)"}
+    {
+      "name": "Microsoft",
+      "notes": "Continued competition in personal finance space, though less intense in tax/accounting"
+    },
+    {
+      "name": "H&R Block",
+      "notes": "Major tax preparation competitor with physical locations and software"
+    },
+    {
+      "name": "Sage (Peachtree)",
+      "notes": "Established small business accounting software provider"
+    },
+    {
+      "name": "TaxACT",
+      "notes": "Growing tax software competitor (founded 1998)"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Emerging cloud-based ERP/accounting platform (IPO 2007)"
+    }
   ],
-  "context": "By 2005, Intuit had successfully pivoted to web-based products. The U.K. version of Quicken was discontinued in 2005. Competition from Microsoft in personal finance had decreased, but traditional competitors like H&R Block and new cloud-based entrants began emerging.",
-  "sources": ["https://en.wikipedia.org/wiki/Intuit", "https://www.gartner.com/reviews/market/finance/vendor/intuit/product/intuit-quickbooks/alternatives"]
+  "context": "Intuit Inc. is a financial software company focused on TurboTax, QuickBooks, Credit Karma, and Mailchimp. Online versions growing. Small business focus.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Intuit",
+    "https://www.gartner.com/reviews/market/finance/vendor/intuit/product/intuit-quickbooks/alternatives"
+  ]
 }

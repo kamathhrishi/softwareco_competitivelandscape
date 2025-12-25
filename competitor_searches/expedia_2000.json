@@ -4,15 +4,38 @@
   "year": 2000,
   "search_query": "Expedia competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Expedia was spun off from Microsoft in 1999. Online travel booking was emerging with multiple players competing for the new market. TripAdvisor was founded this year.",
+  "context": "Expedia Group, Inc. is a online travel platform focused on travel booking, vacation rentals, and travel technology. Spun off from Microsoft. Leading online travel agency.",
   "competitors": [
-    {"name": "Priceline", "notes": "Founded 1997, name-your-own-price model for travel"},
-    {"name": "Travelocity", "notes": "Major online travel agency competitor"},
-    {"name": "Orbitz", "notes": "Airline-owned online travel booking"},
-    {"name": "CheapTickets", "notes": "Discount travel booking site"},
-    {"name": "Hotels.com", "notes": "Hotel booking specialist, later acquired by Expedia"},
-    {"name": "TripAdvisor", "notes": "Founded 2000, travel search engine and reviews"},
-    {"name": "Traditional travel agents", "notes": "Brick-and-mortar agencies facing online disruption"}
+    {
+      "name": "Priceline",
+      "notes": "Founded 1997, name-your-own-price model for travel"
+    },
+    {
+      "name": "Travelocity",
+      "notes": "Major online travel agency competitor"
+    },
+    {
+      "name": "Orbitz",
+      "notes": "Airline-owned online travel booking"
+    },
+    {
+      "name": "CheapTickets",
+      "notes": "Discount travel booking site"
+    },
+    {
+      "name": "Hotels.com",
+      "notes": "Hotel booking specialist, later acquired by Expedia"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Founded 2000, travel search engine and reviews"
+    },
+    {
+      "name": "Traditional travel agents",
+      "notes": "Brick-and-mortar agencies facing online disruption"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

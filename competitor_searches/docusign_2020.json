@@ -5,12 +5,30 @@
   "search_query": "DocuSign e-signature competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Adobe Sign", "notes": "Major competitor leveraging Adobe Suite integration and brand recognition"},
-    {"name": "HelloSign", "notes": "Popular alternative acquired by Dropbox in 2019, known for simplicity"},
-    {"name": "PandaDoc", "notes": "Document management platform with e-signature capabilities"},
-    {"name": "SignNow", "notes": "Affordable e-signature solution for businesses"},
-    {"name": "OneSpan Sign", "notes": "Enterprise e-signature with security focus"}
+    {
+      "name": "Adobe Sign",
+      "notes": "Major competitor leveraging Adobe Suite integration and brand recognition"
+    },
+    {
+      "name": "HelloSign",
+      "notes": "Popular alternative acquired by Dropbox in 2019, known for simplicity"
+    },
+    {
+      "name": "PandaDoc",
+      "notes": "Document management platform with e-signature capabilities"
+    },
+    {
+      "name": "SignNow",
+      "notes": "Affordable e-signature solution for businesses"
+    },
+    {
+      "name": "OneSpan Sign",
+      "notes": "Enterprise e-signature with security focus"
+    }
   ],
-  "context": "In 2020, DocuSign dominated the e-signature market with significant market share boost during the COVID-19 pandemic as remote work accelerated digital transformation. The company saw explosive growth as businesses rapidly adopted electronic signatures. Main competitors included Adobe Sign (leveraging Adobe ecosystem), HelloSign (acquired by Dropbox 2019), and emerging players like PandaDoc. The pandemic created unprecedented demand for contactless document signing.",
-  "sources": ["https://www.gartner.com/reviews/market/electronic-signature", "https://www.g2.com/products/docusign/competitors/alternatives"]
+  "context": "DocuSign, Inc. is a electronic signature and agreement cloud company focused on e-signature, contract lifecycle management, and agreement automation. COVID-19 drove massive e-signature adoption. Stock soared.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/electronic-signature",
+    "https://www.g2.com/products/docusign/competitors/alternatives"
+  ]
 }

@@ -5,16 +5,45 @@
   "search_query": "Ceridian HCM competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "ADP", "notes": "Largest HCM player with comprehensive services for all business sizes"},
-    {"name": "Workday", "notes": "Major competitor with 23.71% market share, cloud-based HCM"},
-    {"name": "SAP SuccessFactors", "notes": "Comprehensive HCM suite covering core HR, payroll, talent"},
-    {"name": "UKG", "notes": "Formed by merger of Ultimate Software and Kronos"},
-    {"name": "Oracle PeopleSoft", "notes": "Enterprise HCM platform with 13.67% market share"},
-    {"name": "Paychex", "notes": "Direct competitor providing payroll and HR services"},
-    {"name": "Paylocity", "notes": "Leading payroll management with 12.63% market share"},
-    {"name": "BambooHR", "notes": "Cloud-based HR for onboarding, payroll, benefits"},
-    {"name": "Cornerstone OnDemand", "notes": "Cloud-based talent management application"}
+    {
+      "name": "ADP",
+      "notes": "Largest HCM player with comprehensive services for all business sizes"
+    },
+    {
+      "name": "Workday",
+      "notes": "Major competitor with 23.71% market share, cloud-based HCM"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Comprehensive HCM suite covering core HR, payroll, talent"
+    },
+    {
+      "name": "UKG",
+      "notes": "Formed by merger of Ultimate Software and Kronos"
+    },
+    {
+      "name": "Oracle PeopleSoft",
+      "notes": "Enterprise HCM platform with 13.67% market share"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Direct competitor providing payroll and HR services"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Leading payroll management with 12.63% market share"
+    },
+    {
+      "name": "BambooHR",
+      "notes": "Cloud-based HR for onboarding, payroll, benefits"
+    },
+    {
+      "name": "Cornerstone OnDemand",
+      "notes": "Cloud-based talent management application"
+    }
   ],
-  "context": "In 2020, Ceridian reported revenue of $1.23 billion in a mature, cloud-dominated HCM market. COVID-19 pandemic accelerated digital transformation and demand for cloud-based HCM solutions. Ultimate Software and Kronos merger formed UKG.",
-  "sources": ["https://6sense.com/tech/human-capital-management/dayforce-ceridian-hcm-market-share"]
+  "context": "Dayforce (formerly Ceridian HCM) is a human capital management software company focused on payroll, HR, talent management, and workforce management. Remote workforce management critical. COVID-19 drove cloud adoption.",
+  "sources": [
+    "https://6sense.com/tech/human-capital-management/dayforce-ceridian-hcm-market-share"
+  ]
 }

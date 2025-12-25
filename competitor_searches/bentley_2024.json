@@ -5,18 +5,54 @@
   "search_query": "Bentley Systems competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk", "notes": "Leading with 37.60% BIM market share (Revit) vs Bentley's 5.09%"},
-    {"name": "Esri", "notes": "Top-rated in GIS and infrastructure planning"},
-    {"name": "Trimble", "notes": "Second-ranked, positioning, modeling, and data analytics"},
-    {"name": "Hexagon", "notes": "Infrastructure engineering and digital twin solutions"},
-    {"name": "Schneider Electric", "notes": "Infrastructure engineering and industrial software"},
-    {"name": "Oracle", "notes": "Construction and infrastructure project management"},
-    {"name": "Aspen Technology", "notes": "Asset performance management for industrial infrastructure"},
-    {"name": "AVEVA", "notes": "Engineering for plant, power, and marine industries"},
-    {"name": "Procore Technologies", "notes": "Construction management and project collaboration"},
-    {"name": "OpenSpace", "notes": "AI-powered construction documentation"},
-    {"name": "Vectorworks", "notes": "BIM and CAD for architecture and infrastructure"}
+    {
+      "name": "Autodesk",
+      "notes": "Leading with 37.60% BIM market share (Revit) vs Bentley's 5.09%"
+    },
+    {
+      "name": "Esri",
+      "notes": "Top-rated in GIS and infrastructure planning"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Second-ranked, positioning, modeling, and data analytics"
+    },
+    {
+      "name": "Hexagon",
+      "notes": "Infrastructure engineering and digital twin solutions"
+    },
+    {
+      "name": "Schneider Electric",
+      "notes": "Infrastructure engineering and industrial software"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Construction and infrastructure project management"
+    },
+    {
+      "name": "Aspen Technology",
+      "notes": "Asset performance management for industrial infrastructure"
+    },
+    {
+      "name": "AVEVA",
+      "notes": "Engineering for plant, power, and marine industries"
+    },
+    {
+      "name": "Procore Technologies",
+      "notes": "Construction management and project collaboration"
+    },
+    {
+      "name": "OpenSpace",
+      "notes": "AI-powered construction documentation"
+    },
+    {
+      "name": "Vectorworks",
+      "notes": "BIM and CAD for architecture and infrastructure"
+    }
   ],
-  "context": "In 2024, Bentley (public since 2020) has $913M revenue and 5,364 employees. Excels in specialized niches like bridge and rail design. Market has 851 active competitors. Key trends: digital twin, cloud-based infrastructure, AI/ML integration.",
-  "sources": ["https://craft.co/bentley-systems/competitors", "https://6sense.com/tech/bim-and-architectural-design-software/bentley-market-share"]
+  "context": "Bentley Systems, Incorporated is a infrastructure engineering software company focused on design, construction, and operations software for infrastructure. AI and digital twin integration. Seequent for geosciences.",
+  "sources": [
+    "https://craft.co/bentley-systems/competitors",
+    "https://6sense.com/tech/bim-and-architectural-design-software/bentley-market-share"
+  ]
 }

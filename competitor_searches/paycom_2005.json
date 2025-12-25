@@ -5,15 +5,36 @@
   "search_query": "Paycom competitors 2005",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "ADP (Automatic Data Processing)", "notes": "Market leader with approximately 10% market share, dominant in payroll processing across all business sizes"},
-    {"name": "Paychex", "notes": "Major payroll services provider with approximately 9% market share, strong in SMB market"},
-    {"name": "Ceridian", "notes": "Payroll and HR services company, operating traditional service bureau model"},
-    {"name": "Ultimate Software", "notes": "HR and payroll software provider, beginning transition to cloud-based solutions"},
-    {"name": "Kronos", "notes": "Workforce management and time/attendance solutions provider"},
-    {"name": "PeopleSoft/Oracle", "notes": "Enterprise HCM platform being acquired by Oracle in 2005"},
-    {"name": "Sage Payroll", "notes": "Payroll software for small to medium businesses"}
+    {
+      "name": "ADP (Automatic Data Processing)",
+      "notes": "Market leader with approximately 10% market share, dominant in payroll processing across all business sizes"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll services provider with approximately 9% market share, strong in SMB market"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "Payroll and HR services company, operating traditional service bureau model"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "HR and payroll software provider, beginning transition to cloud-based solutions"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Workforce management and time/attendance solutions provider"
+    },
+    {
+      "name": "PeopleSoft/Oracle",
+      "notes": "Enterprise HCM platform being acquired by Oracle in 2005"
+    },
+    {
+      "name": "Sage Payroll",
+      "notes": "Payroll software for small to medium businesses"
+    }
   ],
-  "context": "In 2005, Paycom was a small, regional online payroll provider founded in 1998 by Chad Richison in Oklahoma City. The company was in its early growth phase, seven years after Richison sold his house and used his 401(k) to fund the startup. Paycom differentiated itself as one of the first fully online payroll providers with a single-database architecture. The market was dominated by ADP and Paychex who together held nearly 20% market share and served 1.8 million clients through traditional service bureau and bolt-on acquisition models. Paycom was building toward its 2007 investment from Welsh Carson Anderson and Stowe.",
+  "context": "Paycom Software, Inc. is a HCM software company focused on payroll, HR, and talent management for enterprises. Single-database HCM platform development.",
   "sources": [
     "https://en.wikipedia.org/wiki/Paycom",
     "https://www.zippia.com/paycom-careers-8859/history/",

@@ -5,12 +5,29 @@
   "search_query": "Elastic ELK Stack competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Splunk", "notes": "Dominant commercial log analytics platform"},
-    {"name": "Sumo Logic", "notes": "Cloud-native machine data analytics"},
-    {"name": "Logstash", "notes": "Part of ELK Stack, Elastic product"},
-    {"name": "Graylog", "notes": "Open-source log management"},
-    {"name": "Apache Solr", "notes": "Open-source search platform on Lucene"}
+    {
+      "name": "Splunk",
+      "notes": "Dominant commercial log analytics platform"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Cloud-native machine data analytics"
+    },
+    {
+      "name": "Logstash",
+      "notes": "Part of ELK Stack, Elastic product"
+    },
+    {
+      "name": "Graylog",
+      "notes": "Open-source log management"
+    },
+    {
+      "name": "Apache Solr",
+      "notes": "Open-source search platform on Lucene"
+    }
   ],
-  "context": "In 2015, Elastic was a growth-stage startup (Series C funding) building on open-source Elasticsearch popularity. The company rebranded from Elasticsearch to Elastic and consolidated ELK Stack (Elasticsearch, Logstash, Kibana). Splunk was the commercial leader in log analytics. The market saw growing adoption of Elasticsearch for search and log analytics use cases. Elastic positioned as open-source alternative to commercial Splunk with enterprise support options.",
-  "sources": ["https://www.elastic.co/about/history"]
+  "context": "Elastic N.V. is a search and observability company focused on Elasticsearch, observability, and enterprise search solutions. Elasticsearch adoption for log analysis and search. ELK stack.",
+  "sources": [
+    "https://www.elastic.co/about/history"
+  ]
 }

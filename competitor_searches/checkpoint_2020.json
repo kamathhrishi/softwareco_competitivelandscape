@@ -4,16 +4,43 @@
   "year": 2020,
   "search_query": "Check Point Software competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Check Point expanded its Infinity architecture for unified security across networks, cloud, and mobile. The company competed in cloud security, SASE, and zero trust as the pandemic accelerated remote work and cloud adoption.",
+  "context": "Check Point Software Technologies is a cybersecurity company focused on network security, cloud security, and threat prevention. Remote work security. Cloud and IoT security growing.",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Market leader in NGFW and expanding cloud security portfolio"},
-    {"name": "Fortinet", "notes": "Strong NGFW competitor with Security Fabric approach"},
-    {"name": "Cisco", "notes": "Broad security portfolio including SecureX platform"},
-    {"name": "Zscaler", "notes": "Cloud-native security competing in SASE and zero trust"},
-    {"name": "CrowdStrike", "notes": "Cloud-native endpoint and workload security"},
-    {"name": "Microsoft", "notes": "Growing security business with Defender and Azure security"},
-    {"name": "Juniper Networks", "notes": "SRX firewalls with Connected Security approach"},
-    {"name": "Sophos", "notes": "Synchronized security for mid-market enterprises"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Market leader in NGFW and expanding cloud security portfolio"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Strong NGFW competitor with Security Fabric approach"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Broad security portfolio including SecureX platform"
+    },
+    {
+      "name": "Zscaler",
+      "notes": "Cloud-native security competing in SASE and zero trust"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Cloud-native endpoint and workload security"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Growing security business with Defender and Azure security"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "SRX firewalls with Connected Security approach"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Synchronized security for mid-market enterprises"
+    }
   ],
-  "sources": ["Gartner Magic Quadrant", "Forrester Wave"]
+  "sources": [
+    "Gartner Magic Quadrant",
+    "Forrester Wave"
+  ]
 }

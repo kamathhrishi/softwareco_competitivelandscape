@@ -4,23 +4,68 @@
   "year": 2024,
   "search_query": "F5 Inc competitors 2024",
   "search_date": "2025-12-24",
-  "context": "F5 led the Overall Application Security & Delivery market with 21% market share and dominated ADC market with 42% share in 2024. The company transitioned heavily to software and subscription models (58% of product revenue). Market driven by hybrid/multi-cloud architectures and enterprise AI applications. F5 competed across ADC, WAF, API protection, and cloud-native security.",
+  "context": "F5, Inc. is a application delivery and security company focused on load balancing, application security, and multi-cloud networking. Distributed cloud services. API security and WAAP.",
   "competitors": [
-    {"name": "Akamai", "notes": "Ranked #2 in Overall Application Security & Delivery market, strong in CDN and edge security"},
-    {"name": "Cloudflare", "notes": "Ranked #3 in market, leading cloud-native web infrastructure and security provider"},
-    {"name": "NetScaler (Citrix)", "notes": "Ranked #2 in ADC market and #4 overall, strong application delivery controller competitor"},
-    {"name": "A10 Networks", "notes": "Ranked #3 in ADC market, high-performance application delivery and DDoS protection"},
-    {"name": "Cisco Systems", "notes": "Comprehensive networking and cybersecurity with strong enterprise relationships"},
-    {"name": "Palo Alto Networks", "notes": "Leading next-generation firewall and cloud security platform"},
-    {"name": "AWS", "notes": "Elastic Load Balancer (68.15% load balancer market share), WAF, and cloud-native application services"},
-    {"name": "Microsoft Azure", "notes": "Azure Application Gateway (9.21% market share), Azure Front Door, and integrated cloud services"},
-    {"name": "Fortinet", "notes": "Web Application Firewall and integrated security fabric solutions"},
-    {"name": "Imperva", "notes": "Cloud WAF and API security with multi-cloud deployment flexibility"},
-    {"name": "Radware", "notes": "ADC and application security competitor"},
-    {"name": "Kemp LoadMaster", "notes": "Cost-effective load balancing and ADC alternative"},
-    {"name": "HAProxy", "notes": "Open-source and enterprise load balancing solutions"},
-    {"name": "NGINX Plus", "notes": "Modern application delivery (owned by F5 but competes in open-source space)"},
-    {"name": "Barracuda Networks", "notes": "Web application firewall and application delivery solutions"}
+    {
+      "name": "Akamai",
+      "notes": "Ranked #2 in Overall Application Security & Delivery market, strong in CDN and edge security"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Ranked #3 in market, leading cloud-native web infrastructure and security provider"
+    },
+    {
+      "name": "NetScaler (Citrix)",
+      "notes": "Ranked #2 in ADC market and #4 overall, strong application delivery controller competitor"
+    },
+    {
+      "name": "A10 Networks",
+      "notes": "Ranked #3 in ADC market, high-performance application delivery and DDoS protection"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Comprehensive networking and cybersecurity with strong enterprise relationships"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading next-generation firewall and cloud security platform"
+    },
+    {
+      "name": "AWS",
+      "notes": "Elastic Load Balancer (68.15% load balancer market share), WAF, and cloud-native application services"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Azure Application Gateway (9.21% market share), Azure Front Door, and integrated cloud services"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Web Application Firewall and integrated security fabric solutions"
+    },
+    {
+      "name": "Imperva",
+      "notes": "Cloud WAF and API security with multi-cloud deployment flexibility"
+    },
+    {
+      "name": "Radware",
+      "notes": "ADC and application security competitor"
+    },
+    {
+      "name": "Kemp LoadMaster",
+      "notes": "Cost-effective load balancing and ADC alternative"
+    },
+    {
+      "name": "HAProxy",
+      "notes": "Open-source and enterprise load balancing solutions"
+    },
+    {
+      "name": "NGINX Plus",
+      "notes": "Modern application delivery (owned by F5 but competes in open-source space)"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "Web application firewall and application delivery solutions"
+    }
   ],
   "sources": [
     "https://pitchgrade.com/companies/f5-inc",

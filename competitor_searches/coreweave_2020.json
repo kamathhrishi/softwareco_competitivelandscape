@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "CoreWeave competitors 2020",
   "search_date": "2024-12-24",
-  "context": "CoreWeave pivoted from cryptocurrency mining to GPU cloud computing in 2019. By 2020, the company was building specialized cloud infrastructure for GPU-intensive workloads including rendering and machine learning.",
+  "context": "CoreWeave, Inc. is a GPU cloud provider focused on specialized cloud infrastructure for AI, ML, and GPU workloads. Pivoted from crypto mining to GPU cloud for AI/ML workloads.",
   "competitors": [
-    {"name": "Amazon Web Services (AWS)", "notes": "Dominant cloud provider with EC2 GPU instances for ML workloads"},
-    {"name": "Google Cloud Platform", "notes": "Cloud provider with TPUs and GPU offerings for AI/ML"},
-    {"name": "Microsoft Azure", "notes": "Cloud provider with GPU VMs and AI infrastructure"},
-    {"name": "Lambda Labs", "notes": "GPU cloud focused on deep learning workloads"},
-    {"name": "Paperspace", "notes": "GPU cloud platform for ML and graphics workloads"},
-    {"name": "Vast.ai", "notes": "GPU marketplace for machine learning compute"},
-    {"name": "NVIDIA DGX Cloud", "notes": "NVIDIA's own cloud offering for AI workloads"},
-    {"name": "IBM Cloud", "notes": "Enterprise cloud with GPU offerings"}
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Dominant cloud provider with EC2 GPU instances for ML workloads"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "notes": "Cloud provider with TPUs and GPU offerings for AI/ML"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Cloud provider with GPU VMs and AI infrastructure"
+    },
+    {
+      "name": "Lambda Labs",
+      "notes": "GPU cloud focused on deep learning workloads"
+    },
+    {
+      "name": "Paperspace",
+      "notes": "GPU cloud platform for ML and graphics workloads"
+    },
+    {
+      "name": "Vast.ai",
+      "notes": "GPU marketplace for machine learning compute"
+    },
+    {
+      "name": "NVIDIA DGX Cloud",
+      "notes": "NVIDIA's own cloud offering for AI workloads"
+    },
+    {
+      "name": "IBM Cloud",
+      "notes": "Enterprise cloud with GPU offerings"
+    }
   ],
-  "sources": ["Cloud infrastructure analysis"]
+  "sources": [
+    "Cloud infrastructure analysis"
+  ]
 }

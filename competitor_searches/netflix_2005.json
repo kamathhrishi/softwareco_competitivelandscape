@@ -4,14 +4,35 @@
   "year": 2005,
   "search_query": "Netflix competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Netflix established as DVD-by-mail leader. Reed Hastings predicted digital future of media. Blockbuster launched Total Access to compete. Walmart exited market and partnered with Netflix.",
+  "context": "Netflix, Inc. is a streaming entertainment service focused on subscription video streaming and original content production. DVD leadership. Streaming technology development.",
   "competitors": [
-    {"name": "Blockbuster Online", "notes": "Launched 2004, claimed 1M online customers by Aug 2005"},
-    {"name": "Redbox", "notes": "DVD kiosk rental, established 2002 at McDonald's locations"},
-    {"name": "Hollywood Video", "notes": "Second largest video rental chain"},
-    {"name": "Amazon", "notes": "DVD sales, put fear into Netflix executive team"},
-    {"name": "Walmart", "notes": "Exited DVD rental in 2005, cross-promotional deal with Netflix"},
-    {"name": "GameFly", "notes": "Video game rental by mail service"}
+    {
+      "name": "Blockbuster Online",
+      "notes": "Launched 2004, claimed 1M online customers by Aug 2005"
+    },
+    {
+      "name": "Redbox",
+      "notes": "DVD kiosk rental, established 2002 at McDonald's locations"
+    },
+    {
+      "name": "Hollywood Video",
+      "notes": "Second largest video rental chain"
+    },
+    {
+      "name": "Amazon",
+      "notes": "DVD sales, put fear into Netflix executive team"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Exited DVD rental in 2005, cross-promotional deal with Netflix"
+    },
+    {
+      "name": "GameFly",
+      "notes": "Video game rental by mail service"
+    }
   ],
-  "sources": ["DVD rental industry analysis", "Netflix historical records"]
+  "sources": [
+    "DVD rental industry analysis",
+    "Netflix historical records"
+  ]
 }

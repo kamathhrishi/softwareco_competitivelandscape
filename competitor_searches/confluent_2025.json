@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Confluent competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Confluent provides the leading data streaming platform based on Apache Kafka, enabling real-time data pipelines and streaming applications. The company offers both cloud and self-managed solutions.",
+  "context": "Confluent, Inc. is a data streaming platform company focused on Apache Kafka-based real-time data streaming and event-driven architecture. Data streaming platform leader. AI/ML real-time data pipelines.",
   "competitors": [
-    {"name": "Amazon Kinesis", "notes": "AWS managed streaming service for real-time data processing"},
-    {"name": "Apache Kafka (open source)", "notes": "The open-source project that Confluent commercializes and extends"},
-    {"name": "Google Cloud Pub/Sub", "notes": "Google's managed messaging service for event-driven systems"},
-    {"name": "Microsoft Azure Event Hubs", "notes": "Azure's big data streaming platform compatible with Kafka"},
-    {"name": "Redpanda", "notes": "Kafka-compatible streaming platform focused on performance and simplicity"},
-    {"name": "Apache Pulsar", "notes": "Open-source distributed messaging and streaming platform"},
-    {"name": "Cloudera", "notes": "Enterprise data platform including streaming capabilities"},
-    {"name": "Databricks", "notes": "Unified analytics platform with streaming data processing capabilities"}
+    {
+      "name": "Amazon Kinesis",
+      "notes": "AWS managed streaming service for real-time data processing"
+    },
+    {
+      "name": "Apache Kafka (open source)",
+      "notes": "The open-source project that Confluent commercializes and extends"
+    },
+    {
+      "name": "Google Cloud Pub/Sub",
+      "notes": "Google's managed messaging service for event-driven systems"
+    },
+    {
+      "name": "Microsoft Azure Event Hubs",
+      "notes": "Azure's big data streaming platform compatible with Kafka"
+    },
+    {
+      "name": "Redpanda",
+      "notes": "Kafka-compatible streaming platform focused on performance and simplicity"
+    },
+    {
+      "name": "Apache Pulsar",
+      "notes": "Open-source distributed messaging and streaming platform"
+    },
+    {
+      "name": "Cloudera",
+      "notes": "Enterprise data platform including streaming capabilities"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Unified analytics platform with streaming data processing capabilities"
+    }
   ],
-  "sources": ["Gartner", "Forrester"]
+  "sources": [
+    "Gartner",
+    "Forrester"
+  ]
 }

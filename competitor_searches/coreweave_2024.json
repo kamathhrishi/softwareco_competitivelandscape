@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "CoreWeave competitors 2024",
   "search_date": "2024-12-24",
-  "context": "CoreWeave emerged as a major AI cloud infrastructure provider, valued at $19B in 2024. The company secured massive NVIDIA GPU allocations and contracts with AI companies including Microsoft and OpenAI partners.",
+  "context": "CoreWeave, Inc. is a GPU cloud provider focused on specialized cloud infrastructure for AI, ML, and GPU workloads. Major AI infrastructure contracts with Microsoft and others. $7B+ valuation.",
   "competitors": [
-    {"name": "Amazon Web Services", "notes": "Largest cloud provider with extensive GPU and AI infrastructure"},
-    {"name": "Microsoft Azure", "notes": "Cloud provider with OpenAI partnership and GPU capacity"},
-    {"name": "Google Cloud", "notes": "Cloud with TPUs and GPUs, strong in AI/ML services"},
-    {"name": "Oracle Cloud Infrastructure", "notes": "Aggressive expansion in GPU cloud for AI workloads"},
-    {"name": "Lambda Labs", "notes": "GPU cloud focused specifically on AI training and inference"},
-    {"name": "Together AI", "notes": "AI cloud platform for training and deploying models"},
-    {"name": "Crusoe Energy", "notes": "Sustainable GPU cloud powered by stranded energy"},
-    {"name": "Voltage Park", "notes": "GPU cloud startup for AI infrastructure"}
+    {
+      "name": "Amazon Web Services",
+      "notes": "Largest cloud provider with extensive GPU and AI infrastructure"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Cloud provider with OpenAI partnership and GPU capacity"
+    },
+    {
+      "name": "Google Cloud",
+      "notes": "Cloud with TPUs and GPUs, strong in AI/ML services"
+    },
+    {
+      "name": "Oracle Cloud Infrastructure",
+      "notes": "Aggressive expansion in GPU cloud for AI workloads"
+    },
+    {
+      "name": "Lambda Labs",
+      "notes": "GPU cloud focused specifically on AI training and inference"
+    },
+    {
+      "name": "Together AI",
+      "notes": "AI cloud platform for training and deploying models"
+    },
+    {
+      "name": "Crusoe Energy",
+      "notes": "Sustainable GPU cloud powered by stranded energy"
+    },
+    {
+      "name": "Voltage Park",
+      "notes": "GPU cloud startup for AI infrastructure"
+    }
   ],
-  "sources": ["Cloud infrastructure analysis"]
+  "sources": [
+    "Cloud infrastructure analysis"
+  ]
 }

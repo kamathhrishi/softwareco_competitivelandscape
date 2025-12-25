@@ -5,11 +5,25 @@
   "search_query": "Facebook competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "MySpace", "notes": "Dominant social network, acquired for $580M in July 2005"},
-    {"name": "Friendster", "notes": "Dating-focused social network with server issues"},
-    {"name": "Hi5", "notes": "Close competitor in mid-2000s"},
-    {"name": "LinkedIn", "notes": "Professional networking launched 2003"}
+    {
+      "name": "MySpace",
+      "notes": "Dominant social network, acquired for $580M in July 2005"
+    },
+    {
+      "name": "Friendster",
+      "notes": "Dating-focused social network with server issues"
+    },
+    {
+      "name": "Hi5",
+      "notes": "Close competitor in mid-2000s"
+    },
+    {
+      "name": "LinkedIn",
+      "notes": "Professional networking launched 2003"
+    }
   ],
-  "context": "Facebook still TheFacebook, limited to college students. Received $13M from Accel Partners May 2005. MySpace dominant, rejected buying Facebook for $75M.",
-  "sources": ["https://blog.hootsuite.com/history-social-media/"]
+  "context": "Meta Platforms, Inc. is a social media and technology company focused on Facebook, Instagram, WhatsApp, and metaverse investments. Facebook growing beyond colleges. TheFacebook.com popular.",
+  "sources": [
+    "https://blog.hootsuite.com/history-social-media/"
+  ]
 }

@@ -5,17 +5,44 @@
   "search_query": "Tyler Technologies competitors 2005",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "PeopleSoft (Oracle)", "notes": "Enterprise ERP and HCM platform acquired by Oracle in January 2005, strong government sector presence"},
-    {"name": "SAP", "notes": "Enterprise ERP software with public sector solutions"},
-    {"name": "Oracle E-Business Suite", "notes": "Comprehensive ERP platform with government applications"},
-    {"name": "Lawson Software", "notes": "ERP software provider with government and public sector focus"},
-    {"name": "Infor (Hansen)", "notes": "Enterprise software provider with government/municipal solutions"},
-    {"name": "Microsoft Dynamics", "notes": "Business applications and ERP software with government capabilities"},
-    {"name": "NEOGOV", "notes": "Government-focused HR and talent management solutions"},
-    {"name": "Accela", "notes": "Government software for permits, planning, and regulatory services"},
-    {"name": "New World Systems", "notes": "Public safety and financial management software for government"}
+    {
+      "name": "PeopleSoft (Oracle)",
+      "notes": "Enterprise ERP and HCM platform acquired by Oracle in January 2005, strong government sector presence"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise ERP software with public sector solutions"
+    },
+    {
+      "name": "Oracle E-Business Suite",
+      "notes": "Comprehensive ERP platform with government applications"
+    },
+    {
+      "name": "Lawson Software",
+      "notes": "ERP software provider with government and public sector focus"
+    },
+    {
+      "name": "Infor (Hansen)",
+      "notes": "Enterprise software provider with government/municipal solutions"
+    },
+    {
+      "name": "Microsoft Dynamics",
+      "notes": "Business applications and ERP software with government capabilities"
+    },
+    {
+      "name": "NEOGOV",
+      "notes": "Government-focused HR and talent management solutions"
+    },
+    {
+      "name": "Accela",
+      "notes": "Government software for permits, planning, and regulatory services"
+    },
+    {
+      "name": "New World Systems",
+      "notes": "Public safety and financial management software for government"
+    }
   ],
-  "context": "In 2005, Tyler Technologies was an established provider of software solutions for state and local governments. The company competed in a market dominated by large enterprise software vendors like Oracle (which acquired PeopleSoft in January 2005), SAP, and other ERP providers who offered government modules within broader platforms. Tyler differentiated itself through deep public sector specialization and domain expertise, owning multiple ERP products (Munis, Eden, and Incode) focused exclusively on government needs including financial management, courts and justice, property appraisal, and permitting. The Oracle-PeopleSoft merger consolidated the enterprise software market and strengthened large vendors' government offerings.",
+  "context": "Tyler Technologies, Inc. is a government software company focused on software for local government, courts, and public safety. Courts and justice software. Public safety.",
   "sources": [
     "https://en.wikipedia.org/wiki/PeopleSoft",
     "https://www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/",

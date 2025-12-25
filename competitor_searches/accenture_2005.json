@@ -4,23 +4,68 @@
   "year": 2005,
   "search_query": "Accenture competitors 2005",
   "search_date": "2025-12-24",
-  "context": "By 2005, Accenture had established itself as a pure-play consulting firm following its IPO in 2001. The market was focused on enterprise application integration, offshore delivery models, and business process outsourcing. Indian IT services firms were rapidly growing as cost-effective alternatives. The post-Sarbanes-Oxley environment created demand for compliance and risk management consulting.",
+  "context": "Accenture is a global professional services and consulting firm focused on IT consulting, strategy, digital transformation, and technology services. Established as leading IT services firm post-Enron era. Growing outsourcing and business process services.",
   "competitors": [
-    {"name": "IBM Global Services", "notes": "Leading global IT services and consulting provider"},
-    {"name": "Deloitte Consulting", "notes": "Post-Big Five consolidation, major consulting competitor"},
-    {"name": "PricewaterhouseCoopers (PwC)", "notes": "Major consulting practice focusing on digital strategy and transformation"},
-    {"name": "KPMG", "notes": "Consulting and advisory services competitor"},
-    {"name": "Ernst & Young (EY)", "notes": "Global professional services firm with strong consulting practice"},
-    {"name": "Capgemini", "notes": "European leader in IT consulting and outsourcing services"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Rapidly growing Indian IT services and consulting firm"},
-    {"name": "Infosys", "notes": "Major Indian IT services competitor offering consulting and outsourcing"},
-    {"name": "Wipro", "notes": "Indian IT services firm expanding global consulting presence"},
-    {"name": "Cognizant", "notes": "Fast-growing IT services and consulting company"},
-    {"name": "McKinsey & Company", "notes": "Top strategy consulting firm"},
-    {"name": "Boston Consulting Group (BCG)", "notes": "Elite strategy consulting competitor"},
-    {"name": "Bain & Company", "notes": "Premier management consulting firm"},
-    {"name": "BearingPoint", "notes": "Management and technology consulting firm (formerly KPMG Consulting)"},
-    {"name": "Atos Origin", "notes": "European IT services and consulting company"}
+    {
+      "name": "IBM Global Services",
+      "notes": "Leading global IT services and consulting provider"
+    },
+    {
+      "name": "Deloitte Consulting",
+      "notes": "Post-Big Five consolidation, major consulting competitor"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC)",
+      "notes": "Major consulting practice focusing on digital strategy and transformation"
+    },
+    {
+      "name": "KPMG",
+      "notes": "Consulting and advisory services competitor"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "notes": "Global professional services firm with strong consulting practice"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "European leader in IT consulting and outsourcing services"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Rapidly growing Indian IT services and consulting firm"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Major Indian IT services competitor offering consulting and outsourcing"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services firm expanding global consulting presence"
+    },
+    {
+      "name": "Cognizant",
+      "notes": "Fast-growing IT services and consulting company"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Top strategy consulting firm"
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "notes": "Elite strategy consulting competitor"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Premier management consulting firm"
+    },
+    {
+      "name": "BearingPoint",
+      "notes": "Management and technology consulting firm (formerly KPMG Consulting)"
+    },
+    {
+      "name": "Atos Origin",
+      "notes": "European IT services and consulting company"
+    }
   ],
   "sources": [
     "https://www.1840andco.com/blog/accenture-competitors",

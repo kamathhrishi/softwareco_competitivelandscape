@@ -5,12 +5,30 @@
   "search_query": "Teradata data warehouse competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Snowflake", "notes": "Cloud-native data warehouse, IPO'd September 2020 at $33B valuation"},
-    {"name": "Amazon Redshift", "notes": "AWS cloud data warehouse service"},
-    {"name": "Google BigQuery", "notes": "Serverless cloud data warehouse"},
-    {"name": "Microsoft Azure Synapse", "notes": "Integrated analytics service"},
-    {"name": "Oracle", "notes": "Autonomous Data Warehouse and traditional database"}
+    {
+      "name": "Snowflake",
+      "notes": "Cloud-native data warehouse, IPO'd September 2020 at $33B valuation"
+    },
+    {
+      "name": "Amazon Redshift",
+      "notes": "AWS cloud data warehouse service"
+    },
+    {
+      "name": "Google BigQuery",
+      "notes": "Serverless cloud data warehouse"
+    },
+    {
+      "name": "Microsoft Azure Synapse",
+      "notes": "Integrated analytics service"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Autonomous Data Warehouse and traditional database"
+    }
   ],
-  "context": "In 2020, Teradata faced disruption from cloud-native competitors, particularly Snowflake which IPO'd in September 2020 with historic valuation. The pandemic accelerated cloud data warehouse adoption. Teradata responded with Vantage, its cloud-enabled analytics platform available on AWS, Azure, and Google Cloud. Competition shifted from on-premises to multi-cloud deployment models. The data lakehouse concept from Databricks represented new architectural competition.",
-  "sources": ["https://www.gartner.com/reviews/market/data-management-solutions-for-analytics", "https://6sense.com/tech/data-warehouse/teradata-market-share"]
+  "context": "Teradata Corporation is a cloud analytics and data platform company focused on enterprise data warehousing and analytics. VantageCloud platform. Consumption pricing.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/data-management-solutions-for-analytics",
+    "https://6sense.com/tech/data-warehouse/teradata-market-share"
+  ]
 }

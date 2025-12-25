@@ -4,15 +4,38 @@
   "year": 2000,
   "search_query": "Take-Two Interactive competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Take-Two acquired BMG Interactive in 1998, gaining Grand Theft Auto rights. Company transferred 19.9% Bungie stake to Microsoft in exchange for Myth and Oni IPs plus Halo engine license.",
+  "context": "Take-Two Interactive Software, Inc. is a video game publisher focused on Grand Theft Auto, NBA 2K, and other AAA game franchises. Acquired Grand Theft Auto rights. Growing publisher.",
   "competitors": [
-    {"name": "Electronic Arts", "notes": "Largest video game publisher, sports games dominance"},
-    {"name": "Activision", "notes": "Major game publisher before Blizzard merger"},
-    {"name": "THQ", "notes": "Video game publisher for licensed games"},
-    {"name": "Eidos Interactive", "notes": "Publisher of Tomb Raider, Hitman franchises"},
-    {"name": "Midway Games", "notes": "Arcade and console game publisher"},
-    {"name": "Acclaim Entertainment", "notes": "Video game publisher"},
-    {"name": "Infogrames", "notes": "French video game publisher"}
+    {
+      "name": "Electronic Arts",
+      "notes": "Largest video game publisher, sports games dominance"
+    },
+    {
+      "name": "Activision",
+      "notes": "Major game publisher before Blizzard merger"
+    },
+    {
+      "name": "THQ",
+      "notes": "Video game publisher for licensed games"
+    },
+    {
+      "name": "Eidos Interactive",
+      "notes": "Publisher of Tomb Raider, Hitman franchises"
+    },
+    {
+      "name": "Midway Games",
+      "notes": "Arcade and console game publisher"
+    },
+    {
+      "name": "Acclaim Entertainment",
+      "notes": "Video game publisher"
+    },
+    {
+      "name": "Infogrames",
+      "notes": "French video game publisher"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

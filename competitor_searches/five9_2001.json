@@ -5,11 +5,26 @@
   "search_query": "Five9 contact center competitors 2001 founded",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Genesys", "notes": "Legacy contact center solutions provider, established before Five9"},
-    {"name": "Avaya", "notes": "Legacy giant in communications, traditional on-premise contact center"},
-    {"name": "RingCentral", "notes": "Founded 1999, early cloud communications provider"},
-    {"name": "Verint", "notes": "Founded 2002, analytics and customer engagement management"}
+    {
+      "name": "Genesys",
+      "notes": "Legacy contact center solutions provider, established before Five9"
+    },
+    {
+      "name": "Avaya",
+      "notes": "Legacy giant in communications, traditional on-premise contact center"
+    },
+    {
+      "name": "RingCentral",
+      "notes": "Founded 1999, early cloud communications provider"
+    },
+    {
+      "name": "Verint",
+      "notes": "Founded 2002, analytics and customer engagement management"
+    }
   ],
-  "context": "Five9 was founded in 2001 in San Ramon, California. At this time, the contact center industry was dominated by legacy on-premise solutions. Five9 was an early pioneer in transitioning contact center systems to the cloud. Cloud-based contact center solutions were just beginning to emerge.",
-  "sources": ["https://www.cbinsights.com/company/five9", "https://www.owler.com/company/five9"]
+  "context": "Five9, Inc. is a cloud contact center software company focused on omnichannel contact center, workforce optimization, and AI. Founded for cloud contact center. VoIP-based solution.",
+  "sources": [
+    "https://www.cbinsights.com/company/five9",
+    "https://www.owler.com/company/five9"
+  ]
 }

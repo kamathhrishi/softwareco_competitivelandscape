@@ -5,12 +5,29 @@
   "search_query": "Tyler Technologies government software competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "SAP", "notes": "Enterprise ERP with public sector solutions"},
-    {"name": "Oracle", "notes": "Enterprise software for government agencies"},
-    {"name": "SunGard", "notes": "Public sector software before FIS acquisition"},
-    {"name": "Accela", "notes": "Civic platform for permits, licenses, and code enforcement"},
-    {"name": "New World Systems", "notes": "Public safety software, acquired by Tyler in 2015"}
+    {
+      "name": "SAP",
+      "notes": "Enterprise ERP with public sector solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software for government agencies"
+    },
+    {
+      "name": "SunGard",
+      "notes": "Public sector software before FIS acquisition"
+    },
+    {
+      "name": "Accela",
+      "notes": "Civic platform for permits, licenses, and code enforcement"
+    },
+    {
+      "name": "New World Systems",
+      "notes": "Public safety software, acquired by Tyler in 2015"
+    }
   ],
-  "context": "In 2015, Tyler Technologies acquired New World Systems for $670M, significantly expanding its public safety software portfolio. This acquisition was the largest in Tyler's history and strengthened its position in computer-aided dispatch and records management. The government software market was consolidating as Tyler built comprehensive solutions for state and local government. Competition came from enterprise vendors like SAP and Oracle as well as specialized government software companies.",
-  "sources": ["https://craft.co/tyler-technologies/competitors"]
+  "context": "Tyler Technologies, Inc. is a government software company focused on software for local government, courts, and public safety. Expanded data and analytics for government.",
+  "sources": [
+    "https://craft.co/tyler-technologies/competitors"
+  ]
 }

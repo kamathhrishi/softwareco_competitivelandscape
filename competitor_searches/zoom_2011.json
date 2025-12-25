@@ -5,10 +5,23 @@
   "search_query": "Zoom video conferencing competitors 2011",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cisco Webex", "notes": "One of the most well-known alternatives to Zoom, established player in corporate video conferencing with impressive boardroom and office credentials"},
-    {"name": "Skype", "notes": "Go-to platform for personal video chat released in beta in 2003, one of the biggest Zoom competitors from day one"},
-    {"name": "GoToMeeting", "notes": "Established video conferencing platform with screen sharing features and simple user experience"}
+    {
+      "name": "Cisco Webex",
+      "notes": "One of the most well-known alternatives to Zoom, established player in corporate video conferencing with impressive boardroom and office credentials"
+    },
+    {
+      "name": "Skype",
+      "notes": "Go-to platform for personal video chat released in beta in 2003, one of the biggest Zoom competitors from day one"
+    },
+    {
+      "name": "GoToMeeting",
+      "notes": "Established video conferencing platform with screen sharing features and simple user experience"
+    }
   ],
-  "context": "Zoom was launched in 2011 as a cloud-based video conferencing platform offering an intuitive user experience with high-quality audio and video capabilities. At the time of its founding, the video conferencing market was dominated by established players like Cisco Webex, Skype, and GoToMeeting. Zoom entered as a challenger seeking to improve on ease of use and call quality compared to the incumbents.",
-  "sources": ["https://www.vendr.com/blog/zoom-alternatives-competitors", "https://getvoip.com/blog/zoom-alternatives/", "https://zapier.com/blog/best-zoom-alternatives/"]
+  "context": "Zoom Video Communications, Inc. is a video communications platform company focused on video meetings, webinars, and collaboration tools. Founded by WebEx engineering team.",
+  "sources": [
+    "https://www.vendr.com/blog/zoom-alternatives-competitors",
+    "https://getvoip.com/blog/zoom-alternatives/",
+    "https://zapier.com/blog/best-zoom-alternatives/"
+  ]
 }

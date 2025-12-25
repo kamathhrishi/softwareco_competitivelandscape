@@ -4,16 +4,42 @@
   "year": 2021,
   "search_query": "Coupang competitors 2021",
   "search_date": "2024-12-24",
-  "context": "Coupang went public in March 2021 in the largest IPO for a foreign company on NYSE. The 'Amazon of South Korea' was valued at $60B, having grown rapidly during COVID-19.",
+  "context": "Coupang, Inc. is a South Korean e-commerce company focused on online retail, rocket delivery, and streaming in Korea. IPO on NYSE. Largest Korean company US listing. Rocket delivery model.",
   "competitors": [
-    {"name": "Naver Shopping", "notes": "Korea's top search engine with e-commerce"},
-    {"name": "Gmarket", "notes": "eBay Korea's major marketplace"},
-    {"name": "11st", "notes": "SK Telecom's e-commerce platform"},
-    {"name": "Auction", "notes": "eBay Korea online auction"},
-    {"name": "TMON", "notes": "Korean social commerce"},
-    {"name": "WeMakePrice", "notes": "Korean deal site"},
-    {"name": "SSG.com", "notes": "Shinsegae department store online"},
-    {"name": "Market Kurly", "notes": "Korean fresh food delivery startup"}
+    {
+      "name": "Naver Shopping",
+      "notes": "Korea's top search engine with e-commerce"
+    },
+    {
+      "name": "Gmarket",
+      "notes": "eBay Korea's major marketplace"
+    },
+    {
+      "name": "11st",
+      "notes": "SK Telecom's e-commerce platform"
+    },
+    {
+      "name": "Auction",
+      "notes": "eBay Korea online auction"
+    },
+    {
+      "name": "TMON",
+      "notes": "Korean social commerce"
+    },
+    {
+      "name": "WeMakePrice",
+      "notes": "Korean deal site"
+    },
+    {
+      "name": "SSG.com",
+      "notes": "Shinsegae department store online"
+    },
+    {
+      "name": "Market Kurly",
+      "notes": "Korean fresh food delivery startup"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

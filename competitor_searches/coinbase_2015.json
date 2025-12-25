@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Coinbase competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Coinbase was the leading US cryptocurrency exchange in 2015, focused on making Bitcoin accessible to mainstream consumers. The company had raised significant VC funding and was building regulatory-compliant infrastructure.",
+  "context": "Coinbase Global, Inc. is a cryptocurrency exchange and platform focused on crypto trading, custody, staking, and blockchain infrastructure. Leading US crypto exchange. Bitcoin trading for retail users.",
   "competitors": [
-    {"name": "Bitstamp", "notes": "European Bitcoin exchange with early institutional focus"},
-    {"name": "Kraken", "notes": "US cryptocurrency exchange with trading features"},
-    {"name": "Bitfinex", "notes": "Major cryptocurrency exchange with advanced trading"},
-    {"name": "Circle", "notes": "Consumer Bitcoin company and exchange (later pivoted to USDC)"},
-    {"name": "itBit", "notes": "Regulated Bitcoin exchange (now part of Paxos)"},
-    {"name": "Gemini", "notes": "Regulated US exchange founded by Winklevoss twins"},
-    {"name": "LocalBitcoins", "notes": "Peer-to-peer Bitcoin marketplace"},
-    {"name": "BTC-e", "notes": "Major exchange later shut down by authorities"}
+    {
+      "name": "Bitstamp",
+      "notes": "European Bitcoin exchange with early institutional focus"
+    },
+    {
+      "name": "Kraken",
+      "notes": "US cryptocurrency exchange with trading features"
+    },
+    {
+      "name": "Bitfinex",
+      "notes": "Major cryptocurrency exchange with advanced trading"
+    },
+    {
+      "name": "Circle",
+      "notes": "Consumer Bitcoin company and exchange (later pivoted to USDC)"
+    },
+    {
+      "name": "itBit",
+      "notes": "Regulated Bitcoin exchange (now part of Paxos)"
+    },
+    {
+      "name": "Gemini",
+      "notes": "Regulated US exchange founded by Winklevoss twins"
+    },
+    {
+      "name": "LocalBitcoins",
+      "notes": "Peer-to-peer Bitcoin marketplace"
+    },
+    {
+      "name": "BTC-e",
+      "notes": "Major exchange later shut down by authorities"
+    }
   ],
-  "sources": ["Cryptocurrency industry analysis"]
+  "sources": [
+    "Cryptocurrency industry analysis"
+  ]
 }

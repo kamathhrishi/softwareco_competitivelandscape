@@ -5,12 +5,30 @@
   "search_query": "Veeva Systems life sciences competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "IQVIA", "notes": "Major competitor in life sciences data and CRM, formed from Quintiles-IMS merger"},
-    {"name": "Medidata Solutions", "notes": "Clinical trial software, acquired by Dassault Systèmes in 2019"},
-    {"name": "Oracle Health Sciences", "notes": "Enterprise clinical trial and pharmacovigilance solutions"},
-    {"name": "Salesforce Health Cloud", "notes": "Underlying platform for Veeva CRM, potential competitor"},
-    {"name": "SAP", "notes": "Enterprise solutions for life sciences regulatory and manufacturing"}
+    {
+      "name": "IQVIA",
+      "notes": "Major competitor in life sciences data and CRM, formed from Quintiles-IMS merger"
+    },
+    {
+      "name": "Medidata Solutions",
+      "notes": "Clinical trial software, acquired by Dassault Systèmes in 2019"
+    },
+    {
+      "name": "Oracle Health Sciences",
+      "notes": "Enterprise clinical trial and pharmacovigilance solutions"
+    },
+    {
+      "name": "Salesforce Health Cloud",
+      "notes": "Underlying platform for Veeva CRM, potential competitor"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise solutions for life sciences regulatory and manufacturing"
+    }
   ],
-  "context": "In 2020, Veeva maintained dominant market share in pharmaceutical CRM while expanding Vault product suite. COVID-19 accelerated digital transformation in life sciences, benefiting Veeva's cloud-based solutions. Veeva announced plans to migrate off Salesforce platform to its own Veeva CRM by 2025. Dassault's 2019 acquisition of Medidata created a stronger clinical trial competitor. IQVIA remained the primary competitor in life sciences data and technology.",
-  "sources": ["https://www.cbinsights.com/company/veeva-systems/alternatives-competitors", "https://craft.co/veeva/competitors"]
+  "context": "Veeva Systems Inc. is a cloud software for life sciences focused on CRM, content management, and data solutions for pharma. Quality, regulatory, and clinical data expansion.",
+  "sources": [
+    "https://www.cbinsights.com/company/veeva-systems/alternatives-competitors",
+    "https://craft.co/veeva/competitors"
+  ]
 }

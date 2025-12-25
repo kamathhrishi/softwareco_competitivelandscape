@@ -5,15 +5,41 @@
   "search_query": "Amazon e-commerce AWS competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Walmart", "notes": "Most significant e-commerce competitor with Jet.com acquisition"},
-    {"name": "eBay", "notes": "Top e-commerce competitor in marketplace space"},
-    {"name": "Alibaba", "notes": "Major global player with Taobao and Tmall platforms"},
-    {"name": "Flipkart", "notes": "Dominates India's mobile commerce"},
-    {"name": "MercadoLibre", "notes": "Owns Latin American e-commerce market"},
-    {"name": "Microsoft Azure", "notes": "Rebranded from Windows Azure in 2015, major AWS competitor"},
-    {"name": "Google Cloud Platform", "notes": "Major cloud contender leveraging data analytics expertise"},
-    {"name": "IBM Cloud", "notes": "Over 170 services including IoT, blockchain, containers"}
+    {
+      "name": "Walmart",
+      "notes": "Most significant e-commerce competitor with Jet.com acquisition"
+    },
+    {
+      "name": "eBay",
+      "notes": "Top e-commerce competitor in marketplace space"
+    },
+    {
+      "name": "Alibaba",
+      "notes": "Major global player with Taobao and Tmall platforms"
+    },
+    {
+      "name": "Flipkart",
+      "notes": "Dominates India's mobile commerce"
+    },
+    {
+      "name": "MercadoLibre",
+      "notes": "Owns Latin American e-commerce market"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Rebranded from Windows Azure in 2015, major AWS competitor"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "notes": "Major cloud contender leveraging data analytics expertise"
+    },
+    {
+      "name": "IBM Cloud",
+      "notes": "Over 170 services including IoT, blockchain, containers"
+    }
   ],
-  "context": "Intense competition on two fronts. Walmart aggressive online, regional players solidified. Cloud 'big three' (AWS, Azure, GCP) established.",
-  "sources": ["https://doit.software/blog/amazon-competitors"]
+  "context": "Amazon.com, Inc. is a e-commerce, cloud computing, and technology conglomerate focused on online retail, AWS cloud services, streaming, devices, and advertising. AWS market leader with 30%+ share. Echo and Alexa launched. Prime Video competing with Netflix.",
+  "sources": [
+    "https://doit.software/blog/amazon-competitors"
+  ]
 }

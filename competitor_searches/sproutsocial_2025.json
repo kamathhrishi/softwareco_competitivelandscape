@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Sprout Social competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Sprout Social provides social media management software for businesses including publishing, engagement, analytics, and social listening. The platform helps organizations manage their social presence and extract business insights.",
+  "context": "Sprout Social, Inc. is a social media management platform focused on social media publishing, analytics, and engagement. Social media management leader. Competing with Hootsuite, Sprinklr.",
   "competitors": [
-    {"name": "Hootsuite", "notes": "Leading social media management platform for enterprises and agencies"},
-    {"name": "Sprinklr", "notes": "Enterprise unified CXM platform with strong social capabilities"},
-    {"name": "Buffer", "notes": "Social media scheduling and analytics for SMBs and creators"},
-    {"name": "Later (Mavrck)", "notes": "Visual content scheduling and influencer marketing platform"},
-    {"name": "Brandwatch", "notes": "Social listening and consumer intelligence platform"},
-    {"name": "Khoros", "notes": "Social media and community management for enterprises"},
-    {"name": "Agorapulse", "notes": "Social media management with inbox and reporting features"},
-    {"name": "Meltwater", "notes": "Media intelligence with social listening and analytics"}
+    {
+      "name": "Hootsuite",
+      "notes": "Leading social media management platform for enterprises and agencies"
+    },
+    {
+      "name": "Sprinklr",
+      "notes": "Enterprise unified CXM platform with strong social capabilities"
+    },
+    {
+      "name": "Buffer",
+      "notes": "Social media scheduling and analytics for SMBs and creators"
+    },
+    {
+      "name": "Later (Mavrck)",
+      "notes": "Visual content scheduling and influencer marketing platform"
+    },
+    {
+      "name": "Brandwatch",
+      "notes": "Social listening and consumer intelligence platform"
+    },
+    {
+      "name": "Khoros",
+      "notes": "Social media and community management for enterprises"
+    },
+    {
+      "name": "Agorapulse",
+      "notes": "Social media management with inbox and reporting features"
+    },
+    {
+      "name": "Meltwater",
+      "notes": "Media intelligence with social listening and analytics"
+    }
   ],
-  "sources": ["G2 Crowd", "Gartner"]
+  "sources": [
+    "G2 Crowd",
+    "Gartner"
+  ]
 }

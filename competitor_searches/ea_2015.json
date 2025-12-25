@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Electronic Arts competitors 2015",
   "search_date": "2024-12-24",
-  "context": "EA rebuilt reputation after being named 'worst company.' Battlefront, FIFA Ultimate Team, and mobile games drove growth. Digital revenue increased significantly.",
+  "context": "Electronic Arts Inc. is a video game company focused on sports games, action titles, and mobile gaming. Games as service model. Star Wars license. Subscription services.",
   "competitors": [
-    {"name": "Activision Blizzard", "notes": "Merged giant with CoD, WoW, Destiny"},
-    {"name": "Take-Two Interactive", "notes": "GTA V continued success"},
-    {"name": "Ubisoft", "notes": "Assassin's Creed, Watch Dogs"},
-    {"name": "Warner Bros. Games", "notes": "Batman Arkham series"},
-    {"name": "Sony", "notes": "PlayStation exclusives"},
-    {"name": "Microsoft Studios", "notes": "Xbox exclusives, Minecraft"},
-    {"name": "Square Enix", "notes": "Final Fantasy, Tomb Raider"},
-    {"name": "2K Games", "notes": "NBA 2K, Borderlands"}
+    {
+      "name": "Activision Blizzard",
+      "notes": "Merged giant with CoD, WoW, Destiny"
+    },
+    {
+      "name": "Take-Two Interactive",
+      "notes": "GTA V continued success"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Assassin's Creed, Watch Dogs"
+    },
+    {
+      "name": "Warner Bros. Games",
+      "notes": "Batman Arkham series"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation exclusives"
+    },
+    {
+      "name": "Microsoft Studios",
+      "notes": "Xbox exclusives, Minecraft"
+    },
+    {
+      "name": "Square Enix",
+      "notes": "Final Fantasy, Tomb Raider"
+    },
+    {
+      "name": "2K Games",
+      "notes": "NBA 2K, Borderlands"
+    }
   ],
-  "sources": ["Gaming industry analysis"]
+  "sources": [
+    "Gaming industry analysis"
+  ]
 }

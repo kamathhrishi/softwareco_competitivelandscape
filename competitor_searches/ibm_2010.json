@@ -5,17 +5,51 @@
   "search_query": "IBM competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Hewlett-Packard", "notes": "Major competitor in hardware, servers, storage, and IT services"},
-    {"name": "Dell", "notes": "Competitor in hardware infrastructure, servers, and storage"},
-    {"name": "Accenture", "notes": "Leading competitor in IT consulting and digital transformation"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Major Indian IT services provider"},
-    {"name": "Microsoft", "notes": "Competitor in enterprise software, cloud services (Azure launched 2010)"},
-    {"name": "Oracle", "notes": "Competitor in enterprise software, databases, hardware (after Sun acquisition)"},
-    {"name": "Amazon (AWS)", "notes": "Emerging cloud computing competitor"},
-    {"name": "Google", "notes": "Competitor in cloud services and emerging AI/analytics"},
-    {"name": "Cisco Systems", "notes": "Competitor in networking infrastructure and cybersecurity"},
-    {"name": "SAP", "notes": "Competitor in enterprise software and business applications"}
+    {
+      "name": "Hewlett-Packard",
+      "notes": "Major competitor in hardware, servers, storage, and IT services"
+    },
+    {
+      "name": "Dell",
+      "notes": "Competitor in hardware infrastructure, servers, and storage"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Leading competitor in IT consulting and digital transformation"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Major Indian IT services provider"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in enterprise software, cloud services (Azure launched 2010)"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise software, databases, hardware (after Sun acquisition)"
+    },
+    {
+      "name": "Amazon (AWS)",
+      "notes": "Emerging cloud computing competitor"
+    },
+    {
+      "name": "Google",
+      "notes": "Competitor in cloud services and emerging AI/analytics"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in networking infrastructure and cybersecurity"
+    },
+    {
+      "name": "SAP",
+      "notes": "Competitor in enterprise software and business applications"
+    }
   ],
-  "context": "In 2010, IBM was heavily focused on software solutions, middleware, databases, and analytics. Microsoft Azure was launched in 2010, marking increased competition in cloud computing. IBM was developing Watson.",
-  "sources": ["https://www.comparably.com/companies/ibm/competitors", "https://fourweekmba.com/ibm-competitors/", "https://businessmodelanalyst.com/ibm-competitors/"]
+  "context": "International Business Machines Corporation is a technology and consulting company focused on hybrid cloud, AI, enterprise software, and consulting. Watson AI development. Cloud computing push.",
+  "sources": [
+    "https://www.comparably.com/companies/ibm/competitors",
+    "https://fourweekmba.com/ibm-competitors/",
+    "https://businessmodelanalyst.com/ibm-competitors/"
+  ]
 }

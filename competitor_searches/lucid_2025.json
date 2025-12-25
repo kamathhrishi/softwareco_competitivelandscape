@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Lucid Motors competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Lucid continues to manufacture premium electric vehicles including the Air sedan and Gravity SUV. The company is majority-owned by Saudi Arabia's PIF and focuses on luxury EV market.",
+  "context": "Lucid Group, Inc. is a electric vehicle manufacturer focused on luxury electric sedans and SUVs. Luxury EV expansion. Competing with Tesla, Mercedes, BMW.",
   "competitors": [
-    {"name": "Tesla", "notes": "Dominant EV maker, Model S/X compete directly"},
-    {"name": "Mercedes-Benz EQ", "notes": "Luxury EV sedan and SUV lineup"},
-    {"name": "BMW i-Series", "notes": "Premium German EV offerings"},
-    {"name": "Porsche Taycan", "notes": "High-performance luxury EV"},
-    {"name": "Rivian", "notes": "Premium EV trucks and SUVs"},
-    {"name": "Audi e-tron", "notes": "Luxury EV SUVs"},
-    {"name": "Cadillac Celestiq", "notes": "GM's ultra-luxury EV"},
-    {"name": "Genesis Electrified", "notes": "Hyundai's luxury EV brand"}
+    {
+      "name": "Tesla",
+      "notes": "Dominant EV maker, Model S/X compete directly"
+    },
+    {
+      "name": "Mercedes-Benz EQ",
+      "notes": "Luxury EV sedan and SUV lineup"
+    },
+    {
+      "name": "BMW i-Series",
+      "notes": "Premium German EV offerings"
+    },
+    {
+      "name": "Porsche Taycan",
+      "notes": "High-performance luxury EV"
+    },
+    {
+      "name": "Rivian",
+      "notes": "Premium EV trucks and SUVs"
+    },
+    {
+      "name": "Audi e-tron",
+      "notes": "Luxury EV SUVs"
+    },
+    {
+      "name": "Cadillac Celestiq",
+      "notes": "GM's ultra-luxury EV"
+    },
+    {
+      "name": "Genesis Electrified",
+      "notes": "Hyundai's luxury EV brand"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

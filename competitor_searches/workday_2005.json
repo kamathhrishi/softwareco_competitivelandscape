@@ -5,12 +5,30 @@
   "search_query": "Workday HCM competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Oracle PeopleSoft", "notes": "Legacy on-premise HCM system; Workday founders were former PeopleSoft executives"},
-    {"name": "SAP HR", "notes": "Dominant enterprise HR/ERP system in 2005, primarily on-premise"},
-    {"name": "ADP", "notes": "Established payroll and HR outsourcing provider"},
-    {"name": "Lawson Software", "notes": "HR and financial management software provider"},
-    {"name": "Ultimate Software", "notes": "Cloud-based HR and payroll provider (now part of UKG)"}
+    {
+      "name": "Oracle PeopleSoft",
+      "notes": "Legacy on-premise HCM system; Workday founders were former PeopleSoft executives"
+    },
+    {
+      "name": "SAP HR",
+      "notes": "Dominant enterprise HR/ERP system in 2005, primarily on-premise"
+    },
+    {
+      "name": "ADP",
+      "notes": "Established payroll and HR outsourcing provider"
+    },
+    {
+      "name": "Lawson Software",
+      "notes": "HR and financial management software provider"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud-based HR and payroll provider (now part of UKG)"
+    }
   ],
-  "context": "Workday was founded in 2005 by Dave Duffield and Aneel Bhusri, former PeopleSoft executives, to create a modern, cloud-based alternative to legacy on-premise ERP systems. The HCM market was dominated by on-premise solutions like Oracle PeopleSoft and SAP.",
-  "sources": ["https://www.g2.com/products/workday-hcm/competitors/alternatives", "https://www.rippling.com/blog/workday-competitors"]
+  "context": "Workday, Inc. is a enterprise cloud applications company focused on HCM, finance, and planning software for enterprises. Founded by PeopleSoft founders. Cloud HCM.",
+  "sources": [
+    "https://www.g2.com/products/workday-hcm/competitors/alternatives",
+    "https://www.rippling.com/blog/workday-competitors"
+  ]
 }

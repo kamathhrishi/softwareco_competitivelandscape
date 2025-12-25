@@ -5,20 +5,63 @@
   "search_query": "Cisco competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Juniper Networks", "notes": "American multinational developing and marketing networking products"},
-    {"name": "Arista Networks", "notes": "Run by ex-Cisco exec Jayshree Ullal, extended data-center technology to campus and edge"},
-    {"name": "Huawei", "notes": "Solid line of networking gear, huge competitor largely outside the United States"},
-    {"name": "HPE/Aruba", "notes": "Took big leap into SD-WAN market with $925M acquisition of Silver Peak in 2020"},
-    {"name": "Alcatel-Lucent", "notes": "Major competitor in networking infrastructure"},
-    {"name": "VMware", "notes": "Competitor in virtualization and cloud infrastructure"},
-    {"name": "Dell", "notes": "Controlled 27% of external storage systems market in Q2 2020"},
-    {"name": "Lenovo", "notes": "Hyper-converged system sales increased 49% YoY to $72.1M in Q2 2020"},
-    {"name": "Riverbed", "notes": "Competitor in WAN optimization and networking"},
-    {"name": "Extreme Networks", "notes": "Competitor in networking solutions"},
-    {"name": "Google", "notes": "Cloud and technology competitor"},
-    {"name": "Microsoft", "notes": "Cloud and technology competitor"},
-    {"name": "Amazon", "notes": "Cloud services competitor"}
+    {
+      "name": "Juniper Networks",
+      "notes": "American multinational developing and marketing networking products"
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Run by ex-Cisco exec Jayshree Ullal, extended data-center technology to campus and edge"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Solid line of networking gear, huge competitor largely outside the United States"
+    },
+    {
+      "name": "HPE/Aruba",
+      "notes": "Took big leap into SD-WAN market with $925M acquisition of Silver Peak in 2020"
+    },
+    {
+      "name": "Alcatel-Lucent",
+      "notes": "Major competitor in networking infrastructure"
+    },
+    {
+      "name": "VMware",
+      "notes": "Competitor in virtualization and cloud infrastructure"
+    },
+    {
+      "name": "Dell",
+      "notes": "Controlled 27% of external storage systems market in Q2 2020"
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Hyper-converged system sales increased 49% YoY to $72.1M in Q2 2020"
+    },
+    {
+      "name": "Riverbed",
+      "notes": "Competitor in WAN optimization and networking"
+    },
+    {
+      "name": "Extreme Networks",
+      "notes": "Competitor in networking solutions"
+    },
+    {
+      "name": "Google",
+      "notes": "Cloud and technology competitor"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Cloud and technology competitor"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Cloud services competitor"
+    }
   ],
-  "context": "2020 was challenging as Cisco's market share fell to 9.8% in Q2 2020 from 13.5% in Q2 2019. SD-WAN market became major battleground with HPE/Aruba acquiring Silver Peak for $925 million.",
-  "sources": ["https://bstrategyhub.com/cisco-competitors-alternatives/", "https://www.networkworld.com/article/970030/10-competitors-cisco-just-cant-kill-off-2.html", "https://www.marketing91.com/cisco-competitors/"]
+  "context": "Cisco Systems, Inc. is a networking and communications technology company focused on network infrastructure, security, and collaboration solutions. WebEx saw massive growth. Security and observability acquisitions.",
+  "sources": [
+    "https://bstrategyhub.com/cisco-competitors-alternatives/",
+    "https://www.networkworld.com/article/970030/10-competitors-cisco-just-cant-kill-off-2.html",
+    "https://www.marketing91.com/cisco-competitors/"
+  ]
 }

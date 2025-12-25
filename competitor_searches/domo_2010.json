@@ -5,13 +5,35 @@
   "search_query": "Domo BI analytics competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tableau", "notes": "Powerful data visualization tool founded in 2003, already established in the market when Domo was founded"},
-    {"name": "QlikView", "notes": "Business intelligence and data visualization platform, well-established by 2010"},
-    {"name": "MicroStrategy", "notes": "High performance, scalable BI platform delivering interactive dashboards and analytics, established player"},
-    {"name": "IBM Cognos", "notes": "Enterprise BI and performance management software suite, major incumbent in 2010"},
-    {"name": "SAP BusinessObjects", "notes": "Enterprise BI platform, major competitor in the traditional BI space"},
-    {"name": "Oracle BI", "notes": "Oracle's business intelligence platform, established enterprise solution"}
+    {
+      "name": "Tableau",
+      "notes": "Powerful data visualization tool founded in 2003, already established in the market when Domo was founded"
+    },
+    {
+      "name": "QlikView",
+      "notes": "Business intelligence and data visualization platform, well-established by 2010"
+    },
+    {
+      "name": "MicroStrategy",
+      "notes": "High performance, scalable BI platform delivering interactive dashboards and analytics, established player"
+    },
+    {
+      "name": "IBM Cognos",
+      "notes": "Enterprise BI and performance management software suite, major incumbent in 2010"
+    },
+    {
+      "name": "SAP BusinessObjects",
+      "notes": "Enterprise BI platform, major competitor in the traditional BI space"
+    },
+    {
+      "name": "Oracle BI",
+      "notes": "Oracle's business intelligence platform, established enterprise solution"
+    }
   ],
-  "context": "In 2010, when Domo was founded, the BI market was dominated by traditional enterprise solutions like IBM Cognos, SAP BusinessObjects, Oracle BI, and MicroStrategy. Tableau (founded 2003) was emerging as a leader in data visualization. The market was on the cusp of cloud transformation. Microsoft Power BI did not yet exist (launched 2011). Domo entered as an early cloud-native BI platform in a market still dominated by on-premise solutions.",
-  "sources": ["https://www.domo.com/competitors", "https://www.thoughtspot.com/data-trends/business-intelligence/domo-competitors-and-alternatives", "https://improvado.io/blog/domo-alternatives-and-competitors"]
+  "context": "Domo, Inc. is a cloud-based business intelligence platform focused on data visualization, analytics, and business intelligence for enterprises. Founded to democratize BI. Cloud-native analytics platform.",
+  "sources": [
+    "https://www.domo.com/competitors",
+    "https://www.thoughtspot.com/data-trends/business-intelligence/domo-competitors-and-alternatives",
+    "https://improvado.io/blog/domo-alternatives-and-competitors"
+  ]
 }

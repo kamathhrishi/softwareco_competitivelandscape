@@ -5,17 +5,51 @@
   "search_query": "JFrog Artifactory DevOps competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Sonatype Nexus Repository", "notes": "Leading competitor; established self-hosted repository manager supporting wide range of package ecosystems with strong Java heritage"},
-    {"name": "Azure Artifacts", "notes": "Microsoft's universal package repository service extending Azure DevOps; supports npm, NuGet, Maven for enterprises standardizing on Azure"},
-    {"name": "Amazon Elastic Container Registry (ECR)", "notes": "Docker container registry for storing, managing, and deploying container images with deep AWS integration"},
-    {"name": "Google Cloud Artifact Registry", "notes": "Multi-format package registry with built-in vulnerability scanning and binary authorization; supports Docker, Maven, npm"},
-    {"name": "GitHub Packages", "notes": "Package hosting service integrated with GitHub for publishing and consuming packages with native tooling support"},
-    {"name": "GitLab", "notes": "All-in-one DevSecOps platform with integrated multi-format package registry, source code, CI/CD, and issues"},
-    {"name": "ProGet", "notes": "Inedo's package repository managing NuGet, npm, Chocolatey, Docker containers with built-in security features"},
-    {"name": "Red Hat Quay", "notes": "Container and application registry for secure storage, distribution, and deployment on any infrastructure"},
-    {"name": "MyGet", "notes": "Universal Cloud Package Manager providing single access point for packages throughout DevOps lifecycle"},
-    {"name": "Cloudsmith", "notes": "Fully managed, cloud-native artifact management service with no infrastructure to maintain"}
+    {
+      "name": "Sonatype Nexus Repository",
+      "notes": "Leading competitor; established self-hosted repository manager supporting wide range of package ecosystems with strong Java heritage"
+    },
+    {
+      "name": "Azure Artifacts",
+      "notes": "Microsoft's universal package repository service extending Azure DevOps; supports npm, NuGet, Maven for enterprises standardizing on Azure"
+    },
+    {
+      "name": "Amazon Elastic Container Registry (ECR)",
+      "notes": "Docker container registry for storing, managing, and deploying container images with deep AWS integration"
+    },
+    {
+      "name": "Google Cloud Artifact Registry",
+      "notes": "Multi-format package registry with built-in vulnerability scanning and binary authorization; supports Docker, Maven, npm"
+    },
+    {
+      "name": "GitHub Packages",
+      "notes": "Package hosting service integrated with GitHub for publishing and consuming packages with native tooling support"
+    },
+    {
+      "name": "GitLab",
+      "notes": "All-in-one DevSecOps platform with integrated multi-format package registry, source code, CI/CD, and issues"
+    },
+    {
+      "name": "ProGet",
+      "notes": "Inedo's package repository managing NuGet, npm, Chocolatey, Docker containers with built-in security features"
+    },
+    {
+      "name": "Red Hat Quay",
+      "notes": "Container and application registry for secure storage, distribution, and deployment on any infrastructure"
+    },
+    {
+      "name": "MyGet",
+      "notes": "Universal Cloud Package Manager providing single access point for packages throughout DevOps lifecycle"
+    },
+    {
+      "name": "Cloudsmith",
+      "notes": "Fully managed, cloud-native artifact management service with no infrastructure to maintain"
+    }
   ],
-  "context": "By 2020, the DevOps artifact repository market had matured significantly with the rise of containerization and cloud-native development. Major cloud providers (AWS, Google Cloud, Azure) had launched competing artifact registry services deeply integrated with their platforms. GitHub and GitLab expanded beyond source control to offer integrated package management. The market shifted from primarily Java-focused Maven repositories to supporting diverse package formats (Docker, npm, NuGet, PyPI, etc.). Container registries became critical infrastructure.",
-  "sources": ["https://www.latterly.org/jfrog-competitors/", "https://www.saasworthy.com/product-alternative/27417/jfrog-artifactory", "https://buildkite.com/resources/blog/alternatives-to-jfrog-artifactory/"]
+  "context": "JFrog Ltd. is a software supply chain platform company focused on binary management, DevOps, and software distribution. IPO. Software supply chain security critical.",
+  "sources": [
+    "https://www.latterly.org/jfrog-competitors/",
+    "https://www.saasworthy.com/product-alternative/27417/jfrog-artifactory",
+    "https://buildkite.com/resources/blog/alternatives-to-jfrog-artifactory/"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "PayPal competitors 2020",
   "search_date": "2024-12-24",
-  "context": "PayPal benefited massively from pandemic e-commerce acceleration. The company added 73M new accounts and enabled crypto trading. Venmo became a major P2P and commerce platform.",
+  "context": "PayPal Holdings, Inc. is a digital payments company focused on online payments, Venmo, Braintree, and merchant services. COVID e-commerce surge. Crypto trading added.",
   "competitors": [
-    {"name": "Square (Block)", "notes": "Payment processing, Cash App P2P, and merchant services"},
-    {"name": "Stripe", "notes": "Developer payments platform valued at $36B"},
-    {"name": "Apple Pay", "notes": "Mobile wallet with growing online acceptance"},
-    {"name": "Google Pay", "notes": "Unified Google payment platform"},
-    {"name": "Adyen", "notes": "Enterprise payment platform for large merchants"},
-    {"name": "Klarna", "notes": "Buy now pay later competitor to PayPal Credit"},
-    {"name": "Afterpay", "notes": "BNPL platform popular with younger consumers"},
-    {"name": "Zelle", "notes": "Bank-owned P2P competing with Venmo"}
+    {
+      "name": "Square (Block)",
+      "notes": "Payment processing, Cash App P2P, and merchant services"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Developer payments platform valued at $36B"
+    },
+    {
+      "name": "Apple Pay",
+      "notes": "Mobile wallet with growing online acceptance"
+    },
+    {
+      "name": "Google Pay",
+      "notes": "Unified Google payment platform"
+    },
+    {
+      "name": "Adyen",
+      "notes": "Enterprise payment platform for large merchants"
+    },
+    {
+      "name": "Klarna",
+      "notes": "Buy now pay later competitor to PayPal Credit"
+    },
+    {
+      "name": "Afterpay",
+      "notes": "BNPL platform popular with younger consumers"
+    },
+    {
+      "name": "Zelle",
+      "notes": "Bank-owned P2P competing with Venmo"
+    }
   ],
-  "sources": ["Payments industry analysis"]
+  "sources": [
+    "Payments industry analysis"
+  ]
 }

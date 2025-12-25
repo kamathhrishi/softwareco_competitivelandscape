@@ -5,16 +5,46 @@
   "search_query": "Box cloud storage enterprise competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft OneDrive", "notes": "Preferred for Microsoft 365 users, improved business integration"},
-    {"name": "Dropbox", "notes": "Core cloud storage platform targeting broader audience"},
-    {"name": "Microsoft SharePoint", "notes": "Document management and collaboration platform"},
-    {"name": "Google Drive", "notes": "Cloud storage integrated with Google Workspace"},
-    {"name": "Progress ShareFile", "notes": "Strong enterprise alternative"},
-    {"name": "Egnyte", "notes": "Unified content security for 16,000+ organizations"},
-    {"name": "iManage Work", "notes": "Document management, divested from HP in 2015"},
-    {"name": "Laserfiche", "notes": "Document management platform"},
-    {"name": "DocSend", "notes": "Document sharing and analytics platform"}
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "Preferred for Microsoft 365 users, improved business integration"
+    },
+    {
+      "name": "Dropbox",
+      "notes": "Core cloud storage platform targeting broader audience"
+    },
+    {
+      "name": "Microsoft SharePoint",
+      "notes": "Document management and collaboration platform"
+    },
+    {
+      "name": "Google Drive",
+      "notes": "Cloud storage integrated with Google Workspace"
+    },
+    {
+      "name": "Progress ShareFile",
+      "notes": "Strong enterprise alternative"
+    },
+    {
+      "name": "Egnyte",
+      "notes": "Unified content security for 16,000+ organizations"
+    },
+    {
+      "name": "iManage Work",
+      "notes": "Document management, divested from HP in 2015"
+    },
+    {
+      "name": "Laserfiche",
+      "notes": "Document management platform"
+    },
+    {
+      "name": "DocSend",
+      "notes": "Document sharing and analytics platform"
+    }
   ],
-  "context": "By 2015, Box had evolved into comprehensive enterprise cloud storage. The market was maturing with clear enterprise players. Box differentiated through enterprise-grade security, GDPR/HIPAA compliance, and 1,500+ app integrations including Microsoft 365, Google Workspace, Slack, and Salesforce.",
-  "sources": ["https://www.g2.com/products/box/competitors/alternatives", "https://www.gartner.com/reviews/market/document-management/vendor/box/alternatives"]
+  "context": "Box, Inc. is a cloud content management and collaboration platform focused on enterprise file sharing, security, and workflow automation. IPO. Security and compliance focus for regulated industries.",
+  "sources": [
+    "https://www.g2.com/products/box/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/document-management/vendor/box/alternatives"
+  ]
 }

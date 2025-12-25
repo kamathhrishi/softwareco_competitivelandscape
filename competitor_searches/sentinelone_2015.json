@@ -5,12 +5,29 @@
   "search_query": "SentinelOne endpoint security competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Symantec", "notes": "Market leader in endpoint protection"},
-    {"name": "McAfee", "notes": "Major enterprise endpoint security vendor"},
-    {"name": "CrowdStrike", "notes": "Emerging cloud-native endpoint protection"},
-    {"name": "Carbon Black", "notes": "Next-gen endpoint security with EDR focus"},
-    {"name": "Cylance", "notes": "AI-based endpoint protection startup"}
+    {
+      "name": "Symantec",
+      "notes": "Market leader in endpoint protection"
+    },
+    {
+      "name": "McAfee",
+      "notes": "Major enterprise endpoint security vendor"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Emerging cloud-native endpoint protection"
+    },
+    {
+      "name": "Carbon Black",
+      "notes": "Next-gen endpoint security with EDR focus"
+    },
+    {
+      "name": "Cylance",
+      "notes": "AI-based endpoint protection startup"
+    }
   ],
-  "context": "In 2015, SentinelOne was an early-stage endpoint security startup (founded 2013) raising Series A/B funding. Traditional antivirus vendors Symantec and McAfee dominated the market. Next-generation endpoint protection was emerging with CrowdStrike, Carbon Black, and Cylance using AI/ML and behavioral analysis. The endpoint detection and response (EDR) category was being defined. SentinelOne differentiated with autonomous AI-driven endpoint protection.",
-  "sources": ["https://www.sentinelone.com/company/"]
+  "context": "SentinelOne, Inc. is a autonomous cybersecurity platform company focused on endpoint protection, XDR, and AI-powered security. Founded for AI-powered endpoint security.",
+  "sources": [
+    "https://www.sentinelone.com/company/"
+  ]
 }

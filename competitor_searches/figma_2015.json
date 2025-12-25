@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Figma competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Figma launched in 2015 as a browser-based collaborative design tool. The company pioneered real-time collaboration in design, challenging established desktop tools like Sketch and Adobe.",
+  "context": "Figma, Inc. is a collaborative design platform focused on UI/UX design, prototyping, and design systems in the browser. Browser-based design tool. Real-time collaboration.",
   "competitors": [
-    {"name": "Sketch", "notes": "Dominant Mac design tool that Figma aimed to disrupt with browser-based collaboration"},
-    {"name": "Adobe Illustrator", "notes": "Industry standard vector design tool from Adobe Creative Cloud"},
-    {"name": "Adobe Photoshop", "notes": "Dominant image editing and design tool"},
-    {"name": "InVision", "notes": "Prototyping and collaboration platform for designers"},
-    {"name": "Axure", "notes": "Wireframing and prototyping tool for UX designers"},
-    {"name": "Balsamiq", "notes": "Wireframing tool for quick mockups"},
-    {"name": "Marvel", "notes": "Design and prototyping platform"},
-    {"name": "UXPin", "notes": "Design and prototyping tool with collaboration features"}
+    {
+      "name": "Sketch",
+      "notes": "Dominant Mac design tool that Figma aimed to disrupt with browser-based collaboration"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "notes": "Industry standard vector design tool from Adobe Creative Cloud"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "notes": "Dominant image editing and design tool"
+    },
+    {
+      "name": "InVision",
+      "notes": "Prototyping and collaboration platform for designers"
+    },
+    {
+      "name": "Axure",
+      "notes": "Wireframing and prototyping tool for UX designers"
+    },
+    {
+      "name": "Balsamiq",
+      "notes": "Wireframing tool for quick mockups"
+    },
+    {
+      "name": "Marvel",
+      "notes": "Design and prototyping platform"
+    },
+    {
+      "name": "UXPin",
+      "notes": "Design and prototyping tool with collaboration features"
+    }
   ],
-  "sources": ["Design industry analysis"]
+  "sources": [
+    "Design industry analysis"
+  ]
 }

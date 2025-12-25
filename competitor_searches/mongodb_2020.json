@@ -5,16 +5,45 @@
   "search_query": "MongoDB database competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon DynamoDB", "notes": "Best overall MongoDB alternative - fully managed NoSQL service"},
-    {"name": "Couchbase", "notes": "Distributed document store with powerful search engine"},
-    {"name": "Redis", "notes": "In-memory data store for extreme speed"},
-    {"name": "ArangoDB", "notes": "Native multi-model database supporting document, graph, and key-value"},
-    {"name": "Google Cloud Firestore", "notes": "Google's managed NoSQL document database"},
-    {"name": "Apache Cassandra", "notes": "Open-source NoSQL database for high availability"},
-    {"name": "CockroachDB", "notes": "Distributed SQL database with strong consistency"},
-    {"name": "PostgreSQL", "notes": "Traditional relational database with robust JSON support"},
-    {"name": "Amazon DocumentDB", "notes": "MongoDB-compatible managed document database from AWS"}
+    {
+      "name": "Amazon DynamoDB",
+      "notes": "Best overall MongoDB alternative - fully managed NoSQL service"
+    },
+    {
+      "name": "Couchbase",
+      "notes": "Distributed document store with powerful search engine"
+    },
+    {
+      "name": "Redis",
+      "notes": "In-memory data store for extreme speed"
+    },
+    {
+      "name": "ArangoDB",
+      "notes": "Native multi-model database supporting document, graph, and key-value"
+    },
+    {
+      "name": "Google Cloud Firestore",
+      "notes": "Google's managed NoSQL document database"
+    },
+    {
+      "name": "Apache Cassandra",
+      "notes": "Open-source NoSQL database for high availability"
+    },
+    {
+      "name": "CockroachDB",
+      "notes": "Distributed SQL database with strong consistency"
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Traditional relational database with robust JSON support"
+    },
+    {
+      "name": "Amazon DocumentDB",
+      "notes": "MongoDB-compatible managed document database from AWS"
+    }
   ],
-  "context": "By 2020, MongoDB faced an increasingly competitive landscape with both NoSQL alternatives and managed database services. Cloud providers had introduced MongoDB-compatible services like Amazon DocumentDB.",
-  "sources": ["https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/mongodb/alternatives"]
+  "context": "MongoDB, Inc. is a database platform company focused on document database, Atlas cloud, and developer data platform. Cloud-first strategy. Atlas revenue accelerating.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/mongodb/alternatives"
+  ]
 }

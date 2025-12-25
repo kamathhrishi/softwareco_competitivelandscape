@@ -5,12 +5,29 @@
   "search_query": "Procore construction software competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Autodesk Construction Cloud", "notes": "BIM 360 and construction management"},
-    {"name": "Oracle Primavera", "notes": "Project management for construction"},
-    {"name": "Trimble", "notes": "Construction technology solutions"},
-    {"name": "PlanGrid", "notes": "Acquired by Autodesk, construction drawings"},
-    {"name": "Bluebeam", "notes": "PDF markup for construction"}
+    {
+      "name": "Autodesk Construction Cloud",
+      "notes": "BIM 360 and construction management"
+    },
+    {
+      "name": "Oracle Primavera",
+      "notes": "Project management for construction"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Construction technology solutions"
+    },
+    {
+      "name": "PlanGrid",
+      "notes": "Acquired by Autodesk, construction drawings"
+    },
+    {
+      "name": "Bluebeam",
+      "notes": "PDF markup for construction"
+    }
   ],
-  "context": "In 2020, Procore was a leading construction management platform, still private (IPO'd 2021). The pandemic initially slowed construction but digitization accelerated. Autodesk's acquisition of PlanGrid (2018) created stronger competition. Procore differentiated with comprehensive platform approach versus point solutions. The construction tech market was consolidating.",
-  "sources": ["https://craft.co/procore-technologies/competitors"]
+  "context": "Procore Technologies, Inc. is a construction management software company focused on project management, financial management, and quality for construction. IPO. Construction digitalization accelerated.",
+  "sources": [
+    "https://craft.co/procore-technologies/competitors"
+  ]
 }

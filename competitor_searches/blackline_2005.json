@@ -5,10 +5,22 @@
   "search_query": "BlackLine accounting automation competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Excel/Spreadsheet-based solutions", "notes": "Primary competition - BlackLine founded to replace Excel-based accounting"},
-    {"name": "SunGard Treasury Systems", "notes": "Founder Therese Tucker was former CTO here"},
-    {"name": "Legacy ERP systems", "notes": "Oracle, SAP with basic financial close modules"}
+    {
+      "name": "Excel/Spreadsheet-based solutions",
+      "notes": "Primary competition - BlackLine founded to replace Excel-based accounting"
+    },
+    {
+      "name": "SunGard Treasury Systems",
+      "notes": "Founder Therese Tucker was former CTO here"
+    },
+    {
+      "name": "Legacy ERP systems",
+      "notes": "Oracle, SAP with basic financial close modules"
+    }
   ],
-  "context": "In 2005, BlackLine (founded 2001) operated with no outside funding until 2013. The accounting automation market was nascent. Company's goal was to replace Excel spreadsheets. Cloud-based financial close was not yet a mature category.",
-  "sources": ["https://en.wikipedia.org/wiki/BlackLine_Systems", "https://www.numeric.io/blog/blackline-competitors-top-blackline-alternatives"]
+  "context": "BlackLine, Inc. is a cloud financial operations platform focused on accounting automation, financial close management, and intercompany solutions. Founded to automate account reconciliations. Early cloud for finance.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/BlackLine_Systems",
+    "https://www.numeric.io/blog/blackline-competitors-top-blackline-alternatives"
+  ]
 }

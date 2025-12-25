@@ -5,13 +5,33 @@
   "search_query": "Oracle competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "IBM DB2", "notes": "Main database competitor"},
-    {"name": "Microsoft SQL Server", "notes": "Major database competitor"},
-    {"name": "SAP", "notes": "Competitor in applications space"},
-    {"name": "Sybase", "notes": "Database competitor"},
-    {"name": "PostgreSQL", "notes": "Free/open-source database gaining share"},
-    {"name": "MySQL", "notes": "Free/open-source database gaining share"}
+    {
+      "name": "IBM DB2",
+      "notes": "Main database competitor"
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "notes": "Major database competitor"
+    },
+    {
+      "name": "SAP",
+      "notes": "Competitor in applications space"
+    },
+    {
+      "name": "Sybase",
+      "notes": "Database competitor"
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Free/open-source database gaining share"
+    },
+    {
+      "name": "MySQL",
+      "notes": "Free/open-source database gaining share"
+    }
   ],
-  "context": "Oracle dominated with 41.3% database market share (growing to 44.6%). Workday founded in 2005, later becoming significant HCM/ERP competitor.",
-  "sources": ["https://en.wikipedia.org/wiki/Oracle_Corporation"]
+  "context": "Oracle Corporation is a enterprise software and cloud infrastructure company focused on databases, enterprise applications, and cloud infrastructure. Acquired PeopleSoft, Siebel. Application consolidation.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oracle_Corporation"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "DocuSign e-signature competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Adobe EchoSign", "notes": "E-signature solution from Adobe"},
-    {"name": "Silanis e-SignLive", "notes": "Enterprise e-signature platform"},
-    {"name": "ARX CoSign", "notes": "Digital signature solutions"},
-    {"name": "SignNow", "notes": "E-signature startup"},
-    {"name": "AssureSign", "notes": "E-signature and document workflow"}
+    {
+      "name": "Adobe EchoSign",
+      "notes": "E-signature solution from Adobe"
+    },
+    {
+      "name": "Silanis e-SignLive",
+      "notes": "Enterprise e-signature platform"
+    },
+    {
+      "name": "ARX CoSign",
+      "notes": "Digital signature solutions"
+    },
+    {
+      "name": "SignNow",
+      "notes": "E-signature startup"
+    },
+    {
+      "name": "AssureSign",
+      "notes": "E-signature and document workflow"
+    }
   ],
-  "context": "In 2010, DocuSign was an emerging e-signature company growing rapidly. The e-signature market was nascent with enterprises just beginning to adopt digital signatures. Adobe EchoSign (later Adobe Sign) was a competitor. The ESIGN Act (2000) and UETA provided legal foundation for e-signatures. DocuSign focused on transaction management platform beyond simple signatures. The market was small but growing as paperless processes gained acceptance.",
-  "sources": ["https://www.docusign.com/company/history"]
+  "context": "DocuSign, Inc. is a electronic signature and agreement cloud company focused on e-signature, contract lifecycle management, and agreement automation. Mobile e-signature. Enterprise adoption accelerating.",
+  "sources": [
+    "https://www.docusign.com/company/history"
+  ]
 }

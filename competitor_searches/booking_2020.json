@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Booking Holdings competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Booking Holdings faced severe pandemic impact as travel collapsed. The company owns Booking.com, Priceline, Kayak, and OpenTable. Recovery began with domestic and outdoor travel.",
+  "context": "Booking Holdings Inc. is a online travel and reservation platform focused on Booking.com, Priceline, Kayak, and OpenTable. COVID-19 devastated travel. Focused on connected trip vision.",
   "competitors": [
-    {"name": "Expedia Group", "notes": "Major OTA competitor with Expedia, Vrbo, Hotels.com brands"},
-    {"name": "Airbnb", "notes": "Alternative accommodations benefiting from preference for private stays"},
-    {"name": "TripAdvisor", "notes": "Reviews and travel planning with booking capabilities"},
-    {"name": "Google Travel", "notes": "Hotel and flight search with Book on Google options"},
-    {"name": "Marriott/Hilton Direct", "notes": "Hotel chains pushing direct bookings with loyalty benefits"},
-    {"name": "Trip.com Group", "notes": "Chinese OTA with global expansion ambitions"},
-    {"name": "Hopper", "notes": "Mobile-first travel app with price prediction"},
-    {"name": "Trivago", "notes": "Hotel metasearch owned by Expedia"}
+    {
+      "name": "Expedia Group",
+      "notes": "Major OTA competitor with Expedia, Vrbo, Hotels.com brands"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Alternative accommodations benefiting from preference for private stays"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Reviews and travel planning with booking capabilities"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Hotel and flight search with Book on Google options"
+    },
+    {
+      "name": "Marriott/Hilton Direct",
+      "notes": "Hotel chains pushing direct bookings with loyalty benefits"
+    },
+    {
+      "name": "Trip.com Group",
+      "notes": "Chinese OTA with global expansion ambitions"
+    },
+    {
+      "name": "Hopper",
+      "notes": "Mobile-first travel app with price prediction"
+    },
+    {
+      "name": "Trivago",
+      "notes": "Hotel metasearch owned by Expedia"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

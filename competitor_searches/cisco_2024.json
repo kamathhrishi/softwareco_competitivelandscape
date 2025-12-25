@@ -5,18 +5,55 @@
   "search_query": "Cisco competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Juniper Networks", "notes": "Key competitor specializing in networking products, focus on high-performance networking and automation"},
-    {"name": "Huawei", "notes": "Formidable competitor known for cost-effective solutions, significant market share in emerging markets"},
-    {"name": "Arista Networks", "notes": "Focuses on high-speed datacenter and cloud networking, products compete directly with Cisco's Nexus and Catalyst switches"},
-    {"name": "HPE Aruba", "notes": "Major SD-WAN player with Edge Services Platform analyzing telemetry data"},
-    {"name": "Dell", "notes": "Stronger competitor after parting from VMware, has 20,000 data center customers, PowerSwitch supports own NOS and third-party NOSes"},
-    {"name": "Fortinet", "notes": "Leading network security solution provider"},
-    {"name": "Palo Alto Networks", "notes": "Leading competitor in cybersecurity offering Next-Generation Firewall (NGFW)"},
-    {"name": "Check Point", "notes": "Pioneer in cybersecurity with AI-powered cyber protection"},
-    {"name": "Amazon Web Services (AWS)", "notes": "Cloud computing platform offering wide range of services"},
-    {"name": "Google", "notes": "Competes across various technology segments"},
-    {"name": "Microsoft", "notes": "Competes across various technology segments"}
+    {
+      "name": "Juniper Networks",
+      "notes": "Key competitor specializing in networking products, focus on high-performance networking and automation"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Formidable competitor known for cost-effective solutions, significant market share in emerging markets"
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Focuses on high-speed datacenter and cloud networking, products compete directly with Cisco's Nexus and Catalyst switches"
+    },
+    {
+      "name": "HPE Aruba",
+      "notes": "Major SD-WAN player with Edge Services Platform analyzing telemetry data"
+    },
+    {
+      "name": "Dell",
+      "notes": "Stronger competitor after parting from VMware, has 20,000 data center customers, PowerSwitch supports own NOS and third-party NOSes"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Leading network security solution provider"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading competitor in cybersecurity offering Next-Generation Firewall (NGFW)"
+    },
+    {
+      "name": "Check Point",
+      "notes": "Pioneer in cybersecurity with AI-powered cyber protection"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Cloud computing platform offering wide range of services"
+    },
+    {
+      "name": "Google",
+      "notes": "Competes across various technology segments"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competes across various technology segments"
+    }
   ],
-  "context": "In 2024, Cisco faces intense competition across networking, cybersecurity, and cloud. Arista is strong in data center switches. Dell is emerging as stronger competitor leveraging 20,000 data center customers.",
-  "sources": ["https://businessmodelanalyst.com/cisco-competitors/", "https://pitchgrade.com/companies/cisco", "https://ormsystems.com/blogs/cisco-competitors-top-picks-for-2024"]
+  "context": "Cisco Systems, Inc. is a networking and communications technology company focused on network infrastructure, security, and collaboration solutions. Acquired Splunk for $28B. Security and AI networking focus.",
+  "sources": [
+    "https://businessmodelanalyst.com/cisco-competitors/",
+    "https://pitchgrade.com/companies/cisco",
+    "https://ormsystems.com/blogs/cisco-competitors-top-picks-for-2024"
+  ]
 }

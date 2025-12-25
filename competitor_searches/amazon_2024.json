@@ -5,15 +5,41 @@
   "search_query": "Amazon e-commerce AWS competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Walmart", "notes": "10,500+ stores worldwide for omnichannel advantage"},
-    {"name": "Alibaba", "notes": "Formidable global competitor with Taobao, Tmall, Alipay"},
-    {"name": "eBay", "notes": "135+ million users worldwide"},
-    {"name": "TikTok Shop", "notes": "200% YoY sales increase in 2024 holiday season"},
-    {"name": "Flipkart", "notes": "Dominates India's market"},
-    {"name": "Mercado Libre", "notes": "Largest Latin American e-commerce ecosystem"},
-    {"name": "Microsoft Azure", "notes": "25% cloud market share, $28B revenue"},
-    {"name": "Google Cloud", "notes": "12% share, $12B Q4 FY 2024, +30% YoY"}
+    {
+      "name": "Walmart",
+      "notes": "10,500+ stores worldwide for omnichannel advantage"
+    },
+    {
+      "name": "Alibaba",
+      "notes": "Formidable global competitor with Taobao, Tmall, Alipay"
+    },
+    {
+      "name": "eBay",
+      "notes": "135+ million users worldwide"
+    },
+    {
+      "name": "TikTok Shop",
+      "notes": "200% YoY sales increase in 2024 holiday season"
+    },
+    {
+      "name": "Flipkart",
+      "notes": "Dominates India's market"
+    },
+    {
+      "name": "Mercado Libre",
+      "notes": "Largest Latin American e-commerce ecosystem"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "25% cloud market share, $28B revenue"
+    },
+    {
+      "name": "Google Cloud",
+      "notes": "12% share, $12B Q4 FY 2024, +30% YoY"
+    }
   ],
-  "context": "Amazon: $630B revenue, 37.6% US e-commerce share. AWS 31% cloud share. TikTok Shop emerged as fastest-growing platform in 2024.",
-  "sources": ["https://doit.software/blog/amazon-competitors"]
+  "context": "Amazon.com, Inc. is a e-commerce, cloud computing, and technology conglomerate focused on online retail, AWS cloud services, streaming, devices, and advertising. AWS and advertising driving profits. Generative AI investments with Bedrock. Retail facing Temu/Shein.",
+  "sources": [
+    "https://doit.software/blog/amazon-competitors"
+  ]
 }

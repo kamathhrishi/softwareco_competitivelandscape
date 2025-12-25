@@ -5,12 +5,30 @@
   "search_query": "Dynatrace APM observability competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Datadog", "notes": "Fast-growing cloud monitoring platform"},
-    {"name": "Splunk", "notes": "Machine data analytics and observability"},
-    {"name": "New Relic", "notes": "Application performance monitoring and observability"},
-    {"name": "AppDynamics", "notes": "Cisco-owned enterprise APM solution"},
-    {"name": "Elastic Observability", "notes": "Open-source based observability stack"}
+    {
+      "name": "Datadog",
+      "notes": "Fast-growing cloud monitoring platform"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Machine data analytics and observability"
+    },
+    {
+      "name": "New Relic",
+      "notes": "Application performance monitoring and observability"
+    },
+    {
+      "name": "AppDynamics",
+      "notes": "Cisco-owned enterprise APM solution"
+    },
+    {
+      "name": "Elastic Observability",
+      "notes": "Open-source based observability stack"
+    }
   ],
-  "context": "In 2020, Dynatrace competed in the APM and observability market that saw rapid growth due to cloud-native adoption and microservices. The pandemic accelerated digital transformation and observability needs. Datadog was a fast-growing competitor with cloud-native architecture. New Relic shifted to consumption-based pricing. The market was transitioning from traditional APM to full-stack observability including logs, metrics, and traces. Dynatrace's AI-powered automation (Davis AI) was a key differentiator.",
-  "sources": ["https://www.gartner.com/reviews/market/application-performance-monitoring", "https://www.g2.com/products/dynatrace/competitors/alternatives"]
+  "context": "Dynatrace, Inc. is a software intelligence platform focused on application performance monitoring, observability, and AIOps. IPO. Cloud-native observability. AIOps automation.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/application-performance-monitoring",
+    "https://www.g2.com/products/dynatrace/competitors/alternatives"
+  ]
 }

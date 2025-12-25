@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Doximity competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Doximity is the leading digital platform for US physicians with dominant market share. The company monetizes through pharma marketing, AI-powered tools, and recruitment solutions.",
+  "context": "Doximity, Inc. is a digital platform for medical professionals focused on physician network, telehealth, and healthcare professional tools. Healthcare professional platform. Competing with LinkedIn Health.",
   "competitors": [
-    {"name": "LinkedIn", "notes": "General professional network"},
-    {"name": "Medscape/WebMD", "notes": "Medical news and education"},
-    {"name": "Sermo", "notes": "Physician social network"},
-    {"name": "UpToDate", "notes": "Clinical reference and decision support"},
-    {"name": "Veeva Systems", "notes": "Pharma CRM and engagement"},
-    {"name": "IQVIA", "notes": "Healthcare data and analytics"},
-    {"name": "Definitive Healthcare", "notes": "Healthcare commercial intelligence"},
-    {"name": "AI Medical Tools", "notes": "ChatGPT and AI assistants for medicine"}
+    {
+      "name": "LinkedIn",
+      "notes": "General professional network"
+    },
+    {
+      "name": "Medscape/WebMD",
+      "notes": "Medical news and education"
+    },
+    {
+      "name": "Sermo",
+      "notes": "Physician social network"
+    },
+    {
+      "name": "UpToDate",
+      "notes": "Clinical reference and decision support"
+    },
+    {
+      "name": "Veeva Systems",
+      "notes": "Pharma CRM and engagement"
+    },
+    {
+      "name": "IQVIA",
+      "notes": "Healthcare data and analytics"
+    },
+    {
+      "name": "Definitive Healthcare",
+      "notes": "Healthcare commercial intelligence"
+    },
+    {
+      "name": "AI Medical Tools",
+      "notes": "ChatGPT and AI assistants for medicine"
+    }
   ],
-  "sources": ["Healthcare technology analysis"]
+  "sources": [
+    "Healthcare technology analysis"
+  ]
 }

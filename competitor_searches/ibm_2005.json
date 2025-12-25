@@ -5,16 +5,47 @@
   "search_query": "IBM competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Hewlett-Packard", "notes": "Major competitor in hardware, servers, and IT infrastructure post-IBM PC division sale"},
-    {"name": "Dell", "notes": "Leading PC and server manufacturer, competitor in enterprise hardware"},
-    {"name": "Accenture", "notes": "Major competitor in IT consulting; IBM acquired PwC's consulting arm in 2002 to compete"},
-    {"name": "EDS (Electronic Data Systems)", "notes": "Competitor in IT services and outsourcing"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Growing Indian IT solutions provider"},
-    {"name": "Infosys", "notes": "Indian company providing business consultancy and IT services"},
-    {"name": "Microsoft", "notes": "Competitor in enterprise software and emerging services"},
-    {"name": "Oracle", "notes": "Competitor in enterprise software, databases, and middleware"},
-    {"name": "Sun Microsystems", "notes": "Competitor in servers and enterprise systems"}
+    {
+      "name": "Hewlett-Packard",
+      "notes": "Major competitor in hardware, servers, and IT infrastructure post-IBM PC division sale"
+    },
+    {
+      "name": "Dell",
+      "notes": "Leading PC and server manufacturer, competitor in enterprise hardware"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Major competitor in IT consulting; IBM acquired PwC's consulting arm in 2002 to compete"
+    },
+    {
+      "name": "EDS (Electronic Data Systems)",
+      "notes": "Competitor in IT services and outsourcing"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Growing Indian IT solutions provider"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Indian company providing business consultancy and IT services"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in enterprise software and emerging services"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise software, databases, and middleware"
+    },
+    {
+      "name": "Sun Microsystems",
+      "notes": "Competitor in servers and enterprise systems"
+    }
   ],
-  "context": "By 2005, IBM had sold its PC division to Lenovo (2004) and was transitioning to a services and software-focused business model. The PwC consulting acquisition in 2002 strengthened IBM's IT services position.",
-  "sources": ["https://fourweekmba.com/ibm-competitors/", "https://www.comparably.com/companies/ibm/competitors", "https://emvigotech.com/blog/top-ibm-competitors/"]
+  "context": "International Business Machines Corporation is a technology and consulting company focused on hybrid cloud, AI, enterprise software, and consulting. Sold PC business to Lenovo. Services and software focus.",
+  "sources": [
+    "https://fourweekmba.com/ibm-competitors/",
+    "https://www.comparably.com/companies/ibm/competitors",
+    "https://emvigotech.com/blog/top-ibm-competitors/"
+  ]
 }

@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "GitLab competitors 2025",
   "search_date": "2024-12-24",
-  "context": "GitLab provides a complete DevSecOps platform in a single application, covering the entire software development lifecycle from planning to monitoring. AI-powered features with GitLab Duo enhance developer productivity.",
+  "context": "GitLab Inc. is a DevSecOps platform company focused on source code management, CI/CD, and security in single platform. Single DevSecOps platform. Competing with GitHub, Atlassian.",
   "competitors": [
-    {"name": "GitHub", "notes": "Primary competitor owned by Microsoft, leading code hosting and collaboration platform"},
-    {"name": "Atlassian (Bitbucket)", "notes": "Git repository management integrated with Jira and Confluence"},
-    {"name": "Azure DevOps", "notes": "Microsoft's DevOps platform with repos, pipelines, and project management"},
-    {"name": "JFrog", "notes": "DevOps platform focused on artifact management and software supply chain"},
-    {"name": "CircleCI", "notes": "CI/CD platform competing in continuous integration and delivery"},
-    {"name": "Jenkins", "notes": "Open-source automation server widely used for CI/CD"},
-    {"name": "Harness", "notes": "Modern software delivery platform with AI-powered DevOps"},
-    {"name": "Snyk", "notes": "Developer security platform competing in DevSecOps"}
+    {
+      "name": "GitHub",
+      "notes": "Primary competitor owned by Microsoft, leading code hosting and collaboration platform"
+    },
+    {
+      "name": "Atlassian (Bitbucket)",
+      "notes": "Git repository management integrated with Jira and Confluence"
+    },
+    {
+      "name": "Azure DevOps",
+      "notes": "Microsoft's DevOps platform with repos, pipelines, and project management"
+    },
+    {
+      "name": "JFrog",
+      "notes": "DevOps platform focused on artifact management and software supply chain"
+    },
+    {
+      "name": "CircleCI",
+      "notes": "CI/CD platform competing in continuous integration and delivery"
+    },
+    {
+      "name": "Jenkins",
+      "notes": "Open-source automation server widely used for CI/CD"
+    },
+    {
+      "name": "Harness",
+      "notes": "Modern software delivery platform with AI-powered DevOps"
+    },
+    {
+      "name": "Snyk",
+      "notes": "Developer security platform competing in DevSecOps"
+    }
   ],
-  "sources": ["Gartner", "Forrester Wave DevOps"]
+  "sources": [
+    "Gartner",
+    "Forrester Wave DevOps"
+  ]
 }

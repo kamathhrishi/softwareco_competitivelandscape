@@ -5,18 +5,54 @@
   "search_query": "Dropbox competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Google Drive", "notes": "15 GB free vs Dropbox 2 GB, better collaboration and value"},
-    {"name": "Microsoft OneDrive", "notes": "Office 365 integration, comparable features"},
-    {"name": "MEGA", "notes": "End-to-end encryption by default, 20 GB free storage"},
-    {"name": "pCloud", "notes": "Zero-knowledge encryption, one-time payment model"},
-    {"name": "Sync.com", "notes": "User-friendly, robust security, reliable file syncing"},
-    {"name": "Tresorit", "notes": "Best for business with compliance certifications"},
-    {"name": "Icedrive", "notes": "Web, desktop, Android and iOS availability"},
-    {"name": "Internxt", "notes": "Privacy-focused alternative"},
-    {"name": "Box", "notes": "Enterprise-focused with enhanced security and collaboration"},
-    {"name": "Nextcloud", "notes": "Collaboration solution for consumers and businesses"},
-    {"name": "IDrive", "notes": "Top online backup service with syncing and file sharing"}
+    {
+      "name": "Google Drive",
+      "notes": "15 GB free vs Dropbox 2 GB, better collaboration and value"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "Office 365 integration, comparable features"
+    },
+    {
+      "name": "MEGA",
+      "notes": "End-to-end encryption by default, 20 GB free storage"
+    },
+    {
+      "name": "pCloud",
+      "notes": "Zero-knowledge encryption, one-time payment model"
+    },
+    {
+      "name": "Sync.com",
+      "notes": "User-friendly, robust security, reliable file syncing"
+    },
+    {
+      "name": "Tresorit",
+      "notes": "Best for business with compliance certifications"
+    },
+    {
+      "name": "Icedrive",
+      "notes": "Web, desktop, Android and iOS availability"
+    },
+    {
+      "name": "Internxt",
+      "notes": "Privacy-focused alternative"
+    },
+    {
+      "name": "Box",
+      "notes": "Enterprise-focused with enhanced security and collaboration"
+    },
+    {
+      "name": "Nextcloud",
+      "notes": "Collaboration solution for consumers and businesses"
+    },
+    {
+      "name": "IDrive",
+      "notes": "Top online backup service with syncing and file sharing"
+    }
   ],
-  "context": "By 2024, Dropbox faces intense competition. Key limitations: no end-to-end encryption, 2 GB free plan, expensive pricing ($6.99 for 2 TB). Market segmented into tech giants, privacy/security-focused providers, enterprise solutions, and cost-effective alternatives.",
-  "sources": ["https://www.cloudwards.net/top-10-secure-dropbox-alternatives/", "https://www.gartner.com/reviews/market/content-collaboration-tools/vendor/dropbox/alternatives"]
+  "context": "Dropbox, Inc. is a cloud storage and collaboration platform focused on file sync, sharing, and team collaboration tools. Dash AI-powered universal search. Document collaboration.",
+  "sources": [
+    "https://www.cloudwards.net/top-10-secure-dropbox-alternatives/",
+    "https://www.gartner.com/reviews/market/content-collaboration-tools/vendor/dropbox/alternatives"
+  ]
 }

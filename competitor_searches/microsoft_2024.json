@@ -5,15 +5,41 @@
   "search_query": "Microsoft competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon (AWS)", "notes": "30-33% cloud market share vs Azure's 21%"},
-    {"name": "Google (Alphabet)", "notes": "Google Cloud ~10% share, Workspace vs Microsoft 365"},
-    {"name": "Apple Inc.", "notes": "macOS/iOS vs Windows (72% desktop share)"},
-    {"name": "Salesforce", "notes": "Leading CRM platform, Dynamics 365 competitor"},
-    {"name": "Oracle", "notes": "Enterprise software and cloud infrastructure"},
-    {"name": "IBM (Red Hat)", "notes": "Hybrid cloud competitor"},
-    {"name": "Sony", "notes": "PlayStation vs Xbox gaming"},
-    {"name": "Adobe", "notes": "Creative and document solutions competitor"}
+    {
+      "name": "Amazon (AWS)",
+      "notes": "30-33% cloud market share vs Azure's 21%"
+    },
+    {
+      "name": "Google (Alphabet)",
+      "notes": "Google Cloud ~10% share, Workspace vs Microsoft 365"
+    },
+    {
+      "name": "Apple Inc.",
+      "notes": "macOS/iOS vs Windows (72% desktop share)"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Leading CRM platform, Dynamics 365 competitor"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software and cloud infrastructure"
+    },
+    {
+      "name": "IBM (Red Hat)",
+      "notes": "Hybrid cloud competitor"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation vs Xbox gaming"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Creative and document solutions competitor"
+    }
   ],
-  "context": "FY2024 revenue $236.58B (15% increase). Azure at 21% cloud share. Microsoft 365 at 30% productivity market share. AI and cloud central to competition.",
-  "sources": ["https://businessmodelanalyst.com/microsoft-competitors/"]
+  "context": "Microsoft Corporation is a technology company focused on cloud computing, productivity software, gaming, and AI. OpenAI partnership. Copilot across products. Activision acquisition.",
+  "sources": [
+    "https://businessmodelanalyst.com/microsoft-competitors/"
+  ]
 }

@@ -5,16 +5,46 @@
   "search_query": "MongoDB NoSQL competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon DynamoDB", "notes": "10.99% market share in NoSQL - serverless key-value store with auto-scaling"},
-    {"name": "Apache Cassandra", "notes": "Open-source distributed database with excellent fault tolerance"},
-    {"name": "Redis", "notes": "In-memory speed for real-time caching and analytics"},
-    {"name": "Couchbase", "notes": "Distributed document store with powerful search"},
-    {"name": "HBase", "notes": "3.98% market share - Hadoop-based wide-column store"},
-    {"name": "Amazon DocumentDB", "notes": "Managed document database fully compatible with MongoDB"},
-    {"name": "Azure Cosmos DB", "notes": "Most popular web-based MongoDB alternative"},
-    {"name": "ArangoDB", "notes": "Multi-model database unifying documents, graphs, and key-value"},
-    {"name": "PostgreSQL", "notes": "Traditional relational database with advanced JSON support"}
+    {
+      "name": "Amazon DynamoDB",
+      "notes": "10.99% market share in NoSQL - serverless key-value store with auto-scaling"
+    },
+    {
+      "name": "Apache Cassandra",
+      "notes": "Open-source distributed database with excellent fault tolerance"
+    },
+    {
+      "name": "Redis",
+      "notes": "In-memory speed for real-time caching and analytics"
+    },
+    {
+      "name": "Couchbase",
+      "notes": "Distributed document store with powerful search"
+    },
+    {
+      "name": "HBase",
+      "notes": "3.98% market share - Hadoop-based wide-column store"
+    },
+    {
+      "name": "Amazon DocumentDB",
+      "notes": "Managed document database fully compatible with MongoDB"
+    },
+    {
+      "name": "Azure Cosmos DB",
+      "notes": "Most popular web-based MongoDB alternative"
+    },
+    {
+      "name": "ArangoDB",
+      "notes": "Multi-model database unifying documents, graphs, and key-value"
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Traditional relational database with advanced JSON support"
+    }
   ],
-  "context": "In 2024, MongoDB maintains a dominant 45.84% market share in NoSQL databases, but faces intense competition from cloud providers offering MongoDB-compatible services.",
-  "sources": ["https://www.cloudzero.com/blog/mongodb-alternatives/", "https://6sense.com/tech/nosql-databases/mongodb-market-share"]
+  "context": "MongoDB, Inc. is a database platform company focused on document database, Atlas cloud, and developer data platform. AI workload support. Vector search for GenAI.",
+  "sources": [
+    "https://www.cloudzero.com/blog/mongodb-alternatives/",
+    "https://6sense.com/tech/nosql-databases/mongodb-market-share"
+  ]
 }

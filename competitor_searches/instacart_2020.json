@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Instacart competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Instacart saw explosive growth during the pandemic as grocery delivery demand surged. The company reached $35B valuation and became the dominant US grocery delivery platform.",
+  "context": "Instacart (Maplebear Inc.) is a grocery delivery and technology platform focused on grocery delivery, pickup, and retail technology. Pandemic grocery delivery surge. Rapid shopper growth.",
   "competitors": [
-    {"name": "Amazon Fresh", "notes": "Amazon's grocery delivery competing with Prime integration"},
-    {"name": "Walmart Grocery", "notes": "Massive grocery retailer with pickup and delivery"},
-    {"name": "Shipt (Target)", "notes": "Same-day delivery service owned by Target"},
-    {"name": "DoorDash", "notes": "Expanding from restaurants into grocery and convenience"},
-    {"name": "Uber Eats", "notes": "Food delivery platform adding grocery options"},
-    {"name": "FreshDirect", "notes": "Online grocer in Northeast US"},
-    {"name": "Peapod", "notes": "Early online grocery pioneer owned by Ahold Delhaize"},
-    {"name": "Grocery Store Apps", "notes": "Kroger, Albertsons own delivery and pickup services"}
+    {
+      "name": "Amazon Fresh",
+      "notes": "Amazon's grocery delivery competing with Prime integration"
+    },
+    {
+      "name": "Walmart Grocery",
+      "notes": "Massive grocery retailer with pickup and delivery"
+    },
+    {
+      "name": "Shipt (Target)",
+      "notes": "Same-day delivery service owned by Target"
+    },
+    {
+      "name": "DoorDash",
+      "notes": "Expanding from restaurants into grocery and convenience"
+    },
+    {
+      "name": "Uber Eats",
+      "notes": "Food delivery platform adding grocery options"
+    },
+    {
+      "name": "FreshDirect",
+      "notes": "Online grocer in Northeast US"
+    },
+    {
+      "name": "Peapod",
+      "notes": "Early online grocery pioneer owned by Ahold Delhaize"
+    },
+    {
+      "name": "Grocery Store Apps",
+      "notes": "Kroger, Albertsons own delivery and pickup services"
+    }
   ],
-  "sources": ["Grocery delivery industry analysis"]
+  "sources": [
+    "Grocery delivery industry analysis"
+  ]
 }

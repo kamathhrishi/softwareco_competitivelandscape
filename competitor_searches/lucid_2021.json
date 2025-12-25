@@ -4,16 +4,42 @@
   "year": 2021,
   "search_query": "Lucid Motors competitors 2021",
   "search_date": "2024-12-24",
-  "context": "Lucid went public via SPAC merger with Churchill Capital Corp IV, briefly reaching $90B market cap. The company began deliveries of the Lucid Air, winning MotorTrend Car of the Year.",
+  "context": "Lucid Group, Inc. is a electric vehicle manufacturer focused on luxury electric sedans and SUVs. SPAC merger. Lucid Air production began.",
   "competitors": [
-    {"name": "Tesla", "notes": "Dominant EV maker and market leader"},
-    {"name": "Rivian", "notes": "EV startup going public same year"},
-    {"name": "Porsche Taycan", "notes": "Established luxury EV"},
-    {"name": "Mercedes EQS", "notes": "New luxury EV sedan"},
-    {"name": "BMW iX", "notes": "BMW's flagship electric SUV"},
-    {"name": "Audi e-tron", "notes": "Volkswagen Group luxury EV"},
-    {"name": "Fisker", "notes": "EV startup via SPAC"},
-    {"name": "Faraday Future", "notes": "Struggling EV startup"}
+    {
+      "name": "Tesla",
+      "notes": "Dominant EV maker and market leader"
+    },
+    {
+      "name": "Rivian",
+      "notes": "EV startup going public same year"
+    },
+    {
+      "name": "Porsche Taycan",
+      "notes": "Established luxury EV"
+    },
+    {
+      "name": "Mercedes EQS",
+      "notes": "New luxury EV sedan"
+    },
+    {
+      "name": "BMW iX",
+      "notes": "BMW's flagship electric SUV"
+    },
+    {
+      "name": "Audi e-tron",
+      "notes": "Volkswagen Group luxury EV"
+    },
+    {
+      "name": "Fisker",
+      "notes": "EV startup via SPAC"
+    },
+    {
+      "name": "Faraday Future",
+      "notes": "Struggling EV startup"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

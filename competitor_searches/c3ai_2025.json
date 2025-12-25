@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "C3.ai competitors 2025",
   "search_date": "2024-12-24",
-  "context": "C3.ai provides enterprise AI software for building and deploying large-scale AI applications. The company focuses on industry-specific AI solutions for energy, manufacturing, financial services, and defense sectors.",
+  "context": "C3.ai, Inc. is a enterprise AI software company focused on AI applications for enterprise, government, and defense. Enterprise generative AI applications. Competing with hyperscalers and startups.",
   "competitors": [
-    {"name": "Palantir Technologies", "notes": "Enterprise data analytics and AI platform, major competitor in government and commercial sectors"},
-    {"name": "Databricks", "notes": "Unified analytics platform competing in enterprise AI and machine learning"},
-    {"name": "Dataiku", "notes": "Enterprise AI platform for building and deploying machine learning models"},
-    {"name": "H2O.ai", "notes": "Open-source machine learning platform competing in automated ML and AI"},
-    {"name": "Google Cloud AI Platform", "notes": "Cloud-based machine learning services from Google competing in enterprise AI"},
-    {"name": "Microsoft Azure AI", "notes": "Microsoft's AI and machine learning cloud services for enterprise"},
-    {"name": "Amazon SageMaker", "notes": "AWS machine learning platform for building, training, and deploying models"},
-    {"name": "IBM Watson", "notes": "Enterprise AI platform with industry-specific solutions"}
+    {
+      "name": "Palantir Technologies",
+      "notes": "Enterprise data analytics and AI platform, major competitor in government and commercial sectors"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Unified analytics platform competing in enterprise AI and machine learning"
+    },
+    {
+      "name": "Dataiku",
+      "notes": "Enterprise AI platform for building and deploying machine learning models"
+    },
+    {
+      "name": "H2O.ai",
+      "notes": "Open-source machine learning platform competing in automated ML and AI"
+    },
+    {
+      "name": "Google Cloud AI Platform",
+      "notes": "Cloud-based machine learning services from Google competing in enterprise AI"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "notes": "Microsoft's AI and machine learning cloud services for enterprise"
+    },
+    {
+      "name": "Amazon SageMaker",
+      "notes": "AWS machine learning platform for building, training, and deploying models"
+    },
+    {
+      "name": "IBM Watson",
+      "notes": "Enterprise AI platform with industry-specific solutions"
+    }
   ],
-  "sources": ["Gartner", "IDC research"]
+  "sources": [
+    "Gartner",
+    "IDC research"
+  ]
 }

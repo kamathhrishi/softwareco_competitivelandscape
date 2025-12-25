@@ -5,16 +5,48 @@
   "search_query": "Arista Networks competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Major competitor in data center switching, though Arista showed highest 'ability to execute' in Gartner's Magic Quadrant"},
-    {"name": "Juniper Networks", "notes": "Key competitor integrating automation and AI-driven technologies for network performance and security"},
-    {"name": "NVIDIA", "notes": "Rising challenger with InfiniBand and Spectrum-X Ethernet gaining adoption for AI system back-end networks"},
-    {"name": "Huawei Technologies", "notes": "Gartner leader with highest 'completeness of vision' mark, strong global presence"},
-    {"name": "HPE", "notes": "Positioned as 'challenger' in Gartner ranking with Aruba networking solutions"},
-    {"name": "Dell Technologies", "notes": "Labeled as 'visionary' by Gartner, projected $2B revenue from SONiC-embedded switches"},
-    {"name": "H3C", "notes": "Niche player in data center switching market"},
-    {"name": "Extreme Networks", "notes": "Niche player offering software-driven networking solutions"},
-    {"name": "Alcatel-Lucent Enterprise", "notes": "Niche player in enterprise networking"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Major competitor in data center switching, though Arista showed highest 'ability to execute' in Gartner's Magic Quadrant"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Key competitor integrating automation and AI-driven technologies for network performance and security"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Rising challenger with InfiniBand and Spectrum-X Ethernet gaining adoption for AI system back-end networks"
+    },
+    {
+      "name": "Huawei Technologies",
+      "notes": "Gartner leader with highest 'completeness of vision' mark, strong global presence"
+    },
+    {
+      "name": "HPE",
+      "notes": "Positioned as 'challenger' in Gartner ranking with Aruba networking solutions"
+    },
+    {
+      "name": "Dell Technologies",
+      "notes": "Labeled as 'visionary' by Gartner, projected $2B revenue from SONiC-embedded switches"
+    },
+    {
+      "name": "H3C",
+      "notes": "Niche player in data center switching market"
+    },
+    {
+      "name": "Extreme Networks",
+      "notes": "Niche player offering software-driven networking solutions"
+    },
+    {
+      "name": "Alcatel-Lucent Enterprise",
+      "notes": "Niche player in enterprise networking"
+    }
   ],
-  "context": "2024 was transformative year with generative AI driving new requirements for data center networking. Gartner noted organizations using legacy switches for AI workloads would waste 30% of processing capability. NVIDIA emerged as major competitor challenging both Cisco and Arista. Market rapidly evolved as AI and cloud computing influenced networking innovation and requirements.",
-  "sources": ["https://www.nextplatform.com/2025/06/23/nvidia-passes-cisco-and-rivals-arista-in-datacenter-ethernet-sales/", "https://www.latterly.org/arista-networks-competitors/", "https://www.sdxcentral.com/analysis/cisco-juniper-arista-huawei-top-gartner-data-center-switch-rank/", "https://pitchgrade.com/companies/arista-networks"]
+  "context": "Arista Networks, Inc. is a cloud networking company focused on data center switches, network operating systems, and cloud networking. AI data center networking demand surge. Campus networking expansion.",
+  "sources": [
+    "https://www.nextplatform.com/2025/06/23/nvidia-passes-cisco-and-rivals-arista-in-datacenter-ethernet-sales/",
+    "https://www.latterly.org/arista-networks-competitors/",
+    "https://www.sdxcentral.com/analysis/cisco-juniper-arista-huawei-top-gartner-data-center-switch-rank/",
+    "https://pitchgrade.com/companies/arista-networks"
+  ]
 }

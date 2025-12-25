@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Paycom competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Paycom provides cloud-based human capital management software with a single-database architecture. The company's Beti technology enables employees to manage their own payroll, reducing errors and HR workload.",
+  "context": "Paycom Software, Inc. is a HCM software company focused on payroll, HR, and talent management for enterprises. Single-database HCM leader. Competing with Workday, ADP.",
   "competitors": [
-    {"name": "ADP", "notes": "Largest payroll provider with comprehensive HCM solutions for all company sizes"},
-    {"name": "Paylocity", "notes": "Direct competitor in cloud HCM targeting mid-market companies"},
-    {"name": "Dayforce (Ceridian)", "notes": "Unified HCM platform competing in mid-market and enterprise"},
-    {"name": "Workday", "notes": "Enterprise HCM and financial management platform for large organizations"},
-    {"name": "Paychex", "notes": "Payroll and HR services primarily for small to mid-sized businesses"},
-    {"name": "UKG", "notes": "HCM and workforce management from Ultimate and Kronos merger"},
-    {"name": "Paycor", "notes": "HCM and payroll solutions targeting mid-market companies"},
-    {"name": "Rippling", "notes": "Modern HR platform combining payroll, benefits, and IT management"}
+    {
+      "name": "ADP",
+      "notes": "Largest payroll provider with comprehensive HCM solutions for all company sizes"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Direct competitor in cloud HCM targeting mid-market companies"
+    },
+    {
+      "name": "Dayforce (Ceridian)",
+      "notes": "Unified HCM platform competing in mid-market and enterprise"
+    },
+    {
+      "name": "Workday",
+      "notes": "Enterprise HCM and financial management platform for large organizations"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Payroll and HR services primarily for small to mid-sized businesses"
+    },
+    {
+      "name": "UKG",
+      "notes": "HCM and workforce management from Ultimate and Kronos merger"
+    },
+    {
+      "name": "Paycor",
+      "notes": "HCM and payroll solutions targeting mid-market companies"
+    },
+    {
+      "name": "Rippling",
+      "notes": "Modern HR platform combining payroll, benefits, and IT management"
+    }
   ],
-  "sources": ["Gartner", "G2 Crowd"]
+  "sources": [
+    "Gartner",
+    "G2 Crowd"
+  ]
 }

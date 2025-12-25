@@ -5,12 +5,29 @@
   "search_query": "Confluent Kafka competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Apache Kafka", "notes": "Open-source project, Confluent founders created Kafka at LinkedIn"},
-    {"name": "RabbitMQ", "notes": "Popular open-source message broker"},
-    {"name": "ActiveMQ", "notes": "Apache message broker"},
-    {"name": "Apache Storm", "notes": "Real-time stream processing"},
-    {"name": "Amazon Kinesis", "notes": "AWS real-time data streaming service"}
+    {
+      "name": "Apache Kafka",
+      "notes": "Open-source project, Confluent founders created Kafka at LinkedIn"
+    },
+    {
+      "name": "RabbitMQ",
+      "notes": "Popular open-source message broker"
+    },
+    {
+      "name": "ActiveMQ",
+      "notes": "Apache message broker"
+    },
+    {
+      "name": "Apache Storm",
+      "notes": "Real-time stream processing"
+    },
+    {
+      "name": "Amazon Kinesis",
+      "notes": "AWS real-time data streaming service"
+    }
   ],
-  "context": "In 2015, Confluent was founded by Apache Kafka creators from LinkedIn. The company raised $24M Series A to build commercial Kafka platform. Apache Kafka was gaining adoption for real-time data streaming in enterprises. Traditional message queuing systems like RabbitMQ and ActiveMQ were established competitors. Amazon Kinesis represented cloud-native streaming alternative. The real-time data streaming market was nascent but growing rapidly with IoT and digital transformation.",
-  "sources": ["https://www.confluent.io/about/"]
+  "context": "Confluent, Inc. is a data streaming platform company focused on Apache Kafka-based real-time data streaming and event-driven architecture. Founded by Apache Kafka creators. Enterprise Kafka distribution.",
+  "sources": [
+    "https://www.confluent.io/about/"
+  ]
 }

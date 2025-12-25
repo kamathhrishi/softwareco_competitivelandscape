@@ -5,13 +5,33 @@
   "search_query": "Google competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AltaVista", "notes": "Early pioneer in web search, struggling to innovate"},
-    {"name": "Yahoo!", "notes": "Leading online search engine before Google"},
-    {"name": "Microsoft", "notes": "Had rudimentary ad system Keywords in 2000"},
-    {"name": "Baidu", "notes": "Founded in 2000 in China"},
-    {"name": "Yandex", "notes": "Founded in 2000 in Russia"},
-    {"name": "Inktomi", "notes": "Powered Yahoo's search services"}
+    {
+      "name": "AltaVista",
+      "notes": "Early pioneer in web search, struggling to innovate"
+    },
+    {
+      "name": "Yahoo!",
+      "notes": "Leading online search engine before Google"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Had rudimentary ad system Keywords in 2000"
+    },
+    {
+      "name": "Baidu",
+      "notes": "Founded in 2000 in China"
+    },
+    {
+      "name": "Yandex",
+      "notes": "Founded in 2000 in Russia"
+    },
+    {
+      "name": "Inktomi",
+      "notes": "Powered Yahoo's search services"
+    }
   ],
-  "context": "In 2000, Google became world's largest search engine with over 1 billion indexed pages. PageRank algorithm helped it achieve better results than competitors.",
-  "sources": ["https://en.wikipedia.org/wiki/Search_engine"]
+  "context": "Alphabet Inc. (Google) is a technology conglomerate focused on search, advertising, cloud, Android, YouTube, and AI. Search engine dominance. AdWords advertising launched.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Search_engine"
+  ]
 }

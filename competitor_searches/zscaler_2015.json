@@ -5,14 +5,37 @@
   "search_query": "Zscaler cloud security competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Prisma Access platform provides comprehensive SASE solution"},
-    {"name": "Netskope", "notes": "Cloud security platform focused on CASB and secure web gateways"},
-    {"name": "Cisco Umbrella", "notes": "Holistic cloud-native security solution"},
-    {"name": "Check Point Software Technologies", "notes": "Harmony Connect and CloudGuard platforms"},
-    {"name": "Fortinet", "notes": "FortiGate firewalls and CASB solution"},
-    {"name": "Symantec", "notes": "CloudSOC CASB for security management"},
-    {"name": "Cloudflare", "notes": "Network security with significant market share"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Prisma Access platform provides comprehensive SASE solution"
+    },
+    {
+      "name": "Netskope",
+      "notes": "Cloud security platform focused on CASB and secure web gateways"
+    },
+    {
+      "name": "Cisco Umbrella",
+      "notes": "Holistic cloud-native security solution"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Harmony Connect and CloudGuard platforms"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "FortiGate firewalls and CASB solution"
+    },
+    {
+      "name": "Symantec",
+      "notes": "CloudSOC CASB for security management"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Network security with significant market share"
+    }
   ],
-  "context": "By 2015, Zscaler competed in the emerging cloud access security broker (CASB) and secure web gateway space. The market was evolving toward what would later be called SASE.",
-  "sources": ["https://www.gartner.com/reviews/market/security-service-edge/vendor/zscaler/alternatives"]
+  "context": "Zscaler, Inc. is a cloud security company focused on Zero Trust security, secure web gateway, and CASB. Zero Trust Network Access (ZTNA) development.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/security-service-edge/vendor/zscaler/alternatives"
+  ]
 }

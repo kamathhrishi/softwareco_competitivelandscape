@@ -5,11 +5,25 @@
   "search_query": "PTC CAD PLM competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "CATIA, SOLIDWORKS, and ENOVIA competing across CAD and PLM"},
-    {"name": "Siemens PLM Software", "notes": "NX, Solid Edge, and Teamcenter product suite"},
-    {"name": "Autodesk", "notes": "AutoCAD, Inventor, and growing cloud offerings"},
-    {"name": "SAP PLM", "notes": "Enterprise PLM integrated with SAP ERP"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "CATIA, SOLIDWORKS, and ENOVIA competing across CAD and PLM"
+    },
+    {
+      "name": "Siemens PLM Software",
+      "notes": "NX, Solid Edge, and Teamcenter product suite"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "AutoCAD, Inventor, and growing cloud offerings"
+    },
+    {
+      "name": "SAP PLM",
+      "notes": "Enterprise PLM integrated with SAP ERP"
+    }
   ],
-  "context": "In 2015, PTC acquired ThingWorx (IoT platform) and expanded into Internet of Things, differentiating from traditional CAD/PLM competitors. This strategic pivot added IoT and AR (Vuforia acquisition in 2015) to PTC's portfolio. Core CAD competition between Creo, CATIA, NX, and Inventor continued. The PLM market saw Teamcenter and Windchill as primary competitors. PTC's IoT expansion addressed manufacturing digital transformation.",
-  "sources": ["https://craft.co/ptc/competitors"]
+  "context": "PTC Inc. is a industrial software company focused on CAD, PLM, IoT, and augmented reality for manufacturing. IoT and AR investments. Vuforia AR platform.",
+  "sources": [
+    "https://craft.co/ptc/competitors"
+  ]
 }

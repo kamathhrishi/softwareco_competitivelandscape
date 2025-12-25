@@ -5,11 +5,25 @@
   "search_query": "Nutanix hyperconverged infrastructure competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "VMware", "notes": "Early virtualization leader with vSphere; HCI just emerging"},
-    {"name": "Cisco", "notes": "Traditional data center infrastructure provider"},
-    {"name": "Dell EMC", "notes": "Traditional storage and server vendor"},
-    {"name": "HPE", "notes": "Traditional server and storage provider; SimpliVity acquired later 2017"}
+    {
+      "name": "VMware",
+      "notes": "Early virtualization leader with vSphere; HCI just emerging"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Traditional data center infrastructure provider"
+    },
+    {
+      "name": "Dell EMC",
+      "notes": "Traditional storage and server vendor"
+    },
+    {
+      "name": "HPE",
+      "notes": "Traditional server and storage provider; SimpliVity acquired later 2017"
+    }
   ],
-  "context": "2010 was when Nutanix was founded. The HCI market was just emerging, and Nutanix was among the pioneers pushing HCI into enterprise mainstream. Competitors were primarily in separate server, storage, and virtualization markets. VMware dominated virtualization with vSphere.",
-  "sources": ["https://www.gartner.com/reviews/market/full-stack-hyperconverged-infrastructure-software/vendor/nutanix/alternatives"]
+  "context": "Nutanix, Inc. is a hybrid multicloud computing company focused on hyperconverged infrastructure, cloud platform, and virtualization. Founded. Hyperconverged infrastructure pioneer.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/full-stack-hyperconverged-infrastructure-software/vendor/nutanix/alternatives"
+  ]
 }

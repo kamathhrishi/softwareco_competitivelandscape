@@ -5,11 +5,26 @@
   "search_query": "Mac management software 2005 Apple enterprise deployment",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Apple Server Admin Tools", "notes": "Apple's native server management tools included in OS X Server for basic Mac management capabilities"},
-    {"name": "NetInstall (Apple Server)", "notes": "Apple's rudimentary image-management capabilities through NetInstall in Server app for OS X server"},
-    {"name": "DeployStudio", "notes": "Free open-source tool for Mac deployment and imaging, filled gaps in Apple's native tools"},
-    {"name": "Radmind", "notes": "Early Mac system administration tool suite for managing OS X deployments"}
+    {
+      "name": "Apple Server Admin Tools",
+      "notes": "Apple's native server management tools included in OS X Server for basic Mac management capabilities"
+    },
+    {
+      "name": "NetInstall (Apple Server)",
+      "notes": "Apple's rudimentary image-management capabilities through NetInstall in Server app for OS X server"
+    },
+    {
+      "name": "DeployStudio",
+      "notes": "Free open-source tool for Mac deployment and imaging, filled gaps in Apple's native tools"
+    },
+    {
+      "name": "Radmind",
+      "notes": "Early Mac system administration tool suite for managing OS X deployments"
+    }
   ],
-  "context": "In 2005, the Mac enterprise management market was in its early stages. Jamf (founded 2002) was one of the pioneering commercial solutions. The landscape was dominated by Apple's own basic server tools and open-source solutions. Enterprise Mac adoption was still relatively low, with corporate IT routinely ignoring Mac devices. Most management was done through Apple's Server Admin Tools, NetInstall for imaging, and free tools like DeployStudio. The iPhone hadn't launched yet (2007), so mobile device management (MDM) as we know it today didn't exist. Management focused primarily on Mac desktop/laptop deployment and imaging.",
-  "sources": ["https://www.techtarget.com/searchenterprisedesktop/tip/5-macOS-management-software-options-for-the-enterprise", "https://www.computerweekly.com/feature/Big-Apple-revolution-How-to-manage-Macs-in-the-enterprise"]
+  "context": "Jamf Holding Corp. is a Apple device management company focused on Apple enterprise management, security, and identity. Founded for Mac management. Casper Suite for enterprises.",
+  "sources": [
+    "https://www.techtarget.com/searchenterprisedesktop/tip/5-macOS-management-software-options-for-the-enterprise",
+    "https://www.computerweekly.com/feature/Big-Apple-revolution-How-to-manage-Macs-in-the-enterprise"
+  ]
 }

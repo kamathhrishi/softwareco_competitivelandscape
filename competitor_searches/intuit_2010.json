@@ -5,13 +5,34 @@
   "search_query": "Intuit TurboTax QuickBooks competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "H&R Block", "notes": "Major tax preparation competitor with retail locations and software"},
-    {"name": "TaxACT", "notes": "Growing low-cost tax software competitor"},
-    {"name": "Sage Intacct", "notes": "Cloud-based accounting software for small to mid-size businesses"},
-    {"name": "Xero", "notes": "Cloud-based accounting software competitor (founded 2006, growing rapidly)"},
-    {"name": "NetSuite", "notes": "Cloud ERP and accounting platform (acquired by Oracle 2016)"},
-    {"name": "FreshBooks", "notes": "Cloud-based accounting software for small businesses and freelancers"}
+    {
+      "name": "H&R Block",
+      "notes": "Major tax preparation competitor with retail locations and software"
+    },
+    {
+      "name": "TaxACT",
+      "notes": "Growing low-cost tax software competitor"
+    },
+    {
+      "name": "Sage Intacct",
+      "notes": "Cloud-based accounting software for small to mid-size businesses"
+    },
+    {
+      "name": "Xero",
+      "notes": "Cloud-based accounting software competitor (founded 2006, growing rapidly)"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Cloud ERP and accounting platform (acquired by Oracle 2016)"
+    },
+    {
+      "name": "FreshBooks",
+      "notes": "Cloud-based accounting software for small businesses and freelancers"
+    }
   ],
-  "context": "In 2010, Intuit renamed its Canadian tax software from QuickTax to TurboTax, unifying branding. The accounting software market was transitioning to cloud-based solutions, with competitors like Xero and FreshBooks gaining traction.",
-  "sources": ["https://en.wikipedia.org/wiki/Intuit", "https://www.g2.com/products/intuit-quickbooks/competitors/alternatives"]
+  "context": "Intuit Inc. is a financial software company focused on TurboTax, QuickBooks, Credit Karma, and Mailchimp. Cloud transition for QuickBooks. Mobile apps.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Intuit",
+    "https://www.g2.com/products/intuit-quickbooks/competitors/alternatives"
+  ]
 }

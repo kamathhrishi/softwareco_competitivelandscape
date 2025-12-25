@@ -5,11 +5,25 @@
   "search_query": "Tyler Technologies government software competitors 2000",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "SAP", "notes": "Enterprise ERP with public sector capabilities"},
-    {"name": "PeopleSoft", "notes": "Enterprise software with government solutions"},
-    {"name": "Oracle", "notes": "Database and applications for government"},
-    {"name": "SunGard", "notes": "Public sector software solutions"}
+    {
+      "name": "SAP",
+      "notes": "Enterprise ERP with public sector capabilities"
+    },
+    {
+      "name": "PeopleSoft",
+      "notes": "Enterprise software with government solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Database and applications for government"
+    },
+    {
+      "name": "SunGard",
+      "notes": "Public sector software solutions"
+    }
   ],
-  "context": "In 2000, Tyler Technologies was transforming from a diversified company to focus on government software. The company began consolidating through acquisitions of government software firms. The Y2K transition had driven government technology upgrades. Competition came from enterprise vendors adapting solutions for government and specialized government software companies. The local government software market was highly fragmented with many small vendors.",
-  "sources": ["https://craft.co/tyler-technologies/competitors"]
+  "context": "Tyler Technologies, Inc. is a government software company focused on software for local government, courts, and public safety. Local government software acquisitions.",
+  "sources": [
+    "https://craft.co/tyler-technologies/competitors"
+  ]
 }

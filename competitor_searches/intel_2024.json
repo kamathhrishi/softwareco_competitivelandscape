@@ -5,18 +5,55 @@
   "search_query": "Intel competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "NVIDIA", "notes": "Leading US semiconductor company with $2.12T market cap; dominates GPUs, AI, data centers"},
-    {"name": "AMD (Advanced Micro Devices)", "notes": "Long-time CPU rival with Ryzen and EPYC processors; gained market share with high-performance alternatives"},
-    {"name": "TSMC", "notes": "World's largest semiconductor foundry with >50% market share; leads in advanced process technology"},
-    {"name": "Samsung", "notes": "World's largest memory chip and smartphone maker; surpassed Intel in semiconductor revenue 2017-2018"},
-    {"name": "Qualcomm", "notes": "World's leading 5G and mobile phone chip developer; dominates Android smartphone market"},
-    {"name": "Broadcom", "notes": "Second largest US semiconductor company with $659.4B market cap"},
-    {"name": "ARM", "notes": "UK-based company designing energy-efficient processors; dominant in mobile and expanding to PCs"},
-    {"name": "IBM", "notes": "Technology company with custom processors for servers and mainframes"},
-    {"name": "Marvell Technology Group", "notes": "Semiconductor company competing in data infrastructure"},
-    {"name": "Texas Instruments", "notes": "Major semiconductor manufacturer"},
-    {"name": "SK Hynix", "notes": "Major memory and semiconductor competitor"}
+    {
+      "name": "NVIDIA",
+      "notes": "Leading US semiconductor company with $2.12T market cap; dominates GPUs, AI, data centers"
+    },
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Long-time CPU rival with Ryzen and EPYC processors; gained market share with high-performance alternatives"
+    },
+    {
+      "name": "TSMC",
+      "notes": "World's largest semiconductor foundry with >50% market share; leads in advanced process technology"
+    },
+    {
+      "name": "Samsung",
+      "notes": "World's largest memory chip and smartphone maker; surpassed Intel in semiconductor revenue 2017-2018"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "World's leading 5G and mobile phone chip developer; dominates Android smartphone market"
+    },
+    {
+      "name": "Broadcom",
+      "notes": "Second largest US semiconductor company with $659.4B market cap"
+    },
+    {
+      "name": "ARM",
+      "notes": "UK-based company designing energy-efficient processors; dominant in mobile and expanding to PCs"
+    },
+    {
+      "name": "IBM",
+      "notes": "Technology company with custom processors for servers and mainframes"
+    },
+    {
+      "name": "Marvell Technology Group",
+      "notes": "Semiconductor company competing in data infrastructure"
+    },
+    {
+      "name": "Texas Instruments",
+      "notes": "Major semiconductor manufacturer"
+    },
+    {
+      "name": "SK Hynix",
+      "notes": "Major memory and semiconductor competitor"
+    }
   ],
-  "context": "By 2024, Intel faced its most challenging competitive landscape. NVIDIA emerged as leading US semiconductor company ($2.12T market cap). Intel lagged behind TSMC and Samsung in advanced chip manufacturing. Intel introduced Arrow Lake processor with novel technologies to compete.",
-  "sources": ["https://thebigmarketing.com/intel-competitors/", "https://spectrum.ieee.org/intel-20a", "https://businessmodelanalyst.com/intel-competitors-alternatives/"]
+  "context": "Intel Corporation is a semiconductor company focused on CPUs for PCs and data centers, foundry services. IDM 2.0 foundry strategy. CHIPS Act funding. Gaudi AI.",
+  "sources": [
+    "https://thebigmarketing.com/intel-competitors/",
+    "https://spectrum.ieee.org/intel-20a",
+    "https://businessmodelanalyst.com/intel-competitors-alternatives/"
+  ]
 }

@@ -5,16 +5,46 @@
   "search_query": "Autodesk competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "SOLIDWORKS, CATIA - considered a worthy competitor"},
-    {"name": "Bentley Systems", "notes": "Infrastructure engineering software solutions provider"},
-    {"name": "Adobe", "notes": "Media and engineering sectors competitor, Creative Cloud suite"},
-    {"name": "ANSYS Inc.", "notes": "Engineering simulation software"},
-    {"name": "PTC", "notes": "CAD and product lifecycle management solutions"},
-    {"name": "Siemens Digital Industries Software", "notes": "Digital transformation software for product development"},
-    {"name": "Trimble", "notes": "Hardware and software for construction, infrastructure, geospatial"},
-    {"name": "Onshape", "notes": "Cloud-based CAD platform (founded 2012)"},
-    {"name": "Matterport", "notes": "3D capture and spatial data platform"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "SOLIDWORKS, CATIA - considered a worthy competitor"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Infrastructure engineering software solutions provider"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Media and engineering sectors competitor, Creative Cloud suite"
+    },
+    {
+      "name": "ANSYS Inc.",
+      "notes": "Engineering simulation software"
+    },
+    {
+      "name": "PTC",
+      "notes": "CAD and product lifecycle management solutions"
+    },
+    {
+      "name": "Siemens Digital Industries Software",
+      "notes": "Digital transformation software for product development"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Hardware and software for construction, infrastructure, geospatial"
+    },
+    {
+      "name": "Onshape",
+      "notes": "Cloud-based CAD platform (founded 2012)"
+    },
+    {
+      "name": "Matterport",
+      "notes": "3D capture and spatial data platform"
+    }
   ],
-  "context": "By 2015, the CAD landscape had evolved to include cloud-based solutions like Onshape alongside traditional desktop CAD vendors.",
-  "sources": ["https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives", "https://www.owler.com/company/autodesk"]
+  "context": "Autodesk, Inc. is a design and make software company focused on CAD, 3D design, BIM, and manufacturing software. Major subscription model transition. Construction and manufacturing expansion.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives",
+    "https://www.owler.com/company/autodesk"
+  ]
 }

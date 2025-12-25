@@ -5,18 +5,56 @@
   "search_query": "Paylocity payroll HR competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ADP RUN", "notes": "Best for small businesses, built on ADP's payroll heritage"},
-    {"name": "Rippling", "notes": "Best for global workforce management, robust HCM with advanced automation and analytics for any size business, consolidates HR/IT/finance"},
-    {"name": "BambooHR", "notes": "Best for customer support and satisfaction, HR-focused platform"},
-    {"name": "Workday HCM", "notes": "Best for analytics and reporting, enterprise-grade HCM solution"},
-    {"name": "Paycom", "notes": "Best for employee self-service, closed ecosystem with all modules built internally, most often evaluated against Paylocity"},
-    {"name": "Paycor", "notes": "Leading alternative based on crowdsourced data from 1,000+ HR software selection projects"},
-    {"name": "Netchex", "notes": "Leading industry alternative for mid-market HR management"},
-    {"name": "Justworks", "notes": "Leading alternative focused on simplifying HR for small businesses"},
-    {"name": "Deel", "notes": "Focuses on global teams, supports payroll in 100+ countries, handles global payments, tax reporting, and visa sponsorship"},
-    {"name": "Remote", "notes": "Global HR platform for payroll, international employment, contractor management, launched Remote Global Payroll in 2023"},
-    {"name": "Paychex", "notes": "Founded 1971, decades of payroll and tax compliance expertise, Paychex Flex for smaller employers"}
+    {
+      "name": "ADP RUN",
+      "notes": "Best for small businesses, built on ADP's payroll heritage"
+    },
+    {
+      "name": "Rippling",
+      "notes": "Best for global workforce management, robust HCM with advanced automation and analytics for any size business, consolidates HR/IT/finance"
+    },
+    {
+      "name": "BambooHR",
+      "notes": "Best for customer support and satisfaction, HR-focused platform"
+    },
+    {
+      "name": "Workday HCM",
+      "notes": "Best for analytics and reporting, enterprise-grade HCM solution"
+    },
+    {
+      "name": "Paycom",
+      "notes": "Best for employee self-service, closed ecosystem with all modules built internally, most often evaluated against Paylocity"
+    },
+    {
+      "name": "Paycor",
+      "notes": "Leading alternative based on crowdsourced data from 1,000+ HR software selection projects"
+    },
+    {
+      "name": "Netchex",
+      "notes": "Leading industry alternative for mid-market HR management"
+    },
+    {
+      "name": "Justworks",
+      "notes": "Leading alternative focused on simplifying HR for small businesses"
+    },
+    {
+      "name": "Deel",
+      "notes": "Focuses on global teams, supports payroll in 100+ countries, handles global payments, tax reporting, and visa sponsorship"
+    },
+    {
+      "name": "Remote",
+      "notes": "Global HR platform for payroll, international employment, contractor management, launched Remote Global Payroll in 2023"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Founded 1971, decades of payroll and tax compliance expertise, Paychex Flex for smaller employers"
+    }
   ],
-  "context": "In 2024, Paylocity targets small and mid-size businesses with straightforward payroll administration and compliance solutions. The key difference between Rippling and Paylocity is scope - Rippling offers a broader HCM solution with advanced automation. Paycom is the company most often evaluated against Paylocity, with Paycom offering a closed ecosystem where every module is built internally for a more unified system. ADP's Workforce Now targets the 50-1,000 employee segment building on ADP's strong payroll heritage. Global HR platforms like Deel and Remote have emerged for companies with international workforces.",
-  "sources": ["https://technologyadvice.com/blog/human-resources/paylocity-competitors/", "https://www.selecthub.com/payroll-software/paylocity/alternatives/", "https://www.rippling.com/blog/paylocity-competitors", "https://www.outsail.co/post/top-10-alternatives-to-paylocity-for-mid-sized-companies"]
+  "context": "Paylocity Holding Corporation is a cloud HCM software company focused on payroll, HR, benefits, and workforce management for mid-market. AI-powered HR features. Employee experience focus.",
+  "sources": [
+    "https://technologyadvice.com/blog/human-resources/paylocity-competitors/",
+    "https://www.selecthub.com/payroll-software/paylocity/alternatives/",
+    "https://www.rippling.com/blog/paylocity-competitors",
+    "https://www.outsail.co/post/top-10-alternatives-to-paylocity-for-mid-sized-companies"
+  ]
 }

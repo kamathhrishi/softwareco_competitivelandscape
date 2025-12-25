@@ -4,15 +4,38 @@
   "year": 2020,
   "search_query": "Spotify competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Spotify reached 172M paying subscribers and 381M monthly active users. Expanded heavily into podcasts, including exclusive Joe Rogan deal. Apple Music was second largest. Amazon Music grew to 55M+ users.",
+  "context": "Spotify Technology S.A. is a audio streaming platform focused on music streaming, podcasts, and audiobooks. Joe Rogan exclusive. Podcast platform expansion.",
   "competitors": [
-    {"name": "Apple Music", "notes": "Second largest streaming provider, 90M song library, no free tier"},
-    {"name": "Amazon Music", "notes": "55M+ global users, 8.2% market share, integrated with Alexa"},
-    {"name": "YouTube Music", "notes": "Replaced Google Play Music, video integration"},
-    {"name": "Pandora", "notes": "US-focused, launched Pandora Premium with Rdio technology"},
-    {"name": "Tidal", "notes": "Hi-fi focus, exclusive artist content"},
-    {"name": "Deezer", "notes": "European competitor with global presence"},
-    {"name": "SoundCloud", "notes": "Creator-focused platform with streaming"}
+    {
+      "name": "Apple Music",
+      "notes": "Second largest streaming provider, 90M song library, no free tier"
+    },
+    {
+      "name": "Amazon Music",
+      "notes": "55M+ global users, 8.2% market share, integrated with Alexa"
+    },
+    {
+      "name": "YouTube Music",
+      "notes": "Replaced Google Play Music, video integration"
+    },
+    {
+      "name": "Pandora",
+      "notes": "US-focused, launched Pandora Premium with Rdio technology"
+    },
+    {
+      "name": "Tidal",
+      "notes": "Hi-fi focus, exclusive artist content"
+    },
+    {
+      "name": "Deezer",
+      "notes": "European competitor with global presence"
+    },
+    {
+      "name": "SoundCloud",
+      "notes": "Creator-focused platform with streaming"
+    }
   ],
-  "sources": ["Music streaming industry analysis"]
+  "sources": [
+    "Music streaming industry analysis"
+  ]
 }

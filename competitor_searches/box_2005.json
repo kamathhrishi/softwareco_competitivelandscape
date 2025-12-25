@@ -5,13 +5,34 @@
   "search_query": "Box cloud storage enterprise competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dropbox", "notes": "User-friendly interface, focused on individuals and small businesses"},
-    {"name": "Microsoft OneDrive", "notes": "Cloud storage integrated with Microsoft products"},
-    {"name": "Google Drive", "notes": "Popular for businesses using Google Workspace"},
-    {"name": "Amazon Web Services", "notes": "Enterprise cloud storage and infrastructure"},
-    {"name": "Egnyte", "notes": "Enterprise content management and collaboration"},
-    {"name": "Citrix ShareFile", "notes": "Advanced security and compliance focus"}
+    {
+      "name": "Dropbox",
+      "notes": "User-friendly interface, focused on individuals and small businesses"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "Cloud storage integrated with Microsoft products"
+    },
+    {
+      "name": "Google Drive",
+      "notes": "Popular for businesses using Google Workspace"
+    },
+    {
+      "name": "Amazon Web Services",
+      "notes": "Enterprise cloud storage and infrastructure"
+    },
+    {
+      "name": "Egnyte",
+      "notes": "Enterprise content management and collaboration"
+    },
+    {
+      "name": "Citrix ShareFile",
+      "notes": "Advanced security and compliance focus"
+    }
   ],
-  "context": "Box was founded in 2005 by Aaron Levie and Dylan Smith. In its early years, the cloud storage market was just emerging. Box positioned itself as enterprise-focused from the start, differentiating through security, compliance, and integrations.",
-  "sources": ["https://datarooms.org/vdr-blog/box-vs-its-top-competitors/", "https://www.cbinsights.com/company/box"]
+  "context": "Box, Inc. is a cloud content management and collaboration platform focused on enterprise file sharing, security, and workflow automation. Founded for consumer cloud storage, pivoted to enterprise focus.",
+  "sources": [
+    "https://datarooms.org/vdr-blog/box-vs-its-top-competitors/",
+    "https://www.cbinsights.com/company/box"
+  ]
 }

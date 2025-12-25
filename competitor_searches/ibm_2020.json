@@ -5,21 +5,67 @@
   "search_query": "IBM competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Top competitor in IT services and consulting"},
-    {"name": "Accenture", "notes": "Revenue of $44.33B in 2020, strong cloud infrastructure and 120+ countries presence"},
-    {"name": "Hewlett Packard Enterprise (HPE)", "notes": "Major competitor in enterprise services and infrastructure"},
-    {"name": "Amazon Web Services (AWS)", "notes": "Leading cloud computing competitor"},
-    {"name": "Microsoft", "notes": "Competitor in cloud (Azure), enterprise software, and AI"},
-    {"name": "Google", "notes": "Competitor in cloud computing and AI solutions"},
-    {"name": "Oracle", "notes": "Competitor in enterprise software, databases, and cloud"},
-    {"name": "Wipro", "notes": "Indian IT services and consulting competitor"},
-    {"name": "Cognizant", "notes": "IT services and digital transformation competitor"},
-    {"name": "Capgemini", "notes": "Global IT consulting and services competitor"},
-    {"name": "Infosys", "notes": "Indian IT services and consulting provider"},
-    {"name": "SAP", "notes": "Enterprise software and applications competitor"},
-    {"name": "Salesforce", "notes": "Cloud-based CRM and enterprise software competitor"},
-    {"name": "Apple", "notes": "Technology competitor in certain enterprise segments"}
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Top competitor in IT services and consulting"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Revenue of $44.33B in 2020, strong cloud infrastructure and 120+ countries presence"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Major competitor in enterprise services and infrastructure"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Leading cloud computing competitor"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in cloud (Azure), enterprise software, and AI"
+    },
+    {
+      "name": "Google",
+      "notes": "Competitor in cloud computing and AI solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise software, databases, and cloud"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services and consulting competitor"
+    },
+    {
+      "name": "Cognizant",
+      "notes": "IT services and digital transformation competitor"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "Global IT consulting and services competitor"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Indian IT services and consulting provider"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software and applications competitor"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Cloud-based CRM and enterprise software competitor"
+    },
+    {
+      "name": "Apple",
+      "notes": "Technology competitor in certain enterprise segments"
+    }
   ],
-  "context": "In 2020, IBM had ~345,900 employees and revenue of $73.62B (down from 2019). The company was navigating a challenging transition period with intense competition across cloud, IT services, and enterprise software.",
-  "sources": ["https://bstrategyhub.com/top-ibm-competitors/", "https://www.owler.com/company/ibm", "https://fourweekmba.com/ibm-competitors/"]
+  "context": "International Business Machines Corporation is a technology and consulting company focused on hybrid cloud, AI, enterprise software, and consulting. Completed Red Hat integration. Kyndryl spin-off planned.",
+  "sources": [
+    "https://bstrategyhub.com/top-ibm-competitors/",
+    "https://www.owler.com/company/ibm",
+    "https://fourweekmba.com/ibm-competitors/"
+  ]
 }

@@ -5,15 +5,43 @@
   "search_query": "Bill Holdings Bill.com competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Melio", "notes": "Small business bill pay platform, identified as a top competitor"},
-    {"name": "AvidXchange", "notes": "AP automation platform with niche industry integrations"},
-    {"name": "Tipalti", "notes": "Enterprise-focused AP platform with global payment capabilities"},
-    {"name": "Stampli", "notes": "AP automation platform founded in 2015, centered on accounts payable with invoice-centric workflows"},
-    {"name": "Billtrust", "notes": "Primary competitor in accounts receivable and payment processing"},
-    {"name": "Zip", "notes": "Procurement and spend management platform"},
-    {"name": "Zoho Books", "notes": "Cloud-based accounting software with AP/AR capabilities"},
-    {"name": "FreshBooks", "notes": "Cloud accounting software for small businesses"}
+    {
+      "name": "Melio",
+      "notes": "Small business bill pay platform, identified as a top competitor"
+    },
+    {
+      "name": "AvidXchange",
+      "notes": "AP automation platform with niche industry integrations"
+    },
+    {
+      "name": "Tipalti",
+      "notes": "Enterprise-focused AP platform with global payment capabilities"
+    },
+    {
+      "name": "Stampli",
+      "notes": "AP automation platform founded in 2015, centered on accounts payable with invoice-centric workflows"
+    },
+    {
+      "name": "Billtrust",
+      "notes": "Primary competitor in accounts receivable and payment processing"
+    },
+    {
+      "name": "Zip",
+      "notes": "Procurement and spend management platform"
+    },
+    {
+      "name": "Zoho Books",
+      "notes": "Cloud-based accounting software with AP/AR capabilities"
+    },
+    {
+      "name": "FreshBooks",
+      "notes": "Cloud accounting software for small businesses"
+    }
   ],
-  "context": "In 2020, Bill.com completed a significant milestone by going public via IPO in December 2019 on the NYSE and moved its headquarters to San Jose, California in early 2020. The company raised $1.15B in a Post IPO round in November 2020. By this time, the AP automation market had matured significantly with multiple specialized competitors. Bill.com positioned itself as a comprehensive cloud-based platform for small to mid-sized businesses.",
-  "sources": ["https://www.owler.com/company/bill", "https://tracxn.com/d/companies/bill.com/__v9HRA4YBLJsZzo3hk_tDmRxJqcWUFPGBFnhLza1zxis", "https://www.cbinsights.com/company/billcom/alternatives-competitors"]
+  "context": "BILL Holdings, Inc. is a financial operations platform for SMBs focused on accounts payable, accounts receivable, and spend management automation. IPO. Pandemic accelerated digital payment adoption.",
+  "sources": [
+    "https://www.owler.com/company/bill",
+    "https://tracxn.com/d/companies/bill.com/__v9HRA4YBLJsZzo3hk_tDmRxJqcWUFPGBFnhLza1zxis",
+    "https://www.cbinsights.com/company/billcom/alternatives-competitors"
+  ]
 }

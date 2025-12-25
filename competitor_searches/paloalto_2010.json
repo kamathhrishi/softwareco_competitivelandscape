@@ -5,13 +5,34 @@
   "search_query": "Palo Alto Networks firewall competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Check Point Software", "notes": "Key player in cybersecurity since 1997, established firewall leader"},
-    {"name": "Cisco Systems", "notes": "Major networking company with extensive firewall and security offerings"},
-    {"name": "Fortinet", "notes": "Growing competitor in next-generation firewall space with FortiGate products"},
-    {"name": "Juniper Networks", "notes": "Established network security vendor with enterprise firewall solutions"},
-    {"name": "SonicWall", "notes": "Network security vendor providing firewall solutions for enterprises"},
-    {"name": "Sophos", "notes": "Security vendor offering firewall and network protection solutions"}
+    {
+      "name": "Check Point Software",
+      "notes": "Key player in cybersecurity since 1997, established firewall leader"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Major networking company with extensive firewall and security offerings"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Growing competitor in next-generation firewall space with FortiGate products"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Established network security vendor with enterprise firewall solutions"
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Network security vendor providing firewall solutions for enterprises"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Security vendor offering firewall and network protection solutions"
+    }
   ],
-  "context": "By 2010, Palo Alto Networks had released its next-generation firewall (NGFW) in 2007 and was an emerging challenger in the firewall market. The company's innovative approach to application-aware firewalling was beginning to gain traction.",
-  "sources": ["https://www.gartner.com/reviews/market/network-firewalls/vendor/palo-alto-networks/alternatives", "https://www.zenarmor.com/docs/network-security-tutorials/palo-alto-alternatives"]
+  "context": "Palo Alto Networks, Inc. is a cybersecurity platform company focused on network security, cloud security, and security operations. IPO. NGFW market leader disrupting Cisco, Check Point.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/palo-alto-networks/alternatives",
+    "https://www.zenarmor.com/docs/network-security-tutorials/palo-alto-alternatives"
+  ]
 }

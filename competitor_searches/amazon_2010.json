@@ -5,15 +5,41 @@
   "search_query": "Amazon e-commerce AWS competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "eBay", "notes": "Major e-commerce competitor in auction and marketplace"},
-    {"name": "Walmart", "notes": "Most significant e-commerce competitor"},
-    {"name": "AliExpress", "notes": "Launched in 2010, top competitor in retail e-commerce"},
-    {"name": "Rakuten", "notes": "Dominant in Japan, purchased Buy.com in 2010"},
-    {"name": "Microsoft Azure", "notes": "Founded in 2010 as AWS's first major cloud competitor"},
-    {"name": "Google Cloud Platform", "notes": "Launched 2008, 25-50% cheaper than AWS"},
-    {"name": "Alibaba Cloud", "notes": "Launched 2009, China's leading cloud provider"},
-    {"name": "Flipkart", "notes": "Major competitor in India's e-commerce"}
+    {
+      "name": "eBay",
+      "notes": "Major e-commerce competitor in auction and marketplace"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Most significant e-commerce competitor"
+    },
+    {
+      "name": "AliExpress",
+      "notes": "Launched in 2010, top competitor in retail e-commerce"
+    },
+    {
+      "name": "Rakuten",
+      "notes": "Dominant in Japan, purchased Buy.com in 2010"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Founded in 2010 as AWS's first major cloud competitor"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "notes": "Launched 2008, 25-50% cheaper than AWS"
+    },
+    {
+      "name": "Alibaba Cloud",
+      "notes": "Launched 2009, China's leading cloud provider"
+    },
+    {
+      "name": "Flipkart",
+      "notes": "Major competitor in India's e-commerce"
+    }
   ],
-  "context": "2010: Pivotal year with Azure's launch marking serious cloud competition. Competition now dual-front: retail and cloud services.",
-  "sources": ["https://doit.software/blog/amazon-competitors"]
+  "context": "Amazon.com, Inc. is a e-commerce, cloud computing, and technology conglomerate focused on online retail, AWS cloud services, streaming, devices, and advertising. AWS became major profit driver. Kindle and digital content expanding. Prime membership growing.",
+  "sources": [
+    "https://doit.software/blog/amazon-competitors"
+  ]
 }

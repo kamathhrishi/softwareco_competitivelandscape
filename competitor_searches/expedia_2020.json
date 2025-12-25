@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Expedia competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Expedia faced pandemic devastation and leadership changes. The company owns Expedia, Hotels.com, Vrbo, Orbitz, Travelocity, and Trivago. Vrbo vacation rentals provided resilience.",
+  "context": "Expedia Group, Inc. is a online travel platform focused on travel booking, vacation rentals, and travel technology. COVID-19 devastated travel bookings. Major cost restructuring.",
   "competitors": [
-    {"name": "Booking Holdings", "notes": "Larger OTA competitor with Booking.com dominance"},
-    {"name": "Airbnb", "notes": "Alternative accommodations competitor to Vrbo"},
-    {"name": "TripAdvisor", "notes": "Reviews and experiences platform"},
-    {"name": "Google Travel", "notes": "Travel search threatening OTA discovery model"},
-    {"name": "Trip.com", "notes": "Chinese OTA with global ambitions"},
-    {"name": "Hopper", "notes": "Mobile-first travel app growing rapidly"},
-    {"name": "Hotel Direct", "notes": "Hotels pushing direct bookings during recovery"},
-    {"name": "Airline Direct", "notes": "Airlines maintaining direct channel focus"}
+    {
+      "name": "Booking Holdings",
+      "notes": "Larger OTA competitor with Booking.com dominance"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Alternative accommodations competitor to Vrbo"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Reviews and experiences platform"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Travel search threatening OTA discovery model"
+    },
+    {
+      "name": "Trip.com",
+      "notes": "Chinese OTA with global ambitions"
+    },
+    {
+      "name": "Hopper",
+      "notes": "Mobile-first travel app growing rapidly"
+    },
+    {
+      "name": "Hotel Direct",
+      "notes": "Hotels pushing direct bookings during recovery"
+    },
+    {
+      "name": "Airline Direct",
+      "notes": "Airlines maintaining direct channel focus"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

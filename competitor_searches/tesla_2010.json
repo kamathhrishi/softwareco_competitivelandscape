@@ -4,18 +4,50 @@
   "year": 2010,
   "search_query": "Tesla competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Tesla went public in June 2010 at $17/share, raising $226M. The company was producing Roadster and developing Model S. First automaker IPO since Ford in 1956.",
+  "context": "Tesla, Inc. is a electric vehicle and clean energy company focused on electric vehicles, energy storage, and solar. IPO. Roadster production. Model S development.",
   "competitors": [
-    {"name": "Nissan Leaf", "notes": "Mass-market EV launching same year"},
-    {"name": "Chevrolet Volt", "notes": "GM's plug-in hybrid launching"},
-    {"name": "Fisker Automotive", "notes": "Luxury plug-in hybrid Karma"},
-    {"name": "Toyota Prius", "notes": "Dominant hybrid vehicle"},
-    {"name": "BMW", "notes": "Developing electric prototypes"},
-    {"name": "Mercedes-Benz", "notes": "Smart EV, early electric concepts"},
-    {"name": "BYD", "notes": "Chinese battery and EV company"},
-    {"name": "Th!nk", "notes": "Norwegian EV company"},
-    {"name": "CODA Automotive", "notes": "EV startup"},
-    {"name": "Aptera", "notes": "Three-wheel EV startup"}
+    {
+      "name": "Nissan Leaf",
+      "notes": "Mass-market EV launching same year"
+    },
+    {
+      "name": "Chevrolet Volt",
+      "notes": "GM's plug-in hybrid launching"
+    },
+    {
+      "name": "Fisker Automotive",
+      "notes": "Luxury plug-in hybrid Karma"
+    },
+    {
+      "name": "Toyota Prius",
+      "notes": "Dominant hybrid vehicle"
+    },
+    {
+      "name": "BMW",
+      "notes": "Developing electric prototypes"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "notes": "Smart EV, early electric concepts"
+    },
+    {
+      "name": "BYD",
+      "notes": "Chinese battery and EV company"
+    },
+    {
+      "name": "Th!nk",
+      "notes": "Norwegian EV company"
+    },
+    {
+      "name": "CODA Automotive",
+      "notes": "EV startup"
+    },
+    {
+      "name": "Aptera",
+      "notes": "Three-wheel EV startup"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

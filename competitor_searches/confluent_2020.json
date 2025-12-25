@@ -5,12 +5,30 @@
   "search_query": "Confluent Kafka streaming competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Amazon MSK", "notes": "Managed Kafka service on AWS"},
-    {"name": "Apache Pulsar", "notes": "Yahoo-developed streaming platform, Streamnative startup"},
-    {"name": "Amazon Kinesis", "notes": "AWS real-time data streaming service"},
-    {"name": "Google Pub/Sub", "notes": "Google Cloud messaging service"},
-    {"name": "Azure Event Hubs", "notes": "Microsoft Azure event streaming platform"}
+    {
+      "name": "Amazon MSK",
+      "notes": "Managed Kafka service on AWS"
+    },
+    {
+      "name": "Apache Pulsar",
+      "notes": "Yahoo-developed streaming platform, Streamnative startup"
+    },
+    {
+      "name": "Amazon Kinesis",
+      "notes": "AWS real-time data streaming service"
+    },
+    {
+      "name": "Google Pub/Sub",
+      "notes": "Google Cloud messaging service"
+    },
+    {
+      "name": "Azure Event Hubs",
+      "notes": "Microsoft Azure event streaming platform"
+    }
   ],
-  "context": "In 2020, Confluent was the leading commercial Kafka provider, still private and preparing for its June 2021 IPO. Amazon MSK emerged as a significant competitor offering managed Kafka on AWS. The pandemic accelerated real-time data streaming adoption for digital transformation. Apache Pulsar gained attention as an alternative architecture. Cloud providers increasingly offered managed streaming services, creating both competition and partnership opportunities. Confluent's focus on enterprise features and Confluent Cloud differentiated from open-source Kafka.",
-  "sources": ["https://www.confluent.io/resources/", "https://www.g2.com/products/confluent-cloud/competitors/alternatives"]
+  "context": "Confluent, Inc. is a data streaming platform company focused on Apache Kafka-based real-time data streaming and event-driven architecture. Cloud-native Confluent Cloud growth. Real-time data critical.",
+  "sources": [
+    "https://www.confluent.io/resources/",
+    "https://www.g2.com/products/confluent-cloud/competitors/alternatives"
+  ]
 }

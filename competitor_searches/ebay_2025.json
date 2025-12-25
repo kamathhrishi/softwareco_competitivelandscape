@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "eBay competitors 2025",
   "search_date": "2024-12-24",
-  "context": "eBay is a focused marketplace for enthusiast categories including collectibles, trading cards, luxury, and refurbished goods. AI-powered listings and authentication services differentiate the platform.",
+  "context": "eBay Inc. is a e-commerce marketplace platform focused on online auctions, fixed-price sales, and classifieds. Refocused marketplace. Pre-owned and collectibles strength.",
   "competitors": [
-    {"name": "Amazon", "notes": "Dominant e-commerce with massive selection"},
-    {"name": "Mercari", "notes": "Mobile resale marketplace"},
-    {"name": "Poshmark", "notes": "Social commerce for fashion"},
-    {"name": "Etsy", "notes": "Vintage and unique goods marketplace"},
-    {"name": "Facebook Marketplace", "notes": "Local and shipped resale"},
-    {"name": "StockX", "notes": "Authenticated resale for sneakers and luxury"},
-    {"name": "Whatnot", "notes": "Live shopping for collectibles"},
-    {"name": "The RealReal", "notes": "Luxury consignment"}
+    {
+      "name": "Amazon",
+      "notes": "Dominant e-commerce with massive selection"
+    },
+    {
+      "name": "Mercari",
+      "notes": "Mobile resale marketplace"
+    },
+    {
+      "name": "Poshmark",
+      "notes": "Social commerce for fashion"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Vintage and unique goods marketplace"
+    },
+    {
+      "name": "Facebook Marketplace",
+      "notes": "Local and shipped resale"
+    },
+    {
+      "name": "StockX",
+      "notes": "Authenticated resale for sneakers and luxury"
+    },
+    {
+      "name": "Whatnot",
+      "notes": "Live shopping for collectibles"
+    },
+    {
+      "name": "The RealReal",
+      "notes": "Luxury consignment"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

@@ -5,18 +5,54 @@
   "search_query": "Datadog observability competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dynatrace", "notes": "Best overall alternative per G2, AI-powered with Davis engine"},
-    {"name": "Splunk", "notes": "Comprehensive observability platform, best for log management"},
-    {"name": "AppDynamics", "notes": "Cisco's full-stack platform, scores better in APM"},
-    {"name": "New Relic", "notes": "Cloud-based observability with strong APM"},
-    {"name": "IBM Instana", "notes": "Full-stack observability with IBM's generative AI"},
-    {"name": "AWS CloudWatch", "notes": "Monitoring for AWS resources, cheaper than Datadog"},
-    {"name": "Azure Monitor", "notes": "Microsoft's monitoring solution for Azure"},
-    {"name": "LogicMonitor", "notes": "Hybrid observability platform with 2,000+ integrations"},
-    {"name": "Sumo Logic", "notes": "Strong focus on logs with ML-driven alerts"},
-    {"name": "Prometheus & Grafana", "notes": "Open-source monitoring popular in cloud-native environments"},
-    {"name": "SigNoz", "notes": "Open-source alternative with APM, logs, traces, metrics"}
+    {
+      "name": "Dynatrace",
+      "notes": "Best overall alternative per G2, AI-powered with Davis engine"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Comprehensive observability platform, best for log management"
+    },
+    {
+      "name": "AppDynamics",
+      "notes": "Cisco's full-stack platform, scores better in APM"
+    },
+    {
+      "name": "New Relic",
+      "notes": "Cloud-based observability with strong APM"
+    },
+    {
+      "name": "IBM Instana",
+      "notes": "Full-stack observability with IBM's generative AI"
+    },
+    {
+      "name": "AWS CloudWatch",
+      "notes": "Monitoring for AWS resources, cheaper than Datadog"
+    },
+    {
+      "name": "Azure Monitor",
+      "notes": "Microsoft's monitoring solution for Azure"
+    },
+    {
+      "name": "LogicMonitor",
+      "notes": "Hybrid observability platform with 2,000+ integrations"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Strong focus on logs with ML-driven alerts"
+    },
+    {
+      "name": "Prometheus & Grafana",
+      "notes": "Open-source monitoring popular in cloud-native environments"
+    },
+    {
+      "name": "SigNoz",
+      "notes": "Open-source alternative with APM, logs, traces, metrics"
+    }
   ],
-  "context": "In 2024, the observability market is highly competitive. Key trends include AI-powered observability, cost optimization driving customers to alternatives, and the rise of open-source solutions.",
-  "sources": ["https://last9.io/blog/8-datadog-alternatives-for-2024/", "https://www.vendr.com/blog/datadog-competitors-alternatives"]
+  "context": "Datadog, Inc. is a cloud monitoring and observability platform focused on infrastructure monitoring, APM, log management, and security. AI/ML observability. Security monitoring expansion (SIEM).",
+  "sources": [
+    "https://last9.io/blog/8-datadog-alternatives-for-2024/",
+    "https://www.vendr.com/blog/datadog-competitors-alternatives"
+  ]
 }

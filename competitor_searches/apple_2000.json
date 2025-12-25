@@ -5,13 +5,33 @@
   "search_query": "Apple competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "IBM", "notes": "Major competitor in personal computer market"},
-    {"name": "Microsoft", "notes": "Dominant in operating systems with Windows"},
-    {"name": "Dell", "notes": "Major PC manufacturer"},
-    {"name": "HP", "notes": "Competitor in personal computers and hardware"},
-    {"name": "Xerox", "notes": "Competitor in personal computers"},
-    {"name": "Motorola", "notes": "Strategic partner/competitor in product design"}
+    {
+      "name": "IBM",
+      "notes": "Major competitor in personal computer market"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Dominant in operating systems with Windows"
+    },
+    {
+      "name": "Dell",
+      "notes": "Major PC manufacturer"
+    },
+    {
+      "name": "HP",
+      "notes": "Competitor in personal computers and hardware"
+    },
+    {
+      "name": "Xerox",
+      "notes": "Competitor in personal computers"
+    },
+    {
+      "name": "Motorola",
+      "notes": "Strategic partner/competitor in product design"
+    }
   ],
-  "context": "Apple transitioning with iMacs, Power Macs, and iBooks. Competition focused on personal computers before iPhone era. Sometimes formed alliances with rivals.",
-  "sources": ["https://bstrategyhub.com/apple-competitors-and-alternatives/"]
+  "context": "Apple Inc. is a consumer electronics, software, and services company focused on iPhone, Mac, iPad, wearables, and digital services ecosystem. Struggling PC maker before iPod. Steve Jobs returned, launched iMac design revolution.",
+  "sources": [
+    "https://bstrategyhub.com/apple-competitors-and-alternatives/"
+  ]
 }

@@ -5,21 +5,68 @@
   "search_query": "Tyler Technologies government software competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Microsoft", "notes": "Largest market share in global government software at 17.7% in 2024, broader enterprise solutions with public sector applications"},
-    {"name": "Accela", "notes": "Specializes in government-specific permitting, licensing, and code enforcement solutions"},
-    {"name": "CentralSquare Technologies", "notes": "Main competitor in public safety and administration software for state and local agencies"},
-    {"name": "Granicus", "notes": "Government-specific software for civic engagement, communications, and digital services"},
-    {"name": "OpenGov", "notes": "Cloud-based budgeting, reporting, and citizen engagement platform for government"},
-    {"name": "NEOGOV", "notes": "Human capital management focused on government workforce, recruiting and HR"},
-    {"name": "Fast Enterprises", "notes": "Revenue administration and tax software for government agencies"},
-    {"name": "CivicPlus", "notes": "Government website and civic engagement platform"},
-    {"name": "Edmunds GovTech", "notes": "Financial management software for local government"},
-    {"name": "Euna Solutions", "notes": "Procurement and grant management for government"},
-    {"name": "Oracle", "notes": "Enterprise solutions with government applications, ERP competitor"},
-    {"name": "SAP", "notes": "Enterprise solutions with public sector capabilities"},
-    {"name": "Infor", "notes": "Public sector ERP and financial management"},
-    {"name": "Workday", "notes": "Enterprise HCM and financial management for government"}
+    {
+      "name": "Microsoft",
+      "notes": "Largest market share in global government software at 17.7% in 2024, broader enterprise solutions with public sector applications"
+    },
+    {
+      "name": "Accela",
+      "notes": "Specializes in government-specific permitting, licensing, and code enforcement solutions"
+    },
+    {
+      "name": "CentralSquare Technologies",
+      "notes": "Main competitor in public safety and administration software for state and local agencies"
+    },
+    {
+      "name": "Granicus",
+      "notes": "Government-specific software for civic engagement, communications, and digital services"
+    },
+    {
+      "name": "OpenGov",
+      "notes": "Cloud-based budgeting, reporting, and citizen engagement platform for government"
+    },
+    {
+      "name": "NEOGOV",
+      "notes": "Human capital management focused on government workforce, recruiting and HR"
+    },
+    {
+      "name": "Fast Enterprises",
+      "notes": "Revenue administration and tax software for government agencies"
+    },
+    {
+      "name": "CivicPlus",
+      "notes": "Government website and civic engagement platform"
+    },
+    {
+      "name": "Edmunds GovTech",
+      "notes": "Financial management software for local government"
+    },
+    {
+      "name": "Euna Solutions",
+      "notes": "Procurement and grant management for government"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise solutions with government applications, ERP competitor"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise solutions with public sector capabilities"
+    },
+    {
+      "name": "Infor",
+      "notes": "Public sector ERP and financial management"
+    },
+    {
+      "name": "Workday",
+      "notes": "Enterprise HCM and financial management for government"
+    }
   ],
-  "context": "In 2024, Tyler Technologies led the global State and Local Government software market with an 11.2% share, effectively holding a near-monopoly on the public sector nationwide. Microsoft held the largest overall market share in global government software at 17.7%. Direct rivals in the state/local government space include Accela, CentralSquare Technologies, Granicus, OpenGov, NEOGOV, BS&A, Fast Enterprises, CivicPlus, Edmunds GovTech, and Euna Solutions. These competitors often focus on specific government functions such as permitting, licensing, or human capital management. Tyler's comprehensive suite of solutions positions it to address a broad range of government requirements, differentiating from more narrowly focused rivals.",
-  "sources": ["https://pestel-analysis.com/blogs/competitors/tylertech", "https://craft.co/tyler-technologies/competitors", "https://www.gartner.com/reviews/market/cloud-based-erp-for-us-local-government/vendor/tyler-technologies/alternatives", "https://growjo.com/company/Tyler_Technologies"]
+  "context": "Tyler Technologies, Inc. is a government software company focused on software for local government, courts, and public safety. AI for government operations and justice.",
+  "sources": [
+    "https://pestel-analysis.com/blogs/competitors/tylertech",
+    "https://craft.co/tyler-technologies/competitors",
+    "https://www.gartner.com/reviews/market/cloud-based-erp-for-us-local-government/vendor/tyler-technologies/alternatives",
+    "https://growjo.com/company/Tyler_Technologies"
+  ]
 }

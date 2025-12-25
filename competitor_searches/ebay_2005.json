@@ -4,16 +4,42 @@
   "year": 2005,
   "search_query": "eBay competitors 2005",
   "search_date": "2024-12-24",
-  "context": "eBay was the dominant online marketplace in 2005 with auction and Buy It Now formats. The company owned PayPal and was expanding internationally and into fixed-price retail.",
+  "context": "eBay Inc. is a e-commerce marketplace platform focused on online auctions, fixed-price sales, and classifieds. Acquired Skype, PayPal growing. Fixed-price listings increasing.",
   "competitors": [
-    {"name": "Amazon", "notes": "Growing e-commerce competitor with fixed-price retail"},
-    {"name": "Yahoo Shopping", "notes": "Yahoo's shopping comparison and marketplace"},
-    {"name": "uBid", "notes": "Auction site for electronics and refurbished goods"},
-    {"name": "Overstock.com", "notes": "Discount retailer competing on price"},
-    {"name": "Craigslist", "notes": "Classified ads for local transactions"},
-    {"name": "Half.com (eBay)", "notes": "eBay's fixed-price marketplace for media"},
-    {"name": "Google Shopping", "notes": "Emerging product search from Google"},
-    {"name": "Traditional Retail", "notes": "Brick-and-mortar stores going online"}
+    {
+      "name": "Amazon",
+      "notes": "Growing e-commerce competitor with fixed-price retail"
+    },
+    {
+      "name": "Yahoo Shopping",
+      "notes": "Yahoo's shopping comparison and marketplace"
+    },
+    {
+      "name": "uBid",
+      "notes": "Auction site for electronics and refurbished goods"
+    },
+    {
+      "name": "Overstock.com",
+      "notes": "Discount retailer competing on price"
+    },
+    {
+      "name": "Craigslist",
+      "notes": "Classified ads for local transactions"
+    },
+    {
+      "name": "Half.com (eBay)",
+      "notes": "eBay's fixed-price marketplace for media"
+    },
+    {
+      "name": "Google Shopping",
+      "notes": "Emerging product search from Google"
+    },
+    {
+      "name": "Traditional Retail",
+      "notes": "Brick-and-mortar stores going online"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

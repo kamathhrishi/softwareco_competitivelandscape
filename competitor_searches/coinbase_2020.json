@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Coinbase competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Coinbase was the largest US cryptocurrency exchange in 2020 as Bitcoin and crypto markets surged. The company was preparing for its direct listing IPO while expanding institutional services with Coinbase Prime.",
+  "context": "Coinbase Global, Inc. is a cryptocurrency exchange and platform focused on crypto trading, custody, staking, and blockchain infrastructure. Institutional crypto custody. Expanded crypto asset offerings.",
   "competitors": [
-    {"name": "Binance", "notes": "Largest global cryptocurrency exchange by volume"},
-    {"name": "Kraken", "notes": "Major US exchange with margin trading and futures"},
-    {"name": "Gemini", "notes": "Regulated US exchange with institutional focus"},
-    {"name": "FTX", "notes": "Fast-growing exchange with derivatives focus (later collapsed)"},
-    {"name": "Robinhood", "notes": "Retail trading app adding cryptocurrency trading"},
-    {"name": "eToro", "notes": "Social trading platform with crypto offerings"},
-    {"name": "Bitstamp", "notes": "European exchange with US presence"},
-    {"name": "BlockFi", "notes": "Crypto lending platform competing for deposits"}
+    {
+      "name": "Binance",
+      "notes": "Largest global cryptocurrency exchange by volume"
+    },
+    {
+      "name": "Kraken",
+      "notes": "Major US exchange with margin trading and futures"
+    },
+    {
+      "name": "Gemini",
+      "notes": "Regulated US exchange with institutional focus"
+    },
+    {
+      "name": "FTX",
+      "notes": "Fast-growing exchange with derivatives focus (later collapsed)"
+    },
+    {
+      "name": "Robinhood",
+      "notes": "Retail trading app adding cryptocurrency trading"
+    },
+    {
+      "name": "eToro",
+      "notes": "Social trading platform with crypto offerings"
+    },
+    {
+      "name": "Bitstamp",
+      "notes": "European exchange with US presence"
+    },
+    {
+      "name": "BlockFi",
+      "notes": "Crypto lending platform competing for deposits"
+    }
   ],
-  "sources": ["Cryptocurrency industry analysis"]
+  "sources": [
+    "Cryptocurrency industry analysis"
+  ]
 }

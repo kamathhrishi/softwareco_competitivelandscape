@@ -5,13 +5,34 @@
   "search_query": "ServiceNow competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "BMC Remedy (BMC Software)", "notes": "Dominant enterprise ITSM platform with extensive ITIL framework support"},
-    {"name": "HP Service Manager", "notes": "Major on-premise ITSM solution for large enterprises"},
-    {"name": "CA Service Desk Manager", "notes": "Enterprise IT service management and help desk solution"},
-    {"name": "Zendesk", "notes": "Founded in 2007, cloud-based customer service platform beginning to expand into ITSM"},
-    {"name": "Freshworks (Freshservice)", "notes": "Founded in 2010, emerging cloud-based ITSM solution targeting SMBs"},
-    {"name": "LANDESK/HEAT Software", "notes": "IT management and service desk solutions (later merged to become Ivanti in 2017)"}
+    {
+      "name": "BMC Remedy (BMC Software)",
+      "notes": "Dominant enterprise ITSM platform with extensive ITIL framework support"
+    },
+    {
+      "name": "HP Service Manager",
+      "notes": "Major on-premise ITSM solution for large enterprises"
+    },
+    {
+      "name": "CA Service Desk Manager",
+      "notes": "Enterprise IT service management and help desk solution"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Founded in 2007, cloud-based customer service platform beginning to expand into ITSM"
+    },
+    {
+      "name": "Freshworks (Freshservice)",
+      "notes": "Founded in 2010, emerging cloud-based ITSM solution targeting SMBs"
+    },
+    {
+      "name": "LANDESK/HEAT Software",
+      "notes": "IT management and service desk solutions (later merged to become Ivanti in 2017)"
+    }
   ],
-  "context": "By 2010, ServiceNow was six years old and gaining traction as a cloud-based ITSM alternative, though still pre-IPO. The cloud revolution was beginning with companies like Zendesk (2007) and Freshworks (2010) entering the space.",
-  "sources": ["https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives", "https://www.cbinsights.com/company/servicenow/alternatives-competitors"]
+  "context": "ServiceNow, Inc. is a enterprise workflow platform company focused on IT service management, employee experience, and business workflows. IPO. Enterprise ITSM leader.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives",
+    "https://www.cbinsights.com/company/servicenow/alternatives-competitors"
+  ]
 }

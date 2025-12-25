@@ -5,14 +5,39 @@
   "search_query": "Adobe competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Macromedia", "notes": "Primary competitor until Adobe acquired it in 2005 for $3.5 billion. Known for Flash, Dreamweaver, and Fireworks"},
-    {"name": "Autodesk", "notes": "Long-standing competitor with products for architecture, engineering, construction, media & entertainment, and manufacturing"},
-    {"name": "Microsoft", "notes": "Competitor in business/creative software with Office suite"},
-    {"name": "Google", "notes": "Emerging competitor in analytics and web-based tools. Google Analytics competes with Adobe Analytics"},
-    {"name": "Corel Corporation", "notes": "Competitor in graphics and design software"},
-    {"name": "Salesforce", "notes": "Competitor in enterprise software and CRM space"},
-    {"name": "Oracle", "notes": "Competitor in enterprise software and database solutions"}
+    {
+      "name": "Macromedia",
+      "notes": "Primary competitor until Adobe acquired it in 2005 for $3.5 billion. Known for Flash, Dreamweaver, and Fireworks"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Long-standing competitor with products for architecture, engineering, construction, media & entertainment, and manufacturing"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in business/creative software with Office suite"
+    },
+    {
+      "name": "Google",
+      "notes": "Emerging competitor in analytics and web-based tools. Google Analytics competes with Adobe Analytics"
+    },
+    {
+      "name": "Corel Corporation",
+      "notes": "Competitor in graphics and design software"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Competitor in enterprise software and CRM space"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise software and database solutions"
+    }
   ],
-  "context": "2005 was a pivotal year for Adobe with the acquisition of Macromedia for $3.5 billion, eliminating a major competitor and bringing Flash, Dreamweaver, and other products into Adobe's portfolio.",
-  "sources": ["https://bstrategyhub.com/adobe-competitors-alternatives/", "https://www.marketing91.com/adobe-competitors/", "https://www.zippia.com/adobe-careers-189/competitors/"]
+  "context": "Adobe Inc. is a creative software and digital experience company focused on creative tools, document management, and digital marketing solutions. Acquired Macromedia for $3.4B, gaining Flash, Dreamweaver, and web development tools.",
+  "sources": [
+    "https://bstrategyhub.com/adobe-competitors-alternatives/",
+    "https://www.marketing91.com/adobe-competitors/",
+    "https://www.zippia.com/adobe-careers-189/competitors/"
+  ]
 }

@@ -5,15 +5,41 @@
   "search_query": "Fortinet firewall competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Top-tier NGFW with App-ID Technology and WildFire malware analysis"},
-    {"name": "Cisco", "notes": "Recognized as 'leader' by Forrester in 2020, strong ease of integration"},
-    {"name": "Check Point Software Technologies", "notes": "Gartner leader with SandBlast Zero-Day Protection"},
-    {"name": "Sophos", "notes": "Xstream architecture for protecting against latest threats"},
-    {"name": "Juniper Networks", "notes": "High-performance, scalable security solutions"},
-    {"name": "SonicWall", "notes": "Comprehensive network security for SMBs"},
-    {"name": "Barracuda Networks", "notes": "CloudGen Firewall for robust security and cloud transitions"},
-    {"name": "Cato Networks", "notes": "Cloud-native SASE solutions"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Top-tier NGFW with App-ID Technology and WildFire malware analysis"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Recognized as 'leader' by Forrester in 2020, strong ease of integration"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Gartner leader with SandBlast Zero-Day Protection"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Xstream architecture for protecting against latest threats"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "High-performance, scalable security solutions"
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Comprehensive network security for SMBs"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "CloudGen Firewall for robust security and cloud transitions"
+    },
+    {
+      "name": "Cato Networks",
+      "notes": "Cloud-native SASE solutions"
+    }
   ],
-  "context": "In 2020, the network security market was rapidly evolving toward cloud-delivered security with the rise of SASE and SD-WAN integration. The COVID-19 pandemic accelerated cloud adoption and remote work.",
-  "sources": ["https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"]
+  "context": "Fortinet, Inc. is a cybersecurity company focused on network security, firewalls, and security fabric. Remote work security. FortiSASE and Zero Trust.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"
+  ]
 }

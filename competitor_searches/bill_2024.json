@@ -5,18 +5,55 @@
   "search_query": "Bill Holdings BILL competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tipalti", "notes": "Specialized in global payments and multi-currency transactions for enterprise clients"},
-    {"name": "Melio", "notes": "Small business bill pay platform, identified as top competitor"},
-    {"name": "AvidXchange", "notes": "AP automation with niche industry integrations and vertical-specific solutions"},
-    {"name": "Billtrust", "notes": "Primary competitor in AR and payment processing"},
-    {"name": "Stampli", "notes": "Finance automation platform centered exclusively on accounts payable"},
-    {"name": "Zip", "notes": "Procurement and spend management platform"},
-    {"name": "Ramp", "notes": "All-in-one finance operations platform with AI-driven AP automation, expense management, and corporate cards"},
-    {"name": "Brex", "notes": "Comprehensive platform offering AP automation, bill pay, corporate cards, expense management, and business banking"},
-    {"name": "Concur", "notes": "Expense management and travel solution"},
-    {"name": "Expensify", "notes": "Expense management platform"},
-    {"name": "Airbase", "notes": "Spend management platform"}
+    {
+      "name": "Tipalti",
+      "notes": "Specialized in global payments and multi-currency transactions for enterprise clients"
+    },
+    {
+      "name": "Melio",
+      "notes": "Small business bill pay platform, identified as top competitor"
+    },
+    {
+      "name": "AvidXchange",
+      "notes": "AP automation with niche industry integrations and vertical-specific solutions"
+    },
+    {
+      "name": "Billtrust",
+      "notes": "Primary competitor in AR and payment processing"
+    },
+    {
+      "name": "Stampli",
+      "notes": "Finance automation platform centered exclusively on accounts payable"
+    },
+    {
+      "name": "Zip",
+      "notes": "Procurement and spend management platform"
+    },
+    {
+      "name": "Ramp",
+      "notes": "All-in-one finance operations platform with AI-driven AP automation, expense management, and corporate cards"
+    },
+    {
+      "name": "Brex",
+      "notes": "Comprehensive platform offering AP automation, bill pay, corporate cards, expense management, and business banking"
+    },
+    {
+      "name": "Concur",
+      "notes": "Expense management and travel solution"
+    },
+    {
+      "name": "Expensify",
+      "notes": "Expense management platform"
+    },
+    {
+      "name": "Airbase",
+      "notes": "Spend management platform"
+    }
   ],
-  "context": "By 2024, Bill Holdings Inc. has evolved into a comprehensive financial automation leader with annual revenue of $1.29B as of June 30, 2024. The company ranks 1st among 236 active competitors and is trusted by over 85 of the top 100 U.S. accounting firms, serving nearly half a million businesses. After acquiring Divvy ($2.5B in June 2021) for expense management and Invoice2go ($625M in September 2021) for AR capabilities, BILL now offers an integrated platform covering AP, AR, and spend management. The competitive landscape has intensified with new entrants like Ramp and Brex offering all-in-one financial operations platforms.",
-  "sources": ["https://www.owler.com/company/bill", "https://tracxn.com/d/companies/bill.com/__v9HRA4YBLJsZzo3hk_tDmRxJqcWUFPGBFnhLza1zxis", "https://tipalti.com/resources/learn/bill-com-competitors-and-alternatives/"]
+  "context": "BILL Holdings, Inc. is a financial operations platform for SMBs focused on accounts payable, accounts receivable, and spend management automation. Integrated financial operations platform. Acquired Invoice2go and Divvy.",
+  "sources": [
+    "https://www.owler.com/company/bill",
+    "https://tracxn.com/d/companies/bill.com/__v9HRA4YBLJsZzo3hk_tDmRxJqcWUFPGBFnhLza1zxis",
+    "https://tipalti.com/resources/learn/bill-com-competitors-and-alternatives/"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Take-Two Interactive competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Take-Two was riding success of Grand Theft Auto V, which sold 54M+ copies. The company also owned 2K Games with NBA 2K, WWE 2K, and Borderlands franchises.",
+  "context": "Take-Two Interactive Software, Inc. is a video game publisher focused on Grand Theft Auto, NBA 2K, and other AAA game franchises. GTA V ongoing success. NBA 2K esports.",
   "competitors": [
-    {"name": "Activision Blizzard", "notes": "Call of Duty and Blizzard Entertainment games"},
-    {"name": "Electronic Arts", "notes": "Sports games and Battlefield franchise"},
-    {"name": "Ubisoft", "notes": "Assassin's Creed, Far Cry, Watch Dogs"},
-    {"name": "Rockstar (own)", "notes": "Internal studio creating GTA and Red Dead"},
-    {"name": "Sony", "notes": "First-party PlayStation exclusives"},
-    {"name": "Microsoft", "notes": "Xbox Game Studios"},
-    {"name": "Warner Bros Games", "notes": "Batman Arkham, other licensed games"},
-    {"name": "Bethesda", "notes": "Elder Scrolls, Fallout publisher"}
+    {
+      "name": "Activision Blizzard",
+      "notes": "Call of Duty and Blizzard Entertainment games"
+    },
+    {
+      "name": "Electronic Arts",
+      "notes": "Sports games and Battlefield franchise"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Assassin's Creed, Far Cry, Watch Dogs"
+    },
+    {
+      "name": "Rockstar (own)",
+      "notes": "Internal studio creating GTA and Red Dead"
+    },
+    {
+      "name": "Sony",
+      "notes": "First-party PlayStation exclusives"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Xbox Game Studios"
+    },
+    {
+      "name": "Warner Bros Games",
+      "notes": "Batman Arkham, other licensed games"
+    },
+    {
+      "name": "Bethesda",
+      "notes": "Elder Scrolls, Fallout publisher"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

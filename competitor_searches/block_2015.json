@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Square competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Square went public in November 2015 at $9/share. The company was the leading mobile POS provider enabling small businesses to accept card payments with its iconic white reader.",
+  "context": "Block, Inc. is a financial technology and digital payments company focused on Square merchant services, Cash App, and Bitcoin through Spiral. Square went public. Point-of-sale hardware and software for SMBs.",
   "competitors": [
-    {"name": "PayPal Here", "notes": "PayPal's mobile card reader competing with Square"},
-    {"name": "Intuit GoPayment", "notes": "QuickBooks-integrated mobile payments"},
-    {"name": "Clover (First Data)", "notes": "POS system for restaurants and retail"},
-    {"name": "Verifone", "notes": "Traditional payment terminals competing in SMB"},
-    {"name": "iZettle", "notes": "European mobile POS later acquired by PayPal"},
-    {"name": "Shopify POS", "notes": "Integrated commerce platform with POS"},
-    {"name": "Stripe", "notes": "Online payments competing for software integration"},
-    {"name": "Traditional Merchant Services", "notes": "Banks and processors like Chase, Elavon"}
+    {
+      "name": "PayPal Here",
+      "notes": "PayPal's mobile card reader competing with Square"
+    },
+    {
+      "name": "Intuit GoPayment",
+      "notes": "QuickBooks-integrated mobile payments"
+    },
+    {
+      "name": "Clover (First Data)",
+      "notes": "POS system for restaurants and retail"
+    },
+    {
+      "name": "Verifone",
+      "notes": "Traditional payment terminals competing in SMB"
+    },
+    {
+      "name": "iZettle",
+      "notes": "European mobile POS later acquired by PayPal"
+    },
+    {
+      "name": "Shopify POS",
+      "notes": "Integrated commerce platform with POS"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Online payments competing for software integration"
+    },
+    {
+      "name": "Traditional Merchant Services",
+      "notes": "Banks and processors like Chase, Elavon"
+    }
   ],
-  "sources": ["Payments industry analysis"]
+  "sources": [
+    "Payments industry analysis"
+  ]
 }

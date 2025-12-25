@@ -5,12 +5,30 @@
   "search_query": "ANSYS simulation software competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes SIMULIA", "notes": "Major competitor with Abaqus and 3DEXPERIENCE platform"},
-    {"name": "Siemens PLM Simcenter", "notes": "Comprehensive simulation portfolio"},
-    {"name": "Altair", "notes": "HyperWorks and simulation-driven design"},
-    {"name": "MSC Software", "notes": "Structural and multidisciplinary simulation, owned by Hexagon"},
-    {"name": "COMSOL", "notes": "Multiphysics simulation software"}
+    {
+      "name": "Dassault Systèmes SIMULIA",
+      "notes": "Major competitor with Abaqus and 3DEXPERIENCE platform"
+    },
+    {
+      "name": "Siemens PLM Simcenter",
+      "notes": "Comprehensive simulation portfolio"
+    },
+    {
+      "name": "Altair",
+      "notes": "HyperWorks and simulation-driven design"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Structural and multidisciplinary simulation, owned by Hexagon"
+    },
+    {
+      "name": "COMSOL",
+      "notes": "Multiphysics simulation software"
+    }
   ],
-  "context": "In 2020, ANSYS maintained leadership in engineering simulation software. The company focused on digital twin and simulation-driven design trends. COVID-19 accelerated cloud simulation adoption as engineers worked remotely. Key acquisitions included Lumerical (photonics simulation) announced in September 2020. Competition focused on multiphysics capabilities, cloud access, and integration with design workflows. The EV and 5G markets drove demand for electromagnetic simulation.",
-  "sources": ["https://6sense.com/tech/simulation-modeling/ansys-market-share", "https://www.g2.com/products/ansys/competitors/alternatives"]
+  "context": "ANSYS, Inc. is a engineering simulation software company focused on finite element analysis, CFD, electromagnetics, and multiphysics simulation. Remote engineering and cloud simulation accelerated. Autonomous vehicle simulation growing.",
+  "sources": [
+    "https://6sense.com/tech/simulation-modeling/ansys-market-share",
+    "https://www.g2.com/products/ansys/competitors/alternatives"
+  ]
 }

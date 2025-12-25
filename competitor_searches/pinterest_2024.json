@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Pinterest competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Pinterest focused on shoppable content and AI-powered discovery with 480M+ monthly users. The platform emphasizes positive content and commercial intent as differentiators.",
+  "context": "Pinterest, Inc. is a visual discovery and shopping platform focused on image-based social discovery and e-commerce integration. Shopping focus intensified. AI-powered recommendations.",
   "competitors": [
-    {"name": "Instagram", "notes": "Visual social platform with Shop and Reels"},
-    {"name": "TikTok", "notes": "Short-form video becoming discovery and shopping platform"},
-    {"name": "Google", "notes": "Visual search and Shopping competing for commerce"},
-    {"name": "Amazon", "notes": "Product discovery and inspiration through browsing"},
-    {"name": "YouTube", "notes": "Video tutorials and Shorts for inspiration"},
-    {"name": "Etsy", "notes": "Handmade goods discovery and shopping"},
-    {"name": "LTK", "notes": "Creator shopping platform"},
-    {"name": "Lemon8", "notes": "ByteDance lifestyle and shopping app"}
+    {
+      "name": "Instagram",
+      "notes": "Visual social platform with Shop and Reels"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Short-form video becoming discovery and shopping platform"
+    },
+    {
+      "name": "Google",
+      "notes": "Visual search and Shopping competing for commerce"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Product discovery and inspiration through browsing"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video tutorials and Shorts for inspiration"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Handmade goods discovery and shopping"
+    },
+    {
+      "name": "LTK",
+      "notes": "Creator shopping platform"
+    },
+    {
+      "name": "Lemon8",
+      "notes": "ByteDance lifestyle and shopping app"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

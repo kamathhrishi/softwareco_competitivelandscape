@@ -5,12 +5,29 @@
   "search_query": "BlackLine accounting automation competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Trintech", "notes": "Financial close management software"},
-    {"name": "Workiva", "notes": "Cloud platform for financial reporting"},
-    {"name": "FloQast", "notes": "Close management for accountants"},
-    {"name": "SAP", "notes": "Enterprise financial management"},
-    {"name": "Oracle", "notes": "Cloud financials and ERP"}
+    {
+      "name": "Trintech",
+      "notes": "Financial close management software"
+    },
+    {
+      "name": "Workiva",
+      "notes": "Cloud platform for financial reporting"
+    },
+    {
+      "name": "FloQast",
+      "notes": "Close management for accountants"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise financial management"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Cloud financials and ERP"
+    }
   ],
-  "context": "In 2020, BlackLine was the leader in cloud-based accounting automation. The pandemic drove remote finance operations and automation needs. SAP partnership was a key differentiator for enterprise customers. Competition came from specialized close management vendors and ERP platforms adding automation. BlackLine focused on continuous accounting transformation.",
-  "sources": ["https://craft.co/blackline/competitors"]
+  "context": "BlackLine, Inc. is a cloud financial operations platform focused on accounting automation, financial close management, and intercompany solutions. Remote work highlighted need for automated financial processes.",
+  "sources": [
+    "https://craft.co/blackline/competitors"
+  ]
 }

@@ -4,15 +4,38 @@
   "year": 2020,
   "search_query": "Wayfair competitors 2020",
   "search_date": "2024-12-24",
-  "context": "COVID-19 pandemic drove massive home goods demand as people renovated during lockdowns. Wayfair saw significant growth in online furniture sales. Bed Bath & Beyond struggling, would eventually file bankruptcy.",
+  "context": "Wayfair Inc. is a e-commerce company for home goods focused on online furniture, decor, and home improvement products. COVID home furnishing boom. Record growth.",
   "competitors": [
-    {"name": "Amazon", "notes": "Largest e-commerce platform with extensive furniture selection"},
-    {"name": "Overstock", "notes": "Similar online furniture model"},
-    {"name": "IKEA", "notes": "Global furniture leader with 50+ country presence"},
-    {"name": "Williams-Sonoma", "notes": "West Elm, Pottery Barn, 650 US stores"},
-    {"name": "Home Depot", "notes": "Major home goods retailer"},
-    {"name": "Walmart", "notes": "10,000 stores, massive e-commerce growth"},
-    {"name": "Target", "notes": "Home decor and furniture expansion"}
+    {
+      "name": "Amazon",
+      "notes": "Largest e-commerce platform with extensive furniture selection"
+    },
+    {
+      "name": "Overstock",
+      "notes": "Similar online furniture model"
+    },
+    {
+      "name": "IKEA",
+      "notes": "Global furniture leader with 50+ country presence"
+    },
+    {
+      "name": "Williams-Sonoma",
+      "notes": "West Elm, Pottery Barn, 650 US stores"
+    },
+    {
+      "name": "Home Depot",
+      "notes": "Major home goods retailer"
+    },
+    {
+      "name": "Walmart",
+      "notes": "10,000 stores, massive e-commerce growth"
+    },
+    {
+      "name": "Target",
+      "notes": "Home decor and furniture expansion"
+    }
   ],
-  "sources": ["E-commerce and furniture retail analysis"]
+  "sources": [
+    "E-commerce and furniture retail analysis"
+  ]
 }

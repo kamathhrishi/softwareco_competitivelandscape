@@ -5,11 +5,26 @@
   "search_query": "Dropbox cloud storage competitors 2007",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Box", "notes": "Founded 2005, two years before Dropbox, enterprise-focused"},
-    {"name": "Microsoft OneDrive", "notes": "Released in 2007, same year as Dropbox founded"},
-    {"name": "Google", "notes": "In cloud storage space since early 2000s"},
-    {"name": "Egnyte", "notes": "Also founded 2007, enterprise solutions for various industries"}
+    {
+      "name": "Box",
+      "notes": "Founded 2005, two years before Dropbox, enterprise-focused"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "Released in 2007, same year as Dropbox founded"
+    },
+    {
+      "name": "Google",
+      "notes": "In cloud storage space since early 2000s"
+    },
+    {
+      "name": "Egnyte",
+      "notes": "Also founded 2007, enterprise solutions for various industries"
+    }
   ],
-  "context": "Dropbox was founded in 2007 (launched 2008). It entered a market where Box was already operating since 2005, Microsoft OneDrive launched same year, and Google had been in cloud storage since early 2000s. The cloud storage market was in early stages with companies positioning for different segments.",
-  "sources": ["https://www.experte.com/cloud-storage/dropbox-alternative", "https://www.cbinsights.com/company/dropbox/alternatives-competitors"]
+  "context": "Dropbox, Inc. is a cloud storage and collaboration platform focused on file sync, sharing, and team collaboration tools. Founded. Pioneered consumer cloud file sync.",
+  "sources": [
+    "https://www.experte.com/cloud-storage/dropbox-alternative",
+    "https://www.cbinsights.com/company/dropbox/alternatives-competitors"
+  ]
 }

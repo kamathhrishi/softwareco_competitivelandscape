@@ -5,16 +5,46 @@
   "search_query": "Bentley Systems infrastructure engineering software competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk", "notes": "Leading with Civil 3D and Revit BIM platform"},
-    {"name": "Hexagon", "notes": "Primary competitor in infrastructure and engineering software"},
-    {"name": "Trimble", "notes": "Positioning, modeling, and data analytics for infrastructure"},
-    {"name": "AVEVA", "notes": "Engineering for plant, power and marine industries"},
-    {"name": "Schneider Electric", "notes": "Infrastructure engineering software"},
-    {"name": "Ansys", "notes": "Engineering simulation and analysis"},
-    {"name": "AspenTech", "notes": "Asset performance management"},
-    {"name": "RIB Software", "notes": "Construction and engineering solutions"},
-    {"name": "Aconex", "notes": "Construction collaboration and project management"}
+    {
+      "name": "Autodesk",
+      "notes": "Leading with Civil 3D and Revit BIM platform"
+    },
+    {
+      "name": "Hexagon",
+      "notes": "Primary competitor in infrastructure and engineering software"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Positioning, modeling, and data analytics for infrastructure"
+    },
+    {
+      "name": "AVEVA",
+      "notes": "Engineering for plant, power and marine industries"
+    },
+    {
+      "name": "Schneider Electric",
+      "notes": "Infrastructure engineering software"
+    },
+    {
+      "name": "Ansys",
+      "notes": "Engineering simulation and analysis"
+    },
+    {
+      "name": "AspenTech",
+      "notes": "Asset performance management"
+    },
+    {
+      "name": "RIB Software",
+      "notes": "Construction and engineering solutions"
+    },
+    {
+      "name": "Aconex",
+      "notes": "Construction collaboration and project management"
+    }
   ],
-  "context": "By 2015, the market had matured with strong BIM adoption. Bentley competed across CAD (MicroStation vs AutoCAD), BIM (AECOsim vs Revit), and infrastructure-specific solutions. Market consolidating with Hexagon and Trimble making strategic acquisitions.",
-  "sources": ["https://www.comparably.com/companies/bentley-systems/competitors", "https://craft.co/bentley-systems/competitors"]
+  "context": "Bentley Systems, Incorporated is a infrastructure engineering software company focused on design, construction, and operations software for infrastructure. Digital twins for infrastructure. Acquired multiple companies.",
+  "sources": [
+    "https://www.comparably.com/companies/bentley-systems/competitors",
+    "https://craft.co/bentley-systems/competitors"
+  ]
 }

@@ -5,15 +5,41 @@
   "search_query": "HubSpot CRM marketing competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Salesforce", "notes": "Dominant CRM leader with Marketing Cloud"},
-    {"name": "Marketo", "notes": "Leading enterprise B2B marketing automation platform"},
-    {"name": "Pardot", "notes": "Salesforce's B2B marketing automation platform"},
-    {"name": "Oracle Eloqua", "notes": "Enterprise marketing automation after Oracle acquisition"},
-    {"name": "ActiveCampaign", "notes": "Growing competitor focused on customer experience automation"},
-    {"name": "MailChimp", "notes": "Major email marketing competitor expanding into marketing automation"},
-    {"name": "Zoho CRM", "notes": "Affordable CRM suite with marketing automation features"},
-    {"name": "Pipedrive", "notes": "Sales-focused CRM gaining popularity for pipeline management"}
+    {
+      "name": "Salesforce",
+      "notes": "Dominant CRM leader with Marketing Cloud"
+    },
+    {
+      "name": "Marketo",
+      "notes": "Leading enterprise B2B marketing automation platform"
+    },
+    {
+      "name": "Pardot",
+      "notes": "Salesforce's B2B marketing automation platform"
+    },
+    {
+      "name": "Oracle Eloqua",
+      "notes": "Enterprise marketing automation after Oracle acquisition"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "Growing competitor focused on customer experience automation"
+    },
+    {
+      "name": "MailChimp",
+      "notes": "Major email marketing competitor expanding into marketing automation"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Affordable CRM suite with marketing automation features"
+    },
+    {
+      "name": "Pipedrive",
+      "notes": "Sales-focused CRM gaining popularity for pipeline management"
+    }
   ],
-  "context": "In 2015, HubSpot launched its free CRM product, marking a significant expansion beyond marketing automation into the broader CRM market.",
-  "sources": ["https://www.bigcontacts.com/blog/hubspot-alternatives/"]
+  "context": "HubSpot, Inc. is a CRM and inbound marketing platform focused on marketing, sales, customer service, and CMS software. IPO. CRM platform expanding beyond marketing.",
+  "sources": [
+    "https://www.bigcontacts.com/blog/hubspot-alternatives/"
+  ]
 }

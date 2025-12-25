@@ -5,11 +5,25 @@
   "search_query": "CommVault backup data protection competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Veritas", "notes": "Major backup software vendor with NetBackup"},
-    {"name": "EMC/Legato", "notes": "NetWorker backup software dominant in enterprise market"},
-    {"name": "IBM Tivoli Storage Manager", "notes": "Enterprise backup and storage management solution"},
-    {"name": "Computer Associates ARCserve", "notes": "Popular backup software for Windows and enterprise"}
+    {
+      "name": "Veritas",
+      "notes": "Major backup software vendor with NetBackup"
+    },
+    {
+      "name": "EMC/Legato",
+      "notes": "NetWorker backup software dominant in enterprise market"
+    },
+    {
+      "name": "IBM Tivoli Storage Manager",
+      "notes": "Enterprise backup and storage management solution"
+    },
+    {
+      "name": "Computer Associates ARCserve",
+      "notes": "Popular backup software for Windows and enterprise"
+    }
   ],
-  "context": "In 2000, the backup and data protection market was dominated by traditional on-premises solutions. CommVault (founded 1996) was a relatively young company competing against established players. The market focused primarily on tape backup and disk-based backup systems.",
-  "sources": ["https://www.gartner.com/reviews/market/backup-and-data-protection-platforms/vendor/commvault/alternatives"]
+  "context": "Commvault Systems, Inc. is a data protection and management software company focused on backup, recovery, and data management across cloud and on-premises. Enterprise backup and recovery software. Competing with legacy vendors.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/backup-and-data-protection-platforms/vendor/commvault/alternatives"
+  ]
 }

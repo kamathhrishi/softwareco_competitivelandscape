@@ -5,12 +5,29 @@
   "search_query": "ANSYS simulation software competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes SIMULIA", "notes": "Major competitor with Abaqus structural simulation"},
-    {"name": "Siemens PLM", "notes": "Simulation portfolio including LMS and CD-adapco acquisition"},
-    {"name": "MSC Software", "notes": "Nastran, Adams, and other simulation tools"},
-    {"name": "Altair", "notes": "HyperWorks optimization and simulation suite"},
-    {"name": "COMSOL", "notes": "Multiphysics simulation platform"}
+    {
+      "name": "Dassault Systèmes SIMULIA",
+      "notes": "Major competitor with Abaqus structural simulation"
+    },
+    {
+      "name": "Siemens PLM",
+      "notes": "Simulation portfolio including LMS and CD-adapco acquisition"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Nastran, Adams, and other simulation tools"
+    },
+    {
+      "name": "Altair",
+      "notes": "HyperWorks optimization and simulation suite"
+    },
+    {
+      "name": "COMSOL",
+      "notes": "Multiphysics simulation platform"
+    }
   ],
-  "context": "In 2015, ANSYS was the leading simulation software company. Siemens acquired CD-adapco (CFD simulation) for $970M, signaling market consolidation. Dassault SIMULIA and MSC Software were primary competitors in structural analysis. The market was evolving toward multiphysics simulation combining structural, thermal, CFD, and electromagnetic analysis. ANSYS differentiated with comprehensive physics coverage and workbench integration. Cloud simulation was emerging but not yet mainstream.",
-  "sources": ["https://6sense.com/tech/simulation-modeling/ansys-market-share"]
+  "context": "ANSYS, Inc. is a engineering simulation software company focused on finite element analysis, CFD, electromagnetics, and multiphysics simulation. Acquired LSTC (LS-DYNA). Systems simulation and digital twin capabilities.",
+  "sources": [
+    "https://6sense.com/tech/simulation-modeling/ansys-market-share"
+  ]
 }

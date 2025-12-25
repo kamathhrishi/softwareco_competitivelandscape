@@ -5,12 +5,30 @@
   "search_query": "PTC CAD PLM competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "CATIA, SOLIDWORKS, and ENOVIA, comprehensive 3DEXPERIENCE platform"},
-    {"name": "Siemens Digital Industries", "notes": "NX, Solid Edge, and Teamcenter for product development"},
-    {"name": "Autodesk", "notes": "AutoCAD, Inventor, and Fusion 360 for design and manufacturing"},
-    {"name": "SAP PLM", "notes": "Enterprise PLM integrated with SAP ecosystem"},
-    {"name": "Oracle PLM Cloud", "notes": "Cloud-based product lifecycle management"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "CATIA, SOLIDWORKS, and ENOVIA, comprehensive 3DEXPERIENCE platform"
+    },
+    {
+      "name": "Siemens Digital Industries",
+      "notes": "NX, Solid Edge, and Teamcenter for product development"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "AutoCAD, Inventor, and Fusion 360 for design and manufacturing"
+    },
+    {
+      "name": "SAP PLM",
+      "notes": "Enterprise PLM integrated with SAP ecosystem"
+    },
+    {
+      "name": "Oracle PLM Cloud",
+      "notes": "Cloud-based product lifecycle management"
+    }
   ],
-  "context": "In 2020, PTC competed with CAD (Creo) against established players and expanded IoT (ThingWorx) and AR (Vuforia) offerings. The pandemic accelerated digital transformation and remote collaboration needs. PTC's Onshape (acquired 2019) cloud CAD positioned against traditional desktop tools. The SaaS transition and subscription model adoption were industry-wide trends. Competition focused on integrating design, simulation, IoT, and AR capabilities across product lifecycle.",
-  "sources": ["https://www.g2.com/products/ptc-creo/competitors/alternatives", "https://craft.co/ptc/competitors"]
+  "context": "PTC Inc. is a industrial software company focused on CAD, PLM, IoT, and augmented reality for manufacturing. SaaS transition. Onshape cloud CAD.",
+  "sources": [
+    "https://www.g2.com/products/ptc-creo/competitors/alternatives",
+    "https://craft.co/ptc/competitors"
+  ]
 }

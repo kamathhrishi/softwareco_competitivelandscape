@@ -5,17 +5,50 @@
   "search_query": "Qualys competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tenable Holdings", "notes": "Direct competitor with on-premises and cloud options"},
-    {"name": "Rapid7", "notes": "Data security and analytics with vulnerability management"},
-    {"name": "Positive Technologies", "notes": "Main competitor in vulnerability assessment"},
-    {"name": "Lacework", "notes": "Cloud security platform competitor"},
-    {"name": "Checkmarx", "notes": "Application security testing competitor"},
-    {"name": "CrowdStrike", "notes": "Endpoint detection and response with vulnerability features"},
-    {"name": "Microsoft Defender for Cloud", "notes": "Cloud security with vulnerability scanning"},
-    {"name": "Wiz", "notes": "Cloud security platform for cloud environments"},
-    {"name": "Nessus", "notes": "Widely used vulnerability scanner by Tenable"},
-    {"name": "OpenVAS", "notes": "Open-source vulnerability scanner alternative"}
+    {
+      "name": "Tenable Holdings",
+      "notes": "Direct competitor with on-premises and cloud options"
+    },
+    {
+      "name": "Rapid7",
+      "notes": "Data security and analytics with vulnerability management"
+    },
+    {
+      "name": "Positive Technologies",
+      "notes": "Main competitor in vulnerability assessment"
+    },
+    {
+      "name": "Lacework",
+      "notes": "Cloud security platform competitor"
+    },
+    {
+      "name": "Checkmarx",
+      "notes": "Application security testing competitor"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Endpoint detection and response with vulnerability features"
+    },
+    {
+      "name": "Microsoft Defender for Cloud",
+      "notes": "Cloud security with vulnerability scanning"
+    },
+    {
+      "name": "Wiz",
+      "notes": "Cloud security platform for cloud environments"
+    },
+    {
+      "name": "Nessus",
+      "notes": "Widely used vulnerability scanner by Tenable"
+    },
+    {
+      "name": "OpenVAS",
+      "notes": "Open-source vulnerability scanner alternative"
+    }
   ],
-  "context": "2020 was significant for cybersecurity due to COVID-19 and remote work shift. According to Canalys, 2020 reported record data breaches - higher than previous 15 years. Over 101 billion records globally compromised.",
-  "sources": ["https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives", "https://craft.co/qualys/competitors"]
+  "context": "Qualys, Inc. is a cloud security and compliance company focused on vulnerability management, compliance, and web app security. Multi-vector EDR. VMDR platform.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives",
+    "https://craft.co/qualys/competitors"
+  ]
 }

@@ -5,15 +5,44 @@
   "search_query": "Veeva Systems life sciences competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "IQVIA", "notes": "Market leader with 16.3% share, formed by 2016 merger of Quintiles and IMS Health, announced deeper Salesforce partnership in April 2024"},
-    {"name": "Medidata Solutions", "notes": "Part of Dassault Systèmes, significant competitor in clinical trials with Medidata Rave and Clinical Cloud for EDC and CTMS"},
-    {"name": "Oracle Health Sciences", "notes": "Comprehensive suite for clinical trial management, safety, pharmacovigilance, and data analytics with enterprise scalability"},
-    {"name": "Salesforce Life Sciences Cloud", "notes": "Launched June 2024, general availability including clinical operations applications, leverages Salesforce CRM capabilities"},
-    {"name": "SAP Life Sciences", "notes": "SAP S/4HANA for intelligent enterprise management, Integrated Business Planning for supply chain, end-to-end solutions"},
-    {"name": "MasterControl", "notes": "Known for quality management and document control for regulated industries, competes with Veeva Vault QMS modules"},
-    {"name": "Aetion", "notes": "CB Insights top competitor, focuses on real-world evidence analytics"},
-    {"name": "Anju Software", "notes": "Top competitor in clinical and regulatory software for life sciences"}
+    {
+      "name": "IQVIA",
+      "notes": "Market leader with 16.3% share, formed by 2016 merger of Quintiles and IMS Health, announced deeper Salesforce partnership in April 2024"
+    },
+    {
+      "name": "Medidata Solutions",
+      "notes": "Part of Dassault Systèmes, significant competitor in clinical trials with Medidata Rave and Clinical Cloud for EDC and CTMS"
+    },
+    {
+      "name": "Oracle Health Sciences",
+      "notes": "Comprehensive suite for clinical trial management, safety, pharmacovigilance, and data analytics with enterprise scalability"
+    },
+    {
+      "name": "Salesforce Life Sciences Cloud",
+      "notes": "Launched June 2024, general availability including clinical operations applications, leverages Salesforce CRM capabilities"
+    },
+    {
+      "name": "SAP Life Sciences",
+      "notes": "SAP S/4HANA for intelligent enterprise management, Integrated Business Planning for supply chain, end-to-end solutions"
+    },
+    {
+      "name": "MasterControl",
+      "notes": "Known for quality management and document control for regulated industries, competes with Veeva Vault QMS modules"
+    },
+    {
+      "name": "Aetion",
+      "notes": "CB Insights top competitor, focuses on real-world evidence analytics"
+    },
+    {
+      "name": "Anju Software",
+      "notes": "Top competitor in clinical and regulatory software for life sciences"
+    }
   ],
-  "context": "In 2024, Veeva Systems maintains an estimated 80% global market share in the pharmaceutical CRM market and serves over 1,400 customers including a majority of top biopharmaceutical companies. Fiscal year 2025 revenues reached $2,746.6 million, a 16% increase YoY. The top 10 life sciences software vendors are IQVIA (16.3% share), Microsoft, Veeva Systems, Salesforce, Dassault Systèmes, SAP, Oracle, Revvity, ServiceNow, and Clario. Veeva's key advantage is that competitors are not as focused on life sciences: Medidata was acquired by engineering software company Dassault, Oracle serves many industries, and IQVIA is not primarily known as a software developer.",
-  "sources": ["https://pitchgrade.com/companies/veeva-systems", "https://intrinsicinvesting.com/2024/07/23/veeva-a-winning-platform-strategy-in-life-sciences/", "https://craft.co/veeva/competitors", "https://www.salesforce.com/compare/salesforce-vs-veeva/"]
+  "context": "Veeva Systems Inc. is a cloud software for life sciences focused on CRM, content management, and data solutions for pharma. Transitioned off Salesforce platform.",
+  "sources": [
+    "https://pitchgrade.com/companies/veeva-systems",
+    "https://intrinsicinvesting.com/2024/07/23/veeva-a-winning-platform-strategy-in-life-sciences/",
+    "https://craft.co/veeva/competitors",
+    "https://www.salesforce.com/compare/salesforce-vs-veeva/"
+  ]
 }

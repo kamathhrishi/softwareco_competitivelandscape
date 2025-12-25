@@ -4,16 +4,42 @@
   "year": 2010,
   "search_query": "Electronic Arts competitors 2010",
   "search_date": "2024-12-24",
-  "context": "EA was a leading video game publisher with sports franchises (Madden, FIFA, NHL), The Sims, and Battlefield. The company was transitioning to digital distribution and mobile gaming.",
+  "context": "Electronic Arts Inc. is a video game company focused on sports games, action titles, and mobile gaming. Mobile gaming with PopCap acquisition. Origin platform launch.",
   "competitors": [
-    {"name": "Activision Blizzard", "notes": "Call of Duty, World of Warcraft publisher"},
-    {"name": "Take-Two Interactive", "notes": "Grand Theft Auto, NBA 2K publisher"},
-    {"name": "Ubisoft", "notes": "Assassin's Creed, Far Cry publisher"},
-    {"name": "Nintendo", "notes": "First-party games and platforms"},
-    {"name": "Sony", "notes": "PlayStation exclusive games"},
-    {"name": "Microsoft", "notes": "Xbox Game Studios first-party titles"},
-    {"name": "THQ", "notes": "Various game franchises (later bankrupt)"},
-    {"name": "Zynga", "notes": "Social and mobile games competitor"}
+    {
+      "name": "Activision Blizzard",
+      "notes": "Call of Duty, World of Warcraft publisher"
+    },
+    {
+      "name": "Take-Two Interactive",
+      "notes": "Grand Theft Auto, NBA 2K publisher"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Assassin's Creed, Far Cry publisher"
+    },
+    {
+      "name": "Nintendo",
+      "notes": "First-party games and platforms"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation exclusive games"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Xbox Game Studios first-party titles"
+    },
+    {
+      "name": "THQ",
+      "notes": "Various game franchises (later bankrupt)"
+    },
+    {
+      "name": "Zynga",
+      "notes": "Social and mobile games competitor"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

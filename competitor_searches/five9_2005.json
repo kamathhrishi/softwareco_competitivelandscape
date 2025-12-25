@@ -4,15 +4,38 @@
   "year": 2005,
   "search_query": "Five9 competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Five9 was pioneering cloud contact center software. Most contact centers still used on-premise systems. VoIP technology enabling cloud-based solutions.",
+  "context": "Five9, Inc. is a cloud contact center software company focused on omnichannel contact center, workforce optimization, and AI. Cloud contact center gaining traction vs on-premise.",
   "competitors": [
-    {"name": "Avaya", "notes": "Dominant on-premise contact center provider"},
-    {"name": "Cisco", "notes": "Enterprise communications and contact center"},
-    {"name": "Genesys", "notes": "Contact center platform provider"},
-    {"name": "Aspect Software", "notes": "Contact center solutions"},
-    {"name": "Interactive Intelligence", "notes": "Cloud contact center (acquired by Genesys 2016)"},
-    {"name": "Mitel", "notes": "Business communications systems"},
-    {"name": "Nortel", "notes": "Telecom equipment and contact center"}
+    {
+      "name": "Avaya",
+      "notes": "Dominant on-premise contact center provider"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Enterprise communications and contact center"
+    },
+    {
+      "name": "Genesys",
+      "notes": "Contact center platform provider"
+    },
+    {
+      "name": "Aspect Software",
+      "notes": "Contact center solutions"
+    },
+    {
+      "name": "Interactive Intelligence",
+      "notes": "Cloud contact center (acquired by Genesys 2016)"
+    },
+    {
+      "name": "Mitel",
+      "notes": "Business communications systems"
+    },
+    {
+      "name": "Nortel",
+      "notes": "Telecom equipment and contact center"
+    }
   ],
-  "sources": ["Contact center industry analysis"]
+  "sources": [
+    "Contact center industry analysis"
+  ]
 }

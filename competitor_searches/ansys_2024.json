@@ -5,17 +5,52 @@
   "search_query": "ANSYS simulation software competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes SIMULIA", "notes": "Major competitor with CATIA, SolidWorks, and SIMULIA brands, 3DEXPERIENCE platform integrates design, simulation, and data management"},
-    {"name": "Siemens Simcenter", "notes": "Simulation and testing portfolio leveraging industrial automation expertise, integrated solutions for entire product lifecycle"},
-    {"name": "Altair HyperWorks", "notes": "Formidable competitor known for HyperWorks suite of simulation tools"},
-    {"name": "Autodesk", "notes": "Major competitor in CAD and simulation with Fusion 360 and other products"},
-    {"name": "COMSOL Multiphysics", "notes": "Top alternative for multiphysics simulation"},
-    {"name": "MSC Software (Hexagon)", "notes": "Main competitor in structural and CFD simulation"},
-    {"name": "Simulink (MathWorks)", "notes": "17.95% market share in simulation-modeling, strong in control systems and model-based design"},
-    {"name": "SolidWorks Simulation", "notes": "4.76% market share, integrated with SolidWorks CAD"},
-    {"name": "OpenFOAM", "notes": "Open-source CFD software, popular in academic institutions and smaller businesses"},
-    {"name": "SimScale", "notes": "Cloud-based simulation platform alternative"}
+    {
+      "name": "Dassault Systèmes SIMULIA",
+      "notes": "Major competitor with CATIA, SolidWorks, and SIMULIA brands, 3DEXPERIENCE platform integrates design, simulation, and data management"
+    },
+    {
+      "name": "Siemens Simcenter",
+      "notes": "Simulation and testing portfolio leveraging industrial automation expertise, integrated solutions for entire product lifecycle"
+    },
+    {
+      "name": "Altair HyperWorks",
+      "notes": "Formidable competitor known for HyperWorks suite of simulation tools"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Major competitor in CAD and simulation with Fusion 360 and other products"
+    },
+    {
+      "name": "COMSOL Multiphysics",
+      "notes": "Top alternative for multiphysics simulation"
+    },
+    {
+      "name": "MSC Software (Hexagon)",
+      "notes": "Main competitor in structural and CFD simulation"
+    },
+    {
+      "name": "Simulink (MathWorks)",
+      "notes": "17.95% market share in simulation-modeling, strong in control systems and model-based design"
+    },
+    {
+      "name": "SolidWorks Simulation",
+      "notes": "4.76% market share, integrated with SolidWorks CAD"
+    },
+    {
+      "name": "OpenFOAM",
+      "notes": "Open-source CFD software, popular in academic institutions and smaller businesses"
+    },
+    {
+      "name": "SimScale",
+      "notes": "Cloud-based simulation platform alternative"
+    }
   ],
-  "context": "In 2024, ANSYS has 39.85% market share in the simulation-modeling market and competes with 56 tools. The top alternatives are Simulink (17.95%), Ansys Structures (7.16%), and SolidWorks Simulation (4.76%). For FY2024, ANSYS reported total revenue of $2.269 billion, a 9.7% increase from 2023. The proposed acquisition of ANSYS by Synopsys, announced in January 2024, highlights market consolidation, creating a new entity with strong position in EDA and simulation. Open-source software like OpenFOAM presents challenges for academic and SMB segments. Major competitors include Dassault Systèmes, Siemens, Altair, and Autodesk.",
-  "sources": ["https://pitchgrade.com/companies/ansys", "https://www.softwaresuggest.com/ansys-simulation/alternatives", "https://6sense.com/tech/simulation-modeling/ansys-market-share", "https://tracxn.com/d/companies/ansys/__ff-UUGeNkyWkQRFKy6i2TsFC8Wfae6yg1suXHNQzQQY/competitors"]
+  "context": "ANSYS, Inc. is a engineering simulation software company focused on finite element analysis, CFD, electromagnetics, and multiphysics simulation. AI-enhanced simulation. Acquired by Synopsys for $35B, pending regulatory approval.",
+  "sources": [
+    "https://pitchgrade.com/companies/ansys",
+    "https://www.softwaresuggest.com/ansys-simulation/alternatives",
+    "https://6sense.com/tech/simulation-modeling/ansys-market-share",
+    "https://tracxn.com/d/companies/ansys/__ff-UUGeNkyWkQRFKy6i2TsFC8Wfae6yg1suXHNQzQQY/competitors"
+  ]
 }

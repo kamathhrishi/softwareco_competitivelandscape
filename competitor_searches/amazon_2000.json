@@ -5,12 +5,29 @@
   "search_query": "Amazon e-commerce competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "eBay", "notes": "Major e-commerce competitor focusing on auctions"},
-    {"name": "Walmart", "notes": "Traditional retail giant developing online presence"},
-    {"name": "Barnes & Noble", "notes": "Competitor in online book sales"},
-    {"name": "The Home Depot", "notes": "Launched online store in late 2000"},
-    {"name": "Target", "notes": "Traditional retailer beginning e-commerce"}
+    {
+      "name": "eBay",
+      "notes": "Major e-commerce competitor focusing on auctions"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Traditional retail giant developing online presence"
+    },
+    {
+      "name": "Barnes & Noble",
+      "notes": "Competitor in online book sales"
+    },
+    {
+      "name": "The Home Depot",
+      "notes": "Launched online store in late 2000"
+    },
+    {
+      "name": "Target",
+      "notes": "Traditional retailer beginning e-commerce"
+    }
   ],
-  "context": "In 2000, Amazon opened marketplace to third-party sellers. AWS did not exist yet. Competition was purely in e-commerce against online and traditional retailers.",
-  "sources": ["https://doit.software/blog/amazon-competitors"]
+  "context": "Amazon.com, Inc. is a e-commerce, cloud computing, and technology conglomerate focused on online retail, AWS cloud services, streaming, devices, and advertising. Survived dot-com crash. Launched Marketplace for third-party sellers. Focus on customer experience.",
+  "sources": [
+    "https://doit.software/blog/amazon-competitors"
+  ]
 }

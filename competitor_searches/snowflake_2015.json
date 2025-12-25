@@ -5,15 +5,42 @@
   "search_query": "Snowflake data warehouse competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon Redshift", "notes": "AWS's cloud data warehouse built on PostgreSQL, launched 2012"},
-    {"name": "Google BigQuery", "notes": "Serverless data warehouse powered by Google's Dremel engine"},
-    {"name": "Microsoft Azure SQL Data Warehouse", "notes": "Cloud data warehouse using MPP architecture"},
-    {"name": "Teradata", "notes": "Traditional enterprise data warehouse solution"},
-    {"name": "Oracle Exadata", "notes": "Enterprise database and data warehouse platform"},
-    {"name": "IBM Db2", "notes": "Enterprise data warehouse with MPP architecture"},
-    {"name": "Cloudera", "notes": "Hadoop-based big data platform for data warehousing"},
-    {"name": "Hortonworks", "notes": "Hadoop-based platform (later merged with Cloudera)"}
+    {
+      "name": "Amazon Redshift",
+      "notes": "AWS's cloud data warehouse built on PostgreSQL, launched 2012"
+    },
+    {
+      "name": "Google BigQuery",
+      "notes": "Serverless data warehouse powered by Google's Dremel engine"
+    },
+    {
+      "name": "Microsoft Azure SQL Data Warehouse",
+      "notes": "Cloud data warehouse using MPP architecture"
+    },
+    {
+      "name": "Teradata",
+      "notes": "Traditional enterprise data warehouse solution"
+    },
+    {
+      "name": "Oracle Exadata",
+      "notes": "Enterprise database and data warehouse platform"
+    },
+    {
+      "name": "IBM Db2",
+      "notes": "Enterprise data warehouse with MPP architecture"
+    },
+    {
+      "name": "Cloudera",
+      "notes": "Hadoop-based big data platform for data warehousing"
+    },
+    {
+      "name": "Hortonworks",
+      "notes": "Hadoop-based platform (later merged with Cloudera)"
+    }
   ],
-  "context": "In 2015, Snowflake was still an early-stage company (founded 2012) competing against established cloud data warehouses like Amazon Redshift and Google BigQuery, along with traditional enterprise vendors like Teradata and Oracle. The Hadoop ecosystem was prominent for big data workloads.",
-  "sources": ["https://www.datacamp.com/blog/snowflake-competitor", "https://www.vendr.com/blog/snowflake-alternatives-competitors"]
+  "context": "Snowflake Inc. is a cloud data platform company focused on data warehousing, data sharing, and data applications. Founded for cloud-native data warehouse.",
+  "sources": [
+    "https://www.datacamp.com/blog/snowflake-competitor",
+    "https://www.vendr.com/blog/snowflake-alternatives-competitors"
+  ]
 }

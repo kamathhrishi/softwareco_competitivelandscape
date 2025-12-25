@@ -4,16 +4,42 @@
   "year": 2017,
   "search_query": "Roku competitors 2017",
   "search_date": "2024-12-24",
-  "context": "Roku went public in September 2017 as the leading streaming platform in the US. The company sold streaming devices and licensed its OS to TV manufacturers while building an advertising business.",
+  "context": "Roku, Inc. is a streaming platform company focused on streaming devices, smart TV OS, and advertising. Expanded device lineup. Roku Channel development.",
   "competitors": [
-    {"name": "Amazon Fire TV", "notes": "Amazon's streaming devices and platform"},
-    {"name": "Apple TV", "notes": "Apple's premium streaming device"},
-    {"name": "Google Chromecast", "notes": "Google's streaming dongle"},
-    {"name": "Smart TV platforms", "notes": "Samsung Tizen, LG webOS built into TVs"},
-    {"name": "Cable boxes", "notes": "Traditional pay TV set-top boxes from Comcast, etc."},
-    {"name": "Gaming consoles", "notes": "PlayStation, Xbox with streaming apps"},
-    {"name": "TiVo", "notes": "DVR platform with streaming integration"},
-    {"name": "NVIDIA Shield", "notes": "Android TV streaming device"}
+    {
+      "name": "Amazon Fire TV",
+      "notes": "Amazon's streaming devices and platform"
+    },
+    {
+      "name": "Apple TV",
+      "notes": "Apple's premium streaming device"
+    },
+    {
+      "name": "Google Chromecast",
+      "notes": "Google's streaming dongle"
+    },
+    {
+      "name": "Smart TV platforms",
+      "notes": "Samsung Tizen, LG webOS built into TVs"
+    },
+    {
+      "name": "Cable boxes",
+      "notes": "Traditional pay TV set-top boxes from Comcast, etc."
+    },
+    {
+      "name": "Gaming consoles",
+      "notes": "PlayStation, Xbox with streaming apps"
+    },
+    {
+      "name": "TiVo",
+      "notes": "DVR platform with streaming integration"
+    },
+    {
+      "name": "NVIDIA Shield",
+      "notes": "Android TV streaming device"
+    }
   ],
-  "sources": ["Connected TV industry analysis"]
+  "sources": [
+    "Connected TV industry analysis"
+  ]
 }

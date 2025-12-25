@@ -5,11 +5,26 @@
   "search_query": "Braze customer engagement competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "SendPulse", "notes": "Established in 2015, marketing automation platform focusing on email, SMS, and chatbot marketing"},
-    {"name": "Salesforce Marketing Cloud", "notes": "Enterprise-grade customer engagement platform with deep CRM integration, established player in the market"},
-    {"name": "Adobe Marketing Cloud", "notes": "Comprehensive marketing solution for enterprise customers"},
-    {"name": "Iterable", "notes": "Growth marketing platform for lifecycle campaigns and multi-channel engagement"}
+    {
+      "name": "SendPulse",
+      "notes": "Established in 2015, marketing automation platform focusing on email, SMS, and chatbot marketing"
+    },
+    {
+      "name": "Salesforce Marketing Cloud",
+      "notes": "Enterprise-grade customer engagement platform with deep CRM integration, established player in the market"
+    },
+    {
+      "name": "Adobe Marketing Cloud",
+      "notes": "Comprehensive marketing solution for enterprise customers"
+    },
+    {
+      "name": "Iterable",
+      "notes": "Growth marketing platform for lifecycle campaigns and multi-channel engagement"
+    }
   ],
-  "context": "In 2015, Braze (founded 2011) was still an emerging player in the customer engagement space. The competitive landscape was dominated by established enterprise platforms like Salesforce Marketing Cloud and Adobe Marketing Cloud. 2015 also saw the launch of SendPulse, indicating growing interest in marketing automation and multi-channel engagement. At this time, the market was transitioning from traditional email marketing to more sophisticated omnichannel customer engagement platforms.",
-  "sources": ["https://www.gartner.com/reviews/market/multichannel-marketing-hubs/vendor/braze/product/braze-customer-engagement-platform/alternatives", "https://clevertap.com/blog/braze-competitors/"]
+  "context": "Braze, Inc. is a customer engagement platform focused on cross-channel messaging, personalization, and marketing automation. Mobile-first customer engagement platform. Push, email, in-app messaging.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/multichannel-marketing-hubs/vendor/braze/product/braze-customer-engagement-platform/alternatives",
+    "https://clevertap.com/blog/braze-competitors/"
+  ]
 }

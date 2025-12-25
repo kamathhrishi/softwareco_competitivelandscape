@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Teladoc competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Teladoc provides virtual care, mental health (BetterHelp), and chronic care management. The company faces competition from healthcare giants building telehealth into broader offerings.",
+  "context": "Teladoc Health, Inc. is a virtual healthcare company focused on telehealth, chronic care management, and mental health. Virtual care leader. Competing with health systems, startups.",
   "competitors": [
-    {"name": "Amazon One Medical", "notes": "Amazon's primary care and virtual care"},
-    {"name": "CVS Health", "notes": "Integrated care with insurance, clinics, and virtual"},
-    {"name": "UnitedHealth/Optum", "notes": "Healthcare giant with virtual care integration"},
-    {"name": "Amwell", "notes": "Enterprise telehealth platform"},
-    {"name": "Hims & Hers", "notes": "Telehealth with specific condition focus"},
-    {"name": "Talkspace", "notes": "Online therapy platform"},
-    {"name": "Cerebral", "notes": "Mental health telehealth"},
-    {"name": "Health Systems", "notes": "Epic MyChart and health system platforms"}
+    {
+      "name": "Amazon One Medical",
+      "notes": "Amazon's primary care and virtual care"
+    },
+    {
+      "name": "CVS Health",
+      "notes": "Integrated care with insurance, clinics, and virtual"
+    },
+    {
+      "name": "UnitedHealth/Optum",
+      "notes": "Healthcare giant with virtual care integration"
+    },
+    {
+      "name": "Amwell",
+      "notes": "Enterprise telehealth platform"
+    },
+    {
+      "name": "Hims & Hers",
+      "notes": "Telehealth with specific condition focus"
+    },
+    {
+      "name": "Talkspace",
+      "notes": "Online therapy platform"
+    },
+    {
+      "name": "Cerebral",
+      "notes": "Mental health telehealth"
+    },
+    {
+      "name": "Health Systems",
+      "notes": "Epic MyChart and health system platforms"
+    }
   ],
-  "sources": ["Digital health industry analysis"]
+  "sources": [
+    "Digital health industry analysis"
+  ]
 }

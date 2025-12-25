@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Paylocity competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Paylocity provides cloud-based payroll and human capital management solutions for mid-sized organizations. The company emphasizes employee engagement, modern user experience, and data analytics.",
+  "context": "Paylocity Holding Corporation is a cloud HCM software company focused on payroll, HR, benefits, and workforce management for mid-market. Mid-market HCM leader. Competing with Paycom, Paychex.",
   "competitors": [
-    {"name": "Paycom", "notes": "Direct competitor in cloud HCM with single-database architecture"},
-    {"name": "ADP", "notes": "Market leader in payroll and HCM with solutions for all company sizes"},
-    {"name": "Dayforce (Ceridian)", "notes": "Unified HCM platform with strong workforce management"},
-    {"name": "Paychex", "notes": "Payroll and HR services for small and mid-sized businesses"},
-    {"name": "UKG", "notes": "Comprehensive HCM and workforce management solutions"},
-    {"name": "Paycor", "notes": "Cloud HCM platform targeting similar mid-market segment"},
-    {"name": "Workday", "notes": "Enterprise HCM competing for larger mid-market customers"},
-    {"name": "isolved", "notes": "HCM platform for SMB market with payroll and HR solutions"}
+    {
+      "name": "Paycom",
+      "notes": "Direct competitor in cloud HCM with single-database architecture"
+    },
+    {
+      "name": "ADP",
+      "notes": "Market leader in payroll and HCM with solutions for all company sizes"
+    },
+    {
+      "name": "Dayforce (Ceridian)",
+      "notes": "Unified HCM platform with strong workforce management"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Payroll and HR services for small and mid-sized businesses"
+    },
+    {
+      "name": "UKG",
+      "notes": "Comprehensive HCM and workforce management solutions"
+    },
+    {
+      "name": "Paycor",
+      "notes": "Cloud HCM platform targeting similar mid-market segment"
+    },
+    {
+      "name": "Workday",
+      "notes": "Enterprise HCM competing for larger mid-market customers"
+    },
+    {
+      "name": "isolved",
+      "notes": "HCM platform for SMB market with payroll and HR solutions"
+    }
   ],
-  "sources": ["Gartner", "G2 Crowd"]
+  "sources": [
+    "Gartner",
+    "G2 Crowd"
+  ]
 }

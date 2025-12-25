@@ -5,16 +5,46 @@
   "search_query": "Nutanix competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "VMware", "notes": "Major competitor with vSphere and vSAN; enterprise virtualization and HCI leader"},
-    {"name": "Dell EMC VxRail", "notes": "Leading HCI solution in partnership with VMware"},
-    {"name": "Cisco HyperFlex", "notes": "HCI based on SpringPath technology acquired 2017"},
-    {"name": "HPE SimpliVity", "notes": "Integrated HCI solution acquired by HPE 2017"},
-    {"name": "Pure Storage", "notes": "Storage competitor focusing on flash and cloud data services"},
-    {"name": "NetApp", "notes": "Data storage and management solutions"},
-    {"name": "Red Hat", "notes": "Open-source virtualization and cloud infrastructure"},
-    {"name": "Scale Computing", "notes": "HCI platform for edge computing"},
-    {"name": "StarWind Virtual SAN", "notes": "Software-defined storage for HCI"}
+    {
+      "name": "VMware",
+      "notes": "Major competitor with vSphere and vSAN; enterprise virtualization and HCI leader"
+    },
+    {
+      "name": "Dell EMC VxRail",
+      "notes": "Leading HCI solution in partnership with VMware"
+    },
+    {
+      "name": "Cisco HyperFlex",
+      "notes": "HCI based on SpringPath technology acquired 2017"
+    },
+    {
+      "name": "HPE SimpliVity",
+      "notes": "Integrated HCI solution acquired by HPE 2017"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "Storage competitor focusing on flash and cloud data services"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Data storage and management solutions"
+    },
+    {
+      "name": "Red Hat",
+      "notes": "Open-source virtualization and cloud infrastructure"
+    },
+    {
+      "name": "Scale Computing",
+      "notes": "HCI platform for edge computing"
+    },
+    {
+      "name": "StarWind Virtual SAN",
+      "notes": "Software-defined storage for HCI"
+    }
   ],
-  "context": "By 2020, the HCI market had matured significantly with Nutanix and VMware as the two most recognized names. Intense competition between software-defined approaches and appliance-based solutions. Cloud providers and hybrid cloud solutions increasingly influencing the competitive landscape.",
-  "sources": ["https://www.comparably.com/companies/nutanix/competitors", "https://craft.co/nutanix/competitors"]
+  "context": "Nutanix, Inc. is a hybrid multicloud computing company focused on hyperconverged infrastructure, cloud platform, and virtualization. Subscription transition. Cloud platform strategy.",
+  "sources": [
+    "https://www.comparably.com/companies/nutanix/competitors",
+    "https://craft.co/nutanix/competitors"
+  ]
 }

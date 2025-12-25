@@ -5,16 +5,46 @@
   "search_query": "Autodesk competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "SOLIDWORKS and CATIA - comprehensive 3D CAD for manufacturing, aerospace, automotive"},
-    {"name": "Bentley Systems", "notes": "MicroStation and infrastructure engineering software solutions"},
-    {"name": "ANSYS Inc.", "notes": "Engineering simulation and CAD software"},
-    {"name": "PTC", "notes": "CAD/CAM software and product lifecycle management solutions"},
-    {"name": "Siemens", "notes": "PLM and CAD software for product development and manufacturing"},
-    {"name": "Adobe", "notes": "Creative software competing in media and entertainment design space"},
-    {"name": "Trimble", "notes": "Technology for construction, infrastructure, and geospatial mapping"},
-    {"name": "TurboCAD", "notes": "CAD software alternative"},
-    {"name": "IronCAD", "notes": "3D CAD software solution"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "SOLIDWORKS and CATIA - comprehensive 3D CAD for manufacturing, aerospace, automotive"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "MicroStation and infrastructure engineering software solutions"
+    },
+    {
+      "name": "ANSYS Inc.",
+      "notes": "Engineering simulation and CAD software"
+    },
+    {
+      "name": "PTC",
+      "notes": "CAD/CAM software and product lifecycle management solutions"
+    },
+    {
+      "name": "Siemens",
+      "notes": "PLM and CAD software for product development and manufacturing"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Creative software competing in media and entertainment design space"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Technology for construction, infrastructure, and geospatial mapping"
+    },
+    {
+      "name": "TurboCAD",
+      "notes": "CAD software alternative"
+    },
+    {
+      "name": "IronCAD",
+      "notes": "3D CAD software solution"
+    }
   ],
-  "context": "By 2010, Autodesk faced a mature competitive landscape with established players like Dassault Systèmes, Bentley Systems, PTC, and Siemens. This period predates cloud-based CAD solutions like Onshape (founded 2012).",
-  "sources": ["https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives", "https://www.comparably.com/companies/autodesk/competitors"]
+  "context": "Autodesk, Inc. is a design and make software company focused on CAD, 3D design, BIM, and manufacturing software. Cloud and subscription transition beginning. Fusion 360 development.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives",
+    "https://www.comparably.com/companies/autodesk/competitors"
+  ]
 }

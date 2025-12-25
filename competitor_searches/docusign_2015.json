@@ -5,12 +5,29 @@
   "search_query": "DocuSign e-signature competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Adobe EchoSign", "notes": "Adobe's e-signature solution before rebranding to Adobe Sign"},
-    {"name": "SignNow", "notes": "E-signature platform, acquired by Barracuda Networks in 2015"},
-    {"name": "HelloSign", "notes": "Emerging e-signature competitor for SMBs"},
-    {"name": "RightSignature", "notes": "E-signature solution before acquisition by Citrix"},
-    {"name": "SIGNiX", "notes": "Digital signature solutions provider"}
+    {
+      "name": "Adobe EchoSign",
+      "notes": "Adobe's e-signature solution before rebranding to Adobe Sign"
+    },
+    {
+      "name": "SignNow",
+      "notes": "E-signature platform, acquired by Barracuda Networks in 2015"
+    },
+    {
+      "name": "HelloSign",
+      "notes": "Emerging e-signature competitor for SMBs"
+    },
+    {
+      "name": "RightSignature",
+      "notes": "E-signature solution before acquisition by Citrix"
+    },
+    {
+      "name": "SIGNiX",
+      "notes": "Digital signature solutions provider"
+    }
   ],
-  "context": "In 2015, DocuSign was the clear e-signature market leader valued at $3B after funding round. Adobe EchoSign was the main enterprise competitor. The market was growing as digital transformation accelerated e-signature adoption across industries. DocuSign expanded internationally and into real estate transactions. Competition focused on enterprise features, integrations, and mobile capabilities. E-signature was gaining legal acceptance globally.",
-  "sources": ["https://www.g2.com/products/docusign/competitors/alternatives"]
+  "context": "DocuSign, Inc. is a electronic signature and agreement cloud company focused on e-signature, contract lifecycle management, and agreement automation. Agreement Cloud vision beyond e-signature.",
+  "sources": [
+    "https://www.g2.com/products/docusign/competitors/alternatives"
+  ]
 }

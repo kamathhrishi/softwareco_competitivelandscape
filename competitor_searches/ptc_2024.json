@@ -5,15 +5,43 @@
   "search_query": "PTC CAD PLM software competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "Major competitor with CATIA (CAD), SOLIDWORKS (CAD), and ENOVIA (PLM), comprehensive 3DEXPERIENCE platform"},
-    {"name": "Siemens Digital Industries Software", "notes": "Offers NX (CAD), Solid Edge (CAD), and Teamcenter (PLM), strong in industrial automation integration"},
-    {"name": "Autodesk", "notes": "Offers AutoCAD, Inventor, Fusion 360, and Vault (PLM), strong in design and manufacturing"},
-    {"name": "SAP PLM", "notes": "Enterprise PLM solutions integrated with SAP ecosystem"},
-    {"name": "Oracle Agile PLM", "notes": "Enterprise product lifecycle management solution"},
-    {"name": "Aras", "notes": "Open-source PLM platform with flexible architecture"},
-    {"name": "Arena Solutions", "notes": "Cloud PLM platform, now part of PTC"},
-    {"name": "ANSYS", "notes": "Competes in simulation aspect of product development lifecycle"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "Major competitor with CATIA (CAD), SOLIDWORKS (CAD), and ENOVIA (PLM), comprehensive 3DEXPERIENCE platform"
+    },
+    {
+      "name": "Siemens Digital Industries Software",
+      "notes": "Offers NX (CAD), Solid Edge (CAD), and Teamcenter (PLM), strong in industrial automation integration"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Offers AutoCAD, Inventor, Fusion 360, and Vault (PLM), strong in design and manufacturing"
+    },
+    {
+      "name": "SAP PLM",
+      "notes": "Enterprise PLM solutions integrated with SAP ecosystem"
+    },
+    {
+      "name": "Oracle Agile PLM",
+      "notes": "Enterprise product lifecycle management solution"
+    },
+    {
+      "name": "Aras",
+      "notes": "Open-source PLM platform with flexible architecture"
+    },
+    {
+      "name": "Arena Solutions",
+      "notes": "Cloud PLM platform, now part of PTC"
+    },
+    {
+      "name": "ANSYS",
+      "notes": "Competes in simulation aspect of product development lifecycle"
+    }
   ],
-  "context": "In 2024, PTC competes in CAD with Creo against Dassault's CATIA and SOLIDWORKS, and Siemens NX and Solid Edge. In PLM, Windchill competes against Siemens Teamcenter, Dassault's ENOVIA, SAP PLM, and Oracle Agile PLM. PTC has expanded into IoT with ThingWorx and augmented reality with Vuforia, differentiating from traditional CAD/PLM competitors. The market is characterized by consolidation with major players acquiring niche solutions. PTC's acquisition of Arena Solutions strengthened its cloud PLM offering. Key competitors focus on integrated product development platforms spanning design, simulation, and manufacturing.",
-  "sources": ["https://www.gartner.com/reviews/market/product-lifecycle-management/vendor/ptc", "https://www.g2.com/products/ptc-creo/competitors/alternatives", "https://6sense.com/tech/cad/ptc-market-share"]
+  "context": "PTC Inc. is a industrial software company focused on CAD, PLM, IoT, and augmented reality for manufacturing. ServiceMax field service integration. AI and generative design.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/product-lifecycle-management/vendor/ptc",
+    "https://www.g2.com/products/ptc-creo/competitors/alternatives",
+    "https://6sense.com/tech/cad/ptc-market-share"
+  ]
 }

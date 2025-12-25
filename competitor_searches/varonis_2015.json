@@ -5,17 +5,50 @@
   "search_query": "Varonis competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Netwrix Auditor", "notes": "User behavior and risk analysis across platforms"},
-    {"name": "Symantec", "notes": "Comprehensive cybersecurity (sold Veritas August 2015)"},
-    {"name": "SailPoint", "notes": "Identity governance and administration"},
-    {"name": "CyberArk", "notes": "Privileged access management"},
-    {"name": "Microsoft", "notes": "Enterprise security and data management"},
-    {"name": "LogRhythm", "notes": "SIEM platform"},
-    {"name": "Rapid7", "notes": "Vulnerability management and security analytics"},
-    {"name": "IBM", "notes": "Enterprise security solutions"},
-    {"name": "Forcepoint", "notes": "Data security and user behavior analytics"},
-    {"name": "Palo Alto Networks", "notes": "Enterprise cybersecurity platform"}
+    {
+      "name": "Netwrix Auditor",
+      "notes": "User behavior and risk analysis across platforms"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Comprehensive cybersecurity (sold Veritas August 2015)"
+    },
+    {
+      "name": "SailPoint",
+      "notes": "Identity governance and administration"
+    },
+    {
+      "name": "CyberArk",
+      "notes": "Privileged access management"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Enterprise security and data management"
+    },
+    {
+      "name": "LogRhythm",
+      "notes": "SIEM platform"
+    },
+    {
+      "name": "Rapid7",
+      "notes": "Vulnerability management and security analytics"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise security solutions"
+    },
+    {
+      "name": "Forcepoint",
+      "notes": "Data security and user behavior analytics"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Enterprise cybersecurity platform"
+    }
   ],
-  "context": "By 2015, Varonis had established itself with agent-based platform for on-premises data governance. Competitive landscape included traditional cybersecurity vendors and specialized identity/access players. Netwrix emerged as strong direct competitor.",
-  "sources": ["https://www.strac.io/blog/top-10-varonis-competitors-and-alternatives", "https://www.docontrol.io/blog/varonis-alternatives-and-competitors"]
+  "context": "Varonis Systems, Inc. is a data security platform company focused on data protection, insider threat detection, and compliance. IPO. User behavior analytics expansion.",
+  "sources": [
+    "https://www.strac.io/blog/top-10-varonis-competitors-and-alternatives",
+    "https://www.docontrol.io/blog/varonis-alternatives-and-competitors"
+  ]
 }

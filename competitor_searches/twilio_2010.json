@@ -5,10 +5,23 @@
   "search_query": "Twilio communications API competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Vonage (Nexmo)", "notes": "Early cloud communications provider, later acquired Nexmo API platform"},
-    {"name": "Traditional Telecom Carriers", "notes": "AT&T, Verizon and other carriers provided basic telephony services but lacked developer-friendly APIs"},
-    {"name": "Tropo (Cisco)", "notes": "Early cloud communications API platform, later acquired by Cisco"}
+    {
+      "name": "Vonage (Nexmo)",
+      "notes": "Early cloud communications provider, later acquired Nexmo API platform"
+    },
+    {
+      "name": "Traditional Telecom Carriers",
+      "notes": "AT&T, Verizon and other carriers provided basic telephony services but lacked developer-friendly APIs"
+    },
+    {
+      "name": "Tropo (Cisco)",
+      "notes": "Early cloud communications API platform, later acquired by Cisco"
+    }
   ],
-  "context": "In 2010, Twilio was still a very new entrant (founded 2008) in the emerging cloud communications API market. The CPaaS (Communications Platform as a Service) market was nascent. Most competitors were traditional telecom carriers without developer-friendly APIs. Few direct API competitors existed at this time - Twilio was pioneering the developer-first communications API model. The market was dominated by legacy telecommunications infrastructure rather than API-based platforms.",
-  "sources": ["https://getvoip.com/blog/twilio-alternatives/", "https://www.plivo.com/twilio-alternative/", "https://www.g2.com/products/twilio/competitors/alternatives"]
+  "context": "Twilio Inc. is a cloud communications platform company focused on programmable communications, SMS, voice, and customer data. Founded for cloud communications APIs.",
+  "sources": [
+    "https://getvoip.com/blog/twilio-alternatives/",
+    "https://www.plivo.com/twilio-alternative/",
+    "https://www.g2.com/products/twilio/competitors/alternatives"
+  ]
 }

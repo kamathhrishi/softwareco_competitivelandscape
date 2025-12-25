@@ -5,10 +5,21 @@
   "search_query": "Google competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Yahoo!", "notes": "Launched own search engine in 2004 after Inktomi acquisition"},
-    {"name": "Microsoft (MSN Search)", "notes": "Competing in search, email, and applications"},
-    {"name": "Baidu", "notes": "Top competitor in China using RankDex technology"}
+    {
+      "name": "Yahoo!",
+      "notes": "Launched own search engine in 2004 after Inktomi acquisition"
+    },
+    {
+      "name": "Microsoft (MSN Search)",
+      "notes": "Competing in search, email, and applications"
+    },
+    {
+      "name": "Baidu",
+      "notes": "Top competitor in China using RankDex technology"
+    }
   ],
-  "context": "Google valued at $52B. Yahoo launched own search engine in 2004. Microsoft-Google rivalry intensified with Kai-Fu Lee lawsuit.",
-  "sources": ["https://en.wikipedia.org/wiki/History_of_Google"]
+  "context": "Alphabet Inc. (Google) is a technology conglomerate focused on search, advertising, cloud, Android, YouTube, and AI. Acquired YouTube. Google Maps, Gmail, Android development.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/History_of_Google"
+  ]
 }

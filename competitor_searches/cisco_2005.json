@@ -5,16 +5,47 @@
   "search_query": "Cisco networking competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Juniper Networks", "notes": "Biggest rival to Cisco, competed in almost every technology area with widest product overlap"},
-    {"name": "Alcatel-Lucent", "notes": "Major domestic competitor alongside Juniper in network infrastructure"},
-    {"name": "Huawei", "notes": "Overseas competitor offering full networking solutions for enterprise businesses"},
-    {"name": "Palo Alto Networks", "notes": "Started offering cybersecurity products in 2005"},
-    {"name": "Check Point", "notes": "Pioneer in cybersecurity established 1993, first company to introduce stateful inspection firewall"},
-    {"name": "HPE Aruba", "notes": "Offered wireless solutions, AI-based NaaS, SDWAN, cloud and WAN storage/routing"},
-    {"name": "Arista Networks", "notes": "Focused on high-end, high-performance networking devices"},
-    {"name": "Fortinet", "notes": "Leading network security solution provider"},
-    {"name": "Extreme Networks", "notes": "Focused on networking solutions including wired/wireless networks, SD-WAN"}
+    {
+      "name": "Juniper Networks",
+      "notes": "Biggest rival to Cisco, competed in almost every technology area with widest product overlap"
+    },
+    {
+      "name": "Alcatel-Lucent",
+      "notes": "Major domestic competitor alongside Juniper in network infrastructure"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Overseas competitor offering full networking solutions for enterprise businesses"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Started offering cybersecurity products in 2005"
+    },
+    {
+      "name": "Check Point",
+      "notes": "Pioneer in cybersecurity established 1993, first company to introduce stateful inspection firewall"
+    },
+    {
+      "name": "HPE Aruba",
+      "notes": "Offered wireless solutions, AI-based NaaS, SDWAN, cloud and WAN storage/routing"
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Focused on high-end, high-performance networking devices"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Leading network security solution provider"
+    },
+    {
+      "name": "Extreme Networks",
+      "notes": "Focused on networking solutions including wired/wireless networks, SD-WAN"
+    }
   ],
-  "context": "By 2005, Cisco continued to be challenged by both domestic competitors and overseas competitor Huawei. Cisco acquired Airespace for $450 million in January 2005.",
-  "sources": ["https://en.wikipedia.org/wiki/Cisco", "https://www.networkstraining.com/top-cisco-competitors/", "https://businessmodelanalyst.com/cisco-competitors/"]
+  "context": "Cisco Systems, Inc. is a networking and communications technology company focused on network infrastructure, security, and collaboration solutions. Expanding beyond networking into unified communications and video.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cisco",
+    "https://www.networkstraining.com/top-cisco-competitors/",
+    "https://businessmodelanalyst.com/cisco-competitors/"
+  ]
 }

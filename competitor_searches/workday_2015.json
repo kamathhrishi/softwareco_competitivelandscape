@@ -5,15 +5,42 @@
   "search_query": "Workday HCM competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Oracle HCM Cloud", "notes": "Leading cloud HCM solution with strong user experience"},
-    {"name": "SAP SuccessFactors", "notes": "Cloud-native HCM suite for global companies"},
-    {"name": "ADP Vantage HCM", "notes": "Comprehensive HR platform with strong analytics capabilities"},
-    {"name": "Ultimate Software", "notes": "Cloud-based HCM and payroll platform (UKG Pro today)"},
-    {"name": "Ceridian Dayforce", "notes": "Unified HCM platform with payroll, benefits, workforce management"},
-    {"name": "BambooHR", "notes": "HR platform for small to medium businesses"},
-    {"name": "Paylocity", "notes": "Cloud-based payroll and HCM software"},
-    {"name": "Paycom", "notes": "HR and payroll technology provider"}
+    {
+      "name": "Oracle HCM Cloud",
+      "notes": "Leading cloud HCM solution with strong user experience"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Cloud-native HCM suite for global companies"
+    },
+    {
+      "name": "ADP Vantage HCM",
+      "notes": "Comprehensive HR platform with strong analytics capabilities"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud-based HCM and payroll platform (UKG Pro today)"
+    },
+    {
+      "name": "Ceridian Dayforce",
+      "notes": "Unified HCM platform with payroll, benefits, workforce management"
+    },
+    {
+      "name": "BambooHR",
+      "notes": "HR platform for small to medium businesses"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Cloud-based payroll and HCM software"
+    },
+    {
+      "name": "Paycom",
+      "notes": "HR and payroll technology provider"
+    }
   ],
-  "context": "By 2015, Workday had established itself as a major cloud HCM player. The competitive landscape featured mature cloud competitors like Oracle HCM Cloud and SAP SuccessFactors.",
-  "sources": ["https://www.gartner.com/reviews/market/talent-management-suites/vendor/workday-hcm/product/workday-hcm/alternatives", "https://technologyadvice.com/blog/human-resources/workday-competitors/"]
+  "context": "Workday, Inc. is a enterprise cloud applications company focused on HCM, finance, and planning software for enterprises. IPO success. Fortune 500 wins increasing.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/talent-management-suites/vendor/workday-hcm/product/workday-hcm/alternatives",
+    "https://technologyadvice.com/blog/human-resources/workday-competitors/"
+  ]
 }

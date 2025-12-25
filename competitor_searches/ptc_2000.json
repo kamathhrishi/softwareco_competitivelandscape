@@ -5,12 +5,29 @@
   "search_query": "PTC CAD PLM competitors 2000",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "CATIA high-end CAD, SOLIDWORKS mid-market CAD"},
-    {"name": "SDRC", "notes": "I-DEAS CAD software"},
-    {"name": "Unigraphics", "notes": "High-end CAD, later became Siemens NX"},
-    {"name": "Autodesk", "notes": "AutoCAD and mechanical design tools"},
-    {"name": "MatrixOne", "notes": "PLM software, later acquired by Dassault"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "CATIA high-end CAD, SOLIDWORKS mid-market CAD"
+    },
+    {
+      "name": "SDRC",
+      "notes": "I-DEAS CAD software"
+    },
+    {
+      "name": "Unigraphics",
+      "notes": "High-end CAD, later became Siemens NX"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "AutoCAD and mechanical design tools"
+    },
+    {
+      "name": "MatrixOne",
+      "notes": "PLM software, later acquired by Dassault"
+    }
   ],
-  "context": "In 2000, PTC was a leading CAD vendor with Pro/ENGINEER competing against CATIA, Unigraphics, and I-DEAS in high-end 3D CAD. The company was transitioning from CAD to PLM with Windchill product lifecycle management. SOLIDWORKS (acquired by Dassault 1997) was growing in mid-market. The dot-com boom drove technology spending before the 2001 crash. PLM was emerging as distinct market from CAD.",
-  "sources": ["https://craft.co/ptc/competitors"]
+  "context": "PTC Inc. is a industrial software company focused on CAD, PLM, IoT, and augmented reality for manufacturing. Pro/ENGINEER CAD software leader.",
+  "sources": [
+    "https://craft.co/ptc/competitors"
+  ]
 }

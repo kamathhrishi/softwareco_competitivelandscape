@@ -5,20 +5,63 @@
   "search_query": "Adobe competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Figma", "notes": "Dominates UI/UX design industry, far better than Adobe Illustrator for UI/UX. Adobe XD discontinued"},
-    {"name": "Canva", "notes": "Major competitor ranked by Tracxn. Used for Photoshop-style tasks, gaining market share"},
-    {"name": "HubSpot", "notes": "Major competitor in marketing and CRM space"},
-    {"name": "DocuSign", "notes": "Major competitor in document management"},
-    {"name": "Affinity (Serif)", "notes": "Direct competitors: Affinity Photo (vs Photoshop), Affinity Designer (vs Illustrator), Affinity Publisher (vs InDesign). Perpetual license model"},
-    {"name": "Microsoft", "notes": "Major corporate competitor in enterprise software and productivity"},
-    {"name": "Google", "notes": "Major corporate competitor in analytics and cloud services"},
-    {"name": "Salesforce", "notes": "Major corporate competitor in marketing and CRM"},
-    {"name": "Apple", "notes": "Major corporate competitor in creative software and hardware"},
-    {"name": "Oracle", "notes": "Major corporate competitor in enterprise software"},
-    {"name": "GIMP", "notes": "Free and open-source Photoshop alternative"},
-    {"name": "Inkscape", "notes": "Free and open-source vector graphics software, Illustrator alternative"},
-    {"name": "Autodesk", "notes": "Long-standing competitor in design and engineering software"}
+    {
+      "name": "Figma",
+      "notes": "Dominates UI/UX design industry, far better than Adobe Illustrator for UI/UX. Adobe XD discontinued"
+    },
+    {
+      "name": "Canva",
+      "notes": "Major competitor ranked by Tracxn. Used for Photoshop-style tasks, gaining market share"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Major competitor in marketing and CRM space"
+    },
+    {
+      "name": "DocuSign",
+      "notes": "Major competitor in document management"
+    },
+    {
+      "name": "Affinity (Serif)",
+      "notes": "Direct competitors: Affinity Photo (vs Photoshop), Affinity Designer (vs Illustrator), Affinity Publisher (vs InDesign). Perpetual license model"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Major corporate competitor in enterprise software and productivity"
+    },
+    {
+      "name": "Google",
+      "notes": "Major corporate competitor in analytics and cloud services"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Major corporate competitor in marketing and CRM"
+    },
+    {
+      "name": "Apple",
+      "notes": "Major corporate competitor in creative software and hardware"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Major corporate competitor in enterprise software"
+    },
+    {
+      "name": "GIMP",
+      "notes": "Free and open-source Photoshop alternative"
+    },
+    {
+      "name": "Inkscape",
+      "notes": "Free and open-source vector graphics software, Illustrator alternative"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Long-standing competitor in design and engineering software"
+    }
   ],
-  "context": "2024 shows a fragmented competitive landscape with 2,193+ competitors tracked by Tracxn. Adobe faces challenges in specific segments: Figma dominates UI/UX design, Canva disrupts consumer/small business market, and Affinity offers perpetual licenses vs subscriptions.",
-  "sources": ["https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/adobe/alternatives", "https://thebigmarketing.com/adobe-competitors/", "https://tracxn.com/d/companies/adobe/__9Huk6yfRGtipbm0NvhqJcW6DSvL2pyawoDn8ejZAn_4/competitors"]
+  "context": "Adobe Inc. is a creative software and digital experience company focused on creative tools, document management, and digital marketing solutions. Integrated generative AI with Firefly across creative tools. Experience Cloud competing with Salesforce.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/adobe/alternatives",
+    "https://thebigmarketing.com/adobe-competitors/",
+    "https://tracxn.com/d/companies/adobe/__9Huk6yfRGtipbm0NvhqJcW6DSvL2pyawoDn8ejZAn_4/competitors"
+  ]
 }

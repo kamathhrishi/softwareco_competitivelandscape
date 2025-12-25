@@ -5,15 +5,42 @@
   "search_query": "Zscaler zero trust competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Prisma Access SASE solution with AI/ML-enhanced threat detection"},
-    {"name": "Netskope", "notes": "Main cloud security rival with superior CASB capabilities"},
-    {"name": "Cisco", "notes": "Umbrella for SWG and DNS security, Duo for MFA"},
-    {"name": "Fortinet", "notes": "FortiSASE with FortiGate firewalls, excels in hybrid infrastructure"},
-    {"name": "Cloudflare", "notes": "Global network for secure, private, fast Internet applications"},
-    {"name": "Cato Networks", "notes": "Cato SASE Cloud - converged cloud-native service"},
-    {"name": "Check Point", "notes": "Harmony SASE with ZTNA, web protection, DLP, and sandboxing"},
-    {"name": "Okta", "notes": "Best alternative for identity and access management"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Prisma Access SASE solution with AI/ML-enhanced threat detection"
+    },
+    {
+      "name": "Netskope",
+      "notes": "Main cloud security rival with superior CASB capabilities"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Umbrella for SWG and DNS security, Duo for MFA"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "FortiSASE with FortiGate firewalls, excels in hybrid infrastructure"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Global network for secure, private, fast Internet applications"
+    },
+    {
+      "name": "Cato Networks",
+      "notes": "Cato SASE Cloud - converged cloud-native service"
+    },
+    {
+      "name": "Check Point",
+      "notes": "Harmony SASE with ZTNA, web protection, DLP, and sandboxing"
+    },
+    {
+      "name": "Okta",
+      "notes": "Best alternative for identity and access management"
+    }
   ],
-  "context": "In 2024, the SASE and zero trust market is highly competitive and mature. Zscaler competes as a pure-play cloud-native security platform against diverse competitors.",
-  "sources": ["https://www.sangfor.com/blog/cloud-and-infrastructure/best-zscaler-alternatives", "https://businessmodelanalyst.com/zscaler-competitors/"]
+  "context": "Zscaler, Inc. is a cloud security company focused on Zero Trust security, secure web gateway, and CASB. Zero Trust Exchange platform. AI security.",
+  "sources": [
+    "https://www.sangfor.com/blog/cloud-and-infrastructure/best-zscaler-alternatives",
+    "https://businessmodelanalyst.com/zscaler-competitors/"
+  ]
 }

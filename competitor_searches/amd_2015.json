@@ -5,9 +5,19 @@
   "search_query": "AMD CPU GPU competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Intel", "notes": "Dominant CPU competitor (Goliath to AMD's David). Released Skylake architecture. Intel i5 considered much stronger than AMD FX-8350 for gaming"},
-    {"name": "NVIDIA", "notes": "Primary GPU competitor. Released 4 new GPUs in 2015. Key products: GTX 750 Ti, GTX 950, GTX 960, GTX 970, GTX 980, GTX 980 Ti (great success, ultra high-end performance at accessible price)"}
+    {
+      "name": "Intel",
+      "notes": "Dominant CPU competitor (Goliath to AMD's David). Released Skylake architecture. Intel i5 considered much stronger than AMD FX-8350 for gaming"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Primary GPU competitor. Released 4 new GPUs in 2015. Key products: GTX 750 Ti, GTX 950, GTX 960, GTX 970, GTX 980, GTX 980 Ti (great success, ultra high-end performance at accessible price)"
+    }
   ],
-  "context": "In 2015, AMD was the David to Intel's Goliath, a challenger seeking to disrupt Intel's CPU dominance. AMD's FX series known for raw computing power and overclocking. A-Series APUs combined CPU and GPU capabilities. In GPU market, NVIDIA released 4 new GPUs while AMD delivered 8 cards (only 3 truly new: R9 Fury X, Fury, Nano). AMD pioneered High Bandwidth Memory (HBM) with Fiji architecture.",
-  "sources": ["https://www.tomshardware.com/reviews/best-cpus,3986.html", "https://wccftech.com/top-intel-nvidia-and-amd-hardware-launches-of-2015/", "https://www.techspot.com/review/1075-best-graphics-cards-2015/"]
+  "context": "Advanced Micro Devices, Inc. is a semiconductor company designing CPUs, GPUs, and data center chips focused on processors for PCs, gaming, data centers, and embedded systems. Near-bankruptcy before Zen architecture development. Stock under $2. Leadership transition.",
+  "sources": [
+    "https://www.tomshardware.com/reviews/best-cpus,3986.html",
+    "https://wccftech.com/top-intel-nvidia-and-amd-hardware-launches-of-2015/",
+    "https://www.techspot.com/review/1075-best-graphics-cards-2015/"
+  ]
 }

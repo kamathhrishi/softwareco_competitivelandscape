@@ -4,16 +4,42 @@
   "year": 2018,
   "search_query": "Spotify competitors 2018",
   "search_date": "2024-12-24",
-  "context": "Spotify went public via direct listing in April 2018. The company had 170M monthly active users and was the global leader in music streaming, investing in podcasts.",
+  "context": "Spotify Technology S.A. is a audio streaming platform focused on music streaming, podcasts, and audiobooks. Direct listing IPO. Podcast acquisitions.",
   "competitors": [
-    {"name": "Apple Music", "notes": "Apple's streaming service with 50M+ subscribers"},
-    {"name": "Amazon Music", "notes": "Streaming bundled with Prime and Echo devices"},
-    {"name": "YouTube Music", "notes": "Google's music streaming replacing Google Play Music"},
-    {"name": "Pandora", "notes": "Internet radio service transitioning to on-demand"},
-    {"name": "Tidal", "notes": "Artist-owned high-fidelity streaming service"},
-    {"name": "Deezer", "notes": "European music streaming service"},
-    {"name": "SoundCloud", "notes": "Platform for independent artists and DJs"},
-    {"name": "iHeartRadio", "notes": "Radio streaming and podcasts"}
+    {
+      "name": "Apple Music",
+      "notes": "Apple's streaming service with 50M+ subscribers"
+    },
+    {
+      "name": "Amazon Music",
+      "notes": "Streaming bundled with Prime and Echo devices"
+    },
+    {
+      "name": "YouTube Music",
+      "notes": "Google's music streaming replacing Google Play Music"
+    },
+    {
+      "name": "Pandora",
+      "notes": "Internet radio service transitioning to on-demand"
+    },
+    {
+      "name": "Tidal",
+      "notes": "Artist-owned high-fidelity streaming service"
+    },
+    {
+      "name": "Deezer",
+      "notes": "European music streaming service"
+    },
+    {
+      "name": "SoundCloud",
+      "notes": "Platform for independent artists and DJs"
+    },
+    {
+      "name": "iHeartRadio",
+      "notes": "Radio streaming and podcasts"
+    }
   ],
-  "sources": ["Music streaming industry analysis"]
+  "sources": [
+    "Music streaming industry analysis"
+  ]
 }

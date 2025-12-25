@@ -5,17 +5,51 @@
   "search_query": "Intuit TurboTax QuickBooks competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Oracle NetSuite", "notes": "Comprehensive cloud ERP and accounting platform, strong in mid-market"},
-    {"name": "Xero", "notes": "Major cloud accounting competitor with global presence, strong SMB focus"},
-    {"name": "FreshBooks", "notes": "User-friendly cloud accounting with focus on ease of use, scalable pricing"},
-    {"name": "Wave Financial", "notes": "Free accounting software model, H&R Block owned"},
-    {"name": "Sage Intacct", "notes": "Cloud accounting platform for SMBs and mid-market"},
-    {"name": "H&R Block", "notes": "Tax preparation competitor, owned Wave Financial, hybrid online/retail model"},
-    {"name": "1040.com", "notes": "Professional tax preparation software with secure cloud access"},
-    {"name": "ProConnect Tax", "notes": "Professional tax software integrating with QuickBooks Online Accountant"},
-    {"name": "Anrok", "notes": "QuickBooks competitor"},
-    {"name": "Bench", "notes": "Bookkeeping and tax filing services for small businesses"}
+    {
+      "name": "Oracle NetSuite",
+      "notes": "Comprehensive cloud ERP and accounting platform, strong in mid-market"
+    },
+    {
+      "name": "Xero",
+      "notes": "Major cloud accounting competitor with global presence, strong SMB focus"
+    },
+    {
+      "name": "FreshBooks",
+      "notes": "User-friendly cloud accounting with focus on ease of use, scalable pricing"
+    },
+    {
+      "name": "Wave Financial",
+      "notes": "Free accounting software model, H&R Block owned"
+    },
+    {
+      "name": "Sage Intacct",
+      "notes": "Cloud accounting platform for SMBs and mid-market"
+    },
+    {
+      "name": "H&R Block",
+      "notes": "Tax preparation competitor, owned Wave Financial, hybrid online/retail model"
+    },
+    {
+      "name": "1040.com",
+      "notes": "Professional tax preparation software with secure cloud access"
+    },
+    {
+      "name": "ProConnect Tax",
+      "notes": "Professional tax software integrating with QuickBooks Online Accountant"
+    },
+    {
+      "name": "Anrok",
+      "notes": "QuickBooks competitor"
+    },
+    {
+      "name": "Bench",
+      "notes": "Bookkeeping and tax filing services for small businesses"
+    }
   ],
-  "context": "In 2024, Intuit launched AI-powered Intuit Assist for QuickBooks. TurboTax remains #1 best-selling tax software. Intuit's portfolio includes TurboTax, QuickBooks, Credit Karma, and Mailchimp.",
-  "sources": ["https://thebrandhopper.com/2024/07/07/exploring-intuit-top-competitors-alternatives/", "https://pitchgrade.com/companies/intuit", "https://www.cbinsights.com/company/intuit-quickbooks/alternatives-competitors"]
+  "context": "Intuit Inc. is a financial software company focused on TurboTax, QuickBooks, Credit Karma, and Mailchimp. Intuit Assist AI across products. Platform integration.",
+  "sources": [
+    "https://thebrandhopper.com/2024/07/07/exploring-intuit-top-competitors-alternatives/",
+    "https://pitchgrade.com/companies/intuit",
+    "https://www.cbinsights.com/company/intuit-quickbooks/alternatives-competitors"
+  ]
 }

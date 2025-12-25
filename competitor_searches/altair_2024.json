@@ -5,16 +5,46 @@
   "search_query": "Altair competitors 2024 engineering simulation software",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Ansys", "notes": "Primary competitor, being acquired by Synopsys"},
-    {"name": "Dassault Systemes", "notes": "SIMULIA simulation suite"},
-    {"name": "Siemens", "notes": "Acquired Altair in 2024 for AI-powered simulation portfolio"},
-    {"name": "MSC Software (Hexagon)", "notes": "MSC Nastran, Adams - Hexagon D&E acquired by Cadence 2025"},
-    {"name": "Autodesk", "notes": "Fusion 360 with cloud-based CAD/CAM/CAE"},
-    {"name": "COMSOL", "notes": "Multiphysics for complex coupled phenomena"},
-    {"name": "MathWorks", "notes": "MATLAB and Simulink"},
-    {"name": "SOLIDWORKS", "notes": "Accessible FEA for broad engineering base"},
-    {"name": "Cadence", "notes": "Acquired BETA CAE ($1.24B) and Hexagon D&E (€2.7B)"}
+    {
+      "name": "Ansys",
+      "notes": "Primary competitor, being acquired by Synopsys"
+    },
+    {
+      "name": "Dassault Systemes",
+      "notes": "SIMULIA simulation suite"
+    },
+    {
+      "name": "Siemens",
+      "notes": "Acquired Altair in 2024 for AI-powered simulation portfolio"
+    },
+    {
+      "name": "MSC Software (Hexagon)",
+      "notes": "MSC Nastran, Adams - Hexagon D&E acquired by Cadence 2025"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Fusion 360 with cloud-based CAD/CAM/CAE"
+    },
+    {
+      "name": "COMSOL",
+      "notes": "Multiphysics for complex coupled phenomena"
+    },
+    {
+      "name": "MathWorks",
+      "notes": "MATLAB and Simulink"
+    },
+    {
+      "name": "SOLIDWORKS",
+      "notes": "Accessible FEA for broad engineering base"
+    },
+    {
+      "name": "Cadence",
+      "notes": "Acquired BETA CAE ($1.24B) and Hexagon D&E (€2.7B)"
+    }
   ],
-  "context": "2024 marked massive industry consolidation: Siemens acquired Altair, Synopsys acquired Ansys, Cadence bought BETA CAE and Hexagon D&E. Market shifted to AI integration, cloud-based simulation, and unified platforms. Altair released HyperWorks 2024 with enhanced AI tools.",
-  "sources": ["https://craft.co/altair-engineering/competitors", "https://www.engineering.com/simulation-software-updates-from-ansys-altair-siemens-and-more/"]
+  "context": "Altair Engineering Inc. is a computational science and AI company focused on simulation, data analytics, and high-performance computing solutions. AI-driven simulation and digital twin solutions. Competing with Ansys and Siemens in PLM.",
+  "sources": [
+    "https://craft.co/altair-engineering/competitors",
+    "https://www.engineering.com/simulation-software-updates-from-ansys-altair-siemens-and-more/"
+  ]
 }

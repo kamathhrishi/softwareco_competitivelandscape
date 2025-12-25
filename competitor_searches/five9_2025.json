@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Five9 competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Five9 is a leading cloud contact center software provider with AI-powered customer experience solutions. The company serves enterprise customers with omnichannel capabilities including voice, chat, email, and social.",
+  "context": "Five9, Inc. is a cloud contact center software company focused on omnichannel contact center, workforce optimization, and AI. Leading CCaaS platform. Competing with Genesys, NICE, Talkdesk.",
   "competitors": [
-    {"name": "Genesys Cloud", "notes": "Major cloud contact center platform with AI and workforce engagement"},
-    {"name": "NICE CXone", "notes": "Enterprise cloud contact center with comprehensive CX capabilities"},
-    {"name": "Talkdesk", "notes": "Cloud contact center platform focused on AI-powered customer experience"},
-    {"name": "Amazon Connect", "notes": "AWS cloud contact center service with pay-as-you-go pricing"},
-    {"name": "Twilio Flex", "notes": "Programmable cloud contact center built on Twilio's communications platform"},
-    {"name": "RingCentral Contact Center", "notes": "Integrated UCaaS and contact center solution"},
-    {"name": "Vonage Contact Center", "notes": "Cloud contact center integrated with CRM platforms"},
-    {"name": "8x8 Contact Center", "notes": "Integrated voice, video, and contact center communications"}
+    {
+      "name": "Genesys Cloud",
+      "notes": "Major cloud contact center platform with AI and workforce engagement"
+    },
+    {
+      "name": "NICE CXone",
+      "notes": "Enterprise cloud contact center with comprehensive CX capabilities"
+    },
+    {
+      "name": "Talkdesk",
+      "notes": "Cloud contact center platform focused on AI-powered customer experience"
+    },
+    {
+      "name": "Amazon Connect",
+      "notes": "AWS cloud contact center service with pay-as-you-go pricing"
+    },
+    {
+      "name": "Twilio Flex",
+      "notes": "Programmable cloud contact center built on Twilio's communications platform"
+    },
+    {
+      "name": "RingCentral Contact Center",
+      "notes": "Integrated UCaaS and contact center solution"
+    },
+    {
+      "name": "Vonage Contact Center",
+      "notes": "Cloud contact center integrated with CRM platforms"
+    },
+    {
+      "name": "8x8 Contact Center",
+      "notes": "Integrated voice, video, and contact center communications"
+    }
   ],
-  "sources": ["Gartner CCaaS Magic Quadrant", "Forrester Wave"]
+  "sources": [
+    "Gartner CCaaS Magic Quadrant",
+    "Forrester Wave"
+  ]
 }

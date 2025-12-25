@@ -5,18 +5,54 @@
   "search_query": "Rapid7 competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Qualys", "notes": "Cloud-based security with comprehensive VM suite"},
-    {"name": "Tenable", "notes": "VM specialist competing directly with InsightVM"},
-    {"name": "CrowdStrike", "notes": "Leader in endpoint security with advanced threat detection"},
-    {"name": "SentinelOne", "notes": "Real-time autonomous threat detection across endpoints and cloud"},
-    {"name": "Palo Alto Networks", "notes": "Major cybersecurity player with cloud and threat intelligence"},
-    {"name": "Splunk", "notes": "Data analytics and security with threat detection tools"},
-    {"name": "Mandiant", "notes": "Threat intelligence and incident response specialist"},
-    {"name": "Sumo Logic", "notes": "Cloud-native SIEM and security analytics"},
-    {"name": "LogRhythm", "notes": "SIEM and security analytics competitor"},
-    {"name": "Cybereason", "notes": "Endpoint detection and response platform"},
-    {"name": "Orca Security", "notes": "Cloud security platform"}
+    {
+      "name": "Qualys",
+      "notes": "Cloud-based security with comprehensive VM suite"
+    },
+    {
+      "name": "Tenable",
+      "notes": "VM specialist competing directly with InsightVM"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Leader in endpoint security with advanced threat detection"
+    },
+    {
+      "name": "SentinelOne",
+      "notes": "Real-time autonomous threat detection across endpoints and cloud"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Major cybersecurity player with cloud and threat intelligence"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Data analytics and security with threat detection tools"
+    },
+    {
+      "name": "Mandiant",
+      "notes": "Threat intelligence and incident response specialist"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Cloud-native SIEM and security analytics"
+    },
+    {
+      "name": "LogRhythm",
+      "notes": "SIEM and security analytics competitor"
+    },
+    {
+      "name": "Cybereason",
+      "notes": "Endpoint detection and response platform"
+    },
+    {
+      "name": "Orca Security",
+      "notes": "Cloud security platform"
+    }
   ],
-  "context": "In 2024, Rapid7 was recognized as Challenger in Gartner Magic Quadrant for SIEM for InsightIDR. Competitive landscape highly fragmented with cloud-native solutions (CrowdStrike, SentinelOne) competing for endpoint/cloud security, while SIEM vendors (Splunk, Sumo Logic, LogRhythm) challenge analytics offerings.",
-  "sources": ["https://www.secopsolution.com/blog/rapid7-alternatives", "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/rapid7/alternatives"]
+  "context": "Rapid7, Inc. is a security analytics and automation company focused on vulnerability management, SIEM, and detection and response. AI-powered threat detection. Command Platform.",
+  "sources": [
+    "https://www.secopsolution.com/blog/rapid7-alternatives",
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/rapid7/alternatives"
+  ]
 }

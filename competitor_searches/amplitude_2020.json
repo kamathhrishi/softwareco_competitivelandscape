@@ -5,19 +5,59 @@
   "search_query": "Amplitude analytics competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Mixpanel", "notes": "Founded 2009, most direct competitor with similar product analytics focus, priced around $12,000/year for entry plan"},
-    {"name": "Heap Analytics", "notes": "Automatic user interaction capture on web and mobile apps with retroactive event tracking"},
-    {"name": "Google Analytics", "notes": "Comprehensive free analytics tool for website and app performance"},
-    {"name": "Adobe Analytics", "notes": "Enterprise solution with advanced segmentation, real-time data, and predictive analytics"},
-    {"name": "PostHog", "notes": "Founded 2020, open-source platform combining product analytics, session replay, feature flags, A/B testing"},
-    {"name": "Hotjar", "notes": "Session replay and behavior analytics platform"},
-    {"name": "Kissmetrics", "notes": "Customer engagement and analytics platform"},
-    {"name": "Looker", "notes": "Business intelligence and analytics platform"},
-    {"name": "Microsoft Power BI", "notes": "Business analytics and visualization platform"},
-    {"name": "Tableau", "notes": "Data visualization and business intelligence platform"},
-    {"name": "Smartlook", "notes": "Session replay and mobile analytics"},
-    {"name": "Fullstory", "notes": "Behavioral data and session replay platform"}
+    {
+      "name": "Mixpanel",
+      "notes": "Founded 2009, most direct competitor with similar product analytics focus, priced around $12,000/year for entry plan"
+    },
+    {
+      "name": "Heap Analytics",
+      "notes": "Automatic user interaction capture on web and mobile apps with retroactive event tracking"
+    },
+    {
+      "name": "Google Analytics",
+      "notes": "Comprehensive free analytics tool for website and app performance"
+    },
+    {
+      "name": "Adobe Analytics",
+      "notes": "Enterprise solution with advanced segmentation, real-time data, and predictive analytics"
+    },
+    {
+      "name": "PostHog",
+      "notes": "Founded 2020, open-source platform combining product analytics, session replay, feature flags, A/B testing"
+    },
+    {
+      "name": "Hotjar",
+      "notes": "Session replay and behavior analytics platform"
+    },
+    {
+      "name": "Kissmetrics",
+      "notes": "Customer engagement and analytics platform"
+    },
+    {
+      "name": "Looker",
+      "notes": "Business intelligence and analytics platform"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "notes": "Business analytics and visualization platform"
+    },
+    {
+      "name": "Tableau",
+      "notes": "Data visualization and business intelligence platform"
+    },
+    {
+      "name": "Smartlook",
+      "notes": "Session replay and mobile analytics"
+    },
+    {
+      "name": "Fullstory",
+      "notes": "Behavioral data and session replay platform"
+    }
   ],
-  "context": "By 2020, Amplitude had matured into one of the largest players in the digital analytics space with more than 2,400 customers after emerging from stealth mode in 2014. The competitive landscape had expanded significantly with both specialized product analytics tools and broader business intelligence platforms. Amplitude's pricing for the most affordable plan was around $12,000 per year in 2020. PostHog entered the market in 2020 as an open-source alternative.",
-  "sources": ["https://www.metacto.com/blogs/top-10-amplitude-analytics-competitors-alternatives-for-mobile-app-analytics", "https://userpilot.com/blog/amplitude-alternatives/", "https://www.cbinsights.com/company/amplitude/alternatives-competitors"]
+  "context": "Amplitude, Inc. is a digital analytics platform company focused on product analytics, experimentation, and customer data platform. Product analytics demand grew as companies focused on digital customer experience.",
+  "sources": [
+    "https://www.metacto.com/blogs/top-10-amplitude-analytics-competitors-alternatives-for-mobile-app-analytics",
+    "https://userpilot.com/blog/amplitude-alternatives/",
+    "https://www.cbinsights.com/company/amplitude/alternatives-competitors"
+  ]
 }

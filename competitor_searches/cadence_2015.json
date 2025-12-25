@@ -5,12 +5,30 @@
   "search_query": "Cadence Design Systems EDA competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Synopsys", "notes": "Leading provider of EDA tools and semiconductor IP with broad range of solutions"},
-    {"name": "Mentor Graphics", "notes": "Still independent at this time, acquired by Siemens in 2016"},
-    {"name": "Ansys", "notes": "Specializes in engineering simulation software for semiconductor design"},
-    {"name": "Keysight Technologies", "notes": "Provides design and test solutions for RF, microwave, high-speed digital"},
-    {"name": "Zuken", "notes": "Specializes in PCB and cable harness design software"}
+    {
+      "name": "Synopsys",
+      "notes": "Leading provider of EDA tools and semiconductor IP with broad range of solutions"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Still independent at this time, acquired by Siemens in 2016"
+    },
+    {
+      "name": "Ansys",
+      "notes": "Specializes in engineering simulation software for semiconductor design"
+    },
+    {
+      "name": "Keysight Technologies",
+      "notes": "Provides design and test solutions for RF, microwave, high-speed digital"
+    },
+    {
+      "name": "Zuken",
+      "notes": "Specializes in PCB and cable harness design software"
+    }
   ],
-  "context": "In 2015, the EDA market was dominated by Synopsys, Cadence, and Mentor Graphics. Cadence announced the Palladium Z1 hardware emulation platform for verifying billion-gate designs.",
-  "sources": ["https://en.wikipedia.org/wiki/Cadence_Design_Systems", "https://pitchgrade.com/companies/cadence-design-systems"]
+  "context": "Cadence Design Systems, Inc. is a electronic design automation (EDA) software company focused on chip design, verification, and system analysis software. IP licensing growing. Cloud EDA beginning.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cadence_Design_Systems",
+    "https://pitchgrade.com/companies/cadence-design-systems"
+  ]
 }

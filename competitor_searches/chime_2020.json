@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Chime competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Chime surged during COVID-19 as stimulus checks drove adoption. The company reached 8 million accounts and became the most valuable US neobank at $14.5B valuation.",
+  "context": "Chime Financial, Inc. is a digital banking platform focused on mobile-first banking, early paycheck access, and fee-free accounts. Rapid growth during pandemic. Fee-free banking appeal.",
   "competitors": [
-    {"name": "Varo Money", "notes": "Mobile banking seeking bank charter"},
-    {"name": "Current", "notes": "Teen and young adult mobile banking"},
-    {"name": "Dave", "notes": "Overdraft protection fintech"},
-    {"name": "Cash App", "notes": "Square's growing banking features"},
-    {"name": "Venmo", "notes": "PayPal P2P adding debit cards"},
-    {"name": "Ally Bank", "notes": "Online-only bank with no fees"},
-    {"name": "Simple", "notes": "Digital banking acquired by BBVA"},
-    {"name": "Aspiration", "notes": "Socially conscious digital banking"}
+    {
+      "name": "Varo Money",
+      "notes": "Mobile banking seeking bank charter"
+    },
+    {
+      "name": "Current",
+      "notes": "Teen and young adult mobile banking"
+    },
+    {
+      "name": "Dave",
+      "notes": "Overdraft protection fintech"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Square's growing banking features"
+    },
+    {
+      "name": "Venmo",
+      "notes": "PayPal P2P adding debit cards"
+    },
+    {
+      "name": "Ally Bank",
+      "notes": "Online-only bank with no fees"
+    },
+    {
+      "name": "Simple",
+      "notes": "Digital banking acquired by BBVA"
+    },
+    {
+      "name": "Aspiration",
+      "notes": "Socially conscious digital banking"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

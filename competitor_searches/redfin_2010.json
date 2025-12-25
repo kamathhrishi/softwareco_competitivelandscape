@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Redfin competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Redfin was tech-enabled brokerage offering lower commissions and better online tools. Company acquired Lovely in October 2010. Zillow went public in 2011. Traditional brokerages were primary competition.",
+  "context": "Redfin Corporation is a technology-powered real estate brokerage focused on real estate brokerage, iBuying, and mortgage services. Tech-enabled brokerage with lower commissions.",
   "competitors": [
-    {"name": "Zillow", "notes": "Real estate portal with Zestimate valuations, went public 2011"},
-    {"name": "Trulia", "notes": "Real estate listings portal, main Zillow rival"},
-    {"name": "Realtor.com", "notes": "NAR-owned official MLS listings"},
-    {"name": "Coldwell Banker", "notes": "Traditional large real estate brokerage"},
-    {"name": "RE/MAX", "notes": "Major real estate franchise network"},
-    {"name": "Keller Williams", "notes": "Growing real estate franchise"},
-    {"name": "ZipRealty", "notes": "Online brokerage competitor, later acquired by Realogy"}
+    {
+      "name": "Zillow",
+      "notes": "Real estate portal with Zestimate valuations, went public 2011"
+    },
+    {
+      "name": "Trulia",
+      "notes": "Real estate listings portal, main Zillow rival"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "NAR-owned official MLS listings"
+    },
+    {
+      "name": "Coldwell Banker",
+      "notes": "Traditional large real estate brokerage"
+    },
+    {
+      "name": "RE/MAX",
+      "notes": "Major real estate franchise network"
+    },
+    {
+      "name": "Keller Williams",
+      "notes": "Growing real estate franchise"
+    },
+    {
+      "name": "ZipRealty",
+      "notes": "Online brokerage competitor, later acquired by Realogy"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

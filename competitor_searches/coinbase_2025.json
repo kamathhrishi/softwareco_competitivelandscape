@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Coinbase competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Coinbase thrives in 2025's crypto bull market with Bitcoin reaching new highs. The Base L2 ecosystem has grown significantly, and the company benefits from Bitcoin ETF-driven institutional adoption while expanding derivatives and international markets.",
+  "context": "Coinbase Global, Inc. is a cryptocurrency exchange and platform focused on crypto trading, custody, staking, and blockchain infrastructure. Crypto infrastructure leader. International expansion and derivatives.",
   "competitors": [
-    {"name": "Binance", "notes": "Largest global exchange by volume, rebuilding after regulatory settlements"},
-    {"name": "Kraken", "notes": "Major US competitor with derivatives and institutional services"},
-    {"name": "Robinhood", "notes": "Retail platform with significant crypto trading volume"},
-    {"name": "OKX", "notes": "Global exchange with strong derivatives and DeFi integration"},
-    {"name": "Crypto.com", "notes": "Global exchange with cards, DeFi, and sports sponsorships"},
-    {"name": "BlackRock/Fidelity ETFs", "notes": "Traditional finance capturing crypto exposure through ETFs"},
-    {"name": "Bitwise", "notes": "Crypto asset manager with ETF products"},
-    {"name": "Anchorage Digital", "notes": "Institutional crypto bank and custody competitor"}
+    {
+      "name": "Binance",
+      "notes": "Largest global exchange by volume, rebuilding after regulatory settlements"
+    },
+    {
+      "name": "Kraken",
+      "notes": "Major US competitor with derivatives and institutional services"
+    },
+    {
+      "name": "Robinhood",
+      "notes": "Retail platform with significant crypto trading volume"
+    },
+    {
+      "name": "OKX",
+      "notes": "Global exchange with strong derivatives and DeFi integration"
+    },
+    {
+      "name": "Crypto.com",
+      "notes": "Global exchange with cards, DeFi, and sports sponsorships"
+    },
+    {
+      "name": "BlackRock/Fidelity ETFs",
+      "notes": "Traditional finance capturing crypto exposure through ETFs"
+    },
+    {
+      "name": "Bitwise",
+      "notes": "Crypto asset manager with ETF products"
+    },
+    {
+      "name": "Anchorage Digital",
+      "notes": "Institutional crypto bank and custody competitor"
+    }
   ],
-  "sources": ["Cryptocurrency industry analysis"]
+  "sources": [
+    "Cryptocurrency industry analysis"
+  ]
 }

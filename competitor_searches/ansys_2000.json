@@ -5,12 +5,29 @@
   "search_query": "ANSYS simulation software competitors 2000",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "MSC Software", "notes": "Nastran structural analysis and Adams dynamics"},
-    {"name": "ABAQUS", "notes": "Nonlinear finite element analysis, independent before Dassault acquisition"},
-    {"name": "Fluent", "notes": "CFD software, later acquired by ANSYS in 2006"},
-    {"name": "Algor", "notes": "FEA software for mechanical engineers"},
-    {"name": "SDRC", "notes": "I-DEAS simulation, later merged with EDS"}
+    {
+      "name": "MSC Software",
+      "notes": "Nastran structural analysis and Adams dynamics"
+    },
+    {
+      "name": "ABAQUS",
+      "notes": "Nonlinear finite element analysis, independent before Dassault acquisition"
+    },
+    {
+      "name": "Fluent",
+      "notes": "CFD software, later acquired by ANSYS in 2006"
+    },
+    {
+      "name": "Algor",
+      "notes": "FEA software for mechanical engineers"
+    },
+    {
+      "name": "SDRC",
+      "notes": "I-DEAS simulation, later merged with EDS"
+    }
   ],
-  "context": "In 2000, ANSYS was an established structural analysis software company that had gone public in 1996. The simulation market was fragmented with specialized vendors in structural (ANSYS, MSC, ABAQUS), CFD (Fluent, CFX), and other domains. ANSYS competed primarily in structural analysis against MSC Nastran. The dot-com boom was driving engineering software demand. Major consolidation would come later with ANSYS acquiring CFX (2003) and Fluent (2006).",
-  "sources": ["https://www.ansys.com/company/history"]
+  "context": "ANSYS, Inc. is a engineering simulation software company focused on finite element analysis, CFD, electromagnetics, and multiphysics simulation. Leader in structural analysis software. Acquired multiple simulation companies.",
+  "sources": [
+    "https://www.ansys.com/company/history"
+  ]
 }

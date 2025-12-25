@@ -5,13 +5,33 @@
   "search_query": "HubSpot marketing automation competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Marketo", "notes": "Founded 2006, major B2B marketing automation platform; acquired by Adobe in 2018"},
-    {"name": "Eloqua", "notes": "Founded 1999, early leader in B2B marketing automation; acquired by Oracle in 2012"},
-    {"name": "Pardot", "notes": "Founded 2007, B2B marketing automation; acquired by Salesforce in 2013"},
-    {"name": "Constant Contact", "notes": "Founded 1995, primarily email marketing with growing automation"},
-    {"name": "MailChimp", "notes": "Founded 2001, popular email marketing platform beginning to add automation"},
-    {"name": "Infusionsoft", "notes": "Founded 2001, small business marketing automation and CRM"}
+    {
+      "name": "Marketo",
+      "notes": "Founded 2006, major B2B marketing automation platform; acquired by Adobe in 2018"
+    },
+    {
+      "name": "Eloqua",
+      "notes": "Founded 1999, early leader in B2B marketing automation; acquired by Oracle in 2012"
+    },
+    {
+      "name": "Pardot",
+      "notes": "Founded 2007, B2B marketing automation; acquired by Salesforce in 2013"
+    },
+    {
+      "name": "Constant Contact",
+      "notes": "Founded 1995, primarily email marketing with growing automation"
+    },
+    {
+      "name": "MailChimp",
+      "notes": "Founded 2001, popular email marketing platform beginning to add automation"
+    },
+    {
+      "name": "Infusionsoft",
+      "notes": "Founded 2001, small business marketing automation and CRM"
+    }
   ],
-  "context": "By 2010, the marketing automation industry was beginning to take shape. HubSpot had established itself as a pioneer of inbound marketing methodology.",
-  "sources": ["https://www.emailtooltester.com/en/blog/hubspot-alternatives/"]
+  "context": "HubSpot, Inc. is a CRM and inbound marketing platform focused on marketing, sales, customer service, and CMS software. Inbound marketing pioneer. All-in-one marketing platform.",
+  "sources": [
+    "https://www.emailtooltester.com/en/blog/hubspot-alternatives/"
+  ]
 }

@@ -5,13 +5,34 @@
   "search_query": "Okta identity management competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Microsoft Azure AD", "notes": "Primary competitor leveraging Microsoft ecosystem integration"},
-    {"name": "Ping Identity", "notes": "Enterprise identity management with on-premises strength"},
-    {"name": "OneLogin", "notes": "Cloud-based IAM for enterprises and SMBs"},
-    {"name": "Auth0", "notes": "Developer-focused identity platform, Okta announced acquisition in 2021"},
-    {"name": "IBM Security Access Manager", "notes": "Enterprise identity and access management"},
-    {"name": "ForgeRock", "notes": "Open-source identity platform for enterprises"}
+    {
+      "name": "Microsoft Azure AD",
+      "notes": "Primary competitor leveraging Microsoft ecosystem integration"
+    },
+    {
+      "name": "Ping Identity",
+      "notes": "Enterprise identity management with on-premises strength"
+    },
+    {
+      "name": "OneLogin",
+      "notes": "Cloud-based IAM for enterprises and SMBs"
+    },
+    {
+      "name": "Auth0",
+      "notes": "Developer-focused identity platform, Okta announced acquisition in 2021"
+    },
+    {
+      "name": "IBM Security Access Manager",
+      "notes": "Enterprise identity and access management"
+    },
+    {
+      "name": "ForgeRock",
+      "notes": "Open-source identity platform for enterprises"
+    }
   ],
-  "context": "In 2020, Okta continued its leadership in cloud-based identity management. Microsoft Azure AD was the primary competitor due to Microsoft 365 integration. The year saw increased demand for identity solutions as remote work expanded. Okta announced its acquisition of Auth0 (completed 2021) for $6.5B, eliminating a key developer-focused competitor and strengthening its position in the identity market.",
-  "sources": ["https://www.gartner.com/reviews/market/access-management", "https://www.g2.com/products/okta/competitors/alternatives"]
+  "context": "Okta, Inc. is a identity and access management company focused on workforce identity, customer identity, and privileged access. Remote work drove identity demand. Acquired Auth0.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/access-management",
+    "https://www.g2.com/products/okta/competitors/alternatives"
+  ]
 }

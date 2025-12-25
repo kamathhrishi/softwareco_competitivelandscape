@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Take-Two Interactive competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Take-Two acquired Zynga in 2022 for $12.7B, becoming a mobile gaming leader. The company is developing GTA VI expected in 2025, its biggest release ever.",
+  "context": "Take-Two Interactive Software, Inc. is a video game publisher focused on Grand Theft Auto, NBA 2K, and other AAA game franchises. GTA 6 announcement. Acquired Zynga for $12.7B.",
   "competitors": [
-    {"name": "Activision Blizzard (Microsoft)", "notes": "Now Microsoft-owned, Call of Duty franchise"},
-    {"name": "Electronic Arts", "notes": "Sports games and live service competitor"},
-    {"name": "Sony", "notes": "PlayStation Studios with major exclusives"},
-    {"name": "Ubisoft", "notes": "Large publisher with open-world games"},
-    {"name": "Nintendo", "notes": "First-party games on Switch"},
-    {"name": "Epic Games", "notes": "Fortnite competing for player time"},
-    {"name": "Tencent", "notes": "Massive gaming company with global reach"},
-    {"name": "AppLovin", "notes": "Mobile gaming and advertising competitor"}
+    {
+      "name": "Activision Blizzard (Microsoft)",
+      "notes": "Now Microsoft-owned, Call of Duty franchise"
+    },
+    {
+      "name": "Electronic Arts",
+      "notes": "Sports games and live service competitor"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation Studios with major exclusives"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Large publisher with open-world games"
+    },
+    {
+      "name": "Nintendo",
+      "notes": "First-party games on Switch"
+    },
+    {
+      "name": "Epic Games",
+      "notes": "Fortnite competing for player time"
+    },
+    {
+      "name": "Tencent",
+      "notes": "Massive gaming company with global reach"
+    },
+    {
+      "name": "AppLovin",
+      "notes": "Mobile gaming and advertising competitor"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

@@ -4,16 +4,43 @@
   "year": 2024,
   "search_query": "Cognizant competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Cognizant competes in IT services with focus on generative AI, cloud modernization, and industry-specific solutions. The company is investing in AI capabilities while navigating slower enterprise IT spending.",
+  "context": "Cognizant Technology Solutions is a IT services and consulting company focused on digital transformation, technology consulting, and outsourcing. AI and cloud transformation focus. Industry-specific solutions.",
   "competitors": [
-    {"name": "Accenture", "notes": "Global leader with strong AI and cloud transformation practice"},
-    {"name": "Infosys", "notes": "Digital services competitor with AI and automation focus"},
-    {"name": "TCS", "notes": "Largest Indian IT services company with diverse offerings"},
-    {"name": "Wipro", "notes": "IT services with growing AI and cloud capabilities"},
-    {"name": "HCL Technologies", "notes": "IT services with strong engineering and cloud practice"},
-    {"name": "IBM Consulting", "notes": "Hybrid cloud and enterprise AI transformation services"},
-    {"name": "Capgemini", "notes": "European IT services with AI and sustainability focus"},
-    {"name": "LTIMindtree", "notes": "Combined IT services firm competing in digital transformation"}
+    {
+      "name": "Accenture",
+      "notes": "Global leader with strong AI and cloud transformation practice"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Digital services competitor with AI and automation focus"
+    },
+    {
+      "name": "TCS",
+      "notes": "Largest Indian IT services company with diverse offerings"
+    },
+    {
+      "name": "Wipro",
+      "notes": "IT services with growing AI and cloud capabilities"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "IT services with strong engineering and cloud practice"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Hybrid cloud and enterprise AI transformation services"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "European IT services with AI and sustainability focus"
+    },
+    {
+      "name": "LTIMindtree",
+      "notes": "Combined IT services firm competing in digital transformation"
+    }
   ],
-  "sources": ["Gartner", "Industry analysis"]
+  "sources": [
+    "Gartner",
+    "Industry analysis"
+  ]
 }

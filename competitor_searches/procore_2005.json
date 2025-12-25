@@ -5,10 +5,22 @@
   "search_query": "Procore construction software competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk", "notes": "Established player in construction and design software"},
-    {"name": "Oracle Primavera", "notes": "Heavyweight in construction management software for large-scale projects"},
-    {"name": "Legacy/Traditional Competitors", "notes": "Desktop-based construction management software and manual processes"}
+    {
+      "name": "Autodesk",
+      "notes": "Established player in construction and design software"
+    },
+    {
+      "name": "Oracle Primavera",
+      "notes": "Heavyweight in construction management software for large-scale projects"
+    },
+    {
+      "name": "Legacy/Traditional Competitors",
+      "notes": "Desktop-based construction management software and manual processes"
+    }
   ],
-  "context": "Limited historical data for 2005 as Procore was founded in 2002 and was still a young company. The construction software market was dominated by desktop-based solutions and traditional project management tools. Cloud-based construction management was still emerging.",
-  "sources": ["https://revizto.com/en/procore-competitors-alternatives/", "https://www.g2.com/products/procore/competitors/alternatives"]
+  "context": "Procore Technologies, Inc. is a construction management software company focused on project management, financial management, and quality for construction. Founded for construction project management.",
+  "sources": [
+    "https://revizto.com/en/procore-competitors-alternatives/",
+    "https://www.g2.com/products/procore/competitors/alternatives"
+  ]
 }

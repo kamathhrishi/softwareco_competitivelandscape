@@ -5,11 +5,26 @@
   "search_query": "Altair Engineering simulation HPC competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Ansys", "notes": "Engineering simulation, major FEA and multi-physics competitor"},
-    {"name": "MSC Software", "notes": "MSC Nastran widely used for finite element analysis"},
-    {"name": "Dassault Systemes", "notes": "Simulation and PLM solutions"},
-    {"name": "ESI Group", "notes": "Virtual prototyping for automotive, aerospace and defense"}
+    {
+      "name": "Ansys",
+      "notes": "Engineering simulation, major FEA and multi-physics competitor"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "MSC Nastran widely used for finite element analysis"
+    },
+    {
+      "name": "Dassault Systemes",
+      "notes": "Simulation and PLM solutions"
+    },
+    {
+      "name": "ESI Group",
+      "notes": "Virtual prototyping for automotive, aerospace and defense"
+    }
   ],
-  "context": "In 2000, CAE market dominated by Ansys and MSC Software. Altair Grid Engine gained traction when Sun Microsystems acquired Gridware and open-sourced the software. Market focused on traditional FEA and structural analysis for automotive and aerospace.",
-  "sources": ["https://www.engineering.com/simulation-analysis-hpc-why-altair-stands-out-as-the-last-unbound-player-that-can-challenge-ansys/", "https://www.owler.com/company/altair"]
+  "context": "Altair Engineering Inc. is a computational science and AI company focused on simulation, data analytics, and high-performance computing solutions. Specialized in structural analysis and optimization software. HyperWorks gaining traction in automotive.",
+  "sources": [
+    "https://www.engineering.com/simulation-analysis-hpc-why-altair-stands-out-as-the-last-unbound-player-that-can-challenge-ansys/",
+    "https://www.owler.com/company/altair"
+  ]
 }

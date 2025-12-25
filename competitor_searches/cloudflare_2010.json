@@ -5,12 +5,29 @@
   "search_query": "Cloudflare CDN competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Akamai", "notes": "Market leader in CDN services"},
-    {"name": "Limelight Networks", "notes": "CDN and digital delivery"},
-    {"name": "Amazon CloudFront", "notes": "AWS CDN launched 2008"},
-    {"name": "Edgecast", "notes": "CDN provider, later acquired by Verizon"},
-    {"name": "Level 3 CDN", "notes": "CDN services from telecom provider"}
+    {
+      "name": "Akamai",
+      "notes": "Market leader in CDN services"
+    },
+    {
+      "name": "Limelight Networks",
+      "notes": "CDN and digital delivery"
+    },
+    {
+      "name": "Amazon CloudFront",
+      "notes": "AWS CDN launched 2008"
+    },
+    {
+      "name": "Edgecast",
+      "notes": "CDN provider, later acquired by Verizon"
+    },
+    {
+      "name": "Level 3 CDN",
+      "notes": "CDN services from telecom provider"
+    }
   ],
-  "context": "Cloudflare launched publicly in September 2010 at TechCrunch Disrupt. The company offered free CDN and security services to democratize web performance. Akamai dominated the enterprise CDN market while Cloudflare targeted the long tail of websites. Amazon CloudFront (launched 2008) was emerging. Cloudflare differentiated with free tier and security focus including DDoS mitigation. The founding vision was to build a better internet for everyone.",
-  "sources": ["https://www.cloudflare.com/our-story/"]
+  "context": "Cloudflare, Inc. is a cloud services and network security company focused on CDN, DDoS protection, edge computing, and Zero Trust security. Founded to democratize web security. Free DDoS protection tier.",
+  "sources": [
+    "https://www.cloudflare.com/our-story/"
+  ]
 }

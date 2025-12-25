@@ -5,15 +5,41 @@
   "search_query": "Microsoft competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon (AWS)", "notes": "Leading competitor in cloud infrastructure"},
-    {"name": "Google", "notes": "Google Cloud, Workspace, Chrome, Android, search"},
-    {"name": "Apple", "notes": "194M iPhones and 71M iPads sold in 2020"},
-    {"name": "Salesforce", "notes": "19% CRM market share vs Dynamics' 3-4%. Acquired Slack for $27.7B"},
-    {"name": "Sony", "notes": "PlayStation top competitor to Xbox"},
-    {"name": "Netflix", "notes": "New competitor in 2020 filing in gaming/entertainment"},
-    {"name": "Zoom", "notes": "Video conferencing competitor to Teams"},
-    {"name": "Slack", "notes": "Collaboration platform competing with Teams"}
+    {
+      "name": "Amazon (AWS)",
+      "notes": "Leading competitor in cloud infrastructure"
+    },
+    {
+      "name": "Google",
+      "notes": "Google Cloud, Workspace, Chrome, Android, search"
+    },
+    {
+      "name": "Apple",
+      "notes": "194M iPhones and 71M iPads sold in 2020"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "19% CRM market share vs Dynamics' 3-4%. Acquired Slack for $27.7B"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation top competitor to Xbox"
+    },
+    {
+      "name": "Netflix",
+      "notes": "New competitor in 2020 filing in gaming/entertainment"
+    },
+    {
+      "name": "Zoom",
+      "notes": "Video conferencing competitor to Teams"
+    },
+    {
+      "name": "Slack",
+      "notes": "Collaboration platform competing with Teams"
+    }
   ],
-  "context": "Revenue $153.3B. Netflix, Hulu, Tencent added as gaming/entertainment competitors. Pandemic accelerated cloud and collaboration tools competition.",
-  "sources": ["https://csimarket.com/stocks/compet_glance.php?code=MSFT"]
+  "context": "Microsoft Corporation is a technology company focused on cloud computing, productivity software, gaming, and AI. Teams growth. Remote work. Gaming investments.",
+  "sources": [
+    "https://csimarket.com/stocks/compet_glance.php?code=MSFT"
+  ]
 }

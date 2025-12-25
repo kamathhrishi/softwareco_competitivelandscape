@@ -5,13 +5,35 @@
   "search_query": "IBM competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Compaq", "notes": "PC market leader in 2000, briefly overtook Dell; acquired Digital Equipment Corporation (1998) and Tandem Computers (1997)"},
-    {"name": "Dell", "notes": "Became number-one PC supplier in 1999, competitive in hardware and direct sales model"},
-    {"name": "Hewlett-Packard", "notes": "Major competitor in hardware, servers, storage devices, and enterprise systems"},
-    {"name": "Sun Microsystems", "notes": "Key competitor in enterprise servers and Unix systems"},
-    {"name": "Oracle", "notes": "Competitor in enterprise software and database systems"},
-    {"name": "Microsoft", "notes": "Competitor in software and emerging enterprise solutions"}
+    {
+      "name": "Compaq",
+      "notes": "PC market leader in 2000, briefly overtook Dell; acquired Digital Equipment Corporation (1998) and Tandem Computers (1997)"
+    },
+    {
+      "name": "Dell",
+      "notes": "Became number-one PC supplier in 1999, competitive in hardware and direct sales model"
+    },
+    {
+      "name": "Hewlett-Packard",
+      "notes": "Major competitor in hardware, servers, storage devices, and enterprise systems"
+    },
+    {
+      "name": "Sun Microsystems",
+      "notes": "Key competitor in enterprise servers and Unix systems"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise software and database systems"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in software and emerging enterprise solutions"
+    }
   ],
-  "context": "In 2000, IBM competed across personal computers, enterprise servers, and IT services. The PC market was highly competitive with Compaq briefly regaining the top position from Dell. IBM was transitioning focus from hardware to services.",
-  "sources": ["https://www.comparably.com/companies/ibm/competitors", "https://en.wikipedia.org/wiki/Compaq", "https://fourweekmba.com/ibm-competitors/"]
+  "context": "International Business Machines Corporation is a technology and consulting company focused on hybrid cloud, AI, enterprise software, and consulting. Enterprise computing leader. Global Services dominant.",
+  "sources": [
+    "https://www.comparably.com/companies/ibm/competitors",
+    "https://en.wikipedia.org/wiki/Compaq",
+    "https://fourweekmba.com/ibm-competitors/"
+  ]
 }

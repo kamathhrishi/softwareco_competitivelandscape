@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Coupang competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Coupang dominates South Korean e-commerce with its Rocket Delivery service. The company expanded into Taiwan, acquired Farfetch, and grew its streaming service Coupang Play.",
+  "context": "Coupang, Inc. is a South Korean e-commerce company focused on online retail, rocket delivery, and streaming in Korea. Korean e-commerce leader. International expansion and diversification.",
   "competitors": [
-    {"name": "Naver Shopping", "notes": "Korean search giant's e-commerce platform"},
-    {"name": "Gmarket/SSG", "notes": "Shinsegae Group's e-commerce"},
-    {"name": "11st (SK)", "notes": "SK Telecom's e-commerce platform"},
-    {"name": "Amazon", "notes": "Global e-commerce entering Korea"},
-    {"name": "AliExpress", "notes": "Alibaba cross-border e-commerce"},
-    {"name": "Temu", "notes": "PDD Holdings discount marketplace"},
-    {"name": "MUSINSA", "notes": "Korean fashion e-commerce"},
-    {"name": "Market Kurly", "notes": "Korean fresh grocery delivery"}
+    {
+      "name": "Naver Shopping",
+      "notes": "Korean search giant's e-commerce platform"
+    },
+    {
+      "name": "Gmarket/SSG",
+      "notes": "Shinsegae Group's e-commerce"
+    },
+    {
+      "name": "11st (SK)",
+      "notes": "SK Telecom's e-commerce platform"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Global e-commerce entering Korea"
+    },
+    {
+      "name": "AliExpress",
+      "notes": "Alibaba cross-border e-commerce"
+    },
+    {
+      "name": "Temu",
+      "notes": "PDD Holdings discount marketplace"
+    },
+    {
+      "name": "MUSINSA",
+      "notes": "Korean fashion e-commerce"
+    },
+    {
+      "name": "Market Kurly",
+      "notes": "Korean fresh grocery delivery"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

@@ -5,13 +5,35 @@
   "search_query": "Manhattan Associates competitors 2015",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "JDA Software (Blue Yonder)", "notes": "Major competitor in supply chain management and WMS, formerly RedPrairie"},
-    {"name": "SAP", "notes": "Leading enterprise software provider with SAP Supply Chain Management and Ariba"},
-    {"name": "Oracle", "notes": "Competitor with Oracle Warehouse Management and supply chain applications"},
-    {"name": "Infor", "notes": "Enterprise software provider with WMS and supply chain solutions"},
-    {"name": "HighJump (Körber)", "notes": "Supply chain execution and WMS competitor"},
-    {"name": "Amber Road", "notes": "Global trade management and supply chain visibility provider"}
+    {
+      "name": "JDA Software (Blue Yonder)",
+      "notes": "Major competitor in supply chain management and WMS, formerly RedPrairie"
+    },
+    {
+      "name": "SAP",
+      "notes": "Leading enterprise software provider with SAP Supply Chain Management and Ariba"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor with Oracle Warehouse Management and supply chain applications"
+    },
+    {
+      "name": "Infor",
+      "notes": "Enterprise software provider with WMS and supply chain solutions"
+    },
+    {
+      "name": "HighJump (Körber)",
+      "notes": "Supply chain execution and WMS competitor"
+    },
+    {
+      "name": "Amber Road",
+      "notes": "Global trade management and supply chain visibility provider"
+    }
   ],
-  "context": "By 2015, Manhattan Associates was transitioning toward cloud-based omnichannel solutions for retailers. The company competed in warehouse management systems, transportation management, and order management. The market was consolidating, with JDA Software (formed from mergers including RedPrairie) as a major competitor. E-commerce growth was driving demand for omnichannel fulfillment capabilities, a key focus area for Manhattan.",
-  "sources": ["https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors", "https://www.comparably.com/companies/manhattan-associates/competitors", "https://www.owler.com/company/manh"]
+  "context": "Manhattan Associates, Inc. is a supply chain and omnichannel software company focused on warehouse management, transportation, and retail solutions. Active unified commerce platform.",
+  "sources": [
+    "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors",
+    "https://www.comparably.com/companies/manhattan-associates/competitors",
+    "https://www.owler.com/company/manh"
+  ]
 }

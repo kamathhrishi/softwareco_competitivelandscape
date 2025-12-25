@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Lyft competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Lyft went public in 2019 and faced severe pandemic impact in 2020. Unlike Uber, Lyft remained focused on rides without delivery, leading to larger revenue declines during lockdowns.",
+  "context": "Lyft, Inc. is a rideshare and transportation company focused on ridesharing, bikes, scooters, and autonomous vehicles. COVID-19 devastated rides. Sold autonomous division.",
   "competitors": [
-    {"name": "Uber", "notes": "Primary competitor with larger scale and diversified business"},
-    {"name": "Via", "notes": "Shared ride and transit technology platform"},
-    {"name": "Waymo", "notes": "Autonomous vehicle company developing robotaxi service"},
-    {"name": "Cruise", "notes": "GM's autonomous vehicle subsidiary"},
-    {"name": "Traditional Taxis", "notes": "Taxi industry adapting with apps and modernization"},
-    {"name": "Car Ownership", "notes": "Personal vehicle ownership as pandemic reduced shared rides"},
-    {"name": "Gett", "notes": "B2B ride service for corporate customers"},
-    {"name": "Public Transit", "notes": "Reduced transit also faced pandemic challenges"}
+    {
+      "name": "Uber",
+      "notes": "Primary competitor with larger scale and diversified business"
+    },
+    {
+      "name": "Via",
+      "notes": "Shared ride and transit technology platform"
+    },
+    {
+      "name": "Waymo",
+      "notes": "Autonomous vehicle company developing robotaxi service"
+    },
+    {
+      "name": "Cruise",
+      "notes": "GM's autonomous vehicle subsidiary"
+    },
+    {
+      "name": "Traditional Taxis",
+      "notes": "Taxi industry adapting with apps and modernization"
+    },
+    {
+      "name": "Car Ownership",
+      "notes": "Personal vehicle ownership as pandemic reduced shared rides"
+    },
+    {
+      "name": "Gett",
+      "notes": "B2B ride service for corporate customers"
+    },
+    {
+      "name": "Public Transit",
+      "notes": "Reduced transit also faced pandemic challenges"
+    }
   ],
-  "sources": ["Ride-hailing industry analysis"]
+  "sources": [
+    "Ride-hailing industry analysis"
+  ]
 }

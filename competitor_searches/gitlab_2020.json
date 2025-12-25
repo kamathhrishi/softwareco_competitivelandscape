@@ -5,12 +5,30 @@
   "search_query": "GitLab DevOps competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "GitHub", "notes": "Primary competitor, owned by Microsoft since 2018, dominant in open source"},
-    {"name": "Atlassian Bitbucket", "notes": "Git repository integrated with Jira and Confluence"},
-    {"name": "Azure DevOps", "notes": "Microsoft's DevOps platform with Azure integration"},
-    {"name": "CircleCI", "notes": "Popular CI/CD platform"},
-    {"name": "Jenkins", "notes": "Open-source automation server for CI/CD"}
+    {
+      "name": "GitHub",
+      "notes": "Primary competitor, owned by Microsoft since 2018, dominant in open source"
+    },
+    {
+      "name": "Atlassian Bitbucket",
+      "notes": "Git repository integrated with Jira and Confluence"
+    },
+    {
+      "name": "Azure DevOps",
+      "notes": "Microsoft's DevOps platform with Azure integration"
+    },
+    {
+      "name": "CircleCI",
+      "notes": "Popular CI/CD platform"
+    },
+    {
+      "name": "Jenkins",
+      "notes": "Open-source automation server for CI/CD"
+    }
   ],
-  "context": "In 2020, GitLab positioned itself as an all-in-one DevOps platform competing against Microsoft's GitHub (acquired 2018 for $7.5B). The pandemic accelerated DevOps adoption as remote development became standard. GitLab's integrated CI/CD was a key differentiator versus GitHub's GitHub Actions. The company was still private, preparing for its 2021 IPO. Competition focused on complete DevOps lifecycle versus best-of-breed tool combinations.",
-  "sources": ["https://www.g2.com/products/gitlab/competitors/alternatives", "https://about.gitlab.com/competition/"]
+  "context": "GitLab Inc. is a DevSecOps platform company focused on source code management, CI/CD, and security in single platform. Complete DevOps platform. Remote-first company IPO.",
+  "sources": [
+    "https://www.g2.com/products/gitlab/competitors/alternatives",
+    "https://about.gitlab.com/competition/"
+  ]
 }

@@ -5,17 +5,50 @@
   "search_query": "Teradata data warehouse analytics competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Snowflake", "notes": "Cloud-native data warehouse platform, major competitor in modern data cloud space"},
-    {"name": "Databricks", "notes": "Unified analytics platform with lakehouse architecture, combining data lakes and warehouses"},
-    {"name": "Google BigQuery", "notes": "Fully-managed serverless data warehouse from Google Cloud"},
-    {"name": "Amazon Redshift", "notes": "AWS cloud data warehouse service, major cloud competitor"},
-    {"name": "Microsoft Azure Synapse Analytics", "notes": "Microsoft's integrated analytics service combining data warehousing and big data"},
-    {"name": "Oracle", "notes": "Traditional enterprise database and analytics competitor, Oracle Autonomous Data Warehouse"},
-    {"name": "IBM Db2 Warehouse", "notes": "Enterprise data warehouse solution on-premises and cloud"},
-    {"name": "SAP HANA", "notes": "In-memory database and analytics platform"},
-    {"name": "Cloudera", "notes": "Enterprise data cloud platform for hybrid and multi-cloud"},
-    {"name": "Vertica", "notes": "Analytics data warehouse, now part of OpenText"}
+    {
+      "name": "Snowflake",
+      "notes": "Cloud-native data warehouse platform, major competitor in modern data cloud space"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Unified analytics platform with lakehouse architecture, combining data lakes and warehouses"
+    },
+    {
+      "name": "Google BigQuery",
+      "notes": "Fully-managed serverless data warehouse from Google Cloud"
+    },
+    {
+      "name": "Amazon Redshift",
+      "notes": "AWS cloud data warehouse service, major cloud competitor"
+    },
+    {
+      "name": "Microsoft Azure Synapse Analytics",
+      "notes": "Microsoft's integrated analytics service combining data warehousing and big data"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Traditional enterprise database and analytics competitor, Oracle Autonomous Data Warehouse"
+    },
+    {
+      "name": "IBM Db2 Warehouse",
+      "notes": "Enterprise data warehouse solution on-premises and cloud"
+    },
+    {
+      "name": "SAP HANA",
+      "notes": "In-memory database and analytics platform"
+    },
+    {
+      "name": "Cloudera",
+      "notes": "Enterprise data cloud platform for hybrid and multi-cloud"
+    },
+    {
+      "name": "Vertica",
+      "notes": "Analytics data warehouse, now part of OpenText"
+    }
   ],
-  "context": "In 2024, Teradata faces intense competition from cloud-native data platforms, particularly Snowflake and Databricks which have disrupted traditional data warehousing with consumption-based pricing and lakehouse architectures. Cloud hyperscalers (AWS Redshift, Google BigQuery, Azure Synapse) offer integrated analytics within their ecosystems. Teradata has responded with Vantage, its cloud-native analytics platform, to compete in multi-cloud environments. The market shift toward cloud, real-time analytics, and AI/ML integration has challenged traditional on-premises data warehouse vendors. Legacy enterprise vendors (Oracle, IBM, SAP) also compete for existing enterprise customers.",
-  "sources": ["https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/teradata/alternatives", "https://6sense.com/tech/data-warehouse/teradata-market-share"]
+  "context": "Teradata Corporation is a cloud analytics and data platform company focused on enterprise data warehousing and analytics. AI/ML analytics. Cloud migration acceleration.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/teradata/alternatives",
+    "https://6sense.com/tech/data-warehouse/teradata-market-share"
+  ]
 }

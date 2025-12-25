@@ -5,15 +5,46 @@
   "search_query": "Zoom video conferencing competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft Teams", "notes": "Business communication platform part of Microsoft 365, enjoyed healthy growth spike throughout 2020, supports up to 300 members with guest access and shared files up to 10GB per team in free tier"},
-    {"name": "Google Meet", "notes": "Made free to all users worldwide in May 2020 (previously paid service for educators) to compete with Zoom, supports up to 100 participants with 16 visible at a time, integrated with G Suite"},
-    {"name": "Skype", "notes": "Microsoft's popular video chat platform, supports up to 50 participants for unlimited time for free, has call recording feature with recordings saved for up to a month"},
-    {"name": "Cisco Webex", "notes": "Big name in corporate video conferencing with impressive boardroom credentials, dominated market before pandemic along with Polycom and Avaya, offers crystal-clear calls and instant messaging with collaboration tools"},
-    {"name": "GoToMeeting", "notes": "Web conferencing service from LogMeIn with audio/video sessions, screen sharing, and mobile apps for Android and iOS, standard version allows up to 150 team members for $14/month or $12/month annually"},
-    {"name": "Jitsi Meet", "notes": "Leading open source competitor developed by 8x8, utilizes WebRTC technology for encrypted video calls running directly in browser without downloads or plugins"},
-    {"name": "Polycom", "notes": "Dominated video conferencing market before the pandemic alongside Cisco and Avaya"},
-    {"name": "Avaya", "notes": "Dominated video conferencing market before the pandemic alongside Cisco and Polycom"}
+    {
+      "name": "Microsoft Teams",
+      "notes": "Business communication platform part of Microsoft 365, enjoyed healthy growth spike throughout 2020, supports up to 300 members with guest access and shared files up to 10GB per team in free tier"
+    },
+    {
+      "name": "Google Meet",
+      "notes": "Made free to all users worldwide in May 2020 (previously paid service for educators) to compete with Zoom, supports up to 100 participants with 16 visible at a time, integrated with G Suite"
+    },
+    {
+      "name": "Skype",
+      "notes": "Microsoft's popular video chat platform, supports up to 50 participants for unlimited time for free, has call recording feature with recordings saved for up to a month"
+    },
+    {
+      "name": "Cisco Webex",
+      "notes": "Big name in corporate video conferencing with impressive boardroom credentials, dominated market before pandemic along with Polycom and Avaya, offers crystal-clear calls and instant messaging with collaboration tools"
+    },
+    {
+      "name": "GoToMeeting",
+      "notes": "Web conferencing service from LogMeIn with audio/video sessions, screen sharing, and mobile apps for Android and iOS, standard version allows up to 150 team members for $14/month or $12/month annually"
+    },
+    {
+      "name": "Jitsi Meet",
+      "notes": "Leading open source competitor developed by 8x8, utilizes WebRTC technology for encrypted video calls running directly in browser without downloads or plugins"
+    },
+    {
+      "name": "Polycom",
+      "notes": "Dominated video conferencing market before the pandemic alongside Cisco and Avaya"
+    },
+    {
+      "name": "Avaya",
+      "notes": "Dominated video conferencing market before the pandemic alongside Cisco and Polycom"
+    }
   ],
-  "context": "2020 was a pivotal year for Zoom as daily active users jumped from 10 million to over 200 million in just 3 months (March 2020), with daily meeting participants growing from 10 million in December 2019 to 300 million in April 2020, making it the fastest-growing software in the category. However, security issues emerged including 'Zoom bombing' attacks, leaked emails, and exposed webcam streams, leading major companies like Google, SpaceX, and NASA to ban Zoom use. This created opportunities for competitors, with Google Meet going free to all users in May 2020 specifically to compete with Zoom, and Microsoft Teams experiencing significant growth. The pandemic shifted the landscape from pre-pandemic dominance by Cisco, Polycom, and Avaya to rapid growth of cloud-based solutions.",
-  "sources": ["https://pangea.ai/resources/best-video-conferencing-software", "https://blog.bit.ai/zoom-alternatives-and-competitors/", "https://www.techrepublic.com/article/top-10-zoom-alternatives-for-video-conferencing/", "https://clickup.com/blog/zoom-alternatives/", "https://www.vendr.com/blog/zoom-alternatives-competitors", "https://getvoip.com/blog/zoom-alternatives/"]
+  "context": "Zoom Video Communications, Inc. is a video communications platform company focused on video meetings, webinars, and collaboration tools. COVID pandemic surge. Became verb for video calls.",
+  "sources": [
+    "https://pangea.ai/resources/best-video-conferencing-software",
+    "https://blog.bit.ai/zoom-alternatives-and-competitors/",
+    "https://www.techrepublic.com/article/top-10-zoom-alternatives-for-video-conferencing/",
+    "https://clickup.com/blog/zoom-alternatives/",
+    "https://www.vendr.com/blog/zoom-alternatives-competitors",
+    "https://getvoip.com/blog/zoom-alternatives/"
+  ]
 }

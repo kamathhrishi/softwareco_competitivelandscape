@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Instacart competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Instacart went public in September 2023. The company focused on advertising revenue and enterprise technology licensing while competing with retailers building their own delivery capabilities.",
+  "context": "Instacart (Maplebear Inc.) is a grocery delivery and technology platform focused on grocery delivery, pickup, and retail technology. IPO. Advertising and enterprise platform expansion.",
   "competitors": [
-    {"name": "Amazon", "notes": "Whole Foods delivery, Amazon Fresh, and Prime grocery benefits"},
-    {"name": "Walmart", "notes": "Largest grocer with extensive delivery through Spark network"},
-    {"name": "DoorDash", "notes": "Expanding grocery and retail delivery marketplace"},
-    {"name": "Uber Eats", "notes": "Adding grocery delivery to food delivery platform"},
-    {"name": "Shipt (Target)", "notes": "Same-day delivery service for Target and other retailers"},
-    {"name": "Kroger", "notes": "Building Ocado-powered automated fulfillment centers"},
-    {"name": "Gopuff", "notes": "Quick commerce for convenience and grocery items"},
-    {"name": "Albertsons", "notes": "Own delivery capabilities competing with Instacart partnership"}
+    {
+      "name": "Amazon",
+      "notes": "Whole Foods delivery, Amazon Fresh, and Prime grocery benefits"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Largest grocer with extensive delivery through Spark network"
+    },
+    {
+      "name": "DoorDash",
+      "notes": "Expanding grocery and retail delivery marketplace"
+    },
+    {
+      "name": "Uber Eats",
+      "notes": "Adding grocery delivery to food delivery platform"
+    },
+    {
+      "name": "Shipt (Target)",
+      "notes": "Same-day delivery service for Target and other retailers"
+    },
+    {
+      "name": "Kroger",
+      "notes": "Building Ocado-powered automated fulfillment centers"
+    },
+    {
+      "name": "Gopuff",
+      "notes": "Quick commerce for convenience and grocery items"
+    },
+    {
+      "name": "Albertsons",
+      "notes": "Own delivery capabilities competing with Instacart partnership"
+    }
   ],
-  "sources": ["Grocery delivery industry analysis"]
+  "sources": [
+    "Grocery delivery industry analysis"
+  ]
 }

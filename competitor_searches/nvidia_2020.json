@@ -5,10 +5,21 @@
   "search_query": "NVIDIA GPU competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD", "notes": "RX 6000 series competing with RTX 30-series"},
-    {"name": "Intel", "notes": "Second attempt at discrete GPUs with Xe architecture"},
-    {"name": "Samsung", "notes": "Manufacturing partner and competitor, made 8nm processors for RTX 30-series"}
+    {
+      "name": "AMD",
+      "notes": "RX 6000 series competing with RTX 30-series"
+    },
+    {
+      "name": "Intel",
+      "notes": "Second attempt at discrete GPUs with Xe architecture"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Manufacturing partner and competitor, made 8nm processors for RTX 30-series"
+    }
   ],
-  "context": "Intense competition with NVIDIA's RTX 30-series vs AMD's RDNA2. NVIDIA held 72.9% market share Q3 2019. Beginning of AI acceleration era.",
-  "sources": ["https://businessmodelanalyst.com/nvidia-competitors/"]
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. AI training infrastructure. Attempted Arm acquisition.",
+  "sources": [
+    "https://businessmodelanalyst.com/nvidia-competitors/"
+  ]
 }

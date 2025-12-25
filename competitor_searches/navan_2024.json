@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Navan TripActions competitors 2024",
   "search_date": "2024-12-24",
-  "context": "TripActions rebranded to Navan and prepared for IPO. The company expanded expense management and corporate card offerings while business travel recovered post-pandemic.",
+  "context": "Navan (formerly TripActions) is a corporate travel and expense management platform focused on business travel booking, expense management, and corporate cards. Rebranded to Navan. Unified travel and expense platform.",
   "competitors": [
-    {"name": "SAP Concur", "notes": "Dominant enterprise T&E platform"},
-    {"name": "Brex", "notes": "Corporate cards competing for same customers"},
-    {"name": "Expensify", "notes": "SMB expense management"},
-    {"name": "Ramp", "notes": "Fast-growing corporate spend platform"},
-    {"name": "Egencia", "notes": "Amex Global Business Travel"},
-    {"name": "TravelPerk", "notes": "European business travel competitor"},
-    {"name": "Spotnana", "notes": "Travel-as-a-service platform"},
-    {"name": "BILL", "notes": "AP/AR expanding to expense"}
+    {
+      "name": "SAP Concur",
+      "notes": "Dominant enterprise T&E platform"
+    },
+    {
+      "name": "Brex",
+      "notes": "Corporate cards competing for same customers"
+    },
+    {
+      "name": "Expensify",
+      "notes": "SMB expense management"
+    },
+    {
+      "name": "Ramp",
+      "notes": "Fast-growing corporate spend platform"
+    },
+    {
+      "name": "Egencia",
+      "notes": "Amex Global Business Travel"
+    },
+    {
+      "name": "TravelPerk",
+      "notes": "European business travel competitor"
+    },
+    {
+      "name": "Spotnana",
+      "notes": "Travel-as-a-service platform"
+    },
+    {
+      "name": "BILL",
+      "notes": "AP/AR expanding to expense"
+    }
   ],
-  "sources": ["Travel tech analysis"]
+  "sources": [
+    "Travel tech analysis"
+  ]
 }

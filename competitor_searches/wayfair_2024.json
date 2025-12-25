@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Wayfair competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Wayfair is a leading online home goods destination facing profitability challenges post-pandemic. The company cut costs and opened physical stores to capture omnichannel shoppers.",
+  "context": "Wayfair Inc. is a e-commerce company for home goods focused on online furniture, decor, and home improvement products. Profitability focus. Physical store experiments.",
   "competitors": [
-    {"name": "Amazon", "notes": "Dominant e-commerce with massive home selection"},
-    {"name": "IKEA", "notes": "Global furniture leader with improved e-commerce"},
-    {"name": "Williams-Sonoma", "notes": "Premium home brands including West Elm, Pottery Barn"},
-    {"name": "Target", "notes": "Mass retailer with strong home and design assortment"},
-    {"name": "Walmart", "notes": "Largest retailer with home goods online and in-store"},
-    {"name": "Home Depot/Lowe's", "notes": "Home improvement retailers with furnishing expansion"},
-    {"name": "At Home", "notes": "Home decor superstore"},
-    {"name": "Crate & Barrel", "notes": "Specialty home retailer"}
+    {
+      "name": "Amazon",
+      "notes": "Dominant e-commerce with massive home selection"
+    },
+    {
+      "name": "IKEA",
+      "notes": "Global furniture leader with improved e-commerce"
+    },
+    {
+      "name": "Williams-Sonoma",
+      "notes": "Premium home brands including West Elm, Pottery Barn"
+    },
+    {
+      "name": "Target",
+      "notes": "Mass retailer with strong home and design assortment"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Largest retailer with home goods online and in-store"
+    },
+    {
+      "name": "Home Depot/Lowe's",
+      "notes": "Home improvement retailers with furnishing expansion"
+    },
+    {
+      "name": "At Home",
+      "notes": "Home decor superstore"
+    },
+    {
+      "name": "Crate & Barrel",
+      "notes": "Specialty home retailer"
+    }
   ],
-  "sources": ["Home goods industry analysis"]
+  "sources": [
+    "Home goods industry analysis"
+  ]
 }

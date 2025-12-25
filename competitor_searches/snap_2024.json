@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Snap competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Snap focused on Snapchat+ subscriptions (9M+ subscribers), AR technology, and AI features including My AI chatbot. The company faces continued pressure from TikTok and Instagram.",
+  "context": "Snap Inc. is a camera and social media company focused on Snapchat app, AR lenses, and Spectacles. AI features. Snapchat+ subscription growth.",
   "competitors": [
-    {"name": "TikTok", "notes": "Dominant short-form video platform among young users"},
-    {"name": "Instagram", "notes": "Reels and Stories compete directly for time and creators"},
-    {"name": "YouTube Shorts", "notes": "Google's short-form video competing for creators"},
-    {"name": "BeReal", "notes": "Authenticity-focused social app targeting young users"},
-    {"name": "Meta", "notes": "AR/VR competition through Ray-Ban Meta glasses"},
-    {"name": "iMessage", "notes": "Apple messaging with increasing social features"},
-    {"name": "Discord", "notes": "Community platform popular with younger demographics"},
-    {"name": "WhatsApp", "notes": "Global messaging with Status feature"}
+    {
+      "name": "TikTok",
+      "notes": "Dominant short-form video platform among young users"
+    },
+    {
+      "name": "Instagram",
+      "notes": "Reels and Stories compete directly for time and creators"
+    },
+    {
+      "name": "YouTube Shorts",
+      "notes": "Google's short-form video competing for creators"
+    },
+    {
+      "name": "BeReal",
+      "notes": "Authenticity-focused social app targeting young users"
+    },
+    {
+      "name": "Meta",
+      "notes": "AR/VR competition through Ray-Ban Meta glasses"
+    },
+    {
+      "name": "iMessage",
+      "notes": "Apple messaging with increasing social features"
+    },
+    {
+      "name": "Discord",
+      "notes": "Community platform popular with younger demographics"
+    },
+    {
+      "name": "WhatsApp",
+      "notes": "Global messaging with Status feature"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

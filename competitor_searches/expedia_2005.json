@@ -4,15 +4,38 @@
   "year": 2005,
   "search_query": "Expedia competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Expedia was spun out of IAC in 2005 to create Expedia Group. Priceline acquired Booking.com for $133M. Hotels.com became part of Expedia. Agoda and Trivago were founded this year.",
+  "context": "Expedia Group, Inc. is a online travel platform focused on travel booking, vacation rentals, and travel technology. Spun out of IAC as Expedia Group. Hotels.com acquisition.",
   "competitors": [
-    {"name": "Priceline", "notes": "Acquired Booking.com for $133M after failed Expedia talks"},
-    {"name": "Booking.com", "notes": "Amsterdam-based, acquired by Priceline"},
-    {"name": "Travelocity", "notes": "Major OTA competitor"},
-    {"name": "Orbitz", "notes": "Airline consortium travel site"},
-    {"name": "TripAdvisor", "notes": "Travel reviews and metasearch"},
-    {"name": "Agoda", "notes": "Founded 2005, Asia-focused hotel booking"},
-    {"name": "Trivago", "notes": "Founded 2005 in Germany, hotel metasearch"}
+    {
+      "name": "Priceline",
+      "notes": "Acquired Booking.com for $133M after failed Expedia talks"
+    },
+    {
+      "name": "Booking.com",
+      "notes": "Amsterdam-based, acquired by Priceline"
+    },
+    {
+      "name": "Travelocity",
+      "notes": "Major OTA competitor"
+    },
+    {
+      "name": "Orbitz",
+      "notes": "Airline consortium travel site"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Travel reviews and metasearch"
+    },
+    {
+      "name": "Agoda",
+      "notes": "Founded 2005, Asia-focused hotel booking"
+    },
+    {
+      "name": "Trivago",
+      "notes": "Founded 2005 in Germany, hotel metasearch"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

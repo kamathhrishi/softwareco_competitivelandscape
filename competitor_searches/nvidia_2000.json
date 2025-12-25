@@ -5,12 +5,29 @@
   "search_query": "NVIDIA GPU competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "3dfx Interactive", "notes": "Voodoo5 5500 released June 2000, acquired by NVIDIA as 3dfx went bankrupt"},
-    {"name": "ATI Technologies", "notes": "Radeon 256 launched April 2000, evenly matched with GeForce2 GTS"},
-    {"name": "S3 Graphics", "notes": "Savage 2000, acquired by VIA August 2000"},
-    {"name": "PowerVR/Videologic", "notes": "Neon 250 graphics card"},
-    {"name": "Kyro", "notes": "Budget-friendly with unique TBR technology"}
+    {
+      "name": "3dfx Interactive",
+      "notes": "Voodoo5 5500 released June 2000, acquired by NVIDIA as 3dfx went bankrupt"
+    },
+    {
+      "name": "ATI Technologies",
+      "notes": "Radeon 256 launched April 2000, evenly matched with GeForce2 GTS"
+    },
+    {
+      "name": "S3 Graphics",
+      "notes": "Savage 2000, acquired by VIA August 2000"
+    },
+    {
+      "name": "PowerVR/Videologic",
+      "notes": "Neon 250 graphics card"
+    },
+    {
+      "name": "Kyro",
+      "notes": "Budget-friendly with unique TBR technology"
+    }
   ],
-  "context": "NVIDIA emerged as dominant GPU manufacturer with GeForce 256's hardware T&L. Market rapidly consolidating from dozens of competitors.",
-  "sources": ["https://en.wikipedia.org/wiki/Nvidia"]
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. GeForce GPU leader. Gaming graphics dominance.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nvidia"
+  ]
 }

@@ -5,17 +5,50 @@
   "search_query": "Tenable competitors cybersecurity 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Qualys", "notes": "Most direct rival in vulnerability and exposure management, cloud-based platform"},
-    {"name": "Rapid7 InsightVM", "notes": "Cloud-based successor to Nexpose with risk prioritization"},
-    {"name": "Wiz", "notes": "Cloud security emphasizing simplicity and Kubernetes support"},
-    {"name": "Aqua Security", "notes": "Cloud-native security for containers"},
-    {"name": "Orca Security", "notes": "Agentless CNAPP for cloud-first exposure management"},
-    {"name": "Positive Technologies", "notes": "Cybersecurity vendor in vulnerability management"},
-    {"name": "Vulcan Cyber", "notes": "Vulnerability and exposure management competitor"},
-    {"name": "Ivanti", "notes": "IT management and security solutions"},
-    {"name": "Tanium", "notes": "Endpoint management and security platform"},
-    {"name": "McAfee/Trellix", "notes": "Vulnerability scanning solution"}
+    {
+      "name": "Qualys",
+      "notes": "Most direct rival in vulnerability and exposure management, cloud-based platform"
+    },
+    {
+      "name": "Rapid7 InsightVM",
+      "notes": "Cloud-based successor to Nexpose with risk prioritization"
+    },
+    {
+      "name": "Wiz",
+      "notes": "Cloud security emphasizing simplicity and Kubernetes support"
+    },
+    {
+      "name": "Aqua Security",
+      "notes": "Cloud-native security for containers"
+    },
+    {
+      "name": "Orca Security",
+      "notes": "Agentless CNAPP for cloud-first exposure management"
+    },
+    {
+      "name": "Positive Technologies",
+      "notes": "Cybersecurity vendor in vulnerability management"
+    },
+    {
+      "name": "Vulcan Cyber",
+      "notes": "Vulnerability and exposure management competitor"
+    },
+    {
+      "name": "Ivanti",
+      "notes": "IT management and security solutions"
+    },
+    {
+      "name": "Tanium",
+      "notes": "Endpoint management and security platform"
+    },
+    {
+      "name": "McAfee/Trellix",
+      "notes": "Vulnerability scanning solution"
+    }
   ],
-  "context": "By 2020, Tenable had 24,000+ customers including 50%+ of Fortune 500. Traditional competitors remained strong while cloud-native competitors like Wiz, Aqua Security, Orca Security emerged. Tenable rated first in accuracy and coverage though noted for limited remediation capabilities.",
-  "sources": ["https://www.cbinsights.com/company/tenable-network-security/alternatives-competitors", "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/tenable/alternatives"]
+  "context": "Tenable Holdings, Inc. is a cyber exposure management company focused on vulnerability management, cloud security, and exposure analytics. IPO. Cyber exposure platform expansion.",
+  "sources": [
+    "https://www.cbinsights.com/company/tenable-network-security/alternatives-competitors",
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/tenable/alternatives"
+  ]
 }

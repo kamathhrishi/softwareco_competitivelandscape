@@ -5,15 +5,41 @@
   "search_query": "Apple competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Samsung", "notes": "20.8% global smartphone share vs Apple's 17.3%"},
-    {"name": "Google", "notes": "Android leading mobile OS, Pixel phones, Fitbit"},
-    {"name": "Xiaomi", "notes": "14.3% market share, fastest-growing competitor"},
-    {"name": "Huawei", "notes": "Strong in Asia with competitive pricing"},
-    {"name": "Microsoft", "notes": "Surface PCs, leads in AI with OpenAI/Copilot"},
-    {"name": "Garmin", "notes": "Wearables competitor (Apple Watch 18.2% share)"},
-    {"name": "Spotify", "notes": "Leading music streaming service"},
-    {"name": "Netflix", "notes": "Streaming video competitor to Apple TV+"}
+    {
+      "name": "Samsung",
+      "notes": "20.8% global smartphone share vs Apple's 17.3%"
+    },
+    {
+      "name": "Google",
+      "notes": "Android leading mobile OS, Pixel phones, Fitbit"
+    },
+    {
+      "name": "Xiaomi",
+      "notes": "14.3% market share, fastest-growing competitor"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Strong in Asia with competitive pricing"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Surface PCs, leads in AI with OpenAI/Copilot"
+    },
+    {
+      "name": "Garmin",
+      "notes": "Wearables competitor (Apple Watch 18.2% share)"
+    },
+    {
+      "name": "Spotify",
+      "notes": "Leading music streaming service"
+    },
+    {
+      "name": "Netflix",
+      "notes": "Streaming video competitor to Apple TV+"
+    }
   ],
-  "context": "Samsung leads smartphones 20.8% vs Apple 17.3%. Xiaomi fastest-growing at 14.3%. Microsoft gained AI edge with OpenAI investment.",
-  "sources": ["https://pitchgrade.com/companies/apple"]
+  "context": "Apple Inc. is a consumer electronics, software, and services company focused on iPhone, Mac, iPad, wearables, and digital services ecosystem. Vision Pro launched. AI features with Apple Intelligence. Services and wearables growing.",
+  "sources": [
+    "https://pitchgrade.com/companies/apple"
+  ]
 }

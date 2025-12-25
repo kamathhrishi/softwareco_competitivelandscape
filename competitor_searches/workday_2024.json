@@ -5,18 +5,55 @@
   "search_query": "Workday competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Oracle HCM Cloud", "notes": "Leader in cloud HCM for nine consecutive years; best alternative for user experience"},
-    {"name": "SAP SuccessFactors", "notes": "Cloud-based HR with talent management; best alternative for global companies"},
-    {"name": "Rippling", "notes": "Fastest-growing modern platform; automation-first approach; unifies HR, IT, and Finance"},
-    {"name": "ADP", "notes": "Comprehensive global payroll and HR; ADP Vantage HCM best for analytics"},
-    {"name": "UKG Pro", "notes": "Result of Ultimate Software and Kronos merger; comprehensive HCM solution"},
-    {"name": "Deel", "notes": "Focuses on global remote hiring and compliance"},
-    {"name": "Remote", "notes": "International employment and payroll management"},
-    {"name": "BambooHR", "notes": "HR, payroll, and workforce management for small to mid-sized businesses"},
-    {"name": "Paycor", "notes": "Mobile-first platform; built with mobile accessibility as core design principle"},
-    {"name": "Zoho People Plus", "notes": "Best alternative for cross-functional integrations"},
-    {"name": "Paylocity", "notes": "Cloud-based payroll and HCM software"}
+    {
+      "name": "Oracle HCM Cloud",
+      "notes": "Leader in cloud HCM for nine consecutive years; best alternative for user experience"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Cloud-based HR with talent management; best alternative for global companies"
+    },
+    {
+      "name": "Rippling",
+      "notes": "Fastest-growing modern platform; automation-first approach; unifies HR, IT, and Finance"
+    },
+    {
+      "name": "ADP",
+      "notes": "Comprehensive global payroll and HR; ADP Vantage HCM best for analytics"
+    },
+    {
+      "name": "UKG Pro",
+      "notes": "Result of Ultimate Software and Kronos merger; comprehensive HCM solution"
+    },
+    {
+      "name": "Deel",
+      "notes": "Focuses on global remote hiring and compliance"
+    },
+    {
+      "name": "Remote",
+      "notes": "International employment and payroll management"
+    },
+    {
+      "name": "BambooHR",
+      "notes": "HR, payroll, and workforce management for small to mid-sized businesses"
+    },
+    {
+      "name": "Paycor",
+      "notes": "Mobile-first platform; built with mobile accessibility as core design principle"
+    },
+    {
+      "name": "Zoho People Plus",
+      "notes": "Best alternative for cross-functional integrations"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Cloud-based payroll and HCM software"
+    }
   ],
-  "context": "By 2024, Workday achieved significant market dominance with annual revenue exceeding $7.3 billion (17% YoY growth) and serving over 10,000 organizations including 50%+ of Fortune 500. The competitive landscape includes established enterprise players, modern cloud-native disruptors (Rippling, Deel, Remote), and mid-market specialists.",
-  "sources": ["https://www.thrivesparrow.com/blog/workday-competitors", "https://www.skuad.io/blog/top-10-workday-competitors-alternatives-in-2024", "https://pitchgrade.com/companies/workday"]
+  "context": "Workday, Inc. is a enterprise cloud applications company focused on HCM, finance, and planning software for enterprises. AI across HCM and financials. Illuminate AI.",
+  "sources": [
+    "https://www.thrivesparrow.com/blog/workday-competitors",
+    "https://www.skuad.io/blog/top-10-workday-competitors-alternatives-in-2024",
+    "https://pitchgrade.com/companies/workday"
+  ]
 }

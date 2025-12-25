@@ -4,18 +4,50 @@
   "year": 2020,
   "search_query": "Tesla competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Tesla joined the S&P 500 and became the world's most valuable automaker. Model Y launched successfully, Shanghai Gigafactory ramped, and stock surged over 700% during the year.",
+  "context": "Tesla, Inc. is a electric vehicle and clean energy company focused on electric vehicles, energy storage, and solar. Most valuable automaker. 500K deliveries achieved.",
   "competitors": [
-    {"name": "Volkswagen", "notes": "ID.3 launched, massive EV investment"},
-    {"name": "GM", "notes": "Announced Ultium platform and Hummer EV"},
-    {"name": "Ford", "notes": "Mustang Mach-E launch"},
-    {"name": "NIO", "notes": "Chinese EV startup growing rapidly"},
-    {"name": "Rivian", "notes": "Pre-production, Amazon investment"},
-    {"name": "Lucid Motors", "notes": "Air sedan coming 2021"},
-    {"name": "Porsche", "notes": "Taycan electric sports car"},
-    {"name": "Audi", "notes": "e-tron SUV"},
-    {"name": "BMW", "notes": "i3, iX3 electric vehicles"},
-    {"name": "Xpeng", "notes": "Chinese EV startup"}
+    {
+      "name": "Volkswagen",
+      "notes": "ID.3 launched, massive EV investment"
+    },
+    {
+      "name": "GM",
+      "notes": "Announced Ultium platform and Hummer EV"
+    },
+    {
+      "name": "Ford",
+      "notes": "Mustang Mach-E launch"
+    },
+    {
+      "name": "NIO",
+      "notes": "Chinese EV startup growing rapidly"
+    },
+    {
+      "name": "Rivian",
+      "notes": "Pre-production, Amazon investment"
+    },
+    {
+      "name": "Lucid Motors",
+      "notes": "Air sedan coming 2021"
+    },
+    {
+      "name": "Porsche",
+      "notes": "Taycan electric sports car"
+    },
+    {
+      "name": "Audi",
+      "notes": "e-tron SUV"
+    },
+    {
+      "name": "BMW",
+      "notes": "i3, iX3 electric vehicles"
+    },
+    {
+      "name": "Xpeng",
+      "notes": "Chinese EV startup"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

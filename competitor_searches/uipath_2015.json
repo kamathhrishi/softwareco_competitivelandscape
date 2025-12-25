@@ -5,12 +5,29 @@
   "search_query": "UiPath RPA competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Blue Prism", "notes": "UK-based RPA pioneer, coined the term 'robotic process automation'"},
-    {"name": "Automation Anywhere", "notes": "Established RPA vendor with enterprise focus"},
-    {"name": "Nice Systems", "notes": "Desktop automation and RPA solutions"},
-    {"name": "Pegasystems", "notes": "BPM with emerging robotic automation capabilities"},
-    {"name": "WorkFusion", "notes": "Intelligent automation combining ML and RPA"}
+    {
+      "name": "Blue Prism",
+      "notes": "UK-based RPA pioneer, coined the term 'robotic process automation'"
+    },
+    {
+      "name": "Automation Anywhere",
+      "notes": "Established RPA vendor with enterprise focus"
+    },
+    {
+      "name": "Nice Systems",
+      "notes": "Desktop automation and RPA solutions"
+    },
+    {
+      "name": "Pegasystems",
+      "notes": "BPM with emerging robotic automation capabilities"
+    },
+    {
+      "name": "WorkFusion",
+      "notes": "Intelligent automation combining ML and RPA"
+    }
   ],
-  "context": "In 2015, UiPath was a small Romanian company (originally DeskOver) pivoting to RPA. Blue Prism and Automation Anywhere were the established RPA leaders. The RPA market was nascent but growing as enterprises sought automation for repetitive tasks. UiPath launched its RPA platform and began its growth trajectory that would make it a market leader. Gartner had not yet created a Magic Quadrant for RPA (first published 2018).",
-  "sources": ["https://www.uipath.com/company/about-us"]
+  "context": "UiPath Inc. is a enterprise automation platform company focused on robotic process automation and AI-powered automation. RPA platform rapid growth.",
+  "sources": [
+    "https://www.uipath.com/company/about-us"
+  ]
 }

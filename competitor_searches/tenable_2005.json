@@ -4,15 +4,38 @@
   "year": 2005,
   "search_query": "Tenable competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Tenable (founded 2002) offered Nessus vulnerability scanner. Early days of enterprise vulnerability management. Security compliance becoming important for organizations.",
+  "context": "Tenable Holdings, Inc. is a cyber exposure management company focused on vulnerability management, cloud security, and exposure analytics. Enterprise vulnerability management growing.",
   "competitors": [
-    {"name": "Qualys", "notes": "Cloud-based vulnerability management"},
-    {"name": "ISS (Internet Security Systems)", "notes": "Network security, acquired by IBM 2006"},
-    {"name": "Foundstone", "notes": "Vulnerability management, acquired by McAfee 2004"},
-    {"name": "eEye Digital Security", "notes": "Retina vulnerability scanner"},
-    {"name": "nCircle", "notes": "Vulnerability management (acquired by Tripwire 2013)"},
-    {"name": "GFI LanGuard", "notes": "Network security scanning"},
-    {"name": "SAINT", "notes": "Vulnerability assessment tool"}
+    {
+      "name": "Qualys",
+      "notes": "Cloud-based vulnerability management"
+    },
+    {
+      "name": "ISS (Internet Security Systems)",
+      "notes": "Network security, acquired by IBM 2006"
+    },
+    {
+      "name": "Foundstone",
+      "notes": "Vulnerability management, acquired by McAfee 2004"
+    },
+    {
+      "name": "eEye Digital Security",
+      "notes": "Retina vulnerability scanner"
+    },
+    {
+      "name": "nCircle",
+      "notes": "Vulnerability management (acquired by Tripwire 2013)"
+    },
+    {
+      "name": "GFI LanGuard",
+      "notes": "Network security scanning"
+    },
+    {
+      "name": "SAINT",
+      "notes": "Vulnerability assessment tool"
+    }
   ],
-  "sources": ["Cybersecurity industry analysis"]
+  "sources": [
+    "Cybersecurity industry analysis"
+  ]
 }

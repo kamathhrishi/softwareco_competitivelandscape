@@ -5,17 +5,51 @@
   "search_query": "ServiceNow competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Zendesk", "notes": "3,570 employees in 2020; revenue surged 26% from $816.4M to $1.03B; AI-powered customer service automation"},
-    {"name": "Atlassian (Jira Service Management)", "notes": "5,752 employees in 2020; $1.6B in revenues; strong integration with development tools"},
-    {"name": "ConnectWise", "notes": "1,865 employees; security-centric platform with IT asset management"},
-    {"name": "BMC Helix ITSM", "notes": "AI-powered ITSM solution for enterprise automation and cost reduction"},
-    {"name": "Freshservice", "notes": "Intuitive ITSM tool with rapid implementation; affordable alternative for SMBs"},
-    {"name": "SolarWinds Service Desk", "notes": "Well-rounded ITSM with incident, problem, and change management"},
-    {"name": "ManageEngine ServiceDesk Plus", "notes": "IT service management solution for help desk and asset management"},
-    {"name": "SAP", "notes": "Enterprise software giant with service management capabilities"},
-    {"name": "Pegasystems", "notes": "Low-code platform with service management and workflow automation"},
-    {"name": "Yonyou", "notes": "Chinese enterprise software provider"}
+    {
+      "name": "Zendesk",
+      "notes": "3,570 employees in 2020; revenue surged 26% from $816.4M to $1.03B; AI-powered customer service automation"
+    },
+    {
+      "name": "Atlassian (Jira Service Management)",
+      "notes": "5,752 employees in 2020; $1.6B in revenues; strong integration with development tools"
+    },
+    {
+      "name": "ConnectWise",
+      "notes": "1,865 employees; security-centric platform with IT asset management"
+    },
+    {
+      "name": "BMC Helix ITSM",
+      "notes": "AI-powered ITSM solution for enterprise automation and cost reduction"
+    },
+    {
+      "name": "Freshservice",
+      "notes": "Intuitive ITSM tool with rapid implementation; affordable alternative for SMBs"
+    },
+    {
+      "name": "SolarWinds Service Desk",
+      "notes": "Well-rounded ITSM with incident, problem, and change management"
+    },
+    {
+      "name": "ManageEngine ServiceDesk Plus",
+      "notes": "IT service management solution for help desk and asset management"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software giant with service management capabilities"
+    },
+    {
+      "name": "Pegasystems",
+      "notes": "Low-code platform with service management and workflow automation"
+    },
+    {
+      "name": "Yonyou",
+      "notes": "Chinese enterprise software provider"
+    }
   ],
-  "context": "In 2020, ServiceNow was a well-established market leader in enterprise ITSM. COVID-19 pandemic accelerated digital transformation and remote work, increasing demand for cloud-based service management.",
-  "sources": ["https://bstrategyhub.com/servicenow-competitors-and-alternatives/", "https://www.blaze.tech/post/servicenow-competitors", "https://craft.co/servicenow/competitors"]
+  "context": "ServiceNow, Inc. is a enterprise workflow platform company focused on IT service management, employee experience, and business workflows. COVID drove digital workflow adoption. Now Platform.",
+  "sources": [
+    "https://bstrategyhub.com/servicenow-competitors-and-alternatives/",
+    "https://www.blaze.tech/post/servicenow-competitors",
+    "https://craft.co/servicenow/competitors"
+  ]
 }

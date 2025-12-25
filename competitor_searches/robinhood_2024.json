@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Robinhood competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Robinhood expanded into retirement accounts, credit cards, and became profitable. The company has 24M+ funded accounts and is the leading app for millennial and Gen Z investors.",
+  "context": "Robinhood Markets, Inc. is a commission-free trading platform focused on stock, options, crypto trading, and cash management. Gold subscription growth. Credit card launch. UK expansion.",
   "competitors": [
-    {"name": "Charles Schwab", "notes": "Largest retail broker with TD Ameritrade integration"},
-    {"name": "Fidelity", "notes": "Major broker competing for younger investors"},
-    {"name": "E*TRADE (Morgan Stanley)", "notes": "Online broker with advanced trading tools"},
-    {"name": "Webull", "notes": "Trading app popular with active traders"},
-    {"name": "Cash App", "notes": "Block's app with stocks and Bitcoin"},
-    {"name": "SoFi", "notes": "Financial super-app with investing, banking, lending"},
-    {"name": "Public", "notes": "Social investing app with alternatives"},
-    {"name": "Coinbase", "notes": "Crypto trading platform"}
+    {
+      "name": "Charles Schwab",
+      "notes": "Largest retail broker with TD Ameritrade integration"
+    },
+    {
+      "name": "Fidelity",
+      "notes": "Major broker competing for younger investors"
+    },
+    {
+      "name": "E*TRADE (Morgan Stanley)",
+      "notes": "Online broker with advanced trading tools"
+    },
+    {
+      "name": "Webull",
+      "notes": "Trading app popular with active traders"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Block's app with stocks and Bitcoin"
+    },
+    {
+      "name": "SoFi",
+      "notes": "Financial super-app with investing, banking, lending"
+    },
+    {
+      "name": "Public",
+      "notes": "Social investing app with alternatives"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "Crypto trading platform"
+    }
   ],
-  "sources": ["Retail brokerage industry analysis"]
+  "sources": [
+    "Retail brokerage industry analysis"
+  ]
 }

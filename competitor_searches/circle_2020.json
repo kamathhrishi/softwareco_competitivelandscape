@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Circle Internet Group competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Circle focused on USDC stablecoin growth during DeFi summer. USDC gained traction as regulated alternative to Tether, growing from $500M to $4B market cap during the year.",
+  "context": "Circle Internet Financial is a digital currency and payments company focused on USDC stablecoin and blockchain infrastructure. USDC stablecoin growth. Partnership with Coinbase on Centre Consortium.",
   "competitors": [
-    {"name": "Tether", "notes": "Dominant stablecoin with regulatory concerns"},
-    {"name": "Paxos", "notes": "PAX stablecoin and Binance USD"},
-    {"name": "Gemini", "notes": "GUSD stablecoin"},
-    {"name": "TrueUSD", "notes": "Trust Token stablecoins"},
-    {"name": "MakerDAO", "notes": "Decentralized DAI stablecoin"},
-    {"name": "Coinbase", "notes": "USDC partner exchange"},
-    {"name": "Binance", "notes": "BUSD with Paxos"},
-    {"name": "Traditional Remittances", "notes": "Western Union, MoneyGram"}
+    {
+      "name": "Tether",
+      "notes": "Dominant stablecoin with regulatory concerns"
+    },
+    {
+      "name": "Paxos",
+      "notes": "PAX stablecoin and Binance USD"
+    },
+    {
+      "name": "Gemini",
+      "notes": "GUSD stablecoin"
+    },
+    {
+      "name": "TrueUSD",
+      "notes": "Trust Token stablecoins"
+    },
+    {
+      "name": "MakerDAO",
+      "notes": "Decentralized DAI stablecoin"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "USDC partner exchange"
+    },
+    {
+      "name": "Binance",
+      "notes": "BUSD with Paxos"
+    },
+    {
+      "name": "Traditional Remittances",
+      "notes": "Western Union, MoneyGram"
+    }
   ],
-  "sources": ["Crypto industry analysis"]
+  "sources": [
+    "Crypto industry analysis"
+  ]
 }

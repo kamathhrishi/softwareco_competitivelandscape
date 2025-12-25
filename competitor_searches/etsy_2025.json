@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Etsy competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Etsy is the leading marketplace for unique, handmade, and vintage goods with 90M+ buyers. The company owns Depop (fashion resale) and Reverb (music gear marketplace).",
+  "context": "Etsy, Inc. is a e-commerce marketplace for handmade and vintage goods focused on artisan marketplace, unique items, and creative entrepreneurship. Unique goods marketplace. Competing with Amazon Handmade, eBay.",
   "competitors": [
-    {"name": "Amazon", "notes": "E-commerce giant with Handmade and endless selection"},
-    {"name": "eBay", "notes": "Marketplace for collectibles, vintage, and unique goods"},
-    {"name": "Shopify", "notes": "Platform for independent sellers and brands"},
-    {"name": "Temu/Shein", "notes": "Low-cost competition affecting handmade economics"},
-    {"name": "Poshmark", "notes": "Social commerce for fashion resale"},
-    {"name": "Mercari", "notes": "General resale marketplace"},
-    {"name": "TikTok Shop", "notes": "Social commerce with creator-driven sales"},
-    {"name": "Faire", "notes": "B2B wholesale marketplace for independent retailers"}
+    {
+      "name": "Amazon",
+      "notes": "E-commerce giant with Handmade and endless selection"
+    },
+    {
+      "name": "eBay",
+      "notes": "Marketplace for collectibles, vintage, and unique goods"
+    },
+    {
+      "name": "Shopify",
+      "notes": "Platform for independent sellers and brands"
+    },
+    {
+      "name": "Temu/Shein",
+      "notes": "Low-cost competition affecting handmade economics"
+    },
+    {
+      "name": "Poshmark",
+      "notes": "Social commerce for fashion resale"
+    },
+    {
+      "name": "Mercari",
+      "notes": "General resale marketplace"
+    },
+    {
+      "name": "TikTok Shop",
+      "notes": "Social commerce with creator-driven sales"
+    },
+    {
+      "name": "Faire",
+      "notes": "B2B wholesale marketplace for independent retailers"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

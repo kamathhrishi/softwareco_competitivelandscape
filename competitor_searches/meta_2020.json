@@ -5,14 +5,37 @@
   "search_query": "Facebook competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "TikTok", "notes": "Most downloaded app, nearly 2B downloads, 800M+ users"},
-    {"name": "Google", "notes": "70% of digital ad dollars with Amazon & Facebook"},
-    {"name": "Amazon", "notes": "8.8% ad share"},
-    {"name": "Zoom", "notes": "Video conferencing success in pandemic"},
-    {"name": "VK", "notes": "85M active users in Russia vs Facebook's 8M"},
-    {"name": "Twitter", "notes": "Social media and real-time information"},
-    {"name": "Snapchat", "notes": "Strong with younger demographics"}
+    {
+      "name": "TikTok",
+      "notes": "Most downloaded app, nearly 2B downloads, 800M+ users"
+    },
+    {
+      "name": "Google",
+      "notes": "70% of digital ad dollars with Amazon & Facebook"
+    },
+    {
+      "name": "Amazon",
+      "notes": "8.8% ad share"
+    },
+    {
+      "name": "Zoom",
+      "notes": "Video conferencing success in pandemic"
+    },
+    {
+      "name": "VK",
+      "notes": "85M active users in Russia vs Facebook's 8M"
+    },
+    {
+      "name": "Twitter",
+      "notes": "Social media and real-time information"
+    },
+    {
+      "name": "Snapchat",
+      "notes": "Strong with younger demographics"
+    }
   ],
-  "context": "TikTok emerged as formidable competitor. Facebook launched Reels (Aug 2020) and Rooms. Pandemic accelerated digital adoption.",
-  "sources": ["https://comashal.com/top-facebook-competitors/"]
+  "context": "Meta Platforms, Inc. is a social media and technology company focused on Facebook, Instagram, WhatsApp, and metaverse investments. Rebranded to Meta. Metaverse pivot announced.",
+  "sources": [
+    "https://comashal.com/top-facebook-competitors/"
+  ]
 }

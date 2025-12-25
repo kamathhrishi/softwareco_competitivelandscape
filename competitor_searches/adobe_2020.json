@@ -5,18 +5,55 @@
   "search_query": "Adobe competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Biggest competitor, leader of SaaS segment with 17% share in $101B market vs Adobe's 10%"},
-    {"name": "Google", "notes": "2020 revenue: $182.5B (up 12.89%), 15x more than Adobe's $12B. Google Analytics is top competitor for Adobe Analytics"},
-    {"name": "Autodesk", "notes": "2020 revenue: $3.79B (up 15.76%). Long-standing competitor in creative software"},
-    {"name": "Salesforce", "notes": "2020 revenue: $21.25B, 60,000+ employees. Cloud-based CRM and marketing automation competitor"},
-    {"name": "SAP", "notes": "Enterprise software and cloud solutions competitor"},
-    {"name": "Oracle", "notes": "Enterprise software and cloud platform competitor"},
-    {"name": "IBM", "notes": "Enterprise software and cloud services competitor"},
-    {"name": "Corel", "notes": "Creative software including CorelCAD 2020, Painter 2020, PaintShop Pro 2020"},
-    {"name": "Avid", "notes": "Professional media creation software competitor"},
-    {"name": "Quark", "notes": "Desktop publishing software competitor"},
-    {"name": "Apple", "notes": "Creative software and hardware ecosystem competitor"}
+    {
+      "name": "Microsoft",
+      "notes": "Biggest competitor, leader of SaaS segment with 17% share in $101B market vs Adobe's 10%"
+    },
+    {
+      "name": "Google",
+      "notes": "2020 revenue: $182.5B (up 12.89%), 15x more than Adobe's $12B. Google Analytics is top competitor for Adobe Analytics"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "2020 revenue: $3.79B (up 15.76%). Long-standing competitor in creative software"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "2020 revenue: $21.25B, 60,000+ employees. Cloud-based CRM and marketing automation competitor"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software and cloud solutions competitor"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software and cloud platform competitor"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise software and cloud services competitor"
+    },
+    {
+      "name": "Corel",
+      "notes": "Creative software including CorelCAD 2020, Painter 2020, PaintShop Pro 2020"
+    },
+    {
+      "name": "Avid",
+      "notes": "Professional media creation software competitor"
+    },
+    {
+      "name": "Quark",
+      "notes": "Desktop publishing software competitor"
+    },
+    {
+      "name": "Apple",
+      "notes": "Creative software and hardware ecosystem competitor"
+    }
   ],
-  "context": "By 2020, Adobe's revenue had nearly tripled from $4B in 2013 to $12.87B. Microsoft emerged as the biggest competitor, leading the SaaS market with 17% share vs Adobe's 10%.",
-  "sources": ["https://bstrategyhub.com/adobe-competitors-alternatives/", "https://whatcompetitors.com/adobe/", "https://csimarket.com/stocks/compet_glance.php?code=ADBE"]
+  "context": "Adobe Inc. is a creative software and digital experience company focused on creative tools, document management, and digital marketing solutions. Remote work boosted Creative Cloud subscriptions. Document Cloud and e-signatures saw major growth.",
+  "sources": [
+    "https://bstrategyhub.com/adobe-competitors-alternatives/",
+    "https://whatcompetitors.com/adobe/",
+    "https://csimarket.com/stocks/compet_glance.php?code=ADBE"
+  ]
 }

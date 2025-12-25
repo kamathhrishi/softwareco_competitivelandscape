@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Robinhood competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Robinhood saw explosive growth during pandemic as retail trading surged. The commission-free pioneer added millions of accounts as stimulus checks and stay-at-home orders drove trading activity.",
+  "context": "Robinhood Markets, Inc. is a commission-free trading platform focused on stock, options, crypto trading, and cash management. Pandemic trading boom. Meme stock controversy.",
   "competitors": [
-    {"name": "E*TRADE", "notes": "Online broker acquired by Morgan Stanley in 2020"},
-    {"name": "TD Ameritrade", "notes": "Major discount broker acquired by Charles Schwab"},
-    {"name": "Charles Schwab", "notes": "Largest retail broker, eliminated commissions in 2019"},
-    {"name": "Fidelity", "notes": "Major broker with retirement and trading accounts"},
-    {"name": "Webull", "notes": "Commission-free trading app competing with Robinhood"},
-    {"name": "Interactive Brokers", "notes": "Broker for active traders with IBKR Lite"},
-    {"name": "Cash App", "notes": "Square's app adding stock and Bitcoin trading"},
-    {"name": "Coinbase", "notes": "Crypto trading platform"}
+    {
+      "name": "E*TRADE",
+      "notes": "Online broker acquired by Morgan Stanley in 2020"
+    },
+    {
+      "name": "TD Ameritrade",
+      "notes": "Major discount broker acquired by Charles Schwab"
+    },
+    {
+      "name": "Charles Schwab",
+      "notes": "Largest retail broker, eliminated commissions in 2019"
+    },
+    {
+      "name": "Fidelity",
+      "notes": "Major broker with retirement and trading accounts"
+    },
+    {
+      "name": "Webull",
+      "notes": "Commission-free trading app competing with Robinhood"
+    },
+    {
+      "name": "Interactive Brokers",
+      "notes": "Broker for active traders with IBKR Lite"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Square's app adding stock and Bitcoin trading"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "Crypto trading platform"
+    }
   ],
-  "sources": ["Retail brokerage industry analysis"]
+  "sources": [
+    "Retail brokerage industry analysis"
+  ]
 }

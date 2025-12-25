@@ -5,17 +5,51 @@
   "search_query": "Domo BI analytics competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft Power BI", "notes": "Cloud-based analytics platform integrated with Microsoft ecosystem, became major competitor after 2011 launch"},
-    {"name": "Tableau", "notes": "Leading data visualization tool with interactive dashboards and reports, acquired by Salesforce in 2019"},
-    {"name": "Looker", "notes": "Cloud-based BI platform acquired by Google Cloud in 2019, known for LookML modeling language"},
-    {"name": "Qlik Sense", "notes": "Self-service data visualization and discovery application, evolution of QlikView"},
-    {"name": "Sisense", "notes": "BI platform for complex data analytics, competitor in cloud BI space"},
-    {"name": "MicroStrategy", "notes": "Enterprise BI platform with interactive dashboards and advanced analytics capabilities"},
-    {"name": "Amazon QuickSight", "notes": "AWS cloud-based BI service for visualizations and ad-hoc analysis, launched 2016"},
-    {"name": "IBM Cognos Analytics", "notes": "Enterprise BI platform with reporting and dashboarding features"},
-    {"name": "Zoho Analytics", "notes": "Self-service BI and data analytics software with data visualizations and dashboards"},
-    {"name": "Alteryx", "notes": "Data analytics platform noted as strong overall alternative to Domo"}
+    {
+      "name": "Microsoft Power BI",
+      "notes": "Cloud-based analytics platform integrated with Microsoft ecosystem, became major competitor after 2011 launch"
+    },
+    {
+      "name": "Tableau",
+      "notes": "Leading data visualization tool with interactive dashboards and reports, acquired by Salesforce in 2019"
+    },
+    {
+      "name": "Looker",
+      "notes": "Cloud-based BI platform acquired by Google Cloud in 2019, known for LookML modeling language"
+    },
+    {
+      "name": "Qlik Sense",
+      "notes": "Self-service data visualization and discovery application, evolution of QlikView"
+    },
+    {
+      "name": "Sisense",
+      "notes": "BI platform for complex data analytics, competitor in cloud BI space"
+    },
+    {
+      "name": "MicroStrategy",
+      "notes": "Enterprise BI platform with interactive dashboards and advanced analytics capabilities"
+    },
+    {
+      "name": "Amazon QuickSight",
+      "notes": "AWS cloud-based BI service for visualizations and ad-hoc analysis, launched 2016"
+    },
+    {
+      "name": "IBM Cognos Analytics",
+      "notes": "Enterprise BI platform with reporting and dashboarding features"
+    },
+    {
+      "name": "Zoho Analytics",
+      "notes": "Self-service BI and data analytics software with data visualizations and dashboards"
+    },
+    {
+      "name": "Alteryx",
+      "notes": "Data analytics platform noted as strong overall alternative to Domo"
+    }
   ],
-  "context": "By 2020, the cloud BI market had matured significantly. Major tech companies had acquired key players (Salesforce-Tableau 2019, Google-Looker 2019). Microsoft Power BI had become a dominant force with its affordable pricing and Microsoft ecosystem integration. The competitive landscape was characterized by cloud-native solutions, self-service analytics, and integration capabilities. Domo competed in a crowded market against both established enterprise vendors and newer cloud-first platforms.",
-  "sources": ["https://www.zoho.com/analytics/insightshq/top-5-domo-alternatives.html", "https://improvado.io/blog/domo-alternatives-and-competitors", "https://www.thoughtspot.com/data-trends/business-intelligence/domo-competitors-and-alternatives"]
+  "context": "Domo, Inc. is a cloud-based business intelligence platform focused on data visualization, analytics, and business intelligence for enterprises. Focus on profitability. Data apps and embedded analytics.",
+  "sources": [
+    "https://www.zoho.com/analytics/insightshq/top-5-domo-alternatives.html",
+    "https://improvado.io/blog/domo-alternatives-and-competitors",
+    "https://www.thoughtspot.com/data-trends/business-intelligence/domo-competitors-and-alternatives"
+  ]
 }

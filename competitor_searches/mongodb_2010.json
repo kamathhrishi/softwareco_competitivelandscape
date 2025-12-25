@@ -5,14 +5,37 @@
   "search_query": "MongoDB database competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "MySQL", "notes": "Traditional relational database, widely used for web applications"},
-    {"name": "PostgreSQL", "notes": "Open-source relational database with strong ACID compliance"},
-    {"name": "Oracle Database", "notes": "Enterprise relational database management system"},
-    {"name": "Apache Cassandra", "notes": "NoSQL database originally developed at Facebook"},
-    {"name": "Redis", "notes": "In-memory data store for caching and real-time analytics"},
-    {"name": "Apache CouchDB", "notes": "Early document-oriented NoSQL database"},
-    {"name": "Apache HBase", "notes": "Wide-column NoSQL database built on Hadoop"}
+    {
+      "name": "MySQL",
+      "notes": "Traditional relational database, widely used for web applications"
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Open-source relational database with strong ACID compliance"
+    },
+    {
+      "name": "Oracle Database",
+      "notes": "Enterprise relational database management system"
+    },
+    {
+      "name": "Apache Cassandra",
+      "notes": "NoSQL database originally developed at Facebook"
+    },
+    {
+      "name": "Redis",
+      "notes": "In-memory data store for caching and real-time analytics"
+    },
+    {
+      "name": "Apache CouchDB",
+      "notes": "Early document-oriented NoSQL database"
+    },
+    {
+      "name": "Apache HBase",
+      "notes": "Wide-column NoSQL database built on Hadoop"
+    }
   ],
-  "context": "By 2010, the NoSQL movement was gaining momentum. MongoDB was establishing itself as a leading document database while competing against both traditional relational databases and emerging NoSQL alternatives.",
-  "sources": ["https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/mongodb/alternatives"]
+  "context": "MongoDB, Inc. is a database platform company focused on document database, Atlas cloud, and developer data platform. NoSQL database gaining adoption. Developer-friendly.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/mongodb/alternatives"
+  ]
 }

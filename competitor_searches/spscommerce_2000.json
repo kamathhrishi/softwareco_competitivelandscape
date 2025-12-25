@@ -5,10 +5,22 @@
   "search_query": "SPS Commerce EDI supply chain competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Sterling Commerce (IBM)", "notes": "Major EDI provider offering on-premise solutions"},
-    {"name": "GXS (OpenText)", "notes": "Leading EDI and B2B integration provider"},
-    {"name": "Traditional EDI Providers", "notes": "Numerous on-premise EDI vendors dominated the market"}
+    {
+      "name": "Sterling Commerce (IBM)",
+      "notes": "Major EDI provider offering on-premise solutions"
+    },
+    {
+      "name": "GXS (OpenText)",
+      "notes": "Leading EDI and B2B integration provider"
+    },
+    {
+      "name": "Traditional EDI Providers",
+      "notes": "Numerous on-premise EDI vendors dominated the market"
+    }
   ],
-  "context": "In 2000, SPS Commerce (founded 1987) was in early years and EDI market dominated by on-premise solutions. Major competitors like Sterling Commerce and GXS offered primarily on-premise EDI. Cloud-based EDI not yet a significant segment.",
-  "sources": ["https://www.g2.com/products/sps-commerce-fulfillment-edi/competitors/alternatives", "https://www.cbinsights.com/company/sps-commerce/alternatives-competitors"]
+  "context": "SPS Commerce, Inc. is a supply chain management software company focused on EDI, analytics, and retail supply chain network. Founded for EDI and supply chain connectivity.",
+  "sources": [
+    "https://www.g2.com/products/sps-commerce-fulfillment-edi/competitors/alternatives",
+    "https://www.cbinsights.com/company/sps-commerce/alternatives-competitors"
+  ]
 }

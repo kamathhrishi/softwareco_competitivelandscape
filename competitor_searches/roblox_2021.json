@@ -4,16 +4,42 @@
   "year": 2021,
   "search_query": "Roblox competitors 2021",
   "search_date": "2024-12-24",
-  "context": "Roblox went public via direct listing in March 2021. The platform had 42M+ daily active users, primarily children and teens, creating and playing user-generated games.",
+  "context": "Roblox Corporation is a online gaming and creation platform focused on user-generated gaming experiences and virtual economy. Direct listing IPO. Kids gaming platform dominant.",
   "competitors": [
-    {"name": "Minecraft (Microsoft)", "notes": "Block-building game with 140M+ monthly players"},
-    {"name": "Fortnite", "notes": "Epic Games battle royale and social platform"},
-    {"name": "Epic Games", "notes": "Unreal Engine and Fortnite competing for creators"},
-    {"name": "Unity", "notes": "Game engine powering many developers"},
-    {"name": "Among Us", "notes": "Social deduction game popular with similar audience"},
-    {"name": "YouTube/YouTube Kids", "notes": "Video platform competing for kids' attention"},
-    {"name": "TikTok", "notes": "Short-form video capturing young audiences"},
-    {"name": "Discord", "notes": "Gaming community platform"}
+    {
+      "name": "Minecraft (Microsoft)",
+      "notes": "Block-building game with 140M+ monthly players"
+    },
+    {
+      "name": "Fortnite",
+      "notes": "Epic Games battle royale and social platform"
+    },
+    {
+      "name": "Epic Games",
+      "notes": "Unreal Engine and Fortnite competing for creators"
+    },
+    {
+      "name": "Unity",
+      "notes": "Game engine powering many developers"
+    },
+    {
+      "name": "Among Us",
+      "notes": "Social deduction game popular with similar audience"
+    },
+    {
+      "name": "YouTube/YouTube Kids",
+      "notes": "Video platform competing for kids' attention"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Short-form video capturing young audiences"
+    },
+    {
+      "name": "Discord",
+      "notes": "Gaming community platform"
+    }
   ],
-  "sources": ["Gaming industry analysis"]
+  "sources": [
+    "Gaming industry analysis"
+  ]
 }

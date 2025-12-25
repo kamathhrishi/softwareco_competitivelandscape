@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "ARM Holdings competitors 2025",
   "search_date": "2024-12-24",
-  "context": "ARM is the dominant CPU architecture for mobile devices and increasingly for data centers and AI. The company licenses chip designs used in 99% of smartphones. Stock has surged on AI demand.",
+  "context": "Arm Holdings plc is a semiconductor IP and architecture licensing company focused on processor architecture licensing for mobile, IoT, automotive, and data centers. Essential AI infrastructure IP. Armv9 adoption across devices and data centers.",
   "competitors": [
-    {"name": "Intel", "notes": "x86 architecture for PCs and servers"},
-    {"name": "AMD", "notes": "x86 competitor, also licensing ARM for some products"},
-    {"name": "RISC-V", "notes": "Open-source instruction set architecture"},
-    {"name": "NVIDIA", "notes": "GPU leader, designs ARM-based chips"},
-    {"name": "Qualcomm", "notes": "Major ARM licensee, also competitor in some areas"},
-    {"name": "Apple", "notes": "Designs own ARM chips (M-series, A-series)"},
-    {"name": "MIPS", "notes": "Alternative RISC architecture"},
-    {"name": "Imagination Technologies", "notes": "GPU IP competitor"}
+    {
+      "name": "Intel",
+      "notes": "x86 architecture for PCs and servers"
+    },
+    {
+      "name": "AMD",
+      "notes": "x86 competitor, also licensing ARM for some products"
+    },
+    {
+      "name": "RISC-V",
+      "notes": "Open-source instruction set architecture"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "GPU leader, designs ARM-based chips"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Major ARM licensee, also competitor in some areas"
+    },
+    {
+      "name": "Apple",
+      "notes": "Designs own ARM chips (M-series, A-series)"
+    },
+    {
+      "name": "MIPS",
+      "notes": "Alternative RISC architecture"
+    },
+    {
+      "name": "Imagination Technologies",
+      "notes": "GPU IP competitor"
+    }
   ],
-  "sources": ["Semiconductor industry analysis"]
+  "sources": [
+    "Semiconductor industry analysis"
+  ]
 }

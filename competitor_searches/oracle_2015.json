@@ -5,13 +5,33 @@
   "search_query": "Oracle competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Dynamics 365, Azure, SQL Server, Power BI (36% BI market share)"},
-    {"name": "Amazon (AWS)", "notes": "32% cloud market share, 9 years before Oracle Cloud"},
-    {"name": "SAP", "notes": "ERP leader with S/4HANA and HANA database"},
-    {"name": "Salesforce", "notes": "CRM leader with 21.9% share vs Oracle's 5%"},
-    {"name": "IBM", "notes": "Hybrid cloud approach competitor"},
-    {"name": "Google Cloud", "notes": "AI/ML expertise, cloud competitor"}
+    {
+      "name": "Microsoft",
+      "notes": "Dynamics 365, Azure, SQL Server, Power BI (36% BI market share)"
+    },
+    {
+      "name": "Amazon (AWS)",
+      "notes": "32% cloud market share, 9 years before Oracle Cloud"
+    },
+    {
+      "name": "SAP",
+      "notes": "ERP leader with S/4HANA and HANA database"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "CRM leader with 21.9% share vs Oracle's 5%"
+    },
+    {
+      "name": "IBM",
+      "notes": "Hybrid cloud approach competitor"
+    },
+    {
+      "name": "Google Cloud",
+      "notes": "AI/ML expertise, cloud competitor"
+    }
   ],
-  "context": "Oracle entered cloud market with OCI in 2015, 9 years after AWS. Microsoft Power BI dominated BI with 36% share. AWS at 32% cloud share.",
-  "sources": ["https://www.myshortlister.com/insights/enterprise-software-oracle-competitors"]
+  "context": "Oracle Corporation is a enterprise software and cloud infrastructure company focused on databases, enterprise applications, and cloud infrastructure. Cloud transition push. Competing with Salesforce, AWS.",
+  "sources": [
+    "https://www.myshortlister.com/insights/enterprise-software-oracle-competitors"
+  ]
 }

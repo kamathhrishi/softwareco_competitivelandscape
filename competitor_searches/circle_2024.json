@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Circle Internet Group competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Circle prepared for IPO after failed 2021 SPAC attempt. USDC maintained position as second-largest stablecoin. Company earned $156M net income on $1.68B revenue in 2024.",
+  "context": "Circle Internet Financial is a digital currency and payments company focused on USDC stablecoin and blockchain infrastructure. USDC market cap growth. IPO filing. Regulatory engagement.",
   "competitors": [
-    {"name": "Tether", "notes": "USDT dominates stablecoin market"},
-    {"name": "Paxos", "notes": "Stablecoin infrastructure provider"},
-    {"name": "PayPal", "notes": "Launched PYUSD stablecoin"},
-    {"name": "Coinbase", "notes": "USDC distribution partner"},
-    {"name": "Ripple", "notes": "XRP and enterprise payments"},
-    {"name": "MakerDAO", "notes": "Decentralized stablecoin DAI"},
-    {"name": "Fireblocks", "notes": "Digital asset infrastructure"},
-    {"name": "BitGo", "notes": "Crypto custody and infrastructure"}
+    {
+      "name": "Tether",
+      "notes": "USDT dominates stablecoin market"
+    },
+    {
+      "name": "Paxos",
+      "notes": "Stablecoin infrastructure provider"
+    },
+    {
+      "name": "PayPal",
+      "notes": "Launched PYUSD stablecoin"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "USDC distribution partner"
+    },
+    {
+      "name": "Ripple",
+      "notes": "XRP and enterprise payments"
+    },
+    {
+      "name": "MakerDAO",
+      "notes": "Decentralized stablecoin DAI"
+    },
+    {
+      "name": "Fireblocks",
+      "notes": "Digital asset infrastructure"
+    },
+    {
+      "name": "BitGo",
+      "notes": "Crypto custody and infrastructure"
+    }
   ],
-  "sources": ["Crypto industry analysis"]
+  "sources": [
+    "Crypto industry analysis"
+  ]
 }

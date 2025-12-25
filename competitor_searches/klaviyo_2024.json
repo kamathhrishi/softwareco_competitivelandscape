@@ -5,19 +5,59 @@
   "search_query": "Klaviyo competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Omnisend", "notes": "Leading ecommerce alternative, more affordable with multi-channel approach (email, SMS, push)"},
-    {"name": "Braze", "notes": "Enterprise multi-channel platform ($400M+ ARR)"},
-    {"name": "ActiveCampaign", "notes": "Best for automation with full-service platform"},
-    {"name": "Moosend", "notes": "Advanced ecommerce features at competitive pricing"},
-    {"name": "Attentive", "notes": "Personalized SMS and email marketing"},
-    {"name": "Postscript", "notes": "SMS marketing for Shopify brands"},
-    {"name": "Brevo", "notes": "AI-powered personalization, affordable option"},
-    {"name": "Listrak", "notes": "Enterprise-level solution for large organizations"},
-    {"name": "Mailchimp", "notes": "Still popular but viewed as basic compared to Klaviyo"},
-    {"name": "Drip", "notes": "Ecommerce-focused email and SMS platform"},
-    {"name": "HubSpot", "notes": "Comprehensive CRM and marketing platform"},
-    {"name": "Iterable", "notes": "Cross-channel marketing platform for enterprises"}
+    {
+      "name": "Omnisend",
+      "notes": "Leading ecommerce alternative, more affordable with multi-channel approach (email, SMS, push)"
+    },
+    {
+      "name": "Braze",
+      "notes": "Enterprise multi-channel platform ($400M+ ARR)"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "Best for automation with full-service platform"
+    },
+    {
+      "name": "Moosend",
+      "notes": "Advanced ecommerce features at competitive pricing"
+    },
+    {
+      "name": "Attentive",
+      "notes": "Personalized SMS and email marketing"
+    },
+    {
+      "name": "Postscript",
+      "notes": "SMS marketing for Shopify brands"
+    },
+    {
+      "name": "Brevo",
+      "notes": "AI-powered personalization, affordable option"
+    },
+    {
+      "name": "Listrak",
+      "notes": "Enterprise-level solution for large organizations"
+    },
+    {
+      "name": "Mailchimp",
+      "notes": "Still popular but viewed as basic compared to Klaviyo"
+    },
+    {
+      "name": "Drip",
+      "notes": "Ecommerce-focused email and SMS platform"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Comprehensive CRM and marketing platform"
+    },
+    {
+      "name": "Iterable",
+      "notes": "Cross-channel marketing platform for enterprises"
+    }
   ],
-  "context": "In 2024, Klaviyo faces a highly competitive landscape with pressure on pricing and feature differentiation. The market has evolved to emphasize advanced personalization, AI integration, and omnichannel capabilities. Competitors position on ease of use and affordability as alternatives to Klaviyo's premium pricing. SMS marketing and AI-powered features have become standard expectations.",
-  "sources": ["https://www.trymaverick.com/blog-posts/whos-challenging-klaviyo-a-comprehensive-review-of-top-klaviyo-competitors-in-2024", "https://www.emailtooltester.com/en/blog/klaviyo-competitors/", "https://www.sender.net/blog/klaviyo-alternatives/"]
+  "context": "Klaviyo, Inc. is a marketing automation platform focused on email and SMS marketing for e-commerce. IPO. AI-powered marketing. CDP expansion.",
+  "sources": [
+    "https://www.trymaverick.com/blog-posts/whos-challenging-klaviyo-a-comprehensive-review-of-top-klaviyo-competitors-in-2024",
+    "https://www.emailtooltester.com/en/blog/klaviyo-competitors/",
+    "https://www.sender.net/blog/klaviyo-alternatives/"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Teladoc competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Teladoc is the largest virtual care provider facing post-pandemic normalization. The company offers telehealth, mental health (BetterHelp), and chronic care management (Livongo).",
+  "context": "Teladoc Health, Inc. is a virtual healthcare company focused on telehealth, chronic care management, and mental health. Integrated virtual care platform. Goodwill writedown.",
   "competitors": [
-    {"name": "Amazon Clinic", "notes": "Amazon's virtual care and pharmacy service"},
-    {"name": "CVS Health", "notes": "Aetna insurance, MinuteClinic, and virtual care"},
-    {"name": "UnitedHealth/Optum", "notes": "Virtual care integrated with insurance"},
-    {"name": "Amwell", "notes": "Telehealth platform for health systems"},
-    {"name": "Talkspace", "notes": "Online therapy competitor to BetterHelp"},
-    {"name": "Hims & Hers", "notes": "Telehealth for specific conditions"},
-    {"name": "Ro", "notes": "Digital health with telehealth and pharmacy"},
-    {"name": "Health System Telehealth", "notes": "Epic, health systems with own platforms"}
+    {
+      "name": "Amazon Clinic",
+      "notes": "Amazon's virtual care and pharmacy service"
+    },
+    {
+      "name": "CVS Health",
+      "notes": "Aetna insurance, MinuteClinic, and virtual care"
+    },
+    {
+      "name": "UnitedHealth/Optum",
+      "notes": "Virtual care integrated with insurance"
+    },
+    {
+      "name": "Amwell",
+      "notes": "Telehealth platform for health systems"
+    },
+    {
+      "name": "Talkspace",
+      "notes": "Online therapy competitor to BetterHelp"
+    },
+    {
+      "name": "Hims & Hers",
+      "notes": "Telehealth for specific conditions"
+    },
+    {
+      "name": "Ro",
+      "notes": "Digital health with telehealth and pharmacy"
+    },
+    {
+      "name": "Health System Telehealth",
+      "notes": "Epic, health systems with own platforms"
+    }
   ],
-  "sources": ["Digital health industry analysis"]
+  "sources": [
+    "Digital health industry analysis"
+  ]
 }

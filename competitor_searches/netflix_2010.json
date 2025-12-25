@@ -4,16 +4,42 @@
   "year": 2010,
   "search_query": "Netflix competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Netflix was transitioning from DVD-by-mail to streaming, with 20M subscribers. The company pioneered streaming video on demand while cable TV remained dominant.",
+  "context": "Netflix, Inc. is a streaming entertainment service focused on subscription video streaming and original content production. Streaming pivot. International expansion beginning.",
   "competitors": [
-    {"name": "Blockbuster", "notes": "Video rental chain struggling to compete (bankrupt 2010)"},
-    {"name": "Redbox", "notes": "DVD rental kiosks at retail locations"},
-    {"name": "Hulu", "notes": "Streaming service from NBC, Fox, and Disney"},
-    {"name": "Amazon Prime Video", "notes": "Amazon's streaming service launched 2006"},
-    {"name": "Cable TV", "notes": "Traditional pay TV from Comcast, Time Warner"},
-    {"name": "HBO", "notes": "Premium cable channel with original content"},
-    {"name": "iTunes", "notes": "Apple's video purchase and rental service"},
-    {"name": "Vudu", "notes": "Digital video purchase and rental"}
+    {
+      "name": "Blockbuster",
+      "notes": "Video rental chain struggling to compete (bankrupt 2010)"
+    },
+    {
+      "name": "Redbox",
+      "notes": "DVD rental kiosks at retail locations"
+    },
+    {
+      "name": "Hulu",
+      "notes": "Streaming service from NBC, Fox, and Disney"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "notes": "Amazon's streaming service launched 2006"
+    },
+    {
+      "name": "Cable TV",
+      "notes": "Traditional pay TV from Comcast, Time Warner"
+    },
+    {
+      "name": "HBO",
+      "notes": "Premium cable channel with original content"
+    },
+    {
+      "name": "iTunes",
+      "notes": "Apple's video purchase and rental service"
+    },
+    {
+      "name": "Vudu",
+      "notes": "Digital video purchase and rental"
+    }
   ],
-  "sources": ["Streaming industry analysis"]
+  "sources": [
+    "Streaming industry analysis"
+  ]
 }

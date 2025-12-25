@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "FICO competitors 2025",
   "search_date": "2024-12-24",
-  "context": "FICO is the leading provider of credit scoring and decision management solutions. The FICO Score is used in over 90% of US lending decisions. The company also provides fraud detection and analytics software.",
+  "context": "Fair Isaac Corporation is a analytics and decision management company focused on credit scoring, fraud detection, and decision optimization. Decision intelligence platform. Analytics and scoring leader.",
   "competitors": [
-    {"name": "Equifax", "notes": "Credit bureau with competing analytics and decisioning solutions"},
-    {"name": "Experian", "notes": "Credit bureau offering alternative credit scores and decisioning tools"},
-    {"name": "TransUnion", "notes": "Credit bureau with risk management and fraud prevention solutions"},
-    {"name": "VantageScore", "notes": "Alternative credit scoring model created by the three bureaus"},
-    {"name": "LexisNexis Risk Solutions", "notes": "Analytics and decisioning for financial services and insurance"},
-    {"name": "SAS", "notes": "Analytics software competing in fraud detection and risk management"},
-    {"name": "Featurespace", "notes": "AI-powered fraud prevention competing with FICO Falcon"},
-    {"name": "Provenir", "notes": "AI-powered risk decisioning platform for financial services"}
+    {
+      "name": "Equifax",
+      "notes": "Credit bureau with competing analytics and decisioning solutions"
+    },
+    {
+      "name": "Experian",
+      "notes": "Credit bureau offering alternative credit scores and decisioning tools"
+    },
+    {
+      "name": "TransUnion",
+      "notes": "Credit bureau with risk management and fraud prevention solutions"
+    },
+    {
+      "name": "VantageScore",
+      "notes": "Alternative credit scoring model created by the three bureaus"
+    },
+    {
+      "name": "LexisNexis Risk Solutions",
+      "notes": "Analytics and decisioning for financial services and insurance"
+    },
+    {
+      "name": "SAS",
+      "notes": "Analytics software competing in fraud detection and risk management"
+    },
+    {
+      "name": "Featurespace",
+      "notes": "AI-powered fraud prevention competing with FICO Falcon"
+    },
+    {
+      "name": "Provenir",
+      "notes": "AI-powered risk decisioning platform for financial services"
+    }
   ],
-  "sources": ["Industry analysis", "Competitor research"]
+  "sources": [
+    "Industry analysis",
+    "Competitor research"
+  ]
 }

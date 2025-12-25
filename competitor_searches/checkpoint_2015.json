@@ -4,16 +4,43 @@
   "year": 2015,
   "search_query": "Check Point Software competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Check Point competed in the evolving next-generation firewall market while expanding into cloud security and threat prevention. The company focused on threat intelligence and advanced threat prevention.",
+  "context": "Check Point Software Technologies is a cybersecurity company focused on network security, cloud security, and threat prevention. Mobile and cloud security expansion. SandBlast threat prevention.",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Leading NGFW competitor that had gained significant market share"},
-    {"name": "Cisco", "notes": "Firepower NGFW and broad security portfolio"},
-    {"name": "Fortinet", "notes": "FortiGate NGFW with strong price-performance positioning"},
-    {"name": "Juniper Networks", "notes": "SRX firewalls and security solutions"},
-    {"name": "FireEye", "notes": "Advanced threat protection and sandboxing solutions"},
-    {"name": "Sophos", "notes": "UTM and endpoint security for mid-market"},
-    {"name": "Barracuda Networks", "notes": "Security and data protection appliances"},
-    {"name": "WatchGuard", "notes": "UTM solutions for SMB market"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading NGFW competitor that had gained significant market share"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Firepower NGFW and broad security portfolio"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "FortiGate NGFW with strong price-performance positioning"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "SRX firewalls and security solutions"
+    },
+    {
+      "name": "FireEye",
+      "notes": "Advanced threat protection and sandboxing solutions"
+    },
+    {
+      "name": "Sophos",
+      "notes": "UTM and endpoint security for mid-market"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "Security and data protection appliances"
+    },
+    {
+      "name": "WatchGuard",
+      "notes": "UTM solutions for SMB market"
+    }
   ],
-  "sources": ["Gartner Magic Quadrant", "Forrester Wave"]
+  "sources": [
+    "Gartner Magic Quadrant",
+    "Forrester Wave"
+  ]
 }

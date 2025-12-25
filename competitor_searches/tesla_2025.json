@@ -4,18 +4,50 @@
   "year": 2025,
   "search_query": "Tesla competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Tesla remains the dominant EV maker globally but faces intensifying competition. The company expanded into robotaxis, Optimus robot, and energy storage while Cybertruck ramped production.",
+  "context": "Tesla, Inc. is a electric vehicle and clean energy company focused on electric vehicles, energy storage, and solar. EV leader. Robotaxi and AI ambitions. Energy expansion.",
   "competitors": [
-    {"name": "BYD", "notes": "Chinese EV giant, passed Tesla in total sales"},
-    {"name": "Rivian", "notes": "US EV startup with trucks and SUVs"},
-    {"name": "Ford", "notes": "F-150 Lightning and Mustang Mach-E"},
-    {"name": "GM", "notes": "Ultium platform, Chevy Equinox EV"},
-    {"name": "Mercedes-Benz", "notes": "EQ series luxury EVs"},
-    {"name": "Volkswagen", "notes": "ID series, largest global automaker"},
-    {"name": "Hyundai/Kia", "notes": "Ioniq and EV6 gaining market share"},
-    {"name": "Lucid", "notes": "Premium EV competitor"},
-    {"name": "Xiaomi", "notes": "Chinese tech giant entering EVs"},
-    {"name": "Waymo", "notes": "Alphabet's autonomous driving competitor"}
+    {
+      "name": "BYD",
+      "notes": "Chinese EV giant, passed Tesla in total sales"
+    },
+    {
+      "name": "Rivian",
+      "notes": "US EV startup with trucks and SUVs"
+    },
+    {
+      "name": "Ford",
+      "notes": "F-150 Lightning and Mustang Mach-E"
+    },
+    {
+      "name": "GM",
+      "notes": "Ultium platform, Chevy Equinox EV"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "notes": "EQ series luxury EVs"
+    },
+    {
+      "name": "Volkswagen",
+      "notes": "ID series, largest global automaker"
+    },
+    {
+      "name": "Hyundai/Kia",
+      "notes": "Ioniq and EV6 gaining market share"
+    },
+    {
+      "name": "Lucid",
+      "notes": "Premium EV competitor"
+    },
+    {
+      "name": "Xiaomi",
+      "notes": "Chinese tech giant entering EVs"
+    },
+    {
+      "name": "Waymo",
+      "notes": "Alphabet's autonomous driving competitor"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

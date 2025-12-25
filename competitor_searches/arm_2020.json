@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "ARM Holdings competitors 2020",
   "search_date": "2024-12-24",
-  "context": "ARM was acquired by NVIDIA for $40B (deal later failed). The company's architecture dominated mobile and was expanding into servers and laptops. Apple announced transition to ARM-based M1 chips.",
+  "context": "Arm Holdings plc is a semiconductor IP and architecture licensing company focused on processor architecture licensing for mobile, IoT, automotive, and data centers. Nvidia announced $40B acquisition (later cancelled). Arm-based Macs with Apple M1.",
   "competitors": [
-    {"name": "Intel", "notes": "x86 dominance in PCs and servers"},
-    {"name": "AMD", "notes": "Rising x86 competitor with Zen architecture"},
-    {"name": "MIPS Technologies", "notes": "Alternative embedded processor IP"},
-    {"name": "RISC-V", "notes": "Emerging open-source architecture"},
-    {"name": "Imagination Technologies", "notes": "GPU IP provider"},
-    {"name": "Cadence", "notes": "Competing processor IP offerings"},
-    {"name": "Synopsys", "notes": "Processor IP and design tools"},
-    {"name": "SiFive", "notes": "Leading RISC-V chip designer"}
+    {
+      "name": "Intel",
+      "notes": "x86 dominance in PCs and servers"
+    },
+    {
+      "name": "AMD",
+      "notes": "Rising x86 competitor with Zen architecture"
+    },
+    {
+      "name": "MIPS Technologies",
+      "notes": "Alternative embedded processor IP"
+    },
+    {
+      "name": "RISC-V",
+      "notes": "Emerging open-source architecture"
+    },
+    {
+      "name": "Imagination Technologies",
+      "notes": "GPU IP provider"
+    },
+    {
+      "name": "Cadence",
+      "notes": "Competing processor IP offerings"
+    },
+    {
+      "name": "Synopsys",
+      "notes": "Processor IP and design tools"
+    },
+    {
+      "name": "SiFive",
+      "notes": "Leading RISC-V chip designer"
+    }
   ],
-  "sources": ["Semiconductor industry analysis"]
+  "sources": [
+    "Semiconductor industry analysis"
+  ]
 }

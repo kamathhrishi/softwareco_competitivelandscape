@@ -5,16 +5,49 @@
   "search_query": "Arista Networks ANET competitors 2025",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Primary competitor with Cisco ACI leading alternative solution per G2 rankings"},
-    {"name": "Juniper Networks", "notes": "Major competitor in cloud networking and data center infrastructure"},
-    {"name": "Dell EMC", "notes": "Significant competitor in networking solutions"},
-    {"name": "NVIDIA", "notes": "G2's top alternative with Virtual GPU, strong in AI networking infrastructure"},
-    {"name": "Extreme Networks", "notes": "Listed as top alternative per G2 rankings"},
-    {"name": "Huawei Technologies", "notes": "Global competitor in networking infrastructure"},
-    {"name": "Fortinet", "notes": "Competitor focused on security networking solutions"},
-    {"name": "F5 Networks", "notes": "Competitor focused on security networking solutions"},
-    {"name": "IBM", "notes": "Offering cloud and data solutions for enterprise digital transformation"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Primary competitor with Cisco ACI leading alternative solution per G2 rankings"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Major competitor in cloud networking and data center infrastructure"
+    },
+    {
+      "name": "Dell EMC",
+      "notes": "Significant competitor in networking solutions"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "G2's top alternative with Virtual GPU, strong in AI networking infrastructure"
+    },
+    {
+      "name": "Extreme Networks",
+      "notes": "Listed as top alternative per G2 rankings"
+    },
+    {
+      "name": "Huawei Technologies",
+      "notes": "Global competitor in networking infrastructure"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Competitor focused on security networking solutions"
+    },
+    {
+      "name": "F5 Networks",
+      "notes": "Competitor focused on security networking solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Offering cloud and data solutions for enterprise digital transformation"
+    }
   ],
-  "context": "In 2025, Arista expanded AI-driven campus and branch networking offerings and acquired VeloCloud SD-WAN portfolio from Broadcom (July 2025). Company faces challenges from high operating costs (Q3 expenses up 36% to $512M) and supply bottlenecks for advanced products. Positioned as leader in scalable high-performance, ultra-low-latency networks for data centers and cloud computing. Unified software stack (EOS) across WAN routing, campus, and data center sets company apart from competitors.",
-  "sources": ["https://www.gartner.com/reviews/market/data-center-and-cloud-networking/vendor/arista-center/alternatives", "https://www.marketbeat.com/stocks/NYSE/ANET/competitors-and-alternatives/", "https://www.g2.com/products/arista-networks-arista-networks/competitors/alternatives", "https://www.latterly.org/arista-networks-competitors/", "https://artificall.com/analysis/companies/arista-networks-inc/"]
+  "context": "Arista Networks, Inc. is a cloud networking company focused on data center switches, network operating systems, and cloud networking. AI infrastructure leader for hyperscalers. 800G networking and AI fabric solutions.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/data-center-and-cloud-networking/vendor/arista-center/alternatives",
+    "https://www.marketbeat.com/stocks/NYSE/ANET/competitors-and-alternatives/",
+    "https://www.g2.com/products/arista-networks-arista-networks/competitors/alternatives",
+    "https://www.latterly.org/arista-networks-competitors/",
+    "https://artificall.com/analysis/companies/arista-networks-inc/"
+  ]
 }

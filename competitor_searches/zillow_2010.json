@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Zillow competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Zillow launched in 2006 and rapidly grew to dominate real estate listings. Trulia was main independent competitor before eventual 2015 acquisition. Company provided Zestimate home valuations.",
+  "context": "Zillow Group, Inc. is a real estate technology company focused on real estate marketplace, rentals, and home services. Real estate portal with Zestimate valuations.",
   "competitors": [
-    {"name": "Trulia", "notes": "Founded 2005, main competitor before 2015 acquisition for $2.5B"},
-    {"name": "Realtor.com", "notes": "NAR-owned listing site, official MLS data"},
-    {"name": "Redfin", "notes": "Tech-enabled brokerage with lower commissions"},
-    {"name": "Homes.com", "notes": "Real estate listing and search portal"},
-    {"name": "Yahoo! Real Estate", "notes": "Yahoo's real estate listings section"},
-    {"name": "Cyberhomes", "notes": "Real estate search and valuations"},
-    {"name": "Homefinder.com", "notes": "Real estate listings website"}
+    {
+      "name": "Trulia",
+      "notes": "Founded 2005, main competitor before 2015 acquisition for $2.5B"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "NAR-owned listing site, official MLS data"
+    },
+    {
+      "name": "Redfin",
+      "notes": "Tech-enabled brokerage with lower commissions"
+    },
+    {
+      "name": "Homes.com",
+      "notes": "Real estate listing and search portal"
+    },
+    {
+      "name": "Yahoo! Real Estate",
+      "notes": "Yahoo's real estate listings section"
+    },
+    {
+      "name": "Cyberhomes",
+      "notes": "Real estate search and valuations"
+    },
+    {
+      "name": "Homefinder.com",
+      "notes": "Real estate listings website"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

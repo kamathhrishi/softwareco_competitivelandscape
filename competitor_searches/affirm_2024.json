@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Affirm competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Affirm is the leading US BNPL provider with Amazon and Shopify partnerships. The company launched Affirm Card debit card and expanded into high-value purchases like travel.",
+  "context": "Affirm Holdings is a buy now, pay later (BNPL) fintech company focused on point-of-sale consumer financing and installment payments. Expanded merchant partnerships and Affirm Card. Competing in crowded BNPL market amid rising rates.",
   "competitors": [
-    {"name": "Klarna", "notes": "Global BNPL leader expanding in US with full app ecosystem"},
-    {"name": "Afterpay (Block)", "notes": "BNPL owned by Block, integrated with Cash App"},
-    {"name": "PayPal Pay Later", "notes": "PayPal's BNPL options at checkout"},
-    {"name": "Apple Pay Later", "notes": "Apple's BNPL integrated in Wallet (later discontinued)"},
-    {"name": "Zip", "notes": "Global BNPL provider"},
-    {"name": "Sezzle", "notes": "BNPL targeting younger demographics"},
-    {"name": "Credit Cards", "notes": "Banks launching 0% installment offers"},
-    {"name": "Shopify Installments", "notes": "Shop Pay installments for Shopify merchants"}
+    {
+      "name": "Klarna",
+      "notes": "Global BNPL leader expanding in US with full app ecosystem"
+    },
+    {
+      "name": "Afterpay (Block)",
+      "notes": "BNPL owned by Block, integrated with Cash App"
+    },
+    {
+      "name": "PayPal Pay Later",
+      "notes": "PayPal's BNPL options at checkout"
+    },
+    {
+      "name": "Apple Pay Later",
+      "notes": "Apple's BNPL integrated in Wallet (later discontinued)"
+    },
+    {
+      "name": "Zip",
+      "notes": "Global BNPL provider"
+    },
+    {
+      "name": "Sezzle",
+      "notes": "BNPL targeting younger demographics"
+    },
+    {
+      "name": "Credit Cards",
+      "notes": "Banks launching 0% installment offers"
+    },
+    {
+      "name": "Shopify Installments",
+      "notes": "Shop Pay installments for Shopify merchants"
+    }
   ],
-  "sources": ["BNPL industry analysis"]
+  "sources": [
+    "BNPL industry analysis"
+  ]
 }

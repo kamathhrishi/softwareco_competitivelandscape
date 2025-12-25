@@ -5,10 +5,22 @@
   "search_query": "Synopsys EDA competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cadence Design Systems", "notes": "Primary competitor, one of the 'Big Three' EDA companies since the late 1980s"},
-    {"name": "Mentor Graphics", "notes": "Part of the 'Big Three' EDA oligopoly, later acquired by Siemens in 2017"},
-    {"name": "Avanti", "notes": "No. 4 company in EDA industry around 2000, later acquired by Synopsys in 2002"}
+    {
+      "name": "Cadence Design Systems",
+      "notes": "Primary competitor, one of the 'Big Three' EDA companies since the late 1980s"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Part of the 'Big Three' EDA oligopoly, later acquired by Siemens in 2017"
+    },
+    {
+      "name": "Avanti",
+      "notes": "No. 4 company in EDA industry around 2000, later acquired by Synopsys in 2002"
+    }
   ],
-  "context": "Around 2000, the EDA industry was dominated by three large companies - Synopsys, Cadence, and Mentor Graphics - forming an oligopoly established since the late 1980s. Synopsys specialized in front-end (logic synthesis) while Cadence led in back-end (physical layout and verification).",
-  "sources": ["https://en.wikipedia.org/wiki/List_of_EDA_companies", "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung"]
+  "context": "Synopsys, Inc. is a electronic design automation company focused on chip design software, IP, and software security. EDA market leader with Cadence. Logic synthesis.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_EDA_companies",
+    "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung"
+  ]
 }

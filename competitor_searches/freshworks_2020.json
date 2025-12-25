@@ -5,16 +5,46 @@
   "search_query": "Freshworks Freshdesk competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Zendesk", "notes": "Major competitor with multi-channel support and workforce management"},
-    {"name": "Salesforce", "notes": "Cloud-based CRM with Service Cloud offering"},
-    {"name": "ServiceNow", "notes": "Primary competitor in enterprise ITSM and customer service"},
-    {"name": "Zoho", "notes": "Comprehensive suite including CRM, helpdesk support tools"},
-    {"name": "HubSpot Service Hub", "notes": "Customer service integrated with HubSpot CRM ecosystem"},
-    {"name": "Intercom", "notes": "Conversational relationship platform with messaging"},
-    {"name": "Jira Service Management", "notes": "IT service management from Atlassian"},
-    {"name": "Gorgias", "notes": "Specialized for ecommerce (Shopify, BigCommerce)"},
-    {"name": "Help Scout", "notes": "User-friendly for SaaS and ecommerce businesses"}
+    {
+      "name": "Zendesk",
+      "notes": "Major competitor with multi-channel support and workforce management"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Cloud-based CRM with Service Cloud offering"
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Primary competitor in enterprise ITSM and customer service"
+    },
+    {
+      "name": "Zoho",
+      "notes": "Comprehensive suite including CRM, helpdesk support tools"
+    },
+    {
+      "name": "HubSpot Service Hub",
+      "notes": "Customer service integrated with HubSpot CRM ecosystem"
+    },
+    {
+      "name": "Intercom",
+      "notes": "Conversational relationship platform with messaging"
+    },
+    {
+      "name": "Jira Service Management",
+      "notes": "IT service management from Atlassian"
+    },
+    {
+      "name": "Gorgias",
+      "notes": "Specialized for ecommerce (Shopify, BigCommerce)"
+    },
+    {
+      "name": "Help Scout",
+      "notes": "User-friendly for SaaS and ecommerce businesses"
+    }
   ],
-  "context": "By 2020, Freshworks had evolved from single-product company (Freshdesk) to multi-product suite. Named 'visionary' on 2020 Gartner Magic Quadrant for CRM Customer Engagement Center. Competitive landscape marked by AI-powered automation, omnichannel support, and integration capabilities.",
-  "sources": ["https://www.cbinsights.com/company/freshdesk/alternatives-competitors", "https://www.gartner.com/reviews/market/crm-customer-engagement-center/vendor/freshworks/alternatives"]
+  "context": "Freshworks Inc. is a SaaS customer and employee engagement software focused on CRM, IT service management, and customer support software. IPO preparation. Unified platform strategy.",
+  "sources": [
+    "https://www.cbinsights.com/company/freshdesk/alternatives-competitors",
+    "https://www.gartner.com/reviews/market/crm-customer-engagement-center/vendor/freshworks/alternatives"
+  ]
 }

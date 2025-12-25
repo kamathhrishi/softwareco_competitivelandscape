@@ -5,10 +5,22 @@
   "search_query": "Cadence Design Systems EDA competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Synopsys", "notes": "Major EDA competitor with approximately 30% market share, developed full end-to-end flow"},
-    {"name": "Siemens EDA (Mentor Graphics)", "notes": "Third player with approximately 13% market share, acquired by Siemens in 2016"},
-    {"name": "Ansys", "notes": "Primary competitor in engineering simulation software"}
+    {
+      "name": "Synopsys",
+      "notes": "Major EDA competitor with approximately 30% market share, developed full end-to-end flow"
+    },
+    {
+      "name": "Siemens EDA (Mentor Graphics)",
+      "notes": "Third player with approximately 13% market share, acquired by Siemens in 2016"
+    },
+    {
+      "name": "Ansys",
+      "notes": "Primary competitor in engineering simulation software"
+    }
   ],
-  "context": "By 2020, Synopsys and Cadence had established a clear duopoly in the EDA industry, each controlling approximately 30% market share. Together with Siemens EDA, these three companies controlled more than 80% of the global EDA market worth $10.8 billion.",
-  "sources": ["https://en.wikipedia.org/wiki/Cadence_Design_Systems", "https://equalocean.com/analysis/2022012616968"]
+  "context": "Cadence Design Systems, Inc. is a electronic design automation (EDA) software company focused on chip design, verification, and system analysis software. AI/ML for chip design. Record semiconductor design starts.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cadence_Design_Systems",
+    "https://equalocean.com/analysis/2022012616968"
+  ]
 }

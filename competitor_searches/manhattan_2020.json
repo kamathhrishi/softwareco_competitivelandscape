@@ -5,17 +5,54 @@
   "search_query": "Manhattan Associates competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Blue Yonder", "notes": "Formerly JDA Software, provides digital supply chain management and omnichannel commerce fulfillment solutions"},
-    {"name": "SAP", "notes": "SAP Ariba Sourcing (19.18% market share), SAP Supply Chain Management (18.77%), SAP EWM for warehouse management"},
-    {"name": "Oracle", "notes": "Oracle Warehouse Management (WM) direct competitor in WMS market"},
-    {"name": "Infor", "notes": "Primary competitor providing enterprise supply chain and WMS solutions"},
-    {"name": "HighJump Software", "notes": "Primary competitor specializing in supply chain execution software"},
-    {"name": "E2open", "notes": "Main competitor in supply chain management platform solutions"},
-    {"name": "GT Nexus", "notes": "Top competitor in cloud-based supply chain collaboration"},
-    {"name": "Descartes", "notes": "Top competitor in logistics and supply chain technology"},
-    {"name": "SSI SCHAEFER", "notes": "Competitor in warehouse automation and logistics systems"},
-    {"name": "Honeywell Intelligrated", "notes": "Competitor combining warehouse automation and software solutions"}
+    {
+      "name": "Blue Yonder",
+      "notes": "Formerly JDA Software, provides digital supply chain management and omnichannel commerce fulfillment solutions"
+    },
+    {
+      "name": "SAP",
+      "notes": "SAP Ariba Sourcing (19.18% market share), SAP Supply Chain Management (18.77%), SAP EWM for warehouse management"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Oracle Warehouse Management (WM) direct competitor in WMS market"
+    },
+    {
+      "name": "Infor",
+      "notes": "Primary competitor providing enterprise supply chain and WMS solutions"
+    },
+    {
+      "name": "HighJump Software",
+      "notes": "Primary competitor specializing in supply chain execution software"
+    },
+    {
+      "name": "E2open",
+      "notes": "Main competitor in supply chain management platform solutions"
+    },
+    {
+      "name": "GT Nexus",
+      "notes": "Top competitor in cloud-based supply chain collaboration"
+    },
+    {
+      "name": "Descartes",
+      "notes": "Top competitor in logistics and supply chain technology"
+    },
+    {
+      "name": "SSI SCHAEFER",
+      "notes": "Competitor in warehouse automation and logistics systems"
+    },
+    {
+      "name": "Honeywell Intelligrated",
+      "notes": "Competitor combining warehouse automation and software solutions"
+    }
   ],
-  "context": "By 2020, Manhattan Associates held 1.07% market share in the supply chain management market, competing with 167 different tools in this category. The competitive landscape had evolved significantly, with SAP maintaining dominance through multiple products (Ariba, SCM, EWM). Blue Yonder (formerly JDA Software) had emerged as a major competitor after transforming into a digital supply chain platform. The market saw increased competition from both traditional enterprise software vendors (SAP, Oracle, Infor) and specialized supply chain platforms (E2open, GT Nexus, Descartes). Warehouse automation vendors like SSI SCHAEFER and Honeywell Intelligrated were also competing by combining hardware with software solutions. Manhattan ranked 6th among 746 active competitors.",
-  "sources": ["https://craft.co/manhattan-associates/competitors", "https://sumble.com/tech/manhattan-associates", "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors", "https://www.comparably.com/companies/manhattan-associates/competitors", "https://www.owler.com/company/manh", "https://6sense.com/tech/supply-chain-management/manhattan-associates-market-share"]
+  "context": "Manhattan Associates, Inc. is a supply chain and omnichannel software company focused on warehouse management, transportation, and retail solutions. E-commerce fulfillment demand surge.",
+  "sources": [
+    "https://craft.co/manhattan-associates/competitors",
+    "https://sumble.com/tech/manhattan-associates",
+    "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors",
+    "https://www.comparably.com/companies/manhattan-associates/competitors",
+    "https://www.owler.com/company/manh",
+    "https://6sense.com/tech/supply-chain-management/manhattan-associates-market-share"
+  ]
 }

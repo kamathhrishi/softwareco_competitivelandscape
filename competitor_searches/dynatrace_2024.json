@@ -5,19 +5,58 @@
   "search_query": "Dynatrace APM observability competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Datadog", "notes": "Leading cloud monitoring and security platform with APM, infrastructure monitoring, log management, strong growth trajectory"},
-    {"name": "Splunk", "notes": "Known for log management and SIEM, observability solutions, acquired by Cisco in 2023 for $28B"},
-    {"name": "New Relic", "notes": "Full-stack observability platform with APM, infrastructure monitoring, and log management"},
-    {"name": "AppDynamics", "notes": "Cisco-owned enterprise APM focusing on application performance and business monitoring"},
-    {"name": "Elastic Observability", "notes": "Built on Elastic Stack, offering APM, logs, and metrics capabilities"},
-    {"name": "Grafana Labs", "notes": "Open-source focused observability with Grafana, Loki, Tempo, and Mimir"},
-    {"name": "Honeycomb", "notes": "Modern observability platform focused on distributed tracing and debugging"},
-    {"name": "Sumo Logic", "notes": "Cloud-native machine data analytics and observability"},
-    {"name": "IBM Instana", "notes": "Automated APM for cloud-native and microservices environments"},
-    {"name": "AWS CloudWatch", "notes": "Native AWS monitoring and observability service"},
-    {"name": "Azure Monitor", "notes": "Microsoft Azure's monitoring and observability platform"},
-    {"name": "Google Cloud Operations Suite", "notes": "Google Cloud's observability and monitoring tools"}
+    {
+      "name": "Datadog",
+      "notes": "Leading cloud monitoring and security platform with APM, infrastructure monitoring, log management, strong growth trajectory"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Known for log management and SIEM, observability solutions, acquired by Cisco in 2023 for $28B"
+    },
+    {
+      "name": "New Relic",
+      "notes": "Full-stack observability platform with APM, infrastructure monitoring, and log management"
+    },
+    {
+      "name": "AppDynamics",
+      "notes": "Cisco-owned enterprise APM focusing on application performance and business monitoring"
+    },
+    {
+      "name": "Elastic Observability",
+      "notes": "Built on Elastic Stack, offering APM, logs, and metrics capabilities"
+    },
+    {
+      "name": "Grafana Labs",
+      "notes": "Open-source focused observability with Grafana, Loki, Tempo, and Mimir"
+    },
+    {
+      "name": "Honeycomb",
+      "notes": "Modern observability platform focused on distributed tracing and debugging"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Cloud-native machine data analytics and observability"
+    },
+    {
+      "name": "IBM Instana",
+      "notes": "Automated APM for cloud-native and microservices environments"
+    },
+    {
+      "name": "AWS CloudWatch",
+      "notes": "Native AWS monitoring and observability service"
+    },
+    {
+      "name": "Azure Monitor",
+      "notes": "Microsoft Azure's monitoring and observability platform"
+    },
+    {
+      "name": "Google Cloud Operations Suite",
+      "notes": "Google Cloud's observability and monitoring tools"
+    }
   ],
-  "context": "In 2024, Dynatrace competes in the APM and observability market against a mix of pure-play observability vendors (Datadog, New Relic) and enterprise software companies (Splunk/Cisco, AppDynamics/Cisco). The market has seen significant consolidation with Cisco's acquisition of Splunk for $28B in 2023. Open-source alternatives like Grafana Labs continue to gain traction. Cloud-native monitoring from hyperscalers (AWS, Azure, GCP) provides competition for cloud-hosted workloads. Dynatrace differentiates with AI-powered automation and full-stack observability across hybrid and multi-cloud environments.",
-  "sources": ["https://www.gartner.com/reviews/market/application-performance-monitoring-and-observability/vendor/dynatrace/alternatives", "https://www.g2.com/products/dynatrace/competitors/alternatives"]
+  "context": "Dynatrace, Inc. is a software intelligence platform focused on application performance monitoring, observability, and AIOps. Davis AI expansion. Security and business analytics.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/application-performance-monitoring-and-observability/vendor/dynatrace/alternatives",
+    "https://www.g2.com/products/dynatrace/competitors/alternatives"
+  ]
 }

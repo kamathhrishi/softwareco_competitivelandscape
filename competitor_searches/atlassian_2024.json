@@ -5,17 +5,50 @@
   "search_query": "Atlassian competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Top competitor with Planner, Project, Teams, SharePoint, Azure DevOps"},
-    {"name": "GitHub", "notes": "Microsoft-owned source code platform, dominant in developer community"},
-    {"name": "GitLab", "notes": "DevSecOps platform, best alternative for software developers"},
-    {"name": "Asana", "notes": "User-friendly project management with strong integrations"},
-    {"name": "ClickUp", "notes": "Customized project management solutions"},
-    {"name": "monday.com", "notes": "Popular project management with easy-to-use features"},
-    {"name": "Notion", "notes": "Block-based workspace competing with Confluence"},
-    {"name": "Smartsheet", "notes": "Spreadsheet-based project management platform"},
-    {"name": "Wrike", "notes": "Project management and collaboration platform"},
-    {"name": "Airtable", "notes": "Collaborative database platform"}
+    {
+      "name": "Microsoft",
+      "notes": "Top competitor with Planner, Project, Teams, SharePoint, Azure DevOps"
+    },
+    {
+      "name": "GitHub",
+      "notes": "Microsoft-owned source code platform, dominant in developer community"
+    },
+    {
+      "name": "GitLab",
+      "notes": "DevSecOps platform, best alternative for software developers"
+    },
+    {
+      "name": "Asana",
+      "notes": "User-friendly project management with strong integrations"
+    },
+    {
+      "name": "ClickUp",
+      "notes": "Customized project management solutions"
+    },
+    {
+      "name": "monday.com",
+      "notes": "Popular project management with easy-to-use features"
+    },
+    {
+      "name": "Notion",
+      "notes": "Block-based workspace competing with Confluence"
+    },
+    {
+      "name": "Smartsheet",
+      "notes": "Spreadsheet-based project management platform"
+    },
+    {
+      "name": "Wrike",
+      "notes": "Project management and collaboration platform"
+    },
+    {
+      "name": "Airtable",
+      "notes": "Collaborative database platform"
+    }
   ],
-  "context": "As of 2024, Atlassian reported annual revenue of $4.36B. The company faces challenges: users complain about bloated UX, performance issues, and high costs. Microsoft remains the dominant threat.",
-  "sources": ["https://www.nuclino.com/alternatives/atlassian-alternatives", "https://pitchgrade.com/companies/atlassian"]
+  "context": "Atlassian Corporation is a team collaboration and productivity software company focused on Jira, Confluence, Trello, and developer tools. AI-powered features across products. Competing with Microsoft and new entrants.",
+  "sources": [
+    "https://www.nuclino.com/alternatives/atlassian-alternatives",
+    "https://pitchgrade.com/companies/atlassian"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "DoorDash competitors 2020",
   "search_date": "2024-12-24",
-  "context": "DoorDash went public in December 2020 at a $39B valuation. The pandemic drove massive growth in food delivery, making DoorDash the US market leader with ~50% share.",
+  "context": "DoorDash, Inc. is a food delivery and local commerce platform focused on restaurant delivery, grocery, convenience, and merchant services. IPO during pandemic food delivery boom. US market leader.",
   "competitors": [
-    {"name": "Uber Eats", "notes": "Major competitor and #2 in US food delivery market"},
-    {"name": "Grubhub", "notes": "Established food delivery platform, acquired by Just Eat Takeaway"},
-    {"name": "Postmates", "notes": "Delivery platform acquired by Uber in 2020"},
-    {"name": "Instacart", "notes": "Grocery delivery competing for delivery driver supply and consumer attention"},
-    {"name": "Caviar", "notes": "Premium restaurant delivery acquired by DoorDash in 2019"},
-    {"name": "Seamless", "notes": "Part of Grubhub focused on urban markets"},
-    {"name": "Amazon Restaurants", "notes": "Amazon's food delivery attempt (shut down 2019)"},
-    {"name": "Deliveroo", "notes": "UK-based delivery platform with international presence"}
+    {
+      "name": "Uber Eats",
+      "notes": "Major competitor and #2 in US food delivery market"
+    },
+    {
+      "name": "Grubhub",
+      "notes": "Established food delivery platform, acquired by Just Eat Takeaway"
+    },
+    {
+      "name": "Postmates",
+      "notes": "Delivery platform acquired by Uber in 2020"
+    },
+    {
+      "name": "Instacart",
+      "notes": "Grocery delivery competing for delivery driver supply and consumer attention"
+    },
+    {
+      "name": "Caviar",
+      "notes": "Premium restaurant delivery acquired by DoorDash in 2019"
+    },
+    {
+      "name": "Seamless",
+      "notes": "Part of Grubhub focused on urban markets"
+    },
+    {
+      "name": "Amazon Restaurants",
+      "notes": "Amazon's food delivery attempt (shut down 2019)"
+    },
+    {
+      "name": "Deliveroo",
+      "notes": "UK-based delivery platform with international presence"
+    }
   ],
-  "sources": ["Food delivery industry analysis"]
+  "sources": [
+    "Food delivery industry analysis"
+  ]
 }

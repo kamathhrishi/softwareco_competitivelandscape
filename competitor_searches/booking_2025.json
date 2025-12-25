@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Booking Holdings competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Booking Holdings is the global leader in online travel with AI-powered trip planning. The company's connected trip strategy bundles hotels, flights, cars, and experiences.",
+  "context": "Booking Holdings Inc. is a online travel and reservation platform focused on Booking.com, Priceline, Kayak, and OpenTable. Connected trip platform. AI concierge and personalized travel recommendations.",
   "competitors": [
-    {"name": "Expedia Group", "notes": "Major OTA with Expedia, Vrbo, Hotels.com brands"},
-    {"name": "Airbnb", "notes": "Alternative accommodations leader with Experiences"},
-    {"name": "Google Travel", "notes": "AI-powered travel planning threatening traditional OTAs"},
-    {"name": "Trip.com Group", "notes": "Global OTA with strong Asia presence"},
-    {"name": "Hopper", "notes": "AI travel app with price freeze and fintech products"},
-    {"name": "Hotel Chains Direct", "notes": "Marriott, Hilton driving direct bookings"},
-    {"name": "TripAdvisor/Viator", "notes": "Experiences and tours marketplace"},
-    {"name": "Kayak/Momondo", "notes": "Own metasearch brands competing with Google"}
+    {
+      "name": "Expedia Group",
+      "notes": "Major OTA with Expedia, Vrbo, Hotels.com brands"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Alternative accommodations leader with Experiences"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "AI-powered travel planning threatening traditional OTAs"
+    },
+    {
+      "name": "Trip.com Group",
+      "notes": "Global OTA with strong Asia presence"
+    },
+    {
+      "name": "Hopper",
+      "notes": "AI travel app with price freeze and fintech products"
+    },
+    {
+      "name": "Hotel Chains Direct",
+      "notes": "Marriott, Hilton driving direct bookings"
+    },
+    {
+      "name": "TripAdvisor/Viator",
+      "notes": "Experiences and tours marketplace"
+    },
+    {
+      "name": "Kayak/Momondo",
+      "notes": "Own metasearch brands competing with Google"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

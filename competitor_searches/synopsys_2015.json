@@ -5,9 +5,18 @@
   "search_query": "Synopsys EDA semiconductor competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cadence Design Systems", "notes": "Primary competitor with 36% market share (vs. Synopsys's 38%), controlling 74% of EDA market together"},
-    {"name": "Mentor Graphics", "notes": "Part of the 'Big Three' oligopoly, later acquired by Siemens in 2017"}
+    {
+      "name": "Cadence Design Systems",
+      "notes": "Primary competitor with 36% market share (vs. Synopsys's 38%), controlling 74% of EDA market together"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Part of the 'Big Three' oligopoly, later acquired by Siemens in 2017"
+    }
   ],
-  "context": "By 2015, the EDA market had solidified into a 'Big Three' oligopoly. The market was characterized by extreme stability due to each vendor being dominant in different EDA product categories with 'golden signoff' tools considered de facto standards by major foundries.",
-  "sources": ["https://en.wikipedia.org/wiki/Synopsys", "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung"]
+  "context": "Synopsys, Inc. is a electronic design automation company focused on chip design software, IP, and software security. Software integrity group. Application security.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synopsys",
+    "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung"
+  ]
 }

@@ -5,17 +5,50 @@
   "search_query": "ServiceNow competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "BMC Remedy (BMC Software)", "notes": "Long-standing enterprise ITSM platform with extensive configurability and ITIL alignment"},
-    {"name": "Salesforce Service Cloud", "notes": "CRM giant expanding into service management with customer service focus"},
-    {"name": "Atlassian (Jira Service Desk)", "notes": "Popular service desk solution for IT teams, integrated with development tools"},
-    {"name": "Microsoft System Center Service Manager", "notes": "Microsoft's ITIL-based service management solution"},
-    {"name": "Cherwell Service Management", "notes": "Enterprise ITSM platform with extensive configurability"},
-    {"name": "Zendesk", "notes": "Customer service platform expanding into IT service management"},
-    {"name": "Freshservice", "notes": "Cloud-based ITSM solution targeting SMBs with user-friendly interface"},
-    {"name": "SolarWinds Service Desk", "notes": "IT service management solution from network management vendor"},
-    {"name": "Symantec", "notes": "IT management and security solutions provider"},
-    {"name": "VMware", "notes": "Virtualization leader with IT management capabilities"}
+    {
+      "name": "BMC Remedy (BMC Software)",
+      "notes": "Long-standing enterprise ITSM platform with extensive configurability and ITIL alignment"
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "notes": "CRM giant expanding into service management with customer service focus"
+    },
+    {
+      "name": "Atlassian (Jira Service Desk)",
+      "notes": "Popular service desk solution for IT teams, integrated with development tools"
+    },
+    {
+      "name": "Microsoft System Center Service Manager",
+      "notes": "Microsoft's ITIL-based service management solution"
+    },
+    {
+      "name": "Cherwell Service Management",
+      "notes": "Enterprise ITSM platform with extensive configurability"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Customer service platform expanding into IT service management"
+    },
+    {
+      "name": "Freshservice",
+      "notes": "Cloud-based ITSM solution targeting SMBs with user-friendly interface"
+    },
+    {
+      "name": "SolarWinds Service Desk",
+      "notes": "IT service management solution from network management vendor"
+    },
+    {
+      "name": "Symantec",
+      "notes": "IT management and security solutions provider"
+    },
+    {
+      "name": "VMware",
+      "notes": "Virtualization leader with IT management capabilities"
+    }
   ],
-  "context": "By 2015, ServiceNow had been public for three years (IPO in 2012) and was establishing itself as a leader in cloud-based ITSM. Atlassian's Jira Service Desk was gaining popularity among development-oriented teams.",
-  "sources": ["https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives", "https://www.nextiva.com/blog/servicenow-alternatives-competitors.html"]
+  "context": "ServiceNow, Inc. is a enterprise workflow platform company focused on IT service management, employee experience, and business workflows. Platform expansion beyond IT. HR and customer workflows.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives",
+    "https://www.nextiva.com/blog/servicenow-alternatives-competitors.html"
+  ]
 }

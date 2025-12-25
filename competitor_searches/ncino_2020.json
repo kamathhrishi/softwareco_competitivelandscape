@@ -5,16 +5,46 @@
   "search_query": "nCino competitors banking software 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Finastra", "notes": "One of the largest fintech companies with comprehensive loan origination and core banking solutions"},
-    {"name": "Temenos", "notes": "Leading banking software provider with cloud and on-premise solutions for retail and corporate banking"},
-    {"name": "FIS", "notes": "Major provider of banking technology, payments, and core processing solutions"},
-    {"name": "Jack Henry & Associates", "notes": "Technology solutions provider for community banks and credit unions with lending platforms"},
-    {"name": "Fiserv", "notes": "Financial services technology offering core banking, digital banking, and lending solutions"},
-    {"name": "Blend", "notes": "Digital lending platform focused on mortgage and consumer lending, competing in digital lending space"},
-    {"name": "Ellie Mae (ICE Mortgage Technology)", "notes": "Mortgage origination software provider, acquired by Intercontinental Exchange in 2020"},
-    {"name": "Q2 Holdings", "notes": "Digital banking and lending solutions provider for regional and community financial institutions"},
-    {"name": "Salesforce Financial Services Cloud", "notes": "CRM platform for financial services, though nCino is built on Salesforce"}
+    {
+      "name": "Finastra",
+      "notes": "One of the largest fintech companies with comprehensive loan origination and core banking solutions"
+    },
+    {
+      "name": "Temenos",
+      "notes": "Leading banking software provider with cloud and on-premise solutions for retail and corporate banking"
+    },
+    {
+      "name": "FIS",
+      "notes": "Major provider of banking technology, payments, and core processing solutions"
+    },
+    {
+      "name": "Jack Henry & Associates",
+      "notes": "Technology solutions provider for community banks and credit unions with lending platforms"
+    },
+    {
+      "name": "Fiserv",
+      "notes": "Financial services technology offering core banking, digital banking, and lending solutions"
+    },
+    {
+      "name": "Blend",
+      "notes": "Digital lending platform focused on mortgage and consumer lending, competing in digital lending space"
+    },
+    {
+      "name": "Ellie Mae (ICE Mortgage Technology)",
+      "notes": "Mortgage origination software provider, acquired by Intercontinental Exchange in 2020"
+    },
+    {
+      "name": "Q2 Holdings",
+      "notes": "Digital banking and lending solutions provider for regional and community financial institutions"
+    },
+    {
+      "name": "Salesforce Financial Services Cloud",
+      "notes": "CRM platform for financial services, though nCino is built on Salesforce"
+    }
   ],
-  "context": "2020 was a pivotal year for nCino as the company went public (IPO in July 2020). By this time, nCino had established itself as a leading cloud banking platform with strong adoption among regional and community banks. The COVID-19 pandemic accelerated digital transformation in banking, benefiting cloud-native providers like nCino. Competition intensified as traditional vendors accelerated cloud transitions and digital-first competitors like Blend emerged.",
-  "sources": ["https://www.ncino.com/", "https://www.gartner.com/reviews/market/cloud-core-banking-systems/vendor/ncino/alternatives"]
+  "context": "nCino, Inc. is a cloud banking platform company focused on bank operating system for lending, account opening, and deposits. IPO. Digital banking transformation accelerated.",
+  "sources": [
+    "https://www.ncino.com/",
+    "https://www.gartner.com/reviews/market/cloud-core-banking-systems/vendor/ncino/alternatives"
+  ]
 }

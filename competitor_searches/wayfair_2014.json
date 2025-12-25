@@ -4,16 +4,42 @@
   "year": 2014,
   "search_query": "Wayfair competitors 2014",
   "search_date": "2024-12-24",
-  "context": "Wayfair went public in October 2014 as the largest online home goods retailer in the US. The company offered millions of products from 7,000+ suppliers with a drop-ship model.",
+  "context": "Wayfair Inc. is a e-commerce company for home goods focused on online furniture, decor, and home improvement products. Rebranded to Wayfair. IPO.",
   "competitors": [
-    {"name": "Amazon", "notes": "Largest online retailer expanding home category"},
-    {"name": "Overstock.com", "notes": "Online discount home goods retailer"},
-    {"name": "Williams-Sonoma", "notes": "Home brands including Pottery Barn, West Elm"},
-    {"name": "Bed Bath & Beyond", "notes": "Home goods retailer with growing e-commerce"},
-    {"name": "IKEA", "notes": "Furniture retailer building e-commerce"},
-    {"name": "Target", "notes": "Mass retailer with home design focus"},
-    {"name": "Home Depot", "notes": "Home improvement with furniture and decor"},
-    {"name": "Houzz", "notes": "Home design platform with marketplace"}
+    {
+      "name": "Amazon",
+      "notes": "Largest online retailer expanding home category"
+    },
+    {
+      "name": "Overstock.com",
+      "notes": "Online discount home goods retailer"
+    },
+    {
+      "name": "Williams-Sonoma",
+      "notes": "Home brands including Pottery Barn, West Elm"
+    },
+    {
+      "name": "Bed Bath & Beyond",
+      "notes": "Home goods retailer with growing e-commerce"
+    },
+    {
+      "name": "IKEA",
+      "notes": "Furniture retailer building e-commerce"
+    },
+    {
+      "name": "Target",
+      "notes": "Mass retailer with home design focus"
+    },
+    {
+      "name": "Home Depot",
+      "notes": "Home improvement with furniture and decor"
+    },
+    {
+      "name": "Houzz",
+      "notes": "Home design platform with marketplace"
+    }
   ],
-  "sources": ["Home goods industry analysis"]
+  "sources": [
+    "Home goods industry analysis"
+  ]
 }

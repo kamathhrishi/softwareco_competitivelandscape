@@ -5,12 +5,29 @@
   "search_query": "Varonis data security competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Proofpoint", "notes": "Email and data security"},
-    {"name": "Symantec DLP", "notes": "Data loss prevention solutions"},
-    {"name": "Digital Guardian", "notes": "Data protection platform"},
-    {"name": "Microsoft Information Protection", "notes": "Data classification and protection"},
-    {"name": "Imperva", "notes": "Data and application security"}
+    {
+      "name": "Proofpoint",
+      "notes": "Email and data security"
+    },
+    {
+      "name": "Symantec DLP",
+      "notes": "Data loss prevention solutions"
+    },
+    {
+      "name": "Digital Guardian",
+      "notes": "Data protection platform"
+    },
+    {
+      "name": "Microsoft Information Protection",
+      "notes": "Data classification and protection"
+    },
+    {
+      "name": "Imperva",
+      "notes": "Data and application security"
+    }
   ],
-  "context": "In 2020, Varonis specialized in data security analytics, focusing on file system protection and insider threat detection. The pandemic increased data security concerns with remote work. Varonis differentiated with user behavior analytics and file access monitoring. Competition came from DLP vendors and Microsoft's expanding security capabilities.",
-  "sources": ["https://craft.co/varonis-systems/competitors"]
+  "context": "Varonis Systems, Inc. is a data security platform company focused on data protection, insider threat detection, and compliance. Cloud data security. Microsoft 365 protection.",
+  "sources": [
+    "https://craft.co/varonis-systems/competitors"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "Five9 contact center competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Genesys", "notes": "Major contact center platform competitor"},
-    {"name": "NICE inContact", "notes": "Cloud contact center solutions"},
-    {"name": "Talkdesk", "notes": "Cloud-native contact center"},
-    {"name": "RingCentral", "notes": "UCaaS with contact center capabilities"},
-    {"name": "Twilio Flex", "notes": "Programmable contact center"}
+    {
+      "name": "Genesys",
+      "notes": "Major contact center platform competitor"
+    },
+    {
+      "name": "NICE inContact",
+      "notes": "Cloud contact center solutions"
+    },
+    {
+      "name": "Talkdesk",
+      "notes": "Cloud-native contact center"
+    },
+    {
+      "name": "RingCentral",
+      "notes": "UCaaS with contact center capabilities"
+    },
+    {
+      "name": "Twilio Flex",
+      "notes": "Programmable contact center"
+    }
   ],
-  "context": "In 2020, Five9 saw significant growth as the pandemic shifted contact centers to remote/cloud operations. The company was a leader in cloud contact center (CCaaS) market. Competition intensified from both legacy vendors moving to cloud (Genesys, NICE) and cloud-native challengers (Talkdesk). Zoom announced intent to acquire Five9 in 2021 (later terminated).",
-  "sources": ["https://craft.co/five9/competitors"]
+  "context": "Five9, Inc. is a cloud contact center software company focused on omnichannel contact center, workforce optimization, and AI. Remote agent support critical. Zoom acquisition fell through.",
+  "sources": [
+    "https://craft.co/five9/competitors"
+  ]
 }

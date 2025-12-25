@@ -5,12 +5,31 @@
   "search_query": "Intel competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD (Advanced Micro Devices)", "notes": "Leading semiconductor competitor; filed unfair competition claims in 2004-2005"},
-    {"name": "Motorola/PowerPC (AIM Alliance)", "notes": "PowerPC architecture competitor; Apple transitioned from PowerPC to Intel x86 in 2005"},
-    {"name": "IBM", "notes": "Part of AIM alliance developing PowerPC architecture"},
-    {"name": "Nvidia", "notes": "Led GPU market in late 1990s and 2005; competed in graphics processor space"},
-    {"name": "ATI", "notes": "Led GPU market alongside Nvidia in 2005; later acquired by AMD in 2006"}
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Leading semiconductor competitor; filed unfair competition claims in 2004-2005"
+    },
+    {
+      "name": "Motorola/PowerPC (AIM Alliance)",
+      "notes": "PowerPC architecture competitor; Apple transitioned from PowerPC to Intel x86 in 2005"
+    },
+    {
+      "name": "IBM",
+      "notes": "Part of AIM alliance developing PowerPC architecture"
+    },
+    {
+      "name": "Nvidia",
+      "notes": "Led GPU market in late 1990s and 2005; competed in graphics processor space"
+    },
+    {
+      "name": "ATI",
+      "notes": "Led GPU market alongside Nvidia in 2005; later acquired by AMD in 2006"
+    }
   ],
-  "context": "In 2005, Intel reorganized under CEO Paul Otellini. On June 6, 2005, Apple announced transition from PowerPC to Intel x86 processors, beginning a 15-year partnership.",
-  "sources": ["https://www.techtarget.com/whatis/feature/Intels-rise-and-fall-A-timeline-of-what-went-wrong", "https://en.wikipedia.org/wiki/Intel", "https://bstrategyhub.com/intel-competitors-and-alternatives/"]
+  "context": "Intel Corporation is a semiconductor company focused on CPUs for PCs and data centers, foundry services. Core architecture development. Competing with AMD.",
+  "sources": [
+    "https://www.techtarget.com/whatis/feature/Intels-rise-and-fall-A-timeline-of-what-went-wrong",
+    "https://en.wikipedia.org/wiki/Intel",
+    "https://bstrategyhub.com/intel-competitors-and-alternatives/"
+  ]
 }

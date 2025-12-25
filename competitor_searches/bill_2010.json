@@ -5,9 +5,18 @@
   "search_query": "Bill.com AP automation competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tipalti", "notes": "Cloud-based AP platform founded in 2010, designed for mid-sized to enterprise companies with capabilities for multi-currency payments and global tax requirements"},
-    {"name": "Traditional ERP Systems", "notes": "In 2010, Bill.com was still competing against manual AP processes and traditional ERP systems rather than specialized cloud-based competitors"}
+    {
+      "name": "Tipalti",
+      "notes": "Cloud-based AP platform founded in 2010, designed for mid-sized to enterprise companies with capabilities for multi-currency payments and global tax requirements"
+    },
+    {
+      "name": "Traditional ERP Systems",
+      "notes": "In 2010, Bill.com was still competing against manual AP processes and traditional ERP systems rather than specialized cloud-based competitors"
+    }
   ],
-  "context": "In 2010, Bill.com was an early entrant in cloud-based AP automation, having been founded in 2006. The competitive landscape was nascent, with Tipalti founding the same year (2010). Most businesses still relied on traditional ERP systems and manual processes for accounts payable. The cloud-based financial automation market was just beginning to emerge, positioning Bill.com as an early innovator in the space.",
-  "sources": ["https://www.brex.com/spend-trends/expense-management/bill-com-competitors-and-alternatives", "https://tipalti.com/resources/learn/tipalti-vs-bill-com/"]
+  "context": "BILL Holdings, Inc. is a financial operations platform for SMBs focused on accounts payable, accounts receivable, and spend management automation. Founded as Bill.com. Automating SMB financial operations.",
+  "sources": [
+    "https://www.brex.com/spend-trends/expense-management/bill-com-competitors-and-alternatives",
+    "https://tipalti.com/resources/learn/tipalti-vs-bill-com/"
+  ]
 }

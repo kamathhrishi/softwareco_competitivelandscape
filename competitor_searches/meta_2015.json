@@ -5,15 +5,41 @@
   "search_query": "Facebook competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Twitter", "notes": "Most direct social media competitor"},
-    {"name": "Snapchat", "notes": "Growing rapidly among younger demographics"},
-    {"name": "YouTube", "notes": "Video content competitor"},
-    {"name": "Google", "notes": "Biggest ad competitor, 70% of ad spend with Amazon & Facebook"},
-    {"name": "Amazon", "notes": "Digital advertising competitor"},
-    {"name": "WeChat", "notes": "Dominant in China"},
-    {"name": "VK", "notes": "Dominant in Russia"},
-    {"name": "Minds", "notes": "Privacy-focused platform launched 2015"}
+    {
+      "name": "Twitter",
+      "notes": "Most direct social media competitor"
+    },
+    {
+      "name": "Snapchat",
+      "notes": "Growing rapidly among younger demographics"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video content competitor"
+    },
+    {
+      "name": "Google",
+      "notes": "Biggest ad competitor, 70% of ad spend with Amazon & Facebook"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Digital advertising competitor"
+    },
+    {
+      "name": "WeChat",
+      "notes": "Dominant in China"
+    },
+    {
+      "name": "VK",
+      "notes": "Dominant in Russia"
+    },
+    {
+      "name": "Minds",
+      "notes": "Privacy-focused platform launched 2015"
+    }
   ],
-  "context": "Facebook-Google-Amazon controlled 70% of digital ad spend. Facebook surpassed Google in referral traffic. Regional competitors strong in China, Russia.",
-  "sources": ["https://sociallyin.com/resources/facebook-competitors/"]
+  "context": "Meta Platforms, Inc. is a social media and technology company focused on Facebook, Instagram, WhatsApp, and metaverse investments. Acquired WhatsApp and Instagram. Mobile advertising dominant.",
+  "sources": [
+    "https://sociallyin.com/resources/facebook-competitors/"
+  ]
 }

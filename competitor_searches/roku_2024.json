@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Roku competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Roku is the #1 TV streaming platform in the US with 80M+ active accounts. The company generates most revenue from advertising on The Roku Channel and platform fees.",
+  "context": "Roku, Inc. is a streaming platform company focused on streaming devices, smart TV OS, and advertising. Advertising growth. Roku Channel original content.",
   "competitors": [
-    {"name": "Amazon Fire TV", "notes": "Second-largest streaming platform in US with Alexa integration"},
-    {"name": "Google TV", "notes": "Android TV platform on Chromecast and smart TVs"},
-    {"name": "Apple TV", "notes": "Premium streaming device with Apple ecosystem"},
-    {"name": "Samsung Tizen", "notes": "Smart TV OS on Samsung TVs with Samsung TV Plus"},
-    {"name": "LG webOS", "notes": "Smart TV platform with advertising business"},
-    {"name": "Vizio", "notes": "Smart TV with WatchFree+ ad-supported streaming"},
-    {"name": "Comcast/Xfinity", "notes": "Pay TV platform with Flex streaming device"},
-    {"name": "NVIDIA Shield", "notes": "Android TV for gaming and streaming"}
+    {
+      "name": "Amazon Fire TV",
+      "notes": "Second-largest streaming platform in US with Alexa integration"
+    },
+    {
+      "name": "Google TV",
+      "notes": "Android TV platform on Chromecast and smart TVs"
+    },
+    {
+      "name": "Apple TV",
+      "notes": "Premium streaming device with Apple ecosystem"
+    },
+    {
+      "name": "Samsung Tizen",
+      "notes": "Smart TV OS on Samsung TVs with Samsung TV Plus"
+    },
+    {
+      "name": "LG webOS",
+      "notes": "Smart TV platform with advertising business"
+    },
+    {
+      "name": "Vizio",
+      "notes": "Smart TV with WatchFree+ ad-supported streaming"
+    },
+    {
+      "name": "Comcast/Xfinity",
+      "notes": "Pay TV platform with Flex streaming device"
+    },
+    {
+      "name": "NVIDIA Shield",
+      "notes": "Android TV for gaming and streaming"
+    }
   ],
-  "sources": ["Connected TV industry analysis"]
+  "sources": [
+    "Connected TV industry analysis"
+  ]
 }

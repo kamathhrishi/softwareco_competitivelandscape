@@ -5,16 +5,46 @@
   "search_query": "HubSpot competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Salesforce", "notes": "Undisputed CRM market leader with ~23% market share"},
-    {"name": "Adobe Marketo Engage", "notes": "Enterprise B2B marketing automation platform acquired by Adobe in 2018"},
-    {"name": "Salesforce Pardot", "notes": "B2B marketing automation with Salesforce CRM integration"},
-    {"name": "ActiveCampaign", "notes": "Popular for email drip campaigns and funnels"},
-    {"name": "MailChimp", "notes": "Major email marketing competitor with drag-and-drop editor"},
-    {"name": "Pipedrive", "notes": "Sales CRM focused on pipeline management"},
-    {"name": "Freshsales", "notes": "Affordable CRM for SMBs"},
-    {"name": "Zoho CRM", "notes": "Budget-conscious CRM with expanding features"},
-    {"name": "EngageBay", "notes": "Affordable all-in-one platform for small businesses"}
+    {
+      "name": "Salesforce",
+      "notes": "Undisputed CRM market leader with ~23% market share"
+    },
+    {
+      "name": "Adobe Marketo Engage",
+      "notes": "Enterprise B2B marketing automation platform acquired by Adobe in 2018"
+    },
+    {
+      "name": "Salesforce Pardot",
+      "notes": "B2B marketing automation with Salesforce CRM integration"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "Popular for email drip campaigns and funnels"
+    },
+    {
+      "name": "MailChimp",
+      "notes": "Major email marketing competitor with drag-and-drop editor"
+    },
+    {
+      "name": "Pipedrive",
+      "notes": "Sales CRM focused on pipeline management"
+    },
+    {
+      "name": "Freshsales",
+      "notes": "Affordable CRM for SMBs"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Budget-conscious CRM with expanding features"
+    },
+    {
+      "name": "EngageBay",
+      "notes": "Affordable all-in-one platform for small businesses"
+    }
   ],
-  "context": "By 2020, HubSpot had evolved into a comprehensive CRM platform with Marketing Hub, Sales Hub, Service Hub, and CMS Hub. The COVID-19 pandemic accelerated digital transformation.",
-  "sources": ["https://www.emailvendorselection.com/hubspot-alternatives/", "https://www.brevo.com/blog/hubspot-competitors/"]
+  "context": "HubSpot, Inc. is a CRM and inbound marketing platform focused on marketing, sales, customer service, and CMS software. CRM platform growth. Free tools driving adoption.",
+  "sources": [
+    "https://www.emailvendorselection.com/hubspot-alternatives/",
+    "https://www.brevo.com/blog/hubspot-competitors/"
+  ]
 }

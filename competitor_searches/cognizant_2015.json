@@ -4,16 +4,43 @@
   "year": 2015,
   "search_query": "Cognizant competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Cognizant expanded into digital transformation, cloud, and analytics services in 2015. The company made strategic acquisitions to build consulting and digital capabilities while maintaining strong growth.",
+  "context": "Cognizant Technology Solutions is a IT services and consulting company focused on digital transformation, technology consulting, and outsourcing. Digital transformation investments. Acquiring digital agencies.",
   "competitors": [
-    {"name": "Accenture", "notes": "Global leader increasingly focused on digital transformation"},
-    {"name": "Infosys", "notes": "Indian IT services competitor investing in automation and AI"},
-    {"name": "TCS", "notes": "Largest Indian IT services company with digital focus"},
-    {"name": "Wipro", "notes": "Indian IT services with growing digital and cloud practices"},
-    {"name": "IBM Global Services", "notes": "IT services focusing on cloud, analytics, and cognitive"},
-    {"name": "HCL Technologies", "notes": "Growing through infrastructure and applications acquisitions"},
-    {"name": "Capgemini", "notes": "European IT services with iGate acquisition"},
-    {"name": "DXC Technology", "notes": "Formed from CSC and HPE Enterprise Services merger"}
+    {
+      "name": "Accenture",
+      "notes": "Global leader increasingly focused on digital transformation"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Indian IT services competitor investing in automation and AI"
+    },
+    {
+      "name": "TCS",
+      "notes": "Largest Indian IT services company with digital focus"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services with growing digital and cloud practices"
+    },
+    {
+      "name": "IBM Global Services",
+      "notes": "IT services focusing on cloud, analytics, and cognitive"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "Growing through infrastructure and applications acquisitions"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "European IT services with iGate acquisition"
+    },
+    {
+      "name": "DXC Technology",
+      "notes": "Formed from CSC and HPE Enterprise Services merger"
+    }
   ],
-  "sources": ["Industry analysis", "Gartner research"]
+  "sources": [
+    "Industry analysis",
+    "Gartner research"
+  ]
 }

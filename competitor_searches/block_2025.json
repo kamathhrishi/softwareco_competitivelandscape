@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Block competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Block connects Square seller ecosystem with Cash App consumer platform. The company is a major Bitcoin holder and developer, with Afterpay BNPL and TIDAL music streaming.",
+  "context": "Block, Inc. is a financial technology and digital payments company focused on Square merchant services, Cash App, and Bitcoin through Spiral. Ecosystem connecting Square sellers with Cash App consumers. AI for merchants.",
   "competitors": [
-    {"name": "PayPal", "notes": "Major payments competitor across consumer and merchant"},
-    {"name": "Stripe", "notes": "Leading developer payment platform"},
-    {"name": "Toast", "notes": "Restaurant software and payments leader"},
-    {"name": "Shopify", "notes": "Commerce platform competing in SMB payments"},
-    {"name": "Fiserv/Clover", "notes": "Major payment processor with SMB POS"},
-    {"name": "Chime", "notes": "Neobank competitor to Cash App"},
-    {"name": "Coinbase", "notes": "Crypto platform competing in Bitcoin services"},
-    {"name": "Apple", "notes": "Tap to Pay and wallet competing with Square hardware"}
+    {
+      "name": "PayPal",
+      "notes": "Major payments competitor across consumer and merchant"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Leading developer payment platform"
+    },
+    {
+      "name": "Toast",
+      "notes": "Restaurant software and payments leader"
+    },
+    {
+      "name": "Shopify",
+      "notes": "Commerce platform competing in SMB payments"
+    },
+    {
+      "name": "Fiserv/Clover",
+      "notes": "Major payment processor with SMB POS"
+    },
+    {
+      "name": "Chime",
+      "notes": "Neobank competitor to Cash App"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "Crypto platform competing in Bitcoin services"
+    },
+    {
+      "name": "Apple",
+      "notes": "Tap to Pay and wallet competing with Square hardware"
+    }
   ],
-  "sources": ["Payments and fintech industry analysis"]
+  "sources": [
+    "Payments and fintech industry analysis"
+  ]
 }

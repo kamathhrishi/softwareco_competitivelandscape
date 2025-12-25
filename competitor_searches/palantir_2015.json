@@ -5,12 +5,29 @@
   "search_query": "Palantir data analytics competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "IBM", "notes": "Watson Analytics and enterprise data solutions"},
-    {"name": "SAS", "notes": "Traditional analytics and data mining leader"},
-    {"name": "Splunk", "notes": "Machine data analytics platform"},
-    {"name": "Teradata", "notes": "Enterprise data warehousing and analytics"},
-    {"name": "Tableau", "notes": "Business intelligence and visualization"}
+    {
+      "name": "IBM",
+      "notes": "Watson Analytics and enterprise data solutions"
+    },
+    {
+      "name": "SAS",
+      "notes": "Traditional analytics and data mining leader"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Machine data analytics platform"
+    },
+    {
+      "name": "Teradata",
+      "notes": "Enterprise data warehousing and analytics"
+    },
+    {
+      "name": "Tableau",
+      "notes": "Business intelligence and visualization"
+    }
   ],
-  "context": "In 2015, Palantir was valued at $20B, primarily focused on government and intelligence contracts. The company was expanding into commercial markets with Palantir Foundry while Gotham served government customers. Competition in data analytics was fragmented across BI vendors, data warehousing, and specialized platforms. Palantir differentiated with data integration and analysis for complex, sensitive use cases. The commercial expansion faced challenges against established enterprise analytics vendors.",
-  "sources": ["https://craft.co/palantir-technologies/competitors"]
+  "context": "Palantir Technologies Inc. is a data analytics and AI platform company focused on government intelligence, commercial analytics, and AI operations. Foundry for commercial enterprises. Expanding beyond government.",
+  "sources": [
+    "https://craft.co/palantir-technologies/competitors"
+  ]
 }

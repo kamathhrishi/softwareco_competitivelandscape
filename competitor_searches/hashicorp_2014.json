@@ -5,12 +5,29 @@
   "search_query": "HashiCorp Terraform Vault competitors 2014",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Puppet", "notes": "Established configuration management and infrastructure automation"},
-    {"name": "Chef", "notes": "Configuration management and infrastructure automation"},
-    {"name": "Ansible", "notes": "IT automation for configuration management and deployment"},
-    {"name": "AWS CloudFormation", "notes": "Amazon's infrastructure as code service"},
-    {"name": "SaltStack", "notes": "Infrastructure management and automation platform"}
+    {
+      "name": "Puppet",
+      "notes": "Established configuration management and infrastructure automation"
+    },
+    {
+      "name": "Chef",
+      "notes": "Configuration management and infrastructure automation"
+    },
+    {
+      "name": "Ansible",
+      "notes": "IT automation for configuration management and deployment"
+    },
+    {
+      "name": "AWS CloudFormation",
+      "notes": "Amazon's infrastructure as code service"
+    },
+    {
+      "name": "SaltStack",
+      "notes": "Infrastructure management and automation platform"
+    }
   ],
-  "context": "In 2014, HashiCorp (founded 2012) had just released Terraform. Vault had not yet been released (launched 2015). The infrastructure as code market was in early stages dominated by traditional configuration management tools like Puppet, Chef, and Ansible.",
-  "sources": ["https://www.g2.com/products/hashicorp-vault/competitors/alternatives"]
+  "context": "HashiCorp, Inc. is a infrastructure automation software company focused on Terraform, Vault, Consul for multi-cloud infrastructure. Founded. Vagrant, Terraform, Consul open source tools.",
+  "sources": [
+    "https://www.g2.com/products/hashicorp-vault/competitors/alternatives"
+  ]
 }

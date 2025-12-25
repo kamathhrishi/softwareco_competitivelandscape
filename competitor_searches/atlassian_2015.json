@@ -5,14 +5,37 @@
   "search_query": "Atlassian competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Microsoft Planner and Project for the Web"},
-    {"name": "GitLab", "notes": "DevSecOps platform for software development"},
-    {"name": "GitHub", "notes": "Source code hosting and collaboration platform"},
-    {"name": "Asana", "notes": "Work orchestration and project management platform"},
-    {"name": "Basecamp", "notes": "Project management and team collaboration tool"},
-    {"name": "ServiceNow", "notes": "Digital workflow and IT service management platform"},
-    {"name": "Zendesk", "notes": "Customer service and support ticketing platform"}
+    {
+      "name": "Microsoft",
+      "notes": "Microsoft Planner and Project for the Web"
+    },
+    {
+      "name": "GitLab",
+      "notes": "DevSecOps platform for software development"
+    },
+    {
+      "name": "GitHub",
+      "notes": "Source code hosting and collaboration platform"
+    },
+    {
+      "name": "Asana",
+      "notes": "Work orchestration and project management platform"
+    },
+    {
+      "name": "Basecamp",
+      "notes": "Project management and team collaboration tool"
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Digital workflow and IT service management platform"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Customer service and support ticketing platform"
+    }
   ],
-  "context": "2015 was a pivotal year for Atlassian as it went public via IPO on NASDAQ in December with a $4.37 billion market capitalization. The competitive landscape had matured significantly.",
-  "sources": ["https://bstrategyhub.com/atlassian-competitors-and-alternatives/"]
+  "context": "Atlassian Corporation is a team collaboration and productivity software company focused on Jira, Confluence, Trello, and developer tools. Acquired Trello. Cloud migration strategy. IPO at $4.4B valuation.",
+  "sources": [
+    "https://bstrategyhub.com/atlassian-competitors-and-alternatives/"
+  ]
 }

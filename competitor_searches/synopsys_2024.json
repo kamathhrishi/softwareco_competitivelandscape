@@ -5,12 +5,30 @@
   "search_query": "Synopsys competitors 2024 chip design EDA",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cadence Design Systems", "notes": "Primary competitor with approximately 30% market share"},
-    {"name": "Siemens EDA", "notes": "Formerly Mentor Graphics, holds approximately 13% market share"},
-    {"name": "Ansys", "notes": "Major player providing chip-level power integrity, electromagnetic simulation"},
-    {"name": "Keysight Technologies", "notes": "Leading EDA and test & measurement company"},
-    {"name": "Empyrean Technology", "notes": "China's leading domestic EDA provider, ~1% market share"}
+    {
+      "name": "Cadence Design Systems",
+      "notes": "Primary competitor with approximately 30% market share"
+    },
+    {
+      "name": "Siemens EDA",
+      "notes": "Formerly Mentor Graphics, holds approximately 13% market share"
+    },
+    {
+      "name": "Ansys",
+      "notes": "Major player providing chip-level power integrity, electromagnetic simulation"
+    },
+    {
+      "name": "Keysight Technologies",
+      "notes": "Leading EDA and test & measurement company"
+    },
+    {
+      "name": "Empyrean Technology",
+      "notes": "China's leading domestic EDA provider, ~1% market share"
+    }
   ],
-  "context": "In 2024, the EDA market is dominated by a 'Big Three' oligopoly with Synopsys at approximately 31%, Cadence at 30%, and Siemens EDA at 13%, controlling over 90% of global EDA revenue. Both maintain roughly 40% operating margins.",
-  "sources": ["https://pitchgrade.com/companies/synopsys", "https://semiengineering.com/the-state-of-the-eda-industry-in-2024/"]
+  "context": "Synopsys, Inc. is a electronic design automation company focused on chip design software, IP, and software security. Acquiring Ansys for $35B. AI EDA tools leadership.",
+  "sources": [
+    "https://pitchgrade.com/companies/synopsys",
+    "https://semiengineering.com/the-state-of-the-eda-industry-in-2024/"
+  ]
 }

@@ -5,18 +5,55 @@
   "search_query": "Cisco networking competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Juniper Networks", "notes": "Biggest rival to Cisco, competed in almost every technology area"},
-    {"name": "Aruba Networks", "notes": "Acquired by HPE in 2015, offered switches and routers with innovative processes"},
-    {"name": "Arista Networks", "notes": "Run by ex-Cisco exec Jayshree Ullal, focused on cloud-based networking and data centers"},
-    {"name": "Huawei", "notes": "Huge competitor of Cisco's largely outside of the United States"},
-    {"name": "Dell/EMC", "notes": "Dell acquired EMC in 2015, merged into 150,000+ employee company"},
-    {"name": "Fortinet", "notes": "Leading network security solution provider"},
-    {"name": "Palo Alto Networks", "notes": "Became one of biggest cybersecurity players with App-ID technology"},
-    {"name": "Check Point", "notes": "Established 1993, pioneer in cybersecurity"},
-    {"name": "Google", "notes": "Technology competitor in various IT segments"},
-    {"name": "Microsoft", "notes": "Technology competitor in various IT segments"},
-    {"name": "Amazon", "notes": "Technology competitor in cloud and IT segments"}
+    {
+      "name": "Juniper Networks",
+      "notes": "Biggest rival to Cisco, competed in almost every technology area"
+    },
+    {
+      "name": "Aruba Networks",
+      "notes": "Acquired by HPE in 2015, offered switches and routers with innovative processes"
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Run by ex-Cisco exec Jayshree Ullal, focused on cloud-based networking and data centers"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Huge competitor of Cisco's largely outside of the United States"
+    },
+    {
+      "name": "Dell/EMC",
+      "notes": "Dell acquired EMC in 2015, merged into 150,000+ employee company"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Leading network security solution provider"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Became one of biggest cybersecurity players with App-ID technology"
+    },
+    {
+      "name": "Check Point",
+      "notes": "Established 1993, pioneer in cybersecurity"
+    },
+    {
+      "name": "Google",
+      "notes": "Technology competitor in various IT segments"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Technology competitor in various IT segments"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Technology competitor in cloud and IT segments"
+    }
   ],
-  "context": "2015 marked significant consolidation with HPE acquiring Aruba Networks and Dell acquiring EMC. Cloud giants like Google, Microsoft, and Amazon were emerging as competitors.",
-  "sources": ["https://www.networkstraining.com/top-cisco-competitors/", "https://businessmodelanalyst.com/cisco-competitors/", "https://www.checkpoint.com/comparison/cisco-alternatives/"]
+  "context": "Cisco Systems, Inc. is a networking and communications technology company focused on network infrastructure, security, and collaboration solutions. Software and subscription transition. SDN and intent-based networking.",
+  "sources": [
+    "https://www.networkstraining.com/top-cisco-competitors/",
+    "https://businessmodelanalyst.com/cisco-competitors/",
+    "https://www.checkpoint.com/comparison/cisco-alternatives/"
+  ]
 }

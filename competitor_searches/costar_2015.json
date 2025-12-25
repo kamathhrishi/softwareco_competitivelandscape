@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "CoStar competitors 2015",
   "search_date": "2024-12-24",
-  "context": "CoStar was the leading provider of commercial real estate information and analytics. The company acquired Apartments.com to expand into multifamily rentals.",
+  "context": "CoStar Group, Inc. is a commercial real estate information and analytics company focused on commercial real estate data, analytics, and marketplace platforms. Acquired Apartments.com. Expanded into multifamily residential.",
   "competitors": [
-    {"name": "Yardi Systems", "notes": "Property management software and data"},
-    {"name": "RealPage", "notes": "Multifamily software and data analytics"},
-    {"name": "CBRE", "notes": "Commercial real estate services with research"},
-    {"name": "JLL (Jones Lang LaSalle)", "notes": "Commercial real estate services and research"},
-    {"name": "Real Capital Analytics", "notes": "Commercial real estate transaction data"},
-    {"name": "Reis (Moody's)", "notes": "Commercial real estate market data"},
-    {"name": "LoopNet (CoStar)", "notes": "Own commercial real estate marketplace"},
-    {"name": "Rent.com", "notes": "Rental listings competitor to Apartments.com"}
+    {
+      "name": "Yardi Systems",
+      "notes": "Property management software and data"
+    },
+    {
+      "name": "RealPage",
+      "notes": "Multifamily software and data analytics"
+    },
+    {
+      "name": "CBRE",
+      "notes": "Commercial real estate services with research"
+    },
+    {
+      "name": "JLL (Jones Lang LaSalle)",
+      "notes": "Commercial real estate services and research"
+    },
+    {
+      "name": "Real Capital Analytics",
+      "notes": "Commercial real estate transaction data"
+    },
+    {
+      "name": "Reis (Moody's)",
+      "notes": "Commercial real estate market data"
+    },
+    {
+      "name": "LoopNet (CoStar)",
+      "notes": "Own commercial real estate marketplace"
+    },
+    {
+      "name": "Rent.com",
+      "notes": "Rental listings competitor to Apartments.com"
+    }
   ],
-  "sources": ["Commercial real estate industry analysis"]
+  "sources": [
+    "Commercial real estate industry analysis"
+  ]
 }

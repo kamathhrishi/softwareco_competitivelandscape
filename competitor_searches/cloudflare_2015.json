@@ -5,12 +5,29 @@
   "search_query": "Cloudflare CDN security competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Akamai", "notes": "Market leader in CDN with extensive global network"},
-    {"name": "Amazon CloudFront", "notes": "AWS CDN service growing with AWS adoption"},
-    {"name": "Incapsula", "notes": "CDN and DDoS protection, later became Imperva"},
-    {"name": "MaxCDN", "notes": "CDN provider for websites and applications"},
-    {"name": "Fastly", "notes": "Emerging edge cloud platform"}
+    {
+      "name": "Akamai",
+      "notes": "Market leader in CDN with extensive global network"
+    },
+    {
+      "name": "Amazon CloudFront",
+      "notes": "AWS CDN service growing with AWS adoption"
+    },
+    {
+      "name": "Incapsula",
+      "notes": "CDN and DDoS protection, later became Imperva"
+    },
+    {
+      "name": "MaxCDN",
+      "notes": "CDN provider for websites and applications"
+    },
+    {
+      "name": "Fastly",
+      "notes": "Emerging edge cloud platform"
+    }
   ],
-  "context": "In 2015, Cloudflare was a growing CDN and security startup valued at approximately $1B. Akamai dominated the enterprise CDN market while Cloudflare focused on democratizing performance and security for all websites. The company offered free tier that attracted developers and small businesses. DDoS protection was a key competitive differentiator. The market was shifting toward integrated CDN, WAF, and DDoS mitigation solutions.",
-  "sources": ["https://www.g2.com/products/cloudflare/competitors/alternatives"]
+  "context": "Cloudflare, Inc. is a cloud services and network security company focused on CDN, DDoS protection, edge computing, and Zero Trust security. Expanded beyond security to performance. Workers edge computing.",
+  "sources": [
+    "https://www.g2.com/products/cloudflare/competitors/alternatives"
+  ]
 }

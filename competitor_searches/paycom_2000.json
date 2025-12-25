@@ -5,11 +5,25 @@
   "search_query": "Paycom payroll competitors 2000",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ADP", "notes": "Dominant payroll services provider"},
-    {"name": "Paychex", "notes": "Major payroll processor for small business"},
-    {"name": "Ceridian", "notes": "HR and payroll technology"},
-    {"name": "Intuit Payroll", "notes": "Small business payroll from QuickBooks maker"}
+    {
+      "name": "ADP",
+      "notes": "Dominant payroll services provider"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll processor for small business"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "HR and payroll technology"
+    },
+    {
+      "name": "Intuit Payroll",
+      "notes": "Small business payroll from QuickBooks maker"
+    }
   ],
-  "context": "In 2000, Paycom was founded (as Paycom Payroll) in Oklahoma City by Chad Richison. The payroll market was dominated by ADP and Paychex service bureaus. Web-based payroll was emerging but most processing was outsourced to service bureaus. The HR software market was separate from payroll processing. Paycom started as regional payroll processor building toward integrated HCM platform.",
-  "sources": ["https://www.paycom.com/about/history/"]
+  "context": "Paycom Software, Inc. is a HCM software company focused on payroll, HR, and talent management for enterprises. Founded as payroll and HR software company.",
+  "sources": [
+    "https://www.paycom.com/about/history/"
+  ]
 }

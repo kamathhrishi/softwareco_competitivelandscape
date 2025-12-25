@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Wayfair competitors 2010",
   "search_date": "2024-12-24",
-  "context": "CSN Stores expanded into international markets, shipping to Canada and Germany, selling in UK. Opened London office. Still operating under CSN Stores name before Wayfair rebrand in 2011.",
+  "context": "Wayfair Inc. is a e-commerce company for home goods focused on online furniture, decor, and home improvement products. Expanded internationally. Multiple brand sites.",
   "competitors": [
-    {"name": "Amazon", "notes": "Massive e-commerce expansion including furniture"},
-    {"name": "Overstock", "notes": "Similar discount home goods model, primary competitor"},
-    {"name": "IKEA", "notes": "Swedish furniture giant with US stores and online growth"},
-    {"name": "Walmart", "notes": "Walmart.com growing e-commerce presence"},
-    {"name": "Bed Bath & Beyond", "notes": "Home goods retailer with e-commerce expansion"},
-    {"name": "Williams-Sonoma", "notes": "Pottery Barn, West Elm brands online"},
-    {"name": "Crate & Barrel", "notes": "Upscale furniture and home goods retailer"}
+    {
+      "name": "Amazon",
+      "notes": "Massive e-commerce expansion including furniture"
+    },
+    {
+      "name": "Overstock",
+      "notes": "Similar discount home goods model, primary competitor"
+    },
+    {
+      "name": "IKEA",
+      "notes": "Swedish furniture giant with US stores and online growth"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Walmart.com growing e-commerce presence"
+    },
+    {
+      "name": "Bed Bath & Beyond",
+      "notes": "Home goods retailer with e-commerce expansion"
+    },
+    {
+      "name": "Williams-Sonoma",
+      "notes": "Pottery Barn, West Elm brands online"
+    },
+    {
+      "name": "Crate & Barrel",
+      "notes": "Upscale furniture and home goods retailer"
+    }
   ],
-  "sources": ["E-commerce and furniture retail analysis"]
+  "sources": [
+    "E-commerce and furniture retail analysis"
+  ]
 }

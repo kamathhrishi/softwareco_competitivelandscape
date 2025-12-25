@@ -5,17 +5,53 @@
   "search_query": "Guidewire insurance software competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Majesco", "notes": "Technology and insurance experience provider for P&C and L&AH insurers, platform solutions for core insurance functions, data management, analytics, distribution, underwriting, loss control, and digital services"},
-    {"name": "Vitech", "notes": "Listed as one of Guidewire's top competitors"},
-    {"name": "Sapiens", "notes": "Provides insurance software solutions across various sectors of the insurance industry"},
-    {"name": "Duck Creek Technologies", "notes": "Solutions provider focused on P&C and general insurance industry with cloud-based platform for insurance systems"},
-    {"name": "BriteCore", "notes": "Cloud-native core insurance platform for P&C insurers, trusted by over 90 insurers across North America, enables medium size carriers and MGAs to efficiently manage insurance operations"},
-    {"name": "Insurity", "notes": "Provider of cloud-based software solutions for the P&C insurance industry"},
-    {"name": "Tia Technology", "notes": "Listed as competitor and similar company to Guidewire Software"},
-    {"name": "Prima Solutions", "notes": "Listed as competitor and similar company to Guidewire Software"},
-    {"name": "EZLynx", "notes": "Alternative application similar to Guidewire InsuranceSuite"},
-    {"name": "Origami Risk", "notes": "Alternative application similar to Guidewire InsuranceSuite"}
+    {
+      "name": "Majesco",
+      "notes": "Technology and insurance experience provider for P&C and L&AH insurers, platform solutions for core insurance functions, data management, analytics, distribution, underwriting, loss control, and digital services"
+    },
+    {
+      "name": "Vitech",
+      "notes": "Listed as one of Guidewire's top competitors"
+    },
+    {
+      "name": "Sapiens",
+      "notes": "Provides insurance software solutions across various sectors of the insurance industry"
+    },
+    {
+      "name": "Duck Creek Technologies",
+      "notes": "Solutions provider focused on P&C and general insurance industry with cloud-based platform for insurance systems"
+    },
+    {
+      "name": "BriteCore",
+      "notes": "Cloud-native core insurance platform for P&C insurers, trusted by over 90 insurers across North America, enables medium size carriers and MGAs to efficiently manage insurance operations"
+    },
+    {
+      "name": "Insurity",
+      "notes": "Provider of cloud-based software solutions for the P&C insurance industry"
+    },
+    {
+      "name": "Tia Technology",
+      "notes": "Listed as competitor and similar company to Guidewire Software"
+    },
+    {
+      "name": "Prima Solutions",
+      "notes": "Listed as competitor and similar company to Guidewire Software"
+    },
+    {
+      "name": "EZLynx",
+      "notes": "Alternative application similar to Guidewire InsuranceSuite"
+    },
+    {
+      "name": "Origami Risk",
+      "notes": "Alternative application similar to Guidewire InsuranceSuite"
+    }
   ],
-  "context": "By 2020, Guidewire had achieved significant market presence with a market cap of $6.63B and ranked 2nd among major competitors for NPS (with Salesforce 1st and IBM 3rd). The competitive landscape had expanded with both established enterprise players and emerging cloud-native platforms. Core competitors remained relatively consistent with earlier years, but cloud-based solutions became more prominent.",
-  "sources": ["https://www.selecthub.com/insurance-software/guidewire/alternatives/", "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives", "https://www.cbinsights.com/company/guidewire/alternatives-competitors", "https://craft.co/guidewire-software/competitors", "https://www.gartner.com/reviews/market/saas-p-and-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives"]
+  "context": "Guidewire Software, Inc. is a software for property and casualty insurers focused on core insurance systems, data analytics, and digital engagement. Cloud migration accelerating. Digital insurance solutions.",
+  "sources": [
+    "https://www.selecthub.com/insurance-software/guidewire/alternatives/",
+    "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives",
+    "https://www.cbinsights.com/company/guidewire/alternatives-competitors",
+    "https://craft.co/guidewire-software/competitors",
+    "https://www.gartner.com/reviews/market/saas-p-and-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives"
+  ]
 }

@@ -4,7 +4,7 @@
   "year": 2015,
   "search_query": "JFrog Artifactory competitors 2015 DevOps artifact repository",
   "search_date": "2024-12-24",
-  "context": "In 2015, JFrog Artifactory was establishing itself as a leading universal artifact repository manager in the rapidly growing DevOps toolchain market. Founded in 2008, JFrog had built Artifactory to solve the challenge of managing binary artifacts across the software development lifecycle. By 2015, as DevOps practices were becoming mainstream and continuous integration/continuous delivery (CI/CD) pipelines were proliferating, the need for robust artifact management was growing significantly. JFrog competed primarily on its universal repository approach (supporting multiple package formats), advanced metadata management, and strong integrations with CI/CD tools. The market in 2015 was still relatively specialized, with most developers choosing between JFrog Artifactory and Sonatype Nexus as their primary repository manager.",
+  "context": "JFrog Ltd. is a software supply chain platform company focused on binary management, DevOps, and software distribution. Expanded to full DevOps platform. Pipeline integration.",
   "competitors": [
     {
       "name": "Sonatype Nexus Repository",

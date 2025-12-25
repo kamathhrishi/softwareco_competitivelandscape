@@ -5,17 +5,50 @@
   "search_query": "Appian competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Pega Systems", "notes": "AI-powered decision-making, RPA, and customer engagement"},
-    {"name": "ServiceNow", "notes": "Strong IT service management capabilities"},
-    {"name": "Salesforce", "notes": "Comprehensive automation and CRM"},
-    {"name": "Oracle", "notes": "Enterprise BPM and automation offerings"},
-    {"name": "OutSystems", "notes": "AI development tools, enterprise focus"},
-    {"name": "Mendix", "notes": "SDK for mobile apps and B2B platforms"},
-    {"name": "Creatio", "notes": "Forrester Leader Q1 2024 for citizen developers"},
-    {"name": "Bizagi", "notes": "Business user accessibility"},
-    {"name": "UiPath", "notes": "RPA platform leader"},
-    {"name": "ProcessMaker", "notes": "Affordable alternative with case-based pricing"}
+    {
+      "name": "Pega Systems",
+      "notes": "AI-powered decision-making, RPA, and customer engagement"
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Strong IT service management capabilities"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Comprehensive automation and CRM"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise BPM and automation offerings"
+    },
+    {
+      "name": "OutSystems",
+      "notes": "AI development tools, enterprise focus"
+    },
+    {
+      "name": "Mendix",
+      "notes": "SDK for mobile apps and B2B platforms"
+    },
+    {
+      "name": "Creatio",
+      "notes": "Forrester Leader Q1 2024 for citizen developers"
+    },
+    {
+      "name": "Bizagi",
+      "notes": "Business user accessibility"
+    },
+    {
+      "name": "UiPath",
+      "notes": "RPA platform leader"
+    },
+    {
+      "name": "ProcessMaker",
+      "notes": "Affordable alternative with case-based pricing"
+    }
   ],
-  "context": "By 2024, the low-code/no-code market was highly competitive. Appian faces competition from enterprise platforms, specialized low-code vendors, BPM specialists, and RPA leaders. Market evolved to include DPA, iBPMS, and AI-powered decisioning.",
-  "sources": ["https://www.gartner.com/reviews/market/business-process-automation-tools/vendor/appian/product/appian-low-code-platform/alternatives", "https://www.creatio.com/glossary/appian-alternatives"]
+  "context": "Appian Corporation is a low-code automation platform company focused on business process management, workflow automation, and enterprise applications. AI-powered process automation. Competing with Microsoft Power Platform and ServiceNow.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/business-process-automation-tools/vendor/appian/product/appian-low-code-platform/alternatives",
+    "https://www.creatio.com/glossary/appian-alternatives"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "Veeva Systems life sciences competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "IMS Health", "notes": "Major life sciences data and technology provider before merger with Quintiles"},
-    {"name": "Cegedim", "notes": "European CRM and data provider for pharma"},
-    {"name": "Oracle Health Sciences", "notes": "Clinical and regulatory solutions for life sciences"},
-    {"name": "Medidata Solutions", "notes": "Clinical trial software and analytics"},
-    {"name": "Salesforce", "notes": "Platform provider and potential direct competitor in life sciences"}
+    {
+      "name": "IMS Health",
+      "notes": "Major life sciences data and technology provider before merger with Quintiles"
+    },
+    {
+      "name": "Cegedim",
+      "notes": "European CRM and data provider for pharma"
+    },
+    {
+      "name": "Oracle Health Sciences",
+      "notes": "Clinical and regulatory solutions for life sciences"
+    },
+    {
+      "name": "Medidata Solutions",
+      "notes": "Clinical trial software and analytics"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Platform provider and potential direct competitor in life sciences"
+    }
   ],
-  "context": "In 2015, Veeva was public (IPO'd 2013) and establishing dominance in pharmaceutical CRM built on Salesforce platform. IMS Health was the major data competitor before its 2016 merger with Quintiles to form QuintilesIMS (later IQVIA). Veeva launched Vault platform expanding beyond CRM into content management, clinical, regulatory, and quality. The life sciences cloud software market was growing rapidly as pharma companies digitized operations.",
-  "sources": ["https://craft.co/veeva/competitors"]
+  "context": "Veeva Systems Inc. is a cloud software for life sciences focused on CRM, content management, and data solutions for pharma. IPO. Vault content management success.",
+  "sources": [
+    "https://craft.co/veeva/competitors"
+  ]
 }

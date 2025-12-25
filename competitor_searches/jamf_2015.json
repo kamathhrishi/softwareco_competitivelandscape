@@ -5,14 +5,38 @@
   "search_query": "AirWatch MobileIron Jamf 2015 MDM market Apple device management",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AirWatch (VMware)", "notes": "Cross-platform MDM acquired by VMware in 2014, supported iOS, Android, Windows Mobile, BlackBerry. Major MDM player but lacked Jamf's deep Apple expertise"},
-    {"name": "MobileIron", "notes": "Comprehensive enterprise mobile management solution focused on security. Strong MDM player but didn't offer Jamf's level of customization for Apple devices"},
-    {"name": "Cisco Meraki", "notes": "Cloud-managed IT solutions including MDM capabilities for mobile device management"},
-    {"name": "FileWave", "notes": "Multi-platform device management solution supporting Mac, Windows, iOS, and Android"},
-    {"name": "Mosyle", "notes": "Apple-focused MDM solution, founded 2012, particularly popular in education sector"},
-    {"name": "Microsoft Intune", "notes": "Cross-platform endpoint management with integration into Microsoft ecosystem"},
-    {"name": "Apple Profile Manager", "notes": "Apple's built-in MDM solution included with OS X Server"}
+    {
+      "name": "AirWatch (VMware)",
+      "notes": "Cross-platform MDM acquired by VMware in 2014, supported iOS, Android, Windows Mobile, BlackBerry. Major MDM player but lacked Jamf's deep Apple expertise"
+    },
+    {
+      "name": "MobileIron",
+      "notes": "Comprehensive enterprise mobile management solution focused on security. Strong MDM player but didn't offer Jamf's level of customization for Apple devices"
+    },
+    {
+      "name": "Cisco Meraki",
+      "notes": "Cloud-managed IT solutions including MDM capabilities for mobile device management"
+    },
+    {
+      "name": "FileWave",
+      "notes": "Multi-platform device management solution supporting Mac, Windows, iOS, and Android"
+    },
+    {
+      "name": "Mosyle",
+      "notes": "Apple-focused MDM solution, founded 2012, particularly popular in education sector"
+    },
+    {
+      "name": "Microsoft Intune",
+      "notes": "Cross-platform endpoint management with integration into Microsoft ecosystem"
+    },
+    {
+      "name": "Apple Profile Manager",
+      "notes": "Apple's built-in MDM solution included with OS X Server"
+    }
   ],
-  "context": "By 2015, the mobile device management market had matured significantly following the rise of smartphones and tablets. Jamf was chosen by IBM in 2015 to manage its Macs, marking a major validation of its enterprise capabilities. The competitive landscape included cross-platform MDM providers like AirWatch (acquired by VMware in 2014) and MobileIron that supported multiple operating systems (iOS, Android, Windows, BlackBerry), as well as Apple-focused solutions. The development of Exchange ActiveSync had led directly to the MDM industry boom. Jamf differentiated itself through deep Apple expertise and zero-day support for new Apple releases.",
-  "sources": ["https://www.jamf.com/jamf-nation/discussions/27704/jamf-vs-airwatch/", "https://www.linkedin.com/pulse/jamf-pro-one-only-monarch-apple-device-management-dan-livshitz"]
+  "context": "Jamf Holding Corp. is a Apple device management company focused on Apple enterprise management, security, and identity. Apple enterprise adoption accelerating.",
+  "sources": [
+    "https://www.jamf.com/jamf-nation/discussions/27704/jamf-vs-airwatch/",
+    "https://www.linkedin.com/pulse/jamf-pro-one-only-monarch-apple-device-management-dan-livshitz"
+  ]
 }

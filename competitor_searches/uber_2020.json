@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Uber competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Uber went public in 2019 and faced pandemic challenges in 2020 as ride-hailing demand collapsed. The company pivoted focus to Uber Eats delivery, which saw massive growth. Acquired Postmates for $2.65B.",
+  "context": "Uber Technologies, Inc. is a mobility and delivery platform focused on ridesharing, food delivery, and freight. COVID devastated rides. Delivery saved company.",
   "competitors": [
-    {"name": "Lyft", "notes": "US ride-hailing competitor also struggling with pandemic impact"},
-    {"name": "DoorDash", "notes": "Food delivery competitor that surpassed Uber Eats in US market share"},
-    {"name": "Grubhub", "notes": "Food delivery competitor acquired by Just Eat Takeaway"},
-    {"name": "Didi", "notes": "Chinese ride-hailing giant with global ambitions"},
-    {"name": "Grab", "notes": "Southeast Asian super-app competitor"},
-    {"name": "Bolt", "notes": "European ride-hailing and delivery competitor"},
-    {"name": "Ola", "notes": "Indian ride-hailing platform"},
-    {"name": "Instacart", "notes": "Grocery delivery competing for drivers and consumer attention"}
+    {
+      "name": "Lyft",
+      "notes": "US ride-hailing competitor also struggling with pandemic impact"
+    },
+    {
+      "name": "DoorDash",
+      "notes": "Food delivery competitor that surpassed Uber Eats in US market share"
+    },
+    {
+      "name": "Grubhub",
+      "notes": "Food delivery competitor acquired by Just Eat Takeaway"
+    },
+    {
+      "name": "Didi",
+      "notes": "Chinese ride-hailing giant with global ambitions"
+    },
+    {
+      "name": "Grab",
+      "notes": "Southeast Asian super-app competitor"
+    },
+    {
+      "name": "Bolt",
+      "notes": "European ride-hailing and delivery competitor"
+    },
+    {
+      "name": "Ola",
+      "notes": "Indian ride-hailing platform"
+    },
+    {
+      "name": "Instacart",
+      "notes": "Grocery delivery competing for drivers and consumer attention"
+    }
   ],
-  "sources": ["Ride-hailing and delivery industry analysis"]
+  "sources": [
+    "Ride-hailing and delivery industry analysis"
+  ]
 }

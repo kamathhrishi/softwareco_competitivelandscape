@@ -5,14 +5,38 @@
   "search_query": "C3.ai enterprise AI competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Major tech company with AI/ML platforms in cloud services"},
-    {"name": "Amazon", "notes": "Major tech company with AI/ML capabilities in AWS"},
-    {"name": "Google", "notes": "Major tech company with AI/ML platforms and cloud"},
-    {"name": "DataRobot", "notes": "Founded 2012, emphasizes automated machine learning"},
-    {"name": "Dataiku", "notes": "Founded 2013, AI and analytics platform for enterprises"},
-    {"name": "SAP", "notes": "Incorporating AI into enterprise systems"},
-    {"name": "Oracle", "notes": "Incorporating AI into enterprise systems"}
+    {
+      "name": "Microsoft",
+      "notes": "Major tech company with AI/ML platforms in cloud services"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Major tech company with AI/ML capabilities in AWS"
+    },
+    {
+      "name": "Google",
+      "notes": "Major tech company with AI/ML platforms and cloud"
+    },
+    {
+      "name": "DataRobot",
+      "notes": "Founded 2012, emphasizes automated machine learning"
+    },
+    {
+      "name": "Dataiku",
+      "notes": "Founded 2013, AI and analytics platform for enterprises"
+    },
+    {
+      "name": "SAP",
+      "notes": "Incorporating AI into enterprise systems"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Incorporating AI into enterprise systems"
+    }
   ],
-  "context": "In 2015, enterprise AI market was in early stages. C3.ai (formerly C3 IoT, founded 2009) was among early movers. Tech giants were building AI/ML platforms while enterprise-focused AI startups like DataRobot and Dataiku were establishing themselves.",
-  "sources": ["https://www.cbinsights.com/company/c3-energy/alternatives-competitors", "https://craft.co/c3-ai/competitors"]
+  "context": "C3.ai, Inc. is a enterprise AI software company focused on AI applications for enterprise, government, and defense. Enterprise AI platform for IoT and predictive analytics.",
+  "sources": [
+    "https://www.cbinsights.com/company/c3-energy/alternatives-competitors",
+    "https://craft.co/c3-ai/competitors"
+  ]
 }

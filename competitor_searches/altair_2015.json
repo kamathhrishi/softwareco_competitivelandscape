@@ -5,15 +5,42 @@
   "search_query": "Altair Engineering competitors 2015 simulation CAE software",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Ansys", "notes": "Comprehensive FEA suite including LS-DYNA and Mechanical"},
-    {"name": "Dassault Systemes", "notes": "SIMULIA suite including Abaqus"},
-    {"name": "MSC Software", "notes": "MSC Nastran, Adams, Actran"},
-    {"name": "Siemens PLM Software", "notes": "Integrated CAD/CAE/PLM solutions"},
-    {"name": "SOLIDWORKS", "notes": "Accessible FEA integrated with CAD"},
-    {"name": "COMSOL", "notes": "Multiphysics simulation platform"},
-    {"name": "MathWorks", "notes": "MATLAB and Simulink"},
-    {"name": "BETA CAE Systems", "notes": "ANSA pre-processing competing with HyperMesh"}
+    {
+      "name": "Ansys",
+      "notes": "Comprehensive FEA suite including LS-DYNA and Mechanical"
+    },
+    {
+      "name": "Dassault Systemes",
+      "notes": "SIMULIA suite including Abaqus"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "MSC Nastran, Adams, Actran"
+    },
+    {
+      "name": "Siemens PLM Software",
+      "notes": "Integrated CAD/CAE/PLM solutions"
+    },
+    {
+      "name": "SOLIDWORKS",
+      "notes": "Accessible FEA integrated with CAD"
+    },
+    {
+      "name": "COMSOL",
+      "notes": "Multiphysics simulation platform"
+    },
+    {
+      "name": "MathWorks",
+      "notes": "MATLAB and Simulink"
+    },
+    {
+      "name": "BETA CAE Systems",
+      "notes": "ANSA pre-processing competing with HyperMesh"
+    }
   ],
-  "context": "By 2015, CAE market matured with segmentation between high-end suites and specialized tools. Simulation-driven design becoming vital in PLM. Altair established HyperWorks with strong automotive and aerospace presence. Competition intensified as PLM vendors integrated simulation.",
-  "sources": ["https://www.g2.com/products/altair-hypermesh/competitors/alternatives", "https://www.g2.com/categories/simulation-cae"]
+  "context": "Altair Engineering Inc. is a computational science and AI company focused on simulation, data analytics, and high-performance computing solutions. Unified simulation platform strategy. Data analytics becoming important alongside traditional simulation.",
+  "sources": [
+    "https://www.g2.com/products/altair-hypermesh/competitors/alternatives",
+    "https://www.g2.com/categories/simulation-cae"
+  ]
 }

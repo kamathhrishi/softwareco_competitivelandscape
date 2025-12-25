@@ -5,18 +5,55 @@
   "search_query": "Zuora competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Chargebee", "notes": "Leading subscription management platform claiming 9-month ROI (half of Zuora), with hybrid pricing flexibility and usage-based billing"},
-    {"name": "Recurly", "notes": "Alternative for businesses with standard recurring billing models, integrating with Salesforce and QuickBooks"},
-    {"name": "Maxio", "notes": "Comprehensive subscription management and financial operations platform for B2B SaaS (merged Chargify and SaaSOptics)"},
-    {"name": "Oracle NetSuite", "notes": "Complete platform replacement option offering accounting, ERP, CRM, and subscription management"},
-    {"name": "Braintree", "notes": "PayPal-owned payment processor with subscription billing tools and strong security focus"},
-    {"name": "Salesforce Billing", "notes": "Subscription billing deeply integrated with Salesforce CRM and CPQ tools"},
-    {"name": "Orb", "notes": "Modern billing platform competitor mentioned as primary alternative"},
-    {"name": "RightRev", "notes": "Revenue recognition and subscription management platform"},
-    {"name": "Piano Software", "notes": "Subscription and billing platform"},
-    {"name": "Leapfin", "notes": "Revenue automation platform"},
-    {"name": "Zenskar", "notes": "Modern billing platform positioning as Zuora alternative"}
+    {
+      "name": "Chargebee",
+      "notes": "Leading subscription management platform claiming 9-month ROI (half of Zuora), with hybrid pricing flexibility and usage-based billing"
+    },
+    {
+      "name": "Recurly",
+      "notes": "Alternative for businesses with standard recurring billing models, integrating with Salesforce and QuickBooks"
+    },
+    {
+      "name": "Maxio",
+      "notes": "Comprehensive subscription management and financial operations platform for B2B SaaS (merged Chargify and SaaSOptics)"
+    },
+    {
+      "name": "Oracle NetSuite",
+      "notes": "Complete platform replacement option offering accounting, ERP, CRM, and subscription management"
+    },
+    {
+      "name": "Braintree",
+      "notes": "PayPal-owned payment processor with subscription billing tools and strong security focus"
+    },
+    {
+      "name": "Salesforce Billing",
+      "notes": "Subscription billing deeply integrated with Salesforce CRM and CPQ tools"
+    },
+    {
+      "name": "Orb",
+      "notes": "Modern billing platform competitor mentioned as primary alternative"
+    },
+    {
+      "name": "RightRev",
+      "notes": "Revenue recognition and subscription management platform"
+    },
+    {
+      "name": "Piano Software",
+      "notes": "Subscription and billing platform"
+    },
+    {
+      "name": "Leapfin",
+      "notes": "Revenue automation platform"
+    },
+    {
+      "name": "Zenskar",
+      "notes": "Modern billing platform positioning as Zuora alternative"
+    }
   ],
-  "context": "In 2024, Zuora operated in a highly competitive and fragmented market. The company faced pressure from multiple directions: established enterprise vendors (Salesforce, Oracle NetSuite), specialized subscription platforms (Chargebee, Recurly, Maxio), and emerging modern billing solutions (Orb, Zenskar). Key competitive differentiators included implementation speed, pricing transparency, ease of use, and support for complex pricing models. A significant development occurred in October 2024 when Silver Lake Management acquired Zuora for $1.7 billion, taking the company private.",
-  "sources": ["https://www.gartner.com/reviews/market/configure-price-quote-application-suites/vendor/zuora/product/zuora-cpq/alternatives", "https://www.chargebee.com/compare-competitors/zuora/", "https://www.cbinsights.com/company/zuora/alternatives-competitors"]
+  "context": "Zuora, Inc. is a subscription management platform company focused on billing, revenue recognition, and subscription analytics. Zephr acquisition. Paywall and metering.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/configure-price-quote-application-suites/vendor/zuora/product/zuora-cpq/alternatives",
+    "https://www.chargebee.com/compare-competitors/zuora/",
+    "https://www.cbinsights.com/company/zuora/alternatives-competitors"
+  ]
 }

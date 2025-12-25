@@ -5,12 +5,30 @@
   "search_query": "UiPath RPA automation competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Automation Anywhere", "notes": "Top RPA competitor with enterprise focus"},
-    {"name": "Blue Prism", "notes": "Enterprise RPA pioneer, particularly strong in banking and finance"},
-    {"name": "Microsoft Power Automate", "notes": "Microsoft entered RPA market in 2020, acquired Softmotive"},
-    {"name": "Pegasystems", "notes": "BPM and low-code platform with RPA capabilities"},
-    {"name": "WorkFusion", "notes": "AI-powered intelligent automation platform"}
+    {
+      "name": "Automation Anywhere",
+      "notes": "Top RPA competitor with enterprise focus"
+    },
+    {
+      "name": "Blue Prism",
+      "notes": "Enterprise RPA pioneer, particularly strong in banking and finance"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "notes": "Microsoft entered RPA market in 2020, acquired Softmotive"
+    },
+    {
+      "name": "Pegasystems",
+      "notes": "BPM and low-code platform with RPA capabilities"
+    },
+    {
+      "name": "WorkFusion",
+      "notes": "AI-powered intelligent automation platform"
+    }
   ],
-  "context": "In 2020, UiPath was the RPA market leader, valued at $10.2B after April 2020 funding round. Microsoft's entry into RPA market via Softmotive acquisition and Power Automate created new competitive pressure. The COVID-19 pandemic accelerated RPA adoption as organizations automated processes for remote operations. Blue Prism and Automation Anywhere remained primary competitors. UiPath was preparing for its April 2021 IPO.",
-  "sources": ["https://www.gartner.com/reviews/market/robotic-process-automation-software", "https://www.g2.com/products/uipath/competitors/alternatives"]
+  "context": "UiPath Inc. is a enterprise automation platform company focused on robotic process automation and AI-powered automation. IPO. Enterprise automation demand surge.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/robotic-process-automation-software",
+    "https://www.g2.com/products/uipath/competitors/alternatives"
+  ]
 }

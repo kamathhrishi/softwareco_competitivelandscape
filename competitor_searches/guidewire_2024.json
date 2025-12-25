@@ -5,24 +5,84 @@
   "search_query": "Guidewire competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Majesco", "notes": "Top competitor, provides technology and insurance experience for P&C and L&AH insurers"},
-    {"name": "Vitech", "notes": "Listed as one of Guidewire's top competitors"},
-    {"name": "Sapiens", "notes": "Top competitor providing insurance software solutions"},
-    {"name": "Duck Creek Technologies", "notes": "Significant alternative with low-code, cloud-based solutions for policy administration, claims management, and customer engagement in P&C insurance"},
-    {"name": "Insurity", "notes": "Major alternative provider of cloud-based software solutions for P&C insurance industry"},
-    {"name": "EIS Group", "notes": "Significant alternative to Guidewire in 2024"},
-    {"name": "BriteCore", "notes": "Emerging platform alternative to Guidewire"},
-    {"name": "IBM", "notes": "Enterprise technology competitor in insurance software space"},
-    {"name": "Salesforce", "notes": "Enterprise technology competitor in insurance software space"},
-    {"name": "Oracle", "notes": "Enterprise technology competitor in insurance software space"},
-    {"name": "Applied", "notes": "Active competitor, Applied Epic is top alternative to Guidewire InsuranceNow"},
-    {"name": "Bold Penguin", "notes": "Active competitor in the insurance technology space"},
-    {"name": "OneShield", "notes": "Active competitor providing core insurance platform solutions for P&C insurers and MGAs"},
-    {"name": "AMS360", "notes": "Top competitor in Insurance Administration and Management category with 6.44% market share"},
-    {"name": "Applied Epic", "notes": "Top alternative with 4.04% market share in Insurance Administration and Management"},
-    {"name": "EZLynx", "notes": "Alternative to Guidewire InsuranceNow"},
-    {"name": "Duck Creek Policy", "notes": "Alternative to Guidewire InsuranceNow"}
+    {
+      "name": "Majesco",
+      "notes": "Top competitor, provides technology and insurance experience for P&C and L&AH insurers"
+    },
+    {
+      "name": "Vitech",
+      "notes": "Listed as one of Guidewire's top competitors"
+    },
+    {
+      "name": "Sapiens",
+      "notes": "Top competitor providing insurance software solutions"
+    },
+    {
+      "name": "Duck Creek Technologies",
+      "notes": "Significant alternative with low-code, cloud-based solutions for policy administration, claims management, and customer engagement in P&C insurance"
+    },
+    {
+      "name": "Insurity",
+      "notes": "Major alternative provider of cloud-based software solutions for P&C insurance industry"
+    },
+    {
+      "name": "EIS Group",
+      "notes": "Significant alternative to Guidewire in 2024"
+    },
+    {
+      "name": "BriteCore",
+      "notes": "Emerging platform alternative to Guidewire"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise technology competitor in insurance software space"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Enterprise technology competitor in insurance software space"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise technology competitor in insurance software space"
+    },
+    {
+      "name": "Applied",
+      "notes": "Active competitor, Applied Epic is top alternative to Guidewire InsuranceNow"
+    },
+    {
+      "name": "Bold Penguin",
+      "notes": "Active competitor in the insurance technology space"
+    },
+    {
+      "name": "OneShield",
+      "notes": "Active competitor providing core insurance platform solutions for P&C insurers and MGAs"
+    },
+    {
+      "name": "AMS360",
+      "notes": "Top competitor in Insurance Administration and Management category with 6.44% market share"
+    },
+    {
+      "name": "Applied Epic",
+      "notes": "Top alternative with 4.04% market share in Insurance Administration and Management"
+    },
+    {
+      "name": "EZLynx",
+      "notes": "Alternative to Guidewire InsuranceNow"
+    },
+    {
+      "name": "Duck Creek Policy",
+      "notes": "Alternative to Guidewire InsuranceNow"
+    }
   ],
-  "context": "In 2024, Guidewire serves more than 570 carriers in 42 countries and reported 26.58% revenue growth in Q3 2024. The company has 83 active competitors and ranks 1st among 106 competitors. Guidewire InsuranceSuite has 4.58% market share in the insurance-administration-and-management category, competing with 216 tools. Insurers are exploring alternatives due to challenges like high costs, inflexible systems, and the need for rapid adaptation to market changes. The competitive landscape includes both specialized insurance software providers and large enterprise technology companies.",
-  "sources": ["https://www.gartner.com/reviews/market/p-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives", "https://www.comparably.com/companies/guidewire-software/competitors", "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share", "https://www.cbinsights.com/company/guidewire/alternatives-competitors", "https://tracxn.com/d/companies/guidewire/__gg0aCkF8A0p4LXixZkBF5GGsAQjCXj9skW9Sm-GROW8/competitors", "https://www.softwareadvice.com/insurance/insurancesuite-profile/alternatives/", "https://www.latterly.org/guidewire-competitors/", "https://dev.to/openkoda/top-5-guidewire-alternatives-in-2025-371c"]
+  "context": "Guidewire Software, Inc. is a software for property and casualty insurers focused on core insurance systems, data analytics, and digital engagement. Guidewire Cloud growth. AI and analytics integration.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/p-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives",
+    "https://www.comparably.com/companies/guidewire-software/competitors",
+    "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share",
+    "https://www.cbinsights.com/company/guidewire/alternatives-competitors",
+    "https://tracxn.com/d/companies/guidewire/__gg0aCkF8A0p4LXixZkBF5GGsAQjCXj9skW9Sm-GROW8/competitors",
+    "https://www.softwareadvice.com/insurance/insurancesuite-profile/alternatives/",
+    "https://www.latterly.org/guidewire-competitors/",
+    "https://dev.to/openkoda/top-5-guidewire-alternatives-in-2025-371c"
+  ]
 }

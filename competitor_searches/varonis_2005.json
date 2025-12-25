@@ -5,11 +5,26 @@
   "search_query": "Varonis data security competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Symantec", "notes": "Major cybersecurity provider"},
-    {"name": "McAfee", "notes": "Large cybersecurity firm"},
-    {"name": "NetApp", "notes": "Storage and data management (founders were former NetApp employees)"},
-    {"name": "Microsoft", "notes": "Enterprise technology with security offerings"}
+    {
+      "name": "Symantec",
+      "notes": "Major cybersecurity provider"
+    },
+    {
+      "name": "McAfee",
+      "notes": "Large cybersecurity firm"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Storage and data management (founders were former NetApp employees)"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Enterprise technology with security offerings"
+    }
   ],
-  "context": "In 2005, Varonis was just founded by Yaki Faitelson and Ohad Korkus (former NetVision/NetApp employees). Filed patent for automatic management of storage access control. Data security landscape dominated by Symantec and McAfee. Market for unstructured data security was emerging.",
-  "sources": ["https://www.docontrol.io/blog/varonis-alternatives-and-competitors", "https://bstrategyhub.com/varonis-competitors-and-alternatives/"]
+  "context": "Varonis Systems, Inc. is a data security platform company focused on data protection, insider threat detection, and compliance. Founded for unstructured data security.",
+  "sources": [
+    "https://www.docontrol.io/blog/varonis-alternatives-and-competitors",
+    "https://bstrategyhub.com/varonis-competitors-and-alternatives/"
+  ]
 }

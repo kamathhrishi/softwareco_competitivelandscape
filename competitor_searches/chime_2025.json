@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Chime competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Chime went public in June 2025 at $27/share, valued at $11.6B. The neobank serves millions with fee-free banking, early direct deposit, and credit building products. Q3 2025 showed 29% YoY revenue growth.",
+  "context": "Chime Financial, Inc. is a digital banking platform focused on mobile-first banking, early paycheck access, and fee-free accounts. Leading neobank. IPO preparations. Competing with traditional banks.",
   "competitors": [
-    {"name": "SoFi", "notes": "Full-service fintech with banking, lending, investing"},
-    {"name": "Cash App", "notes": "Block's P2P payments with banking and investing"},
-    {"name": "Varo Bank", "notes": "Mobile-first bank with national charter"},
-    {"name": "Current", "notes": "Gen Z focused mobile banking"},
-    {"name": "Dave", "notes": "Cash advance and overdraft protection"},
-    {"name": "Revolut", "notes": "Global fintech expanding in US"},
-    {"name": "Ally Bank", "notes": "Online-only bank, no physical branches"},
-    {"name": "Traditional Banks", "notes": "Chase, Bank of America digital offerings"}
+    {
+      "name": "SoFi",
+      "notes": "Full-service fintech with banking, lending, investing"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Block's P2P payments with banking and investing"
+    },
+    {
+      "name": "Varo Bank",
+      "notes": "Mobile-first bank with national charter"
+    },
+    {
+      "name": "Current",
+      "notes": "Gen Z focused mobile banking"
+    },
+    {
+      "name": "Dave",
+      "notes": "Cash advance and overdraft protection"
+    },
+    {
+      "name": "Revolut",
+      "notes": "Global fintech expanding in US"
+    },
+    {
+      "name": "Ally Bank",
+      "notes": "Online-only bank, no physical branches"
+    },
+    {
+      "name": "Traditional Banks",
+      "notes": "Chase, Bank of America digital offerings"
+    }
   ],
-  "sources": ["Fintech industry analysis", "CNBC"]
+  "sources": [
+    "Fintech industry analysis",
+    "CNBC"
+  ]
 }

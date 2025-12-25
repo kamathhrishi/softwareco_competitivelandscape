@@ -4,16 +4,42 @@
   "year": 2019,
   "search_query": "Chewy competitors 2019",
   "search_date": "2024-12-24",
-  "context": "Chewy went public in June 2019, backed by PetSmart. The company was the leading online pet retailer with exceptional customer service and Autoship subscription model.",
+  "context": "Chewy, Inc. is a online pet products retailer focused on pet food, supplies, pharmacy, and healthcare services. IPO at $8.7B valuation. Autoship subscription model success.",
   "competitors": [
-    {"name": "Amazon", "notes": "Largest online retailer expanding pet category"},
-    {"name": "PetSmart", "notes": "Parent company with brick-and-mortar stores"},
-    {"name": "Petco", "notes": "Pet specialty retailer with e-commerce"},
-    {"name": "Walmart", "notes": "Mass retailer with large pet section online and in-store"},
-    {"name": "Target", "notes": "Mass retailer with pet products"},
-    {"name": "1-800-PetMeds", "notes": "Online pet pharmacy"},
-    {"name": "BarkBox", "notes": "Pet subscription box service"},
-    {"name": "Costco", "notes": "Warehouse club with pet food selection"}
+    {
+      "name": "Amazon",
+      "notes": "Largest online retailer expanding pet category"
+    },
+    {
+      "name": "PetSmart",
+      "notes": "Parent company with brick-and-mortar stores"
+    },
+    {
+      "name": "Petco",
+      "notes": "Pet specialty retailer with e-commerce"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Mass retailer with large pet section online and in-store"
+    },
+    {
+      "name": "Target",
+      "notes": "Mass retailer with pet products"
+    },
+    {
+      "name": "1-800-PetMeds",
+      "notes": "Online pet pharmacy"
+    },
+    {
+      "name": "BarkBox",
+      "notes": "Pet subscription box service"
+    },
+    {
+      "name": "Costco",
+      "notes": "Warehouse club with pet food selection"
+    }
   ],
-  "sources": ["Pet industry analysis"]
+  "sources": [
+    "Pet industry analysis"
+  ]
 }

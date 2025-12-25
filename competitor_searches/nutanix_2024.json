@@ -5,17 +5,50 @@
   "search_query": "Nutanix competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "VMware vSAN", "notes": "Most deployed enterprise HCI (9.88% share), now part of Broadcom after acquisition"},
-    {"name": "Dell EMC VxRail", "notes": "Second largest share at 9.10%, widely deployed across verticals"},
-    {"name": "Cisco HyperFlex", "notes": "Reached end-of-sale in 2024; Cisco now partners with Nutanix"},
-    {"name": "HPE SimpliVity", "notes": "Expanded hypervisor support, targets SMBs and remote offices"},
-    {"name": "Microsoft Azure Stack HCI", "notes": "Cloud and hybrid infrastructure competitor"},
-    {"name": "Red Hat", "notes": "Open-source virtualization and cloud infrastructure"},
-    {"name": "Sangfor HCI", "notes": "Growing HCI alternative provider"},
-    {"name": "Lenovo ThinkAgile", "notes": "HCI solutions leveraging VMware and other technologies"},
-    {"name": "Scale Computing", "notes": "HCI for edge computing environments"},
-    {"name": "Proxmox VE", "notes": "Open-source virtualization platform"}
+    {
+      "name": "VMware vSAN",
+      "notes": "Most deployed enterprise HCI (9.88% share), now part of Broadcom after acquisition"
+    },
+    {
+      "name": "Dell EMC VxRail",
+      "notes": "Second largest share at 9.10%, widely deployed across verticals"
+    },
+    {
+      "name": "Cisco HyperFlex",
+      "notes": "Reached end-of-sale in 2024; Cisco now partners with Nutanix"
+    },
+    {
+      "name": "HPE SimpliVity",
+      "notes": "Expanded hypervisor support, targets SMBs and remote offices"
+    },
+    {
+      "name": "Microsoft Azure Stack HCI",
+      "notes": "Cloud and hybrid infrastructure competitor"
+    },
+    {
+      "name": "Red Hat",
+      "notes": "Open-source virtualization and cloud infrastructure"
+    },
+    {
+      "name": "Sangfor HCI",
+      "notes": "Growing HCI alternative provider"
+    },
+    {
+      "name": "Lenovo ThinkAgile",
+      "notes": "HCI solutions leveraging VMware and other technologies"
+    },
+    {
+      "name": "Scale Computing",
+      "notes": "HCI for edge computing environments"
+    },
+    {
+      "name": "Proxmox VE",
+      "notes": "Open-source virtualization platform"
+    }
   ],
-  "context": "In 2024, Nutanix dominates the converged infrastructure market with 56.47% market share and 6,719+ customers globally. Broadcom's VMware acquisition created uncertainty, positioning Nutanix as leading VMware alternative. Cisco HyperFlex reached end-of-sale in 2024, with Cisco now partnering with Nutanix instead.",
-  "sources": ["https://6sense.com/tech/converged-infrastructure/nutanix-market-share", "https://faddom.com/top-8-nutanix-competitors-and-how-to-choose/"]
+  "context": "Nutanix, Inc. is a hybrid multicloud computing company focused on hyperconverged infrastructure, cloud platform, and virtualization. Hybrid multicloud platform. GPT-in-a-box for AI.",
+  "sources": [
+    "https://6sense.com/tech/converged-infrastructure/nutanix-market-share",
+    "https://faddom.com/top-8-nutanix-competitors-and-how-to-choose/"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Airbnb competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Airbnb is the global leader in alternative accommodations with 7M+ listings. The company expanded into Experiences and faced regulatory challenges in major cities limiting short-term rentals.",
+  "context": "Airbnb, Inc. is a online marketplace for short-term lodging and experiences focused on vacation rentals, unique stays, and travel experiences. Post-pandemic travel boom. Expanded into experiences and long-term stays. Facing hotel industry pushback.",
   "competitors": [
-    {"name": "Booking.com", "notes": "Largest OTA with growing vacation rental inventory"},
-    {"name": "Vrbo (Expedia)", "notes": "Family-focused vacation rental platform"},
-    {"name": "Marriott/Hilton", "notes": "Hotel chains with loyalty programs and home rental offerings"},
-    {"name": "Sonder", "notes": "Tech-enabled hospitality with apartment-style accommodations"},
-    {"name": "Vacasa", "notes": "Largest vacation rental management company"},
-    {"name": "Hipcamp", "notes": "Outdoor accommodations marketplace"},
-    {"name": "Homes & Villas by Marriott", "notes": "Premium home rentals from hotel giant"},
-    {"name": "Google Travel", "notes": "Aggregating vacation rentals in search results"}
+    {
+      "name": "Booking.com",
+      "notes": "Largest OTA with growing vacation rental inventory"
+    },
+    {
+      "name": "Vrbo (Expedia)",
+      "notes": "Family-focused vacation rental platform"
+    },
+    {
+      "name": "Marriott/Hilton",
+      "notes": "Hotel chains with loyalty programs and home rental offerings"
+    },
+    {
+      "name": "Sonder",
+      "notes": "Tech-enabled hospitality with apartment-style accommodations"
+    },
+    {
+      "name": "Vacasa",
+      "notes": "Largest vacation rental management company"
+    },
+    {
+      "name": "Hipcamp",
+      "notes": "Outdoor accommodations marketplace"
+    },
+    {
+      "name": "Homes & Villas by Marriott",
+      "notes": "Premium home rentals from hotel giant"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Aggregating vacation rentals in search results"
+    }
   ],
-  "sources": ["Travel and hospitality industry analysis"]
+  "sources": [
+    "Travel and hospitality industry analysis"
+  ]
 }

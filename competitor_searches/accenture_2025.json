@@ -4,25 +4,76 @@
   "year": 2025,
   "search_query": "Accenture competitors 2025",
   "search_date": "2025-12-24",
-  "context": "The IT consulting industry is projected to reach $759.6 billion in 2025 with growth of 1.9%. Accenture maintains the largest market share among IT consulting firms in the US. Competition is high and increasing, driven by AI consulting services (projected to exceed $90.99 billion by 2035 at 26.2% CAGR) and cloud consulting services (estimated to reach $500 billion by 2033 at 15% CAGR). The market has evolved beyond traditional advisory to comprehensive digital transformation solutions.",
+  "context": "Accenture is a global professional services and consulting firm focused on IT consulting, strategy, digital transformation, and technology services. Continued AI transformation leadership. Focus on industry-specific AI solutions and sustainability consulting.",
   "competitors": [
-    {"name": "Deloitte Consulting", "notes": "Best overall alternative with extensive global footprint spanning 150+ countries, competing directly in technology and digital transformation"},
-    {"name": "IBM Consulting", "notes": "Top competitor with diverse portfolio including AI, quantum computing, cloud services, and blockchain innovation"},
-    {"name": "Capgemini Services", "notes": "Leading European consulting firm with strength in data analytics, AI, digital engineering, and creative acquisitions"},
-    {"name": "PricewaterhouseCoopers (PwC)", "notes": "Major Big Four competitor offering digital transformation and risk management consulting"},
-    {"name": "KPMG", "notes": "Big Four firm with strong risk and regulatory consulting practice"},
-    {"name": "Ernst & Young (EY)", "notes": "Big Four professional services firm with comprehensive technology and advisory services"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Leading Indian IT services firm with reputation for execution and reliability in IT and outsourcing"},
-    {"name": "Infosys", "notes": "Major competitor integrating AI at scale with automation-driven efficiency and transformation capabilities"},
-    {"name": "Wipro", "notes": "Indian IT services leader with comprehensive digital and cloud transformation services"},
-    {"name": "Cognizant", "notes": "IT services and consulting firm competing in technology consulting and digital solutions"},
-    {"name": "HCL Technologies", "notes": "Indian IT services provider with engineering and digital capabilities"},
-    {"name": "DXC Technology", "notes": "Enterprise technology services competitor"},
-    {"name": "McKinsey & Company", "notes": "Premier strategy consulting firm competing in high-end advisory and digital consulting"},
-    {"name": "Boston Consulting Group (BCG)", "notes": "Elite strategy consulting firm"},
-    {"name": "Bain & Company", "notes": "Top management consulting firm"},
-    {"name": "Oracle Consulting", "notes": "Cloud and enterprise software consulting services"},
-    {"name": "SAP Services", "notes": "Enterprise software implementation and consulting"}
+    {
+      "name": "Deloitte Consulting",
+      "notes": "Best overall alternative with extensive global footprint spanning 150+ countries, competing directly in technology and digital transformation"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Top competitor with diverse portfolio including AI, quantum computing, cloud services, and blockchain innovation"
+    },
+    {
+      "name": "Capgemini Services",
+      "notes": "Leading European consulting firm with strength in data analytics, AI, digital engineering, and creative acquisitions"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC)",
+      "notes": "Major Big Four competitor offering digital transformation and risk management consulting"
+    },
+    {
+      "name": "KPMG",
+      "notes": "Big Four firm with strong risk and regulatory consulting practice"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "notes": "Big Four professional services firm with comprehensive technology and advisory services"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Leading Indian IT services firm with reputation for execution and reliability in IT and outsourcing"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Major competitor integrating AI at scale with automation-driven efficiency and transformation capabilities"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services leader with comprehensive digital and cloud transformation services"
+    },
+    {
+      "name": "Cognizant",
+      "notes": "IT services and consulting firm competing in technology consulting and digital solutions"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "Indian IT services provider with engineering and digital capabilities"
+    },
+    {
+      "name": "DXC Technology",
+      "notes": "Enterprise technology services competitor"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Premier strategy consulting firm competing in high-end advisory and digital consulting"
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "notes": "Elite strategy consulting firm"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Top management consulting firm"
+    },
+    {
+      "name": "Oracle Consulting",
+      "notes": "Cloud and enterprise software consulting services"
+    },
+    {
+      "name": "SAP Services",
+      "notes": "Enterprise software implementation and consulting"
+    }
   ],
   "sources": [
     "https://www.1840andco.com/blog/accenture-competitors",

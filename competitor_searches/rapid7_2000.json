@@ -5,9 +5,18 @@
   "search_query": "Rapid7 security analytics competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Symantec", "notes": "Established enterprise security vendor in 2000"},
-    {"name": "Core Security Technologies", "notes": "Early competitor in vulnerability management"}
+    {
+      "name": "Symantec",
+      "notes": "Established enterprise security vendor in 2000"
+    },
+    {
+      "name": "Core Security Technologies",
+      "notes": "Early competitor in vulnerability management"
+    }
   ],
-  "context": "Rapid7 was founded in 2000 by Alan Matthews, Tas Giakouminakis, and Chad Loder in Boston. At founding, the cybersecurity market was in early stages with limited specialized competitors. Most security companies focused on antivirus and network security. Rapid7 emerged with Metasploit penetration testing platform.",
-  "sources": ["https://www.cbinsights.com/company/rapid7", "https://beaglesecurity.com/blog/article/best-rapid7-alternatives.html"]
+  "context": "Rapid7, Inc. is a security analytics and automation company focused on vulnerability management, SIEM, and detection and response. Founded for penetration testing tools.",
+  "sources": [
+    "https://www.cbinsights.com/company/rapid7",
+    "https://beaglesecurity.com/blog/article/best-rapid7-alternatives.html"
+  ]
 }

@@ -5,16 +5,46 @@
   "search_query": "Palo Alto Networks cybersecurity competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Check Point Software Technologies", "notes": "Well-established player since 1997, offering comprehensive security solutions"},
-    {"name": "Cisco Systems", "notes": "Major cybersecurity giant with extensive offerings covering firewalls to cloud protection"},
-    {"name": "Fortinet", "notes": "Strong competitor with Security Fabric architecture, FortiGate NGFW is formidable competitor"},
-    {"name": "Juniper Networks", "notes": "NGFW provider with integrated threat protection and application awareness"},
-    {"name": "Symantec Corporation", "notes": "Established cybersecurity giant with large workforce"},
-    {"name": "FireEye", "notes": "Advanced threat detection and response competitor"},
-    {"name": "Barracuda Networks", "notes": "Network security and firewall solutions provider"},
-    {"name": "Zscaler", "notes": "Emerging cloud security competitor with zero-trust approach"},
-    {"name": "CrowdStrike", "notes": "Emerging disruptive force with cutting-edge technology and agile business model"}
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Well-established player since 1997, offering comprehensive security solutions"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Major cybersecurity giant with extensive offerings covering firewalls to cloud protection"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Strong competitor with Security Fabric architecture, FortiGate NGFW is formidable competitor"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "NGFW provider with integrated threat protection and application awareness"
+    },
+    {
+      "name": "Symantec Corporation",
+      "notes": "Established cybersecurity giant with large workforce"
+    },
+    {
+      "name": "FireEye",
+      "notes": "Advanced threat detection and response competitor"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "Network security and firewall solutions provider"
+    },
+    {
+      "name": "Zscaler",
+      "notes": "Emerging cloud security competitor with zero-trust approach"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Emerging disruptive force with cutting-edge technology and agile business model"
+    }
   ],
-  "context": "By 2015, Palo Alto Networks had established itself as a major player in the cybersecurity market. In 2014, Palo Alto founded the Cyber Threat Alliance with Fortinet, McAfee, and NortonLifeLock.",
-  "sources": ["https://www.checkpoint.com/comparison/pan-alternatives/", "https://www.cbinsights.com/company/palo-alto-networks/alternatives-competitors"]
+  "context": "Palo Alto Networks, Inc. is a cybersecurity platform company focused on network security, cloud security, and security operations. Cloud and endpoint security acquisitions.",
+  "sources": [
+    "https://www.checkpoint.com/comparison/pan-alternatives/",
+    "https://www.cbinsights.com/company/palo-alto-networks/alternatives-competitors"
+  ]
 }

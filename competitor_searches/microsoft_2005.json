@@ -5,14 +5,37 @@
   "search_query": "Microsoft competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "IBM", "notes": "Most consistent competitor in operating systems and enterprise software"},
-    {"name": "Apple Computer", "notes": "Competitor in software development and hardware"},
-    {"name": "Sun Microsystems", "notes": "Competitor in enterprise and server markets"},
-    {"name": "Oracle", "notes": "Significant competitor in enterprise software"},
-    {"name": "Google", "notes": "Emerging as major competitor in search and online services"},
-    {"name": "Yahoo", "notes": "Competitor in online services and search"},
-    {"name": "Sony", "notes": "Competitor in gaming and entertainment"}
+    {
+      "name": "IBM",
+      "notes": "Most consistent competitor in operating systems and enterprise software"
+    },
+    {
+      "name": "Apple Computer",
+      "notes": "Competitor in software development and hardware"
+    },
+    {
+      "name": "Sun Microsystems",
+      "notes": "Competitor in enterprise and server markets"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Significant competitor in enterprise software"
+    },
+    {
+      "name": "Google",
+      "notes": "Emerging as major competitor in search and online services"
+    },
+    {
+      "name": "Yahoo",
+      "notes": "Competitor in online services and search"
+    },
+    {
+      "name": "Sony",
+      "notes": "Competitor in gaming and entertainment"
+    }
   ],
-  "context": "Mid-2005 period saw competition across operating systems, server applications, and enterprise software. Google was emerging as a significant threat.",
-  "sources": ["https://qz.com/1553700/this-30-year-timeline-reveals-microsofts-biggest-competitors"]
+  "context": "Microsoft Corporation is a technology company focused on cloud computing, productivity software, gaming, and AI. Xbox 360 launch. Vista development. Search entering.",
+  "sources": [
+    "https://qz.com/1553700/this-30-year-timeline-reveals-microsofts-biggest-competitors"
+  ]
 }

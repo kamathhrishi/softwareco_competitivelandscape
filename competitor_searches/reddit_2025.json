@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Reddit competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Reddit is the front page of the internet with 100M+ daily users. The platform monetizes through advertising, premium subscriptions, and AI data licensing deals with Google and OpenAI.",
+  "context": "Reddit, Inc. is a social news and community platform focused on community forums, content aggregation, and advertising. Community platform growth. Competing with social platforms.",
   "competitors": [
-    {"name": "Discord", "notes": "Real-time community platform with 200M+ monthly users"},
-    {"name": "X (Twitter)", "notes": "Real-time discussion and news"},
-    {"name": "Facebook Groups", "notes": "Meta's community features"},
-    {"name": "Quora", "notes": "Q&A platform with AI-powered Poe"},
-    {"name": "YouTube Community", "notes": "Creator community features"},
-    {"name": "TikTok", "notes": "Comments and communities around content"},
-    {"name": "Threads", "notes": "Meta's Twitter alternative with growing communities"},
-    {"name": "Bluesky", "notes": "Decentralized social network"}
+    {
+      "name": "Discord",
+      "notes": "Real-time community platform with 200M+ monthly users"
+    },
+    {
+      "name": "X (Twitter)",
+      "notes": "Real-time discussion and news"
+    },
+    {
+      "name": "Facebook Groups",
+      "notes": "Meta's community features"
+    },
+    {
+      "name": "Quora",
+      "notes": "Q&A platform with AI-powered Poe"
+    },
+    {
+      "name": "YouTube Community",
+      "notes": "Creator community features"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Comments and communities around content"
+    },
+    {
+      "name": "Threads",
+      "notes": "Meta's Twitter alternative with growing communities"
+    },
+    {
+      "name": "Bluesky",
+      "notes": "Decentralized social network"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

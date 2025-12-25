@@ -4,7 +4,7 @@
   "year": 2025,
   "search_query": "HashiCorp competitors 2025",
   "search_date": "2024-12-24",
-  "context": "HashiCorp provides multi-cloud infrastructure automation tools including Terraform (IaC), Vault (secrets management), and Nomad (container orchestration). In 2023, HashiCorp changed their license from MPL 2.0 to BuSL, leading many companies to seek alternative solutions. The company competes across infrastructure as code, privileged access management, and container orchestration markets.",
+  "context": "HashiCorp, Inc. is a infrastructure automation software company focused on Terraform, Vault, Consul for multi-cloud infrastructure. IBM integration. Enterprise multi-cloud automation.",
   "competitors": [
     {
       "name": "Red Hat Ansible Automation Platform",

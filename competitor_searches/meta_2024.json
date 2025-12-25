@@ -5,16 +5,45 @@
   "search_query": "Facebook Meta competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "TikTok", "notes": "1.925B global users, 170M US users"},
-    {"name": "Google/YouTube", "notes": "YouTube 15.5% of social ad spend H1 2024"},
-    {"name": "Amazon", "notes": "Part of trio dominating global ad market"},
-    {"name": "Apple", "notes": "iOS control impacts Meta's tracking capabilities"},
-    {"name": "Snapchat", "notes": "3.0% of social ad spend H1 2024"},
-    {"name": "X (Twitter)", "notes": "0.8% of social ad spend"},
-    {"name": "LinkedIn", "notes": "4.8% of social ad spend"},
-    {"name": "Telegram", "notes": "Messaging app competitor to WhatsApp"},
-    {"name": "HTC Vive", "notes": "VR competitor to Meta Quest"}
+    {
+      "name": "TikTok",
+      "notes": "1.925B global users, 170M US users"
+    },
+    {
+      "name": "Google/YouTube",
+      "notes": "YouTube 15.5% of social ad spend H1 2024"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Part of trio dominating global ad market"
+    },
+    {
+      "name": "Apple",
+      "notes": "iOS control impacts Meta's tracking capabilities"
+    },
+    {
+      "name": "Snapchat",
+      "notes": "3.0% of social ad spend H1 2024"
+    },
+    {
+      "name": "X (Twitter)",
+      "notes": "0.8% of social ad spend"
+    },
+    {
+      "name": "LinkedIn",
+      "notes": "4.8% of social ad spend"
+    },
+    {
+      "name": "Telegram",
+      "notes": "Messaging app competitor to WhatsApp"
+    },
+    {
+      "name": "HTC Vive",
+      "notes": "VR competitor to Meta Quest"
+    }
   ],
-  "context": "Meta: 3.35B Daily Active People across apps. Competition fragmented across social (TikTok), advertising (Google-Meta-Amazon), messaging, and VR/metaverse.",
-  "sources": ["https://sociallyin.com/resources/facebook-competitors/"]
+  "context": "Meta Platforms, Inc. is a social media and technology company focused on Facebook, Instagram, WhatsApp, and metaverse investments. AI investment pivot. Llama models. Reality Labs losses continuing.",
+  "sources": [
+    "https://sociallyin.com/resources/facebook-competitors/"
+  ]
 }

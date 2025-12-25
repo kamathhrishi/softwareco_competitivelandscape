@@ -5,14 +5,38 @@
   "search_query": "nCino bank cloud software competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Temenos", "notes": "Swiss banking software provider with comprehensive core banking and loan origination solutions"},
-    {"name": "Finastra (formerly Misys)", "notes": "Major banking software provider offering loan origination and core banking systems"},
-    {"name": "FIS (Fidelity National Information Services)", "notes": "Large financial services technology provider with banking and lending solutions"},
-    {"name": "Jack Henry & Associates", "notes": "Provider of core banking and lending technology for community banks and credit unions"},
-    {"name": "Fiserv", "notes": "Financial services technology company offering core processing and lending solutions"},
-    {"name": "Oracle Financial Services", "notes": "Banking platform provider with loan origination and banking solutions"},
-    {"name": "Salesforce Financial Services Cloud", "notes": "CRM platform for financial services, competing in customer relationship management space"}
+    {
+      "name": "Temenos",
+      "notes": "Swiss banking software provider with comprehensive core banking and loan origination solutions"
+    },
+    {
+      "name": "Finastra (formerly Misys)",
+      "notes": "Major banking software provider offering loan origination and core banking systems"
+    },
+    {
+      "name": "FIS (Fidelity National Information Services)",
+      "notes": "Large financial services technology provider with banking and lending solutions"
+    },
+    {
+      "name": "Jack Henry & Associates",
+      "notes": "Provider of core banking and lending technology for community banks and credit unions"
+    },
+    {
+      "name": "Fiserv",
+      "notes": "Financial services technology company offering core processing and lending solutions"
+    },
+    {
+      "name": "Oracle Financial Services",
+      "notes": "Banking platform provider with loan origination and banking solutions"
+    },
+    {
+      "name": "Salesforce Financial Services Cloud",
+      "notes": "CRM platform for financial services, competing in customer relationship management space"
+    }
   ],
-  "context": "In 2015, nCino was an early-stage company (founded 2012) pioneering cloud-based banking solutions built on Salesforce. The banking software market was dominated by established on-premise vendors like Temenos, FIS, and Finastra. nCino differentiated itself by offering a modern, cloud-native platform specifically designed for financial institutions, focusing on loan origination and customer relationship management.",
-  "sources": ["https://www.ncino.com/", "https://www.g2.com/products/ncino/competitors/alternatives"]
+  "context": "nCino, Inc. is a cloud banking platform company focused on bank operating system for lending, account opening, and deposits. Founded on Salesforce platform. Commercial lending focus.",
+  "sources": [
+    "https://www.ncino.com/",
+    "https://www.g2.com/products/ncino/competitors/alternatives"
+  ]
 }

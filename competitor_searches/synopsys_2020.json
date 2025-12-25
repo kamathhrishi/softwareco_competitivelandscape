@@ -5,9 +5,18 @@
   "search_query": "Synopsys competitors 2020 EDA software",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cadence Design Systems", "notes": "Primary competitor with approximately 30% market share, offering end-to-end EDA software platform"},
-    {"name": "Siemens EDA", "notes": "Formerly Mentor Graphics (acquired by Siemens in 2017), holds approximately 13% market share"}
+    {
+      "name": "Cadence Design Systems",
+      "notes": "Primary competitor with approximately 30% market share, offering end-to-end EDA software platform"
+    },
+    {
+      "name": "Siemens EDA",
+      "notes": "Formerly Mentor Graphics (acquired by Siemens in 2017), holds approximately 13% market share"
+    }
   ],
-  "context": "In 2020, the EDA market was worth approximately $11.5 billion and remained dominated by the 'Big Three' controlling around 75% of the market. Synopsys and Cadence each held about 30% market share, with Siemens EDA at 13%.",
-  "sources": ["https://en.wikipedia.org/wiki/Synopsys", "https://www.greendotstocks.com/semiconductor-eda-faceoff-SNPS-CDNS-2023-02"]
+  "context": "Synopsys, Inc. is a electronic design automation company focused on chip design software, IP, and software security. AI chip design tools. Record semiconductor designs.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synopsys",
+    "https://www.greendotstocks.com/semiconductor-eda-faceoff-SNPS-CDNS-2023-02"
+  ]
 }

@@ -4,14 +4,34 @@
   "year": 2010,
   "search_query": "Roku competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Streaming devices emerged as cord-cutting enablers. Roku XDS supported 1080p for $99. Apple TV 2nd gen launched at $99 but only 720p. Boxee and Google TV entered market at higher price points.",
+  "context": "Roku, Inc. is a streaming platform company focused on streaming devices, smart TV OS, and advertising. Streaming devices competing with Apple TV and others.",
   "competitors": [
-    {"name": "Apple TV", "notes": "2nd gen Sept 2010, $99, only 720p, sold 1M units by Dec 2010"},
-    {"name": "Boxee Box", "notes": "Hardware device from Boxee, excellent local media playback"},
-    {"name": "Google TV", "notes": "Launched 2010, close to $300, different market positioning"},
-    {"name": "Western Digital TV Live Plus", "notes": "$99, two USB ports, Netflix and YouTube support"},
-    {"name": "Sony Network Media Player", "notes": "Sony's streaming device entry"},
-    {"name": "Netgear NeoTV", "notes": "Network streaming player"}
+    {
+      "name": "Apple TV",
+      "notes": "2nd gen Sept 2010, $99, only 720p, sold 1M units by Dec 2010"
+    },
+    {
+      "name": "Boxee Box",
+      "notes": "Hardware device from Boxee, excellent local media playback"
+    },
+    {
+      "name": "Google TV",
+      "notes": "Launched 2010, close to $300, different market positioning"
+    },
+    {
+      "name": "Western Digital TV Live Plus",
+      "notes": "$99, two USB ports, Netflix and YouTube support"
+    },
+    {
+      "name": "Sony Network Media Player",
+      "notes": "Sony's streaming device entry"
+    },
+    {
+      "name": "Netgear NeoTV",
+      "notes": "Network streaming player"
+    }
   ],
-  "sources": ["Streaming device industry analysis"]
+  "sources": [
+    "Streaming device industry analysis"
+  ]
 }

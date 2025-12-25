@@ -4,16 +4,42 @@
   "year": 2010,
   "search_query": "Expedia competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Expedia was a leading OTA in 2010 with merchant model selling pre-purchased hotel inventory. The company owned Hotels.com and Hotwire, competing with Priceline's agency model.",
+  "context": "Expedia Group, Inc. is a online travel platform focused on travel booking, vacation rentals, and travel technology. Acquired Trivago stake. Mobile booking growing rapidly.",
   "competitors": [
-    {"name": "Priceline", "notes": "Booking.com parent company growing rapidly in Europe"},
-    {"name": "Orbitz", "notes": "OTA later acquired by Expedia in 2015"},
-    {"name": "Travelocity", "notes": "Major OTA owned by Sabre"},
-    {"name": "TripAdvisor", "notes": "Reviews platform with growing booking influence"},
-    {"name": "Kayak", "notes": "Travel metasearch aggregating OTA prices"},
-    {"name": "Google Travel", "notes": "Emerging travel search capabilities"},
-    {"name": "Airline Direct", "notes": "Airlines building direct booking websites"},
-    {"name": "Hotel Direct", "notes": "Hotels offering best rate guarantees for direct booking"}
+    {
+      "name": "Priceline",
+      "notes": "Booking.com parent company growing rapidly in Europe"
+    },
+    {
+      "name": "Orbitz",
+      "notes": "OTA later acquired by Expedia in 2015"
+    },
+    {
+      "name": "Travelocity",
+      "notes": "Major OTA owned by Sabre"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Reviews platform with growing booking influence"
+    },
+    {
+      "name": "Kayak",
+      "notes": "Travel metasearch aggregating OTA prices"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Emerging travel search capabilities"
+    },
+    {
+      "name": "Airline Direct",
+      "notes": "Airlines building direct booking websites"
+    },
+    {
+      "name": "Hotel Direct",
+      "notes": "Hotels offering best rate guarantees for direct booking"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

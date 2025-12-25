@@ -5,14 +5,37 @@
   "search_query": "Google competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft (Bing)", "notes": "Major search competitor, Yahoo-Microsoft deal integrated Bing"},
-    {"name": "Yahoo", "notes": "$1.5B+ quarterly revenue, search deal with Microsoft"},
-    {"name": "Facebook", "notes": "Named in Google's 2009 10-K filing"},
-    {"name": "Twitter", "notes": "Social media competition emerged"},
-    {"name": "Yelp", "notes": "Local search and reviews"},
-    {"name": "Hulu", "notes": "YouTube's closest competitor in video"},
-    {"name": "Amazon", "notes": "$22B+ sales, competing in cloud computing"}
+    {
+      "name": "Microsoft (Bing)",
+      "notes": "Major search competitor, Yahoo-Microsoft deal integrated Bing"
+    },
+    {
+      "name": "Yahoo",
+      "notes": "$1.5B+ quarterly revenue, search deal with Microsoft"
+    },
+    {
+      "name": "Facebook",
+      "notes": "Named in Google's 2009 10-K filing"
+    },
+    {
+      "name": "Twitter",
+      "notes": "Social media competition emerged"
+    },
+    {
+      "name": "Yelp",
+      "notes": "Local search and reviews"
+    },
+    {
+      "name": "Hulu",
+      "notes": "YouTube's closest competitor in video"
+    },
+    {
+      "name": "Amazon",
+      "notes": "$22B+ sales, competing in cloud computing"
+    }
   ],
-  "context": "Google listed 10 competitors in 2009 10-K vs 2 previously. Dominated with ~67% US searches and 70%+ search ad revenue.",
-  "sources": ["https://www.computerworld.com/article/1549840/google-s-10-toughest-rivals.html"]
+  "context": "Alphabet Inc. (Google) is a technology conglomerate focused on search, advertising, cloud, Android, YouTube, and AI. Android market leader. Chrome browser dominance. Cloud growing.",
+  "sources": [
+    "https://www.computerworld.com/article/1549840/google-s-10-toughest-rivals.html"
+  ]
 }

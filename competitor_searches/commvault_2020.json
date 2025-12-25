@@ -5,17 +5,49 @@
   "search_query": "CommVault backup data protection competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Veeam", "notes": "Market leader with 20.28% share, cloud-first approach"},
-    {"name": "Veritas NetBackup", "notes": "Enterprise-scale data protection solution"},
-    {"name": "Cohesity", "notes": "Founded 2013, modern hyperconverged secondary storage"},
-    {"name": "Rubrik", "notes": "Founded 2014, cloud data management platform"},
-    {"name": "Druva", "notes": "Cloud-native SaaS backup using AWS infrastructure"},
-    {"name": "Acronis Cyber Protect", "notes": "Backup with integrated cybersecurity and ransomware protection"},
-    {"name": "Dell PowerProtect", "notes": "Next-generation backup appliances formerly EMC Data Domain"},
-    {"name": "Zerto", "notes": "Continuous data protection with near-zero RPO"},
-    {"name": "NAKIVO", "notes": "Affordable VM backup for SMBs"},
-    {"name": "HYCU", "notes": "SaaS-based data protection for hybrid environments"}
+    {
+      "name": "Veeam",
+      "notes": "Market leader with 20.28% share, cloud-first approach"
+    },
+    {
+      "name": "Veritas NetBackup",
+      "notes": "Enterprise-scale data protection solution"
+    },
+    {
+      "name": "Cohesity",
+      "notes": "Founded 2013, modern hyperconverged secondary storage"
+    },
+    {
+      "name": "Rubrik",
+      "notes": "Founded 2014, cloud data management platform"
+    },
+    {
+      "name": "Druva",
+      "notes": "Cloud-native SaaS backup using AWS infrastructure"
+    },
+    {
+      "name": "Acronis Cyber Protect",
+      "notes": "Backup with integrated cybersecurity and ransomware protection"
+    },
+    {
+      "name": "Dell PowerProtect",
+      "notes": "Next-generation backup appliances formerly EMC Data Domain"
+    },
+    {
+      "name": "Zerto",
+      "notes": "Continuous data protection with near-zero RPO"
+    },
+    {
+      "name": "NAKIVO",
+      "notes": "Affordable VM backup for SMBs"
+    },
+    {
+      "name": "HYCU",
+      "notes": "SaaS-based data protection for hybrid environments"
+    }
   ],
-  "context": "By 2020, cloud-native solutions gained prominence. Veeam became market leader with 20.28% share. CommVault held 5.49% share. Ransomware protection became critical requirement.",
-  "sources": ["https://www.gartner.com/reviews/market/enterprise-backup-and-recovery-software-solutions/vendor/commvault/alternatives"]
+  "context": "Commvault Systems, Inc. is a data protection and management software company focused on backup, recovery, and data management across cloud and on-premises. SaaS data protection. Metallic cloud offering launched.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/enterprise-backup-and-recovery-software-solutions/vendor/commvault/alternatives"
+  ]
 }

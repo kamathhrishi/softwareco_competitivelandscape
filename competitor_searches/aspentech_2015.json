@@ -5,17 +5,50 @@
   "search_query": "AspenTech Aspen Technology competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "OSIsoft", "notes": "Primary competitor, real-time data infrastructure (acquired by AVEVA in 2020)"},
-    {"name": "AVEVA", "notes": "Industrial software for engineering and operations"},
-    {"name": "Canary Labs", "notes": "Industrial data management and visualization"},
-    {"name": "Honeywell", "notes": "Process Solutions for oil & gas, refining, chemicals"},
-    {"name": "Schneider Electric", "notes": "Industrial automation and energy management"},
-    {"name": "Emerson", "notes": "Process automation and control solutions"},
-    {"name": "ANSYS INC", "notes": "Engineering simulation software"},
-    {"name": "Bentley Systems", "notes": "Infrastructure engineering software"},
-    {"name": "TrendMiner", "notes": "Analytics for process manufacturing"},
-    {"name": "Seeq", "notes": "Advanced analytics for process manufacturing data"}
+    {
+      "name": "OSIsoft",
+      "notes": "Primary competitor, real-time data infrastructure (acquired by AVEVA in 2020)"
+    },
+    {
+      "name": "AVEVA",
+      "notes": "Industrial software for engineering and operations"
+    },
+    {
+      "name": "Canary Labs",
+      "notes": "Industrial data management and visualization"
+    },
+    {
+      "name": "Honeywell",
+      "notes": "Process Solutions for oil & gas, refining, chemicals"
+    },
+    {
+      "name": "Schneider Electric",
+      "notes": "Industrial automation and energy management"
+    },
+    {
+      "name": "Emerson",
+      "notes": "Process automation and control solutions"
+    },
+    {
+      "name": "ANSYS INC",
+      "notes": "Engineering simulation software"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Infrastructure engineering software"
+    },
+    {
+      "name": "TrendMiner",
+      "notes": "Analytics for process manufacturing"
+    },
+    {
+      "name": "Seeq",
+      "notes": "Advanced analytics for process manufacturing data"
+    }
   ],
-  "context": "By 2015, Aspen Technology faced competition from specialized process software vendors (OSIsoft, AVEVA), large automation companies (Honeywell, Schneider, Emerson), and emerging analytics platforms (TrendMiner, Seeq). AspenTech held 9.55% of the EAM market.",
-  "sources": ["https://www.zippia.com/aspen-technology-careers-1007/competitors/", "https://craft.co/aspentech/competitors"]
+  "context": "Aspen Technology, Inc. is a industrial software company focused on process optimization, asset performance, and supply chain for energy and chemicals. Industrial IoT and predictive analytics integration.",
+  "sources": [
+    "https://www.zippia.com/aspen-technology-careers-1007/competitors/",
+    "https://craft.co/aspentech/competitors"
+  ]
 }

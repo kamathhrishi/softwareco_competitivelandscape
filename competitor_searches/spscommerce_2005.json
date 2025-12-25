@@ -5,13 +5,35 @@
   "search_query": "SPS Commerce competitors 2005",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "Sterling Commerce", "notes": "Major EDI and B2B integration provider with Gentran Integration Suite"},
-    {"name": "GXS (Global Exchange Services)", "notes": "Leading EDI VAN and B2B integration network, originally from General Electric"},
-    {"name": "Inovis", "notes": "EDI and B2B integration provider, active in VAN services"},
-    {"name": "IBM EDI Services", "notes": "IBM's traditional EDI VAN services and Information Exchange business"},
-    {"name": "Kleinschmidt", "notes": "EDI VAN provider serving retail and supply chain markets"},
-    {"name": "DiCentral", "notes": "EDI services provider for retail and supply chain integration"}
+    {
+      "name": "Sterling Commerce",
+      "notes": "Major EDI and B2B integration provider with Gentran Integration Suite"
+    },
+    {
+      "name": "GXS (Global Exchange Services)",
+      "notes": "Leading EDI VAN and B2B integration network, originally from General Electric"
+    },
+    {
+      "name": "Inovis",
+      "notes": "EDI and B2B integration provider, active in VAN services"
+    },
+    {
+      "name": "IBM EDI Services",
+      "notes": "IBM's traditional EDI VAN services and Information Exchange business"
+    },
+    {
+      "name": "Kleinschmidt",
+      "notes": "EDI VAN provider serving retail and supply chain markets"
+    },
+    {
+      "name": "DiCentral",
+      "notes": "EDI services provider for retail and supply chain integration"
+    }
   ],
-  "context": "In 2005, SPS Commerce launched the Retail Network, establishing its cloud-based trading partner community. The EDI market was dominated by traditional VAN (Value-Added Network) providers like Sterling Commerce, GXS, and Inovis. These companies were evolving from pure VAN services to 'integration service providers' offering software, services, and hosting. The EDI industry was experiencing 5-20% annual revenue declines as the market matured and consolidated.",
-  "sources": ["https://www.globaldata.com/company-profile/sps-commerce-inc/competitors/", "https://www.comparably.com/companies/sps-commerce/competitors", "https://www.eweek.com/it-management/gxs-sterling-expand-beyond-edi-for-b2b/"]
+  "context": "SPS Commerce, Inc. is a supply chain management software company focused on EDI, analytics, and retail supply chain network. Cloud-based EDI platform growth.",
+  "sources": [
+    "https://www.globaldata.com/company-profile/sps-commerce-inc/competitors/",
+    "https://www.comparably.com/companies/sps-commerce/competitors",
+    "https://www.eweek.com/it-management/gxs-sterling-expand-beyond-edi-for-b2b/"
+  ]
 }

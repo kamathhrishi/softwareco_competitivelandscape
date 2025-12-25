@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Coinbase competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Coinbase emerged stronger after the 2022-2023 crypto winter and FTX collapse. The company diversified into Base L2 blockchain, international expansion, and institutional services while battling SEC regulatory scrutiny.",
+  "context": "Coinbase Global, Inc. is a cryptocurrency exchange and platform focused on crypto trading, custody, staking, and blockchain infrastructure. Base L2 blockchain. Bitcoin ETF custody provider. Regulatory battles.",
   "competitors": [
-    {"name": "Binance", "notes": "Largest global exchange, facing regulatory challenges in US"},
-    {"name": "Kraken", "notes": "Major US exchange competitor with derivatives offerings"},
-    {"name": "Robinhood", "notes": "Retail trading platform with growing crypto revenue"},
-    {"name": "Crypto.com", "notes": "Global exchange with aggressive marketing and card products"},
-    {"name": "OKX", "notes": "Major global exchange expanding internationally"},
-    {"name": "Gemini", "notes": "Regulated US exchange with institutional services"},
-    {"name": "Fidelity Digital Assets", "notes": "Traditional finance entering crypto custody and trading"},
-    {"name": "BlackRock (via ETFs)", "notes": "Competing for crypto exposure through spot Bitcoin ETF"}
+    {
+      "name": "Binance",
+      "notes": "Largest global exchange, facing regulatory challenges in US"
+    },
+    {
+      "name": "Kraken",
+      "notes": "Major US exchange competitor with derivatives offerings"
+    },
+    {
+      "name": "Robinhood",
+      "notes": "Retail trading platform with growing crypto revenue"
+    },
+    {
+      "name": "Crypto.com",
+      "notes": "Global exchange with aggressive marketing and card products"
+    },
+    {
+      "name": "OKX",
+      "notes": "Major global exchange expanding internationally"
+    },
+    {
+      "name": "Gemini",
+      "notes": "Regulated US exchange with institutional services"
+    },
+    {
+      "name": "Fidelity Digital Assets",
+      "notes": "Traditional finance entering crypto custody and trading"
+    },
+    {
+      "name": "BlackRock (via ETFs)",
+      "notes": "Competing for crypto exposure through spot Bitcoin ETF"
+    }
   ],
-  "sources": ["Cryptocurrency industry analysis"]
+  "sources": [
+    "Cryptocurrency industry analysis"
+  ]
 }

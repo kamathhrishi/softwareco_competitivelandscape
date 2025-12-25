@@ -4,14 +4,32 @@
   "year": 2005,
   "search_query": "F5 Networks competitors 2005",
   "search_date": "2025-12-24",
-  "context": "F5 Networks was establishing itself as a leader in application delivery networking and load balancing. The Application Delivery Controller (ADC) market was maturing, with F5, Citrix, and Radware gaining market share from Cisco. Hardware-based ADC solutions dominated the market.",
+  "context": "F5, Inc. is a application delivery and security company focused on load balancing, application security, and multi-cloud networking. Data center traffic management leader. BIG-IP platform.",
   "competitors": [
-    {"name": "Citrix NetScaler", "notes": "Leading ADC competitor with strong load balancing and application delivery capabilities"},
-    {"name": "Cisco Systems", "notes": "Offered ACE (Application Control Engine) and CSS products for load balancing and application delivery"},
-    {"name": "Radware", "notes": "Provided Alteon series load balancers with SSL offloading and traffic management"},
-    {"name": "Foundry Networks", "notes": "ServerIron load balancing solutions (later acquired by Brocade in 2008)"},
-    {"name": "A10 Networks", "notes": "Emerging competitor in high-performance application delivery controllers"},
-    {"name": "Juniper Networks", "notes": "Networking and load balancing solutions competing in enterprise market"}
+    {
+      "name": "Citrix NetScaler",
+      "notes": "Leading ADC competitor with strong load balancing and application delivery capabilities"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Offered ACE (Application Control Engine) and CSS products for load balancing and application delivery"
+    },
+    {
+      "name": "Radware",
+      "notes": "Provided Alteon series load balancers with SSL offloading and traffic management"
+    },
+    {
+      "name": "Foundry Networks",
+      "notes": "ServerIron load balancing solutions (later acquired by Brocade in 2008)"
+    },
+    {
+      "name": "A10 Networks",
+      "notes": "Emerging competitor in high-performance application delivery controllers"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Networking and load balancing solutions competing in enterprise market"
+    }
   ],
   "sources": [
     "https://sumble.com/tech/f5",

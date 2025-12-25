@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "GoodRx competitors 2024",
   "search_date": "2024-12-24",
-  "context": "GoodRx is the leading prescription savings platform facing FTC scrutiny over data practices. The company expanded into telehealth and manufacturer solutions while competing with growing alternatives.",
+  "context": "GoodRx Holdings, Inc. is a healthcare platform for prescription pricing focused on prescription drug pricing, telehealth, and healthcare savings. Telehealth and pharma manufacturer solutions.",
   "competitors": [
-    {"name": "Amazon Pharmacy", "notes": "Online pharmacy with RxPass subscription"},
-    {"name": "Mark Cuban Cost Plus Drug", "notes": "Transparent pricing pharmacy disrupting market"},
-    {"name": "SingleCare", "notes": "Prescription savings competitor"},
-    {"name": "Optum Rx", "notes": "UnitedHealth pharmacy benefits manager"},
-    {"name": "CVS Caremark", "notes": "PBM with retail pharmacy integration"},
-    {"name": "Costco Pharmacy", "notes": "Value pharmacy option"},
-    {"name": "Walmart Pharmacy", "notes": "Low-cost prescription programs"},
-    {"name": "Blink Health", "notes": "Prescription savings and delivery"}
+    {
+      "name": "Amazon Pharmacy",
+      "notes": "Online pharmacy with RxPass subscription"
+    },
+    {
+      "name": "Mark Cuban Cost Plus Drug",
+      "notes": "Transparent pricing pharmacy disrupting market"
+    },
+    {
+      "name": "SingleCare",
+      "notes": "Prescription savings competitor"
+    },
+    {
+      "name": "Optum Rx",
+      "notes": "UnitedHealth pharmacy benefits manager"
+    },
+    {
+      "name": "CVS Caremark",
+      "notes": "PBM with retail pharmacy integration"
+    },
+    {
+      "name": "Costco Pharmacy",
+      "notes": "Value pharmacy option"
+    },
+    {
+      "name": "Walmart Pharmacy",
+      "notes": "Low-cost prescription programs"
+    },
+    {
+      "name": "Blink Health",
+      "notes": "Prescription savings and delivery"
+    }
   ],
-  "sources": ["Healthcare technology analysis"]
+  "sources": [
+    "Healthcare technology analysis"
+  ]
 }

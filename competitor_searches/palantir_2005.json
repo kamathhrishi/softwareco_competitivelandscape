@@ -5,11 +5,25 @@
   "search_query": "Palantir data analytics competitors 2005",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "IBM i2", "notes": "Intelligence analysis and link analysis"},
-    {"name": "SAS", "notes": "Analytics and intelligence solutions"},
-    {"name": "ESRI", "notes": "Geospatial analysis and mapping"},
-    {"name": "Raytheon", "notes": "Defense intelligence systems"}
+    {
+      "name": "IBM i2",
+      "notes": "Intelligence analysis and link analysis"
+    },
+    {
+      "name": "SAS",
+      "notes": "Analytics and intelligence solutions"
+    },
+    {
+      "name": "ESRI",
+      "notes": "Geospatial analysis and mapping"
+    },
+    {
+      "name": "Raytheon",
+      "notes": "Defense intelligence systems"
+    }
   ],
-  "context": "In 2005, Palantir was a young startup (founded 2003) funded by PayPal co-founder Peter Thiel and early CIA investment through In-Q-Tel. The company was developing Gotham platform for intelligence community use cases. Competition came from established defense contractors and specialized analytics vendors. Palantir focused on data integration and analysis for counterterrorism. The company was secretive and focused entirely on government clients.",
-  "sources": ["https://www.palantir.com/about/"]
+  "context": "Palantir Technologies Inc. is a data analytics and AI platform company focused on government intelligence, commercial analytics, and AI operations. Founded for intelligence community data analysis.",
+  "sources": [
+    "https://www.palantir.com/about/"
+  ]
 }

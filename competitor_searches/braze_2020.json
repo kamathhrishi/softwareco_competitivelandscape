@@ -5,17 +5,51 @@
   "search_query": "Braze customer engagement competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "CleverTap", "notes": "All-in-one customer engagement platform with advanced tools for omnichannel messaging, real-time analytics, and A/B testing"},
-    {"name": "MoEngage", "notes": "Customer engagement platform integrating AI-driven insights with omnichannel automation across email, mobile, web, and social media"},
-    {"name": "Salesforce Marketing Cloud", "notes": "Enterprise customer engagement platform with deep Salesforce CRM integration for holistic customer profiles"},
-    {"name": "Brevo", "notes": "Offers native CRM, A/B testing, landing pages, and sign-up forms"},
-    {"name": "Iterable", "notes": "Growth marketing platform for lifecycle campaigns and workflow automation"},
-    {"name": "Insider", "notes": "Growth management platform for acquisition, activation, and retention"},
-    {"name": "Netcore Cloud", "notes": "Customer engagement platform for multi-channel communication"},
-    {"name": "Adobe Marketing Cloud", "notes": "Comprehensive enterprise marketing solution"},
-    {"name": "Klaviyo", "notes": "Marketing automation platform with focus on ecommerce"},
-    {"name": "WebEngage", "notes": "Customer engagement and retention platform"}
+    {
+      "name": "CleverTap",
+      "notes": "All-in-one customer engagement platform with advanced tools for omnichannel messaging, real-time analytics, and A/B testing"
+    },
+    {
+      "name": "MoEngage",
+      "notes": "Customer engagement platform integrating AI-driven insights with omnichannel automation across email, mobile, web, and social media"
+    },
+    {
+      "name": "Salesforce Marketing Cloud",
+      "notes": "Enterprise customer engagement platform with deep Salesforce CRM integration for holistic customer profiles"
+    },
+    {
+      "name": "Brevo",
+      "notes": "Offers native CRM, A/B testing, landing pages, and sign-up forms"
+    },
+    {
+      "name": "Iterable",
+      "notes": "Growth marketing platform for lifecycle campaigns and workflow automation"
+    },
+    {
+      "name": "Insider",
+      "notes": "Growth management platform for acquisition, activation, and retention"
+    },
+    {
+      "name": "Netcore Cloud",
+      "notes": "Customer engagement platform for multi-channel communication"
+    },
+    {
+      "name": "Adobe Marketing Cloud",
+      "notes": "Comprehensive enterprise marketing solution"
+    },
+    {
+      "name": "Klaviyo",
+      "notes": "Marketing automation platform with focus on ecommerce"
+    },
+    {
+      "name": "WebEngage",
+      "notes": "Customer engagement and retention platform"
+    }
   ],
-  "context": "By 2020, the customer engagement platform market had matured significantly with a diverse competitive landscape. Braze faced competition from both established enterprise players (Salesforce, Adobe) and emerging specialized platforms (CleverTap, MoEngage). The market was characterized by a shift toward AI-driven personalization, real-time analytics, and omnichannel capabilities. Businesses were increasingly seeking alternatives to Braze due to its high subscription costs and interface complexity.",
-  "sources": ["https://www.gartner.com/reviews/market/mobile-marketing-platforms/vendor/braze/product/braze-customer-engagement-platform/alternatives", "https://www.moengage.com/blog/braze-competitors/", "https://clevertap.com/blog/braze-competitors/"]
+  "context": "Braze, Inc. is a customer engagement platform focused on cross-channel messaging, personalization, and marketing automation. IPO preparation. Customer engagement critical during pandemic.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/mobile-marketing-platforms/vendor/braze/product/braze-customer-engagement-platform/alternatives",
+    "https://www.moengage.com/blog/braze-competitors/",
+    "https://clevertap.com/blog/braze-competitors/"
+  ]
 }

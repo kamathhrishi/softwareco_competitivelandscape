@@ -5,12 +5,29 @@
   "search_query": "Qualys vulnerability management competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tenable/Nessus", "notes": "Direct competitor with on-premises deployment vs Qualys cloud approach"},
-    {"name": "Rapid7/Nexpose", "notes": "Vulnerability management with on-premises capability"},
-    {"name": "OpenVAS", "notes": "Open-source vulnerability scanner, free alternative"},
-    {"name": "McAfee", "notes": "Major security vendor with vulnerability assessment"},
-    {"name": "Tripwire", "notes": "Security configuration and vulnerability management provider"}
+    {
+      "name": "Tenable/Nessus",
+      "notes": "Direct competitor with on-premises deployment vs Qualys cloud approach"
+    },
+    {
+      "name": "Rapid7/Nexpose",
+      "notes": "Vulnerability management with on-premises capability"
+    },
+    {
+      "name": "OpenVAS",
+      "notes": "Open-source vulnerability scanner, free alternative"
+    },
+    {
+      "name": "McAfee",
+      "notes": "Major security vendor with vulnerability assessment"
+    },
+    {
+      "name": "Tripwire",
+      "notes": "Security configuration and vulnerability management provider"
+    }
   ],
-  "context": "By 2010, the vulnerability management market had matured significantly. Qualys established itself as leader in cloud-based cybersecurity. Key differentiators included deployment models (cloud vs on-premises), with Qualys pioneering purely cloud-based approach.",
-  "sources": ["https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives"]
+  "context": "Qualys, Inc. is a cloud security and compliance company focused on vulnerability management, compliance, and web app security. Cloud platform expansion. PCI compliance.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives"
+  ]
 }

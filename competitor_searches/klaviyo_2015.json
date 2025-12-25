@@ -5,14 +5,39 @@
   "search_query": "Klaviyo email marketing competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Mailchimp", "notes": "Most popular email marketing solution for ecommerce brands, known for accessibility and extensive integrations"},
-    {"name": "ActiveCampaign", "notes": "Advanced marketing automation platform for ecommerce marketing, all-in-one solution"},
-    {"name": "Constant Contact", "notes": "Email marketing platform suitable for small businesses and creators"},
-    {"name": "AWeber", "notes": "Reliable marketing platform great for small businesses, creative industries, and content creators"},
-    {"name": "GetResponse", "notes": "Multi-channel marketing solution supporting email, landing pages, webinars, and SMS"},
-    {"name": "HubSpot", "notes": "Wider ecosystem than Klaviyo including CRM, signup forms, lead tracking, and landing pages"},
-    {"name": "Drip", "notes": "Email marketing automation tool for ecommerce (founded 2012), designed for ease of use"}
+    {
+      "name": "Mailchimp",
+      "notes": "Most popular email marketing solution for ecommerce brands, known for accessibility and extensive integrations"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "Advanced marketing automation platform for ecommerce marketing, all-in-one solution"
+    },
+    {
+      "name": "Constant Contact",
+      "notes": "Email marketing platform suitable for small businesses and creators"
+    },
+    {
+      "name": "AWeber",
+      "notes": "Reliable marketing platform great for small businesses, creative industries, and content creators"
+    },
+    {
+      "name": "GetResponse",
+      "notes": "Multi-channel marketing solution supporting email, landing pages, webinars, and SMS"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Wider ecosystem than Klaviyo including CRM, signup forms, lead tracking, and landing pages"
+    },
+    {
+      "name": "Drip",
+      "notes": "Email marketing automation tool for ecommerce (founded 2012), designed for ease of use"
+    }
   ],
-  "context": "In 2015, Klaviyo (founded 2012) was competing in an established email marketing landscape dominated by players like Mailchimp and Constant Contact. The market featured both all-in-one platforms (HubSpot, ActiveCampaign) and more specialized ecommerce-focused tools (Drip). Klaviyo was positioning itself as a data-driven email marketing platform specifically built for ecommerce businesses.",
-  "sources": ["https://www.sender.net/blog/klaviyo-alternatives/", "https://www.gartner.com/reviews/market/email-marketing/vendor/klaviyo/product/klaviyo/alternatives", "https://moosend.com/blog/klaviyo-alternatives/"]
+  "context": "Klaviyo, Inc. is a marketing automation platform focused on email and SMS marketing for e-commerce. E-commerce marketing automation. Shopify integration.",
+  "sources": [
+    "https://www.sender.net/blog/klaviyo-alternatives/",
+    "https://www.gartner.com/reviews/market/email-marketing/vendor/klaviyo/product/klaviyo/alternatives",
+    "https://moosend.com/blog/klaviyo-alternatives/"
+  ]
 }

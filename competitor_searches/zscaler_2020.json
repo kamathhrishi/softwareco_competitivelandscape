@@ -5,16 +5,45 @@
   "search_query": "Zscaler zero trust competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cisco Umbrella", "notes": "Top alternative with secure internet access, SWG, and DNS-layer security"},
-    {"name": "Palo Alto Networks Prisma Access", "notes": "Comprehensive SASE with DLP and NGFW"},
-    {"name": "iboss", "notes": "Listed as top alternative solution for cloud security"},
-    {"name": "Cloudflare", "notes": "Zero Trust with single-pass inspection"},
-    {"name": "Cisco Secure Access (Duo)", "notes": "Multifactor authentication and zero trust security"},
-    {"name": "Fortinet SASE", "notes": "Converged security and networking services"},
-    {"name": "Netskope One", "notes": "Cloud-native platform with Zero Trust Engine"},
-    {"name": "Cato SASE Cloud", "notes": "Global converged cloud-native service"},
-    {"name": "Okta", "notes": "Best overall Zero Trust Exchange alternative for identity management"}
+    {
+      "name": "Cisco Umbrella",
+      "notes": "Top alternative with secure internet access, SWG, and DNS-layer security"
+    },
+    {
+      "name": "Palo Alto Networks Prisma Access",
+      "notes": "Comprehensive SASE with DLP and NGFW"
+    },
+    {
+      "name": "iboss",
+      "notes": "Listed as top alternative solution for cloud security"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Zero Trust with single-pass inspection"
+    },
+    {
+      "name": "Cisco Secure Access (Duo)",
+      "notes": "Multifactor authentication and zero trust security"
+    },
+    {
+      "name": "Fortinet SASE",
+      "notes": "Converged security and networking services"
+    },
+    {
+      "name": "Netskope One",
+      "notes": "Cloud-native platform with Zero Trust Engine"
+    },
+    {
+      "name": "Cato SASE Cloud",
+      "notes": "Global converged cloud-native service"
+    },
+    {
+      "name": "Okta",
+      "notes": "Best overall Zero Trust Exchange alternative for identity management"
+    }
   ],
-  "context": "By 2020, the zero trust security model had become mainstream, driven by increased remote work and cloud adoption. Zscaler's Zero Trust Exchange competed in the rapidly growing SASE market.",
-  "sources": ["https://www.g2.com/products/zscaler-zero-trust-exchange/competitors/alternatives"]
+  "context": "Zscaler, Inc. is a cloud security company focused on Zero Trust security, secure web gateway, and CASB. IPO. Remote work security essential.",
+  "sources": [
+    "https://www.g2.com/products/zscaler-zero-trust-exchange/competitors/alternatives"
+  ]
 }

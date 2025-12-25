@@ -5,19 +5,59 @@
   "search_query": "CrowdStrike competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Most notable competitor, offering Cortex XDR platform with similar features"},
-    {"name": "McAfee", "notes": "Wide range of cybersecurity products including advanced threat defense"},
-    {"name": "SentinelOne", "notes": "AI and machine learning-based endpoint protection, 7.79% market share"},
-    {"name": "Carbon Black", "notes": "VMware's cloud-native endpoint protection with strong EDR and threat-hunting"},
-    {"name": "Symantec", "notes": "Now Broadcom. Longstanding cybersecurity leader with extensive endpoint, network, and cloud security"},
-    {"name": "Cisco", "notes": "Broad cybersecurity portfolio including endpoint protection. Talos threat intelligence team"},
-    {"name": "Microsoft Defender for Endpoint", "notes": "Growing enterprise endpoint security solution"},
-    {"name": "Fortinet", "notes": "Cybersecurity competitor in endpoint protection"},
-    {"name": "Mandiant", "notes": "Threat intelligence and incident response competitor"},
-    {"name": "Cylance", "notes": "AI-based endpoint security competitor"},
-    {"name": "FireEye", "notes": "Cybersecurity competitor"},
-    {"name": "Sophos", "notes": "Endpoint security provider for SMB and enterprise"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Most notable competitor, offering Cortex XDR platform with similar features"
+    },
+    {
+      "name": "McAfee",
+      "notes": "Wide range of cybersecurity products including advanced threat defense"
+    },
+    {
+      "name": "SentinelOne",
+      "notes": "AI and machine learning-based endpoint protection, 7.79% market share"
+    },
+    {
+      "name": "Carbon Black",
+      "notes": "VMware's cloud-native endpoint protection with strong EDR and threat-hunting"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Now Broadcom. Longstanding cybersecurity leader with extensive endpoint, network, and cloud security"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Broad cybersecurity portfolio including endpoint protection. Talos threat intelligence team"
+    },
+    {
+      "name": "Microsoft Defender for Endpoint",
+      "notes": "Growing enterprise endpoint security solution"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Cybersecurity competitor in endpoint protection"
+    },
+    {
+      "name": "Mandiant",
+      "notes": "Threat intelligence and incident response competitor"
+    },
+    {
+      "name": "Cylance",
+      "notes": "AI-based endpoint security competitor"
+    },
+    {
+      "name": "FireEye",
+      "notes": "Cybersecurity competitor"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Endpoint security provider for SMB and enterprise"
+    }
   ],
-  "context": "By 2020, CrowdStrike was a well-established leader in the EDR/endpoint security market. The competitive landscape included both traditional security vendors and next-generation competitors like SentinelOne and Carbon Black.",
-  "sources": ["https://www.cynet.com/endpoint-security/5-crowdstrike-competitors-and-alternatives-you-should-consider/", "https://www.esecurityplanet.com/products/crowdstrike-competitors/", "https://craft.co/crowdstrike/competitors"]
+  "context": "CrowdStrike Holdings, Inc. is a cloud-native cybersecurity company focused on endpoint protection, threat intelligence, and extended detection and response. IPO success. Remote work security demand surge.",
+  "sources": [
+    "https://www.cynet.com/endpoint-security/5-crowdstrike-competitors-and-alternatives-you-should-consider/",
+    "https://www.esecurityplanet.com/products/crowdstrike-competitors/",
+    "https://craft.co/crowdstrike/competitors"
+  ]
 }

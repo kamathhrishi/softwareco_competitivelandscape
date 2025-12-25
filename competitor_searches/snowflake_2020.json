@@ -5,15 +5,42 @@
   "search_query": "Snowflake data warehouse competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon Redshift", "notes": "AWS cloud data warehouse with cluster-based architecture"},
-    {"name": "Google BigQuery", "notes": "Serverless data warehouse with storage-compute separation"},
-    {"name": "Azure Synapse Analytics", "notes": "Microsoft's evolved data warehouse (formerly SQL DW)"},
-    {"name": "Databricks", "notes": "Data lakehouse platform combining warehouse performance with data lake flexibility"},
-    {"name": "Cloudera Data Platform", "notes": "Comprehensive data management platform supporting hybrid and multi-cloud"},
-    {"name": "IBM Db2", "notes": "Enterprise data warehouse with MPP and BLU technology"},
-    {"name": "Teradata", "notes": "Enterprise data warehouse solution transitioning to cloud"},
-    {"name": "Oracle Autonomous Data Warehouse", "notes": "Oracle's self-driving cloud data warehouse"}
+    {
+      "name": "Amazon Redshift",
+      "notes": "AWS cloud data warehouse with cluster-based architecture"
+    },
+    {
+      "name": "Google BigQuery",
+      "notes": "Serverless data warehouse with storage-compute separation"
+    },
+    {
+      "name": "Azure Synapse Analytics",
+      "notes": "Microsoft's evolved data warehouse (formerly SQL DW)"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Data lakehouse platform combining warehouse performance with data lake flexibility"
+    },
+    {
+      "name": "Cloudera Data Platform",
+      "notes": "Comprehensive data management platform supporting hybrid and multi-cloud"
+    },
+    {
+      "name": "IBM Db2",
+      "notes": "Enterprise data warehouse with MPP and BLU technology"
+    },
+    {
+      "name": "Teradata",
+      "notes": "Enterprise data warehouse solution transitioning to cloud"
+    },
+    {
+      "name": "Oracle Autonomous Data Warehouse",
+      "notes": "Oracle's self-driving cloud data warehouse"
+    }
   ],
-  "context": "2020 was a pivotal year for Snowflake as it went public in September with a record-breaking IPO. The competitive landscape solidified around major cloud platforms and the emerging lakehouse architecture led by Databricks.",
-  "sources": ["https://www.datacamp.com/blog/snowflake-competitor", "https://www.chaosgenius.io/blog/snowflake-competitors/"]
+  "context": "Snowflake Inc. is a cloud data platform company focused on data warehousing, data sharing, and data applications. Record-breaking IPO at $33B. Data Cloud vision.",
+  "sources": [
+    "https://www.datacamp.com/blog/snowflake-competitor",
+    "https://www.chaosgenius.io/blog/snowflake-competitors/"
+  ]
 }

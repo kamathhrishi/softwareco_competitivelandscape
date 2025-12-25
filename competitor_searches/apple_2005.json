@@ -5,14 +5,37 @@
   "search_query": "Apple competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dell", "notes": "Major Windows PC manufacturer"},
-    {"name": "HP", "notes": "Leading PC manufacturer with Windows systems"},
-    {"name": "Microsoft", "notes": "Launched Zune to compete with iPod"},
-    {"name": "Sony", "notes": "Major competitor in portable music players"},
-    {"name": "Creative", "notes": "Portable music player manufacturer"},
-    {"name": "Lenovo", "notes": "Growing PC manufacturer"},
-    {"name": "Samsung", "notes": "Emerging competitor in consumer electronics"}
+    {
+      "name": "Dell",
+      "notes": "Major Windows PC manufacturer"
+    },
+    {
+      "name": "HP",
+      "notes": "Leading PC manufacturer with Windows systems"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Launched Zune to compete with iPod"
+    },
+    {
+      "name": "Sony",
+      "notes": "Major competitor in portable music players"
+    },
+    {
+      "name": "Creative",
+      "notes": "Portable music player manufacturer"
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Growing PC manufacturer"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Emerging competitor in consumer electronics"
+    }
   ],
-  "context": "Competition focused on Mac computers, iPod music player, and iTunes. Before iPhone (2007) and iPad (2010) era. iPod was dominant product.",
-  "sources": ["https://businessmodelanalyst.com/apple-competitors/"]
+  "context": "Apple Inc. is a consumer electronics, software, and services company focused on iPhone, Mac, iPad, wearables, and digital services ecosystem. iPod dominated music players. iTunes Store transformed music industry. Intel transition announced.",
+  "sources": [
+    "https://businessmodelanalyst.com/apple-competitors/"
+  ]
 }

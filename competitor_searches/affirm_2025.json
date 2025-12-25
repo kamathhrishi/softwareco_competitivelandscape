@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Affirm competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Affirm leads US BNPL with major retail partnerships and the Affirm Card. The company emphasizes transparent pricing with no late fees or deferred interest, differentiating from credit cards.",
+  "context": "Affirm Holdings is a buy now, pay later (BNPL) fintech company focused on point-of-sale consumer financing and installment payments. Focus on profitability and sustainable growth. Debit+ card and expanded financial services.",
   "competitors": [
-    {"name": "Klarna", "notes": "Global BNPL leader with 150M users and AI shopping features"},
-    {"name": "Afterpay (Block)", "notes": "BNPL integrated with Block's Cash App ecosystem"},
-    {"name": "PayPal Pay Later", "notes": "BNPL options including Pay Monthly"},
-    {"name": "Zip", "notes": "BNPL provider with Zip Pay and Zip Money"},
-    {"name": "Credit Cards", "notes": "Banks offering installment plans and 0% APR"},
-    {"name": "Shopify Installments", "notes": "Shop Pay BNPL for Shopify ecosystem"},
-    {"name": "Sezzle", "notes": "BNPL platform targeting younger consumers"},
-    {"name": "Apple", "notes": "Potential future BNPL despite Pay Later discontinuation"}
+    {
+      "name": "Klarna",
+      "notes": "Global BNPL leader with 150M users and AI shopping features"
+    },
+    {
+      "name": "Afterpay (Block)",
+      "notes": "BNPL integrated with Block's Cash App ecosystem"
+    },
+    {
+      "name": "PayPal Pay Later",
+      "notes": "BNPL options including Pay Monthly"
+    },
+    {
+      "name": "Zip",
+      "notes": "BNPL provider with Zip Pay and Zip Money"
+    },
+    {
+      "name": "Credit Cards",
+      "notes": "Banks offering installment plans and 0% APR"
+    },
+    {
+      "name": "Shopify Installments",
+      "notes": "Shop Pay BNPL for Shopify ecosystem"
+    },
+    {
+      "name": "Sezzle",
+      "notes": "BNPL platform targeting younger consumers"
+    },
+    {
+      "name": "Apple",
+      "notes": "Potential future BNPL despite Pay Later discontinuation"
+    }
   ],
-  "sources": ["BNPL industry analysis"]
+  "sources": [
+    "BNPL industry analysis"
+  ]
 }

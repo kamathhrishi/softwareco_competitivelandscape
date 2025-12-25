@@ -5,13 +5,35 @@
   "search_query": "AMD CPU GPU competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Intel", "notes": "Primary CPU competitor. AMD's Ryzen 7 9800X3D is fastest gaming chip, beating Intel's Core i9-14900K by 30% and Core Ultra 9 285K by 35%. AMD won Best Overall CPU and Best Gaming CPU for 2024"},
-    {"name": "NVIDIA", "notes": "Primary GPU competitor and AI/data center leader. Controls ~80% of AI accelerator market due to CUDA software dominance. AMD emerging as #2 in data center GPUs but NVIDIA's software lead remains major challenge"},
-    {"name": "Qualcomm", "notes": "Competitor in mobile processors and semiconductor space"},
-    {"name": "ARM Holdings", "notes": "Competitor in processor architecture and design"},
-    {"name": "MediaTek", "notes": "Emerging competitor in semiconductor and processor market"},
-    {"name": "VIA Technologies", "notes": "Competitor in semiconductor and processor market"}
+    {
+      "name": "Intel",
+      "notes": "Primary CPU competitor. AMD's Ryzen 7 9800X3D is fastest gaming chip, beating Intel's Core i9-14900K by 30% and Core Ultra 9 285K by 35%. AMD won Best Overall CPU and Best Gaming CPU for 2024"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Primary GPU competitor and AI/data center leader. Controls ~80% of AI accelerator market due to CUDA software dominance. AMD emerging as #2 in data center GPUs but NVIDIA's software lead remains major challenge"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Competitor in mobile processors and semiconductor space"
+    },
+    {
+      "name": "ARM Holdings",
+      "notes": "Competitor in processor architecture and design"
+    },
+    {
+      "name": "MediaTek",
+      "notes": "Emerging competitor in semiconductor and processor market"
+    },
+    {
+      "name": "VIA Technologies",
+      "notes": "Competitor in semiconductor and processor market"
+    }
   ],
-  "context": "In 2024, AMD made remarkable strides with Ryzen and EPYC processor lines. AMD's Ryzen 7 9800X3D dominated gaming, beating Intel's fastest chips by 30-35%. In AI/data center, NVIDIA dominates with ~80% market share. AMD targeting $2 billion in AI chip sales by 2024.",
-  "sources": ["https://www.tomshardware.com/reviews/best-cpus,3986.html", "https://www.digitaltrends.com/computing/nvidia-vs-amd/", "https://www.nasdaq.com/articles/amd-vs-nvidia-a-comparative-analysis-for-2024"]
+  "context": "Advanced Micro Devices, Inc. is a semiconductor company designing CPUs, GPUs, and data center chips focused on processors for PCs, gaming, data centers, and embedded systems. AI chip demand surge with MI300. Competing with Nvidia for AI accelerators. Intel struggling.",
+  "sources": [
+    "https://www.tomshardware.com/reviews/best-cpus,3986.html",
+    "https://www.digitaltrends.com/computing/nvidia-vs-amd/",
+    "https://www.nasdaq.com/articles/amd-vs-nvidia-a-comparative-analysis-for-2024"
+  ]
 }

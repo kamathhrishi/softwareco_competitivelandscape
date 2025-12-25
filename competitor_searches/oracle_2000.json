@@ -5,13 +5,33 @@
   "search_query": "Oracle database competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "IBM DB2", "notes": "Major enterprise database competitor"},
-    {"name": "Microsoft SQL Server", "notes": "Key database rival since 1970s"},
-    {"name": "Sybase", "notes": "Significant database competitor"},
-    {"name": "Informix", "notes": "Major competitor in database market"},
-    {"name": "MySQL", "notes": "Emerging open-source database"},
-    {"name": "PostgreSQL", "notes": "Open-source object-relational database"}
+    {
+      "name": "IBM DB2",
+      "notes": "Major enterprise database competitor"
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "notes": "Key database rival since 1970s"
+    },
+    {
+      "name": "Sybase",
+      "notes": "Significant database competitor"
+    },
+    {
+      "name": "Informix",
+      "notes": "Major competitor in database market"
+    },
+    {
+      "name": "MySQL",
+      "notes": "Emerging open-source database"
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Open-source object-relational database"
+    }
   ],
-  "context": "Oracle competed primarily in relational database market against IBM, Microsoft, Sybase, and Informix. Rivalry with Microsoft dates to 1970s.",
-  "sources": ["https://www.g2.com/products/oracle-database/competitors/alternatives"]
+  "context": "Oracle Corporation is a enterprise software and cloud infrastructure company focused on databases, enterprise applications, and cloud infrastructure. Database market leader. E-Business Suite applications.",
+  "sources": [
+    "https://www.g2.com/products/oracle-database/competitors/alternatives"
+  ]
 }

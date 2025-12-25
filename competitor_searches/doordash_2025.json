@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "DoorDash competitors 2025",
   "search_date": "2024-12-24",
-  "context": "DoorDash dominates US food delivery and expands into new verticals including grocery, alcohol, retail, and international markets. The company focuses on merchant services and advertising revenue.",
+  "context": "DoorDash, Inc. is a food delivery and local commerce platform focused on restaurant delivery, grocery, convenience, and merchant services. Local commerce platform. Competing with Uber Eats, Instacart.",
   "competitors": [
-    {"name": "Uber Eats", "notes": "Primary competitor globally, part of Uber's broader mobility platform"},
-    {"name": "Instacart", "notes": "Grocery and retail delivery competitor with advertising business"},
-    {"name": "Amazon", "notes": "Competing through Prime delivery, Whole Foods, and Amazon Fresh"},
-    {"name": "Walmart", "notes": "Massive grocery delivery operation through Spark and partnerships"},
-    {"name": "Gopuff", "notes": "Quick commerce platform for convenience items"},
-    {"name": "Grubhub", "notes": "Legacy food delivery platform seeking strategic alternatives"},
-    {"name": "Just Eat Takeaway", "notes": "European food delivery giant"},
-    {"name": "Deliveroo", "notes": "UK/European food delivery competitor"}
+    {
+      "name": "Uber Eats",
+      "notes": "Primary competitor globally, part of Uber's broader mobility platform"
+    },
+    {
+      "name": "Instacart",
+      "notes": "Grocery and retail delivery competitor with advertising business"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Competing through Prime delivery, Whole Foods, and Amazon Fresh"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Massive grocery delivery operation through Spark and partnerships"
+    },
+    {
+      "name": "Gopuff",
+      "notes": "Quick commerce platform for convenience items"
+    },
+    {
+      "name": "Grubhub",
+      "notes": "Legacy food delivery platform seeking strategic alternatives"
+    },
+    {
+      "name": "Just Eat Takeaway",
+      "notes": "European food delivery giant"
+    },
+    {
+      "name": "Deliveroo",
+      "notes": "UK/European food delivery competitor"
+    }
   ],
-  "sources": ["Food delivery industry analysis"]
+  "sources": [
+    "Food delivery industry analysis"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "ServiceTitan competitors 2024",
   "search_date": "2024-12-24",
-  "context": "ServiceTitan prepared for December IPO as the leading software platform for trades businesses. The company served over 8,000 customers in HVAC, plumbing, electrical, and other home services.",
+  "context": "ServiceTitan, Inc. is a software for home and commercial service businesses focused on field service management for HVAC, plumbing, electrical. IPO. Expanded trade verticals.",
   "competitors": [
-    {"name": "Housecall Pro", "notes": "Home services software for SMBs"},
-    {"name": "Jobber", "notes": "Field service management platform"},
-    {"name": "FieldEdge", "notes": "Trades-focused software"},
-    {"name": "ServiceMax", "notes": "PTC's field service solution"},
-    {"name": "Salesforce Field Service", "notes": "CRM-integrated field service"},
-    {"name": "Kickserv", "notes": "Service business management"},
-    {"name": "mHelpDesk", "notes": "Field service and job management"},
-    {"name": "ServiceFusion", "notes": "All-in-one field service software"}
+    {
+      "name": "Housecall Pro",
+      "notes": "Home services software for SMBs"
+    },
+    {
+      "name": "Jobber",
+      "notes": "Field service management platform"
+    },
+    {
+      "name": "FieldEdge",
+      "notes": "Trades-focused software"
+    },
+    {
+      "name": "ServiceMax",
+      "notes": "PTC's field service solution"
+    },
+    {
+      "name": "Salesforce Field Service",
+      "notes": "CRM-integrated field service"
+    },
+    {
+      "name": "Kickserv",
+      "notes": "Service business management"
+    },
+    {
+      "name": "mHelpDesk",
+      "notes": "Field service and job management"
+    },
+    {
+      "name": "ServiceFusion",
+      "notes": "All-in-one field service software"
+    }
   ],
-  "sources": ["Home services software analysis"]
+  "sources": [
+    "Home services software analysis"
+  ]
 }

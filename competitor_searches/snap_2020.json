@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Snap Snapchat competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Snap rebounded with Android improvements and Spotlight short-form video. The company reached 265M daily users, competing in AR, messaging, and creator content.",
+  "context": "Snap Inc. is a camera and social media company focused on Snapchat app, AR lenses, and Spectacles. Spotlight short videos. AR advertising growth.",
   "competitors": [
-    {"name": "TikTok", "notes": "Explosive growth in short-form video threatening Snap's youth audience"},
-    {"name": "Instagram", "notes": "Stories and Reels competing directly with Snapchat features"},
-    {"name": "Facebook", "notes": "Parent Meta competing across social and AR"},
-    {"name": "YouTube", "notes": "Video platform launching Shorts for short-form content"},
-    {"name": "Twitter", "notes": "Launching Fleets (later discontinued)"},
-    {"name": "Pinterest", "notes": "Visual discovery platform"},
-    {"name": "iMessage", "notes": "Apple messaging competing for teens"},
-    {"name": "WhatsApp", "notes": "Global messaging platform"}
+    {
+      "name": "TikTok",
+      "notes": "Explosive growth in short-form video threatening Snap's youth audience"
+    },
+    {
+      "name": "Instagram",
+      "notes": "Stories and Reels competing directly with Snapchat features"
+    },
+    {
+      "name": "Facebook",
+      "notes": "Parent Meta competing across social and AR"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video platform launching Shorts for short-form content"
+    },
+    {
+      "name": "Twitter",
+      "notes": "Launching Fleets (later discontinued)"
+    },
+    {
+      "name": "Pinterest",
+      "notes": "Visual discovery platform"
+    },
+    {
+      "name": "iMessage",
+      "notes": "Apple messaging competing for teens"
+    },
+    {
+      "name": "WhatsApp",
+      "notes": "Global messaging platform"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

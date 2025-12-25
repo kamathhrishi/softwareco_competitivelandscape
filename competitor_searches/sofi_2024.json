@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "SoFi competitors 2024",
   "search_date": "2024-12-24",
-  "context": "SoFi achieved profitability and grew to 9M+ members with bank charter. The company offers lending, banking, investing, and financial services technology (Galileo, Technisys).",
+  "context": "SoFi Technologies, Inc. is a digital financial services company focused on lending, banking, investing, and financial products. Banking charter success. Galileo B2B platform.",
   "competitors": [
-    {"name": "Robinhood", "notes": "Investing app expanding into banking and credit"},
-    {"name": "Chime", "notes": "Leading neobank with 38M+ customers"},
-    {"name": "LendingClub", "notes": "Digital marketplace bank for personal loans"},
-    {"name": "Marcus (Goldman)", "notes": "Consumer banking though scaling back"},
-    {"name": "Cash App", "notes": "Block's financial app with banking and investing"},
-    {"name": "Dave", "notes": "Banking app focused on avoiding overdrafts"},
-    {"name": "Upstart", "notes": "AI lending platform competing in personal loans"},
-    {"name": "Traditional Banks", "notes": "Chase, Bank of America competing for deposits"}
+    {
+      "name": "Robinhood",
+      "notes": "Investing app expanding into banking and credit"
+    },
+    {
+      "name": "Chime",
+      "notes": "Leading neobank with 38M+ customers"
+    },
+    {
+      "name": "LendingClub",
+      "notes": "Digital marketplace bank for personal loans"
+    },
+    {
+      "name": "Marcus (Goldman)",
+      "notes": "Consumer banking though scaling back"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Block's financial app with banking and investing"
+    },
+    {
+      "name": "Dave",
+      "notes": "Banking app focused on avoiding overdrafts"
+    },
+    {
+      "name": "Upstart",
+      "notes": "AI lending platform competing in personal loans"
+    },
+    {
+      "name": "Traditional Banks",
+      "notes": "Chase, Bank of America competing for deposits"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

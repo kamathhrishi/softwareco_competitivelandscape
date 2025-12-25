@@ -5,14 +5,37 @@
   "search_query": "Datadog observability competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "New Relic", "notes": "Closest full replacement with application monitoring, infrastructure monitoring, and log management"},
-    {"name": "Dynatrace", "notes": "Full-stack monitoring with AI technology (Davis AI engine)"},
-    {"name": "AppDynamics", "notes": "Cisco's full-stack observability platform"},
-    {"name": "Splunk", "notes": "Platform for machine-generated data with strong log management"},
-    {"name": "SolarWinds", "notes": "Quick and easy setup with multiple APIs"},
-    {"name": "Sumo Logic", "notes": "Cloud-native log management and analytics"},
-    {"name": "Amazon CloudWatch", "notes": "AWS monitoring service"}
+    {
+      "name": "New Relic",
+      "notes": "Closest full replacement with application monitoring, infrastructure monitoring, and log management"
+    },
+    {
+      "name": "Dynatrace",
+      "notes": "Full-stack monitoring with AI technology (Davis AI engine)"
+    },
+    {
+      "name": "AppDynamics",
+      "notes": "Cisco's full-stack observability platform"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Platform for machine-generated data with strong log management"
+    },
+    {
+      "name": "SolarWinds",
+      "notes": "Quick and easy setup with multiple APIs"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Cloud-native log management and analytics"
+    },
+    {
+      "name": "Amazon CloudWatch",
+      "notes": "AWS monitoring service"
+    }
   ],
-  "context": "By 2015, Datadog had established itself in the cloud monitoring space. The competitive landscape included established players like New Relic, Dynatrace, AppDynamics, and Splunk.",
-  "sources": ["https://www.gartner.com/reviews/market/observability-platforms/vendor/datadog/product/datadog/alternatives"]
+  "context": "Datadog, Inc. is a cloud monitoring and observability platform focused on infrastructure monitoring, APM, log management, and security. Expanded to APM and log management. Unified platform approach.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/observability-platforms/vendor/datadog/product/datadog/alternatives"
+  ]
 }

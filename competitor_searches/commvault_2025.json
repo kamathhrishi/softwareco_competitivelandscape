@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Commvault competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Commvault provides data protection, backup, and recovery solutions with expanding capabilities in cloud data management and cyber resilience. Focus on hybrid cloud and ransomware protection.",
+  "context": "Commvault Systems, Inc. is a data protection and management software company focused on backup, recovery, and data management across cloud and on-premises. Hybrid cloud data protection. Competing with Veeam, Cohesity, Rubrik.",
   "competitors": [
-    {"name": "Veeam", "notes": "Leading backup and recovery solution particularly strong in VMware environments"},
-    {"name": "Veritas Technologies", "notes": "Enterprise data management and protection solutions"},
-    {"name": "Cohesity", "notes": "Modern data management platform with backup, recovery, and data services"},
-    {"name": "Rubrik", "notes": "Cloud data management with focus on ransomware recovery and compliance"},
-    {"name": "Dell EMC Data Protection", "notes": "Comprehensive backup and recovery solutions from Dell Technologies"},
-    {"name": "IBM Spectrum Protect", "notes": "Enterprise backup and recovery solution for diverse environments"},
-    {"name": "Druva", "notes": "Cloud-native data protection and management as a service"},
-    {"name": "Acronis", "notes": "Cyber protection solutions combining backup and cybersecurity"}
+    {
+      "name": "Veeam",
+      "notes": "Leading backup and recovery solution particularly strong in VMware environments"
+    },
+    {
+      "name": "Veritas Technologies",
+      "notes": "Enterprise data management and protection solutions"
+    },
+    {
+      "name": "Cohesity",
+      "notes": "Modern data management platform with backup, recovery, and data services"
+    },
+    {
+      "name": "Rubrik",
+      "notes": "Cloud data management with focus on ransomware recovery and compliance"
+    },
+    {
+      "name": "Dell EMC Data Protection",
+      "notes": "Comprehensive backup and recovery solutions from Dell Technologies"
+    },
+    {
+      "name": "IBM Spectrum Protect",
+      "notes": "Enterprise backup and recovery solution for diverse environments"
+    },
+    {
+      "name": "Druva",
+      "notes": "Cloud-native data protection and management as a service"
+    },
+    {
+      "name": "Acronis",
+      "notes": "Cyber protection solutions combining backup and cybersecurity"
+    }
   ],
-  "sources": ["Gartner Magic Quadrant", "IDC"]
+  "sources": [
+    "Gartner Magic Quadrant",
+    "IDC"
+  ]
 }

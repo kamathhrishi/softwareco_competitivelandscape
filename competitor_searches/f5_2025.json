@@ -4,23 +4,68 @@
   "year": 2025,
   "search_query": "F5 Inc competitors 2025",
   "search_date": "2025-12-24",
-  "context": "F5 introduced the Application Delivery and Security Platform (ADSP) in 2025, unifying application delivery, API protection, and threat mitigation across hardware, software, and SaaS. F5 made strategic acquisitions: LeakSignal (March 2025) for AI application data protection, Fletch (June 2025) for agentic AI threat detection, and MantisNet (August 2025) for eBPF-based network observability. Competition intensified in API security, AI application protection, and cloud-native WAAP.",
+  "context": "F5, Inc. is a application delivery and security company focused on load balancing, application security, and multi-cloud networking. Multi-cloud application delivery and security.",
   "competitors": [
-    {"name": "Akamai", "notes": "Major competitor in Cloud Web Application and API Protection (WAAP) market"},
-    {"name": "Cloudflare", "notes": "Leading cloud-native WAAP provider with strong CDN, WAF, and DDoS protection"},
-    {"name": "Imperva", "notes": "Top F5 alternative for WAF and API security across cloud environments"},
-    {"name": "AWS WAF", "notes": "Native AWS web application firewall and API protection services"},
-    {"name": "Palo Alto Networks", "notes": "Prisma Cloud for multi-cloud application security and API protection"},
-    {"name": "Fortinet", "notes": "Web Application Firewall integrated into broader security fabric"},
-    {"name": "NetScaler", "notes": "Application delivery with ZTNA and secure user connections"},
-    {"name": "ThreatX Platform", "notes": "API protection and web application security competitor"},
-    {"name": "Google Cloud Armor", "notes": "Google Cloud's web application firewall and DDoS protection"},
-    {"name": "Fastly Next-Gen WAF", "notes": "Modern cloud WAF and API protection platform"},
-    {"name": "Cisco Systems", "notes": "Comprehensive networking and security solutions"},
-    {"name": "A10 Networks", "notes": "Application delivery and security solutions"},
-    {"name": "Salt Security", "notes": "API security testing and protection platform"},
-    {"name": "Traceable", "notes": "API security with observability and protection"},
-    {"name": "Cequence Security", "notes": "API security and bot management solutions"}
+    {
+      "name": "Akamai",
+      "notes": "Major competitor in Cloud Web Application and API Protection (WAAP) market"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Leading cloud-native WAAP provider with strong CDN, WAF, and DDoS protection"
+    },
+    {
+      "name": "Imperva",
+      "notes": "Top F5 alternative for WAF and API security across cloud environments"
+    },
+    {
+      "name": "AWS WAF",
+      "notes": "Native AWS web application firewall and API protection services"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Prisma Cloud for multi-cloud application security and API protection"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Web Application Firewall integrated into broader security fabric"
+    },
+    {
+      "name": "NetScaler",
+      "notes": "Application delivery with ZTNA and secure user connections"
+    },
+    {
+      "name": "ThreatX Platform",
+      "notes": "API protection and web application security competitor"
+    },
+    {
+      "name": "Google Cloud Armor",
+      "notes": "Google Cloud's web application firewall and DDoS protection"
+    },
+    {
+      "name": "Fastly Next-Gen WAF",
+      "notes": "Modern cloud WAF and API protection platform"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Comprehensive networking and security solutions"
+    },
+    {
+      "name": "A10 Networks",
+      "notes": "Application delivery and security solutions"
+    },
+    {
+      "name": "Salt Security",
+      "notes": "API security testing and protection platform"
+    },
+    {
+      "name": "Traceable",
+      "notes": "API security with observability and protection"
+    },
+    {
+      "name": "Cequence Security",
+      "notes": "API security and bot management solutions"
+    }
   ],
   "sources": [
     "https://www.gartner.com/reviews/market/cloud-web-application-and-api-protection/vendor/f5/alternatives",

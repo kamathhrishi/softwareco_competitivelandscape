@@ -5,15 +5,43 @@
   "search_query": "CrowdStrike endpoint security competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "McAfee ePO", "notes": "Enterprise endpoint protection platform with significant market share"},
-    {"name": "Symantec", "notes": "Traditional antivirus giant with enterprise endpoint security solutions"},
-    {"name": "Carbon Black", "notes": "Cloud-native endpoint protection platform, strong EDR capabilities. Key competitor in next-gen endpoint security"},
-    {"name": "Palo Alto Networks", "notes": "Leading network security provider expanding endpoint security offerings"},
-    {"name": "Microsoft", "notes": "Microsoft Defender evolving endpoint protection solutions"},
-    {"name": "Bitdefender", "notes": "Cybersecurity platform offering endpoint protection with machine learning"},
-    {"name": "Trend Micro", "notes": "Established endpoint security provider"},
-    {"name": "Sophos", "notes": "Endpoint security focused on SMB market"}
+    {
+      "name": "McAfee ePO",
+      "notes": "Enterprise endpoint protection platform with significant market share"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Traditional antivirus giant with enterprise endpoint security solutions"
+    },
+    {
+      "name": "Carbon Black",
+      "notes": "Cloud-native endpoint protection platform, strong EDR capabilities. Key competitor in next-gen endpoint security"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading network security provider expanding endpoint security offerings"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Microsoft Defender evolving endpoint protection solutions"
+    },
+    {
+      "name": "Bitdefender",
+      "notes": "Cybersecurity platform offering endpoint protection with machine learning"
+    },
+    {
+      "name": "Trend Micro",
+      "notes": "Established endpoint security provider"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Endpoint security focused on SMB market"
+    }
   ],
-  "context": "By 2015, CrowdStrike was establishing itself in the emerging EDR (Endpoint Detection and Response) market. The endpoint security landscape was transitioning from traditional signature-based antivirus to next-generation, cloud-native solutions.",
-  "sources": ["https://blog.invgate.com/crowdstrike-competitors", "https://www.goworkwize.com/blog/crowdstrike-alternatives", "https://6sense.com/tech/endpoint-protection/crowdstrike-market-share"]
+  "context": "CrowdStrike Holdings, Inc. is a cloud-native cybersecurity company focused on endpoint protection, threat intelligence, and extended detection and response. Cloud-native endpoint protection. Falcon platform launched.",
+  "sources": [
+    "https://blog.invgate.com/crowdstrike-competitors",
+    "https://www.goworkwize.com/blog/crowdstrike-alternatives",
+    "https://6sense.com/tech/endpoint-protection/crowdstrike-market-share"
+  ]
 }

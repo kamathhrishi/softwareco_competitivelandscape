@@ -5,11 +5,26 @@
   "search_query": "Autodesk AutoCAD competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Bentley Systems", "notes": "MicroStation - 3D and 2D modeling and CAD solution for engineers and designers"},
-    {"name": "Dassault Systèmes", "notes": "CATIA - high-end engineering CAD tool born from aerospace industry"},
-    {"name": "PTC", "notes": "Long-standing competitor in CAD/CAM software space"},
-    {"name": "Siemens", "notes": "CAD and engineering software solutions"}
+    {
+      "name": "Bentley Systems",
+      "notes": "MicroStation - 3D and 2D modeling and CAD solution for engineers and designers"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "CATIA - high-end engineering CAD tool born from aerospace industry"
+    },
+    {
+      "name": "PTC",
+      "notes": "Long-standing competitor in CAD/CAM software space"
+    },
+    {
+      "name": "Siemens",
+      "notes": "CAD and engineering software solutions"
+    }
   ],
-  "context": "Around 2000, Autodesk's AutoCAD faced competition primarily from established enterprise CAD vendors. The CAD market was primarily focused on 2D drafting with emerging 3D capabilities.",
-  "sources": ["https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives", "https://www.onlc.com/blog/top-autocad-alternatives/"]
+  "context": "Autodesk, Inc. is a design and make software company focused on CAD, 3D design, BIM, and manufacturing software. AutoCAD dominated 2D design. 3D Studio Max for visualization.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives",
+    "https://www.onlc.com/blog/top-autocad-alternatives/"
+  ]
 }

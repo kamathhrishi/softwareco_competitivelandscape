@@ -5,17 +5,52 @@
   "search_query": "Confluent Kafka streaming competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Redpanda", "notes": "Valued over $500M after 300% revenue growth in 2024, Kafka-compatible, Snowflake almost acquired them in early 2025"},
-    {"name": "WarpStream", "notes": "Kafka-compatible startup, acquired by Confluent in 2024 for $220M, founded 2023"},
-    {"name": "Apache Pulsar", "notes": "First Kafka-like competitor developed by Yahoo in 2016, supported by Streamnative startup"},
-    {"name": "Amazon MSK", "notes": "Fully managed Apache Kafka service simplifying Kafka streaming on AWS"},
-    {"name": "Striim", "notes": "Unified real-time data integration and streaming platform, alternative to fragmented Confluent ecosystem"},
-    {"name": "Upstash", "notes": "Serverless Kafka platform with per-request pricing, no infrastructure management needed"},
-    {"name": "NATS", "notes": "Lightweight messaging system alternative for event streaming"},
-    {"name": "Google Pub/Sub", "notes": "Google Cloud's messaging and event streaming service"},
-    {"name": "Amazon Kinesis", "notes": "AWS real-time data streaming service"},
-    {"name": "RabbitMQ", "notes": "Traditional message broker often compared to Kafka for different use cases"}
+    {
+      "name": "Redpanda",
+      "notes": "Valued over $500M after 300% revenue growth in 2024, Kafka-compatible, Snowflake almost acquired them in early 2025"
+    },
+    {
+      "name": "WarpStream",
+      "notes": "Kafka-compatible startup, acquired by Confluent in 2024 for $220M, founded 2023"
+    },
+    {
+      "name": "Apache Pulsar",
+      "notes": "First Kafka-like competitor developed by Yahoo in 2016, supported by Streamnative startup"
+    },
+    {
+      "name": "Amazon MSK",
+      "notes": "Fully managed Apache Kafka service simplifying Kafka streaming on AWS"
+    },
+    {
+      "name": "Striim",
+      "notes": "Unified real-time data integration and streaming platform, alternative to fragmented Confluent ecosystem"
+    },
+    {
+      "name": "Upstash",
+      "notes": "Serverless Kafka platform with per-request pricing, no infrastructure management needed"
+    },
+    {
+      "name": "NATS",
+      "notes": "Lightweight messaging system alternative for event streaming"
+    },
+    {
+      "name": "Google Pub/Sub",
+      "notes": "Google Cloud's messaging and event streaming service"
+    },
+    {
+      "name": "Amazon Kinesis",
+      "notes": "AWS real-time data streaming service"
+    },
+    {
+      "name": "RabbitMQ",
+      "notes": "Traditional message broker often compared to Kafka for different use cases"
+    }
   ],
-  "context": "In 2024, Confluent IPO'd at over $11B valuation but trades near $6.5B after growing revenues slightly over 25% YoY, approaching $1B in revenues. Major consolidation wave in event streaming with WarpStream acquired by Confluent for $220M. Redpanda valued at $500M+ with 300% revenue growth. Some analysts suggest limited remaining opportunity in real-time event streaming. Snowflake and Databricks haven't entered the space but likely will. Confluent responded with TableFlow (Kafka to Iceberg, March 2024), Freight Clusters with decoupled storage-compute (May 2024, 90% networking cost reduction), and the Kora engine (up to 16x faster than traditional Kafka).",
-  "sources": ["https://sanjmo.medium.com/beyond-kafka-the-rise-of-kafka-compatible-alternatives-ed9a91f53e70", "https://www.striim.com/blog/top-confluent-alternatives/", "https://www.bigdatawire.com/2024/09/10/confluent-nabs-competitor-warpstream-to-bolster-streaming-in-the-cloud/", "https://risingwave.com/blog/changes-you-should-know-in-the-data-streaming-space-takeaways-from-kafka-summit-2024/"]
+  "context": "Confluent, Inc. is a data streaming platform company focused on Apache Kafka-based real-time data streaming and event-driven architecture. Tableflow and Flink integration. Competing with cloud provider offerings.",
+  "sources": [
+    "https://sanjmo.medium.com/beyond-kafka-the-rise-of-kafka-compatible-alternatives-ed9a91f53e70",
+    "https://www.striim.com/blog/top-confluent-alternatives/",
+    "https://www.bigdatawire.com/2024/09/10/confluent-nabs-competitor-warpstream-to-bolster-streaming-in-the-cloud/",
+    "https://risingwave.com/blog/changes-you-should-know-in-the-data-streaming-space-takeaways-from-kafka-summit-2024/"
+  ]
 }

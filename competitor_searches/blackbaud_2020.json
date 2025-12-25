@@ -5,12 +5,29 @@
   "search_query": "Blackbaud nonprofit software competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Salesforce Nonprofit Cloud", "notes": "CRM for nonprofits on Salesforce platform"},
-    {"name": "Bloomerang", "notes": "Donor management for small nonprofits"},
-    {"name": "Network for Good", "notes": "Fundraising and donor management"},
-    {"name": "NeonCRM", "notes": "Nonprofit CRM and fundraising"},
-    {"name": "Raiser's Edge NXT", "notes": "Blackbaud's flagship fundraising solution"}
+    {
+      "name": "Salesforce Nonprofit Cloud",
+      "notes": "CRM for nonprofits on Salesforce platform"
+    },
+    {
+      "name": "Bloomerang",
+      "notes": "Donor management for small nonprofits"
+    },
+    {
+      "name": "Network for Good",
+      "notes": "Fundraising and donor management"
+    },
+    {
+      "name": "NeonCRM",
+      "notes": "Nonprofit CRM and fundraising"
+    },
+    {
+      "name": "Raiser's Edge NXT",
+      "notes": "Blackbaud's flagship fundraising solution"
+    }
   ],
-  "context": "In 2020, Blackbaud was the leading provider of software for nonprofits, foundations, and education. The pandemic accelerated digital fundraising needs. A major security incident in 2020 impacted customer trust. Salesforce's nonprofit expansion created new competition. Blackbaud served over 45,000 organizations globally.",
-  "sources": ["https://craft.co/blackbaud/competitors"]
+  "context": "Blackbaud, Inc. is a software for nonprofits and social good organizations focused on fundraising, CRM, financial management, and analytics for nonprofits. Data breach incident. Digital giving surge during pandemic.",
+  "sources": [
+    "https://craft.co/blackbaud/competitors"
+  ]
 }

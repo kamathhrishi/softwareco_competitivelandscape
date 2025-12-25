@@ -5,13 +5,33 @@
   "search_query": "Atlassian Jira competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Rally (now Broadcom)", "notes": "Enterprise agile lifecycle management platform"},
-    {"name": "Redmine", "notes": "Open-source project management web application"},
-    {"name": "Pivotal Tracker", "notes": "Agile project management tool focused on story-based planning"},
-    {"name": "Microsoft Project", "notes": "Traditional project management software"},
-    {"name": "Bugzilla", "notes": "Bug tracking system used by Mozilla and others"},
-    {"name": "Basecamp", "notes": "Project management and team collaboration tool"}
+    {
+      "name": "Rally (now Broadcom)",
+      "notes": "Enterprise agile lifecycle management platform"
+    },
+    {
+      "name": "Redmine",
+      "notes": "Open-source project management web application"
+    },
+    {
+      "name": "Pivotal Tracker",
+      "notes": "Agile project management tool focused on story-based planning"
+    },
+    {
+      "name": "Microsoft Project",
+      "notes": "Traditional project management software"
+    },
+    {
+      "name": "Bugzilla",
+      "notes": "Bug tracking system used by Mozilla and others"
+    },
+    {
+      "name": "Basecamp",
+      "notes": "Project management and team collaboration tool"
+    }
   ],
-  "context": "By 2010, Atlassian had established itself in the agile project management space with Jira and Confluence. The shift toward agile methodologies was accelerating.",
-  "sources": ["https://devrev.ai/blog/jira-alternatives"]
+  "context": "Atlassian Corporation is a team collaboration and productivity software company focused on Jira, Confluence, Trello, and developer tools. Confluence for documentation. Expanding beyond software teams.",
+  "sources": [
+    "https://devrev.ai/blog/jira-alternatives"
+  ]
 }

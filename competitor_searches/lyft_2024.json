@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Lyft competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Lyft maintained ~28% US ride-hailing share but faced questions about long-term viability against Uber's scale and autonomous vehicle transition. New CEO David Risher focused on cost cuts and rider experience.",
+  "context": "Lyft, Inc. is a rideshare and transportation company focused on ridesharing, bikes, scooters, and autonomous vehicles. Rideshare recovery. Focus on driver and rider experience.",
   "competitors": [
-    {"name": "Uber", "notes": "Dominant competitor with ~72% US ride-hailing share and delivery business"},
-    {"name": "Waymo", "notes": "Expanding autonomous ride-hailing in San Francisco and Phoenix"},
-    {"name": "Cruise", "notes": "GM autonomous vehicles, though operations paused after incidents"},
-    {"name": "Tesla Robotaxi", "notes": "Announced autonomous ride-hailing plans"},
-    {"name": "Via", "notes": "Transit technology and shared ride platform"},
-    {"name": "Traditional Taxis", "notes": "Modernized taxi services with app booking"},
-    {"name": "Public Transit", "notes": "Mass transit systems improving service"},
-    {"name": "Micromobility", "notes": "E-bikes and scooters for short trips"}
+    {
+      "name": "Uber",
+      "notes": "Dominant competitor with ~72% US ride-hailing share and delivery business"
+    },
+    {
+      "name": "Waymo",
+      "notes": "Expanding autonomous ride-hailing in San Francisco and Phoenix"
+    },
+    {
+      "name": "Cruise",
+      "notes": "GM autonomous vehicles, though operations paused after incidents"
+    },
+    {
+      "name": "Tesla Robotaxi",
+      "notes": "Announced autonomous ride-hailing plans"
+    },
+    {
+      "name": "Via",
+      "notes": "Transit technology and shared ride platform"
+    },
+    {
+      "name": "Traditional Taxis",
+      "notes": "Modernized taxi services with app booking"
+    },
+    {
+      "name": "Public Transit",
+      "notes": "Mass transit systems improving service"
+    },
+    {
+      "name": "Micromobility",
+      "notes": "E-bikes and scooters for short trips"
+    }
   ],
-  "sources": ["Ride-hailing industry analysis"]
+  "sources": [
+    "Ride-hailing industry analysis"
+  ]
 }

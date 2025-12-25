@@ -5,17 +5,50 @@
   "search_query": "CommVault competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Acronis Cyber Protect", "notes": "AI-powered cybersecurity with backup integration"},
-    {"name": "Veeam", "notes": "Major player with reliable, scalable solutions"},
-    {"name": "Rubrik", "notes": "Focus on cyber resilience, data security, identity security"},
-    {"name": "Cohesity/Veritas", "notes": "Cohesity acquired Veritas in December 2024"},
-    {"name": "HYCU", "notes": "Top-rated SaaS solution for hybrid cloud backup"},
-    {"name": "Druva", "notes": "Cloud-native SaaS with faster deployment"},
-    {"name": "NAKIVO", "notes": "User-friendly virtualization backup for SMBs"},
-    {"name": "Bacula Systems", "notes": "Comprehensive data management supporting VMs and cloud"},
-    {"name": "Zerto", "notes": "Cloud-based disaster recovery and ransomware resilience"},
-    {"name": "Datto", "notes": "MSP-oriented backup and disaster recovery"}
+    {
+      "name": "Acronis Cyber Protect",
+      "notes": "AI-powered cybersecurity with backup integration"
+    },
+    {
+      "name": "Veeam",
+      "notes": "Major player with reliable, scalable solutions"
+    },
+    {
+      "name": "Rubrik",
+      "notes": "Focus on cyber resilience, data security, identity security"
+    },
+    {
+      "name": "Cohesity/Veritas",
+      "notes": "Cohesity acquired Veritas in December 2024"
+    },
+    {
+      "name": "HYCU",
+      "notes": "Top-rated SaaS solution for hybrid cloud backup"
+    },
+    {
+      "name": "Druva",
+      "notes": "Cloud-native SaaS with faster deployment"
+    },
+    {
+      "name": "NAKIVO",
+      "notes": "User-friendly virtualization backup for SMBs"
+    },
+    {
+      "name": "Bacula Systems",
+      "notes": "Comprehensive data management supporting VMs and cloud"
+    },
+    {
+      "name": "Zerto",
+      "notes": "Cloud-based disaster recovery and ransomware resilience"
+    },
+    {
+      "name": "Datto",
+      "notes": "MSP-oriented backup and disaster recovery"
+    }
   ],
-  "context": "In 2024, CommVault faces 913 active competitors. Key trends: cybersecurity integration, cloud-native SaaS, M&A consolidation (Cohesity-Veritas), AI-powered threat detection. Market bifurcated between enterprise platforms and SMB solutions.",
-  "sources": ["https://www.baculasystems.com/commvault-competitors-alternatives/", "https://tracxn.com/d/companies/commvault/competitors"]
+  "context": "Commvault Systems, Inc. is a data protection and management software company focused on backup, recovery, and data management across cloud and on-premises. Merged with Metallic. Cyber resilience focus with AI.",
+  "sources": [
+    "https://www.baculasystems.com/commvault-competitors-alternatives/",
+    "https://tracxn.com/d/companies/commvault/competitors"
+  ]
 }

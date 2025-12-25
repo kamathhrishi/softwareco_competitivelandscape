@@ -4,15 +4,38 @@
   "year": 2005,
   "search_query": "Guidewire competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Guidewire provided core systems for property and casualty insurers. Insurance industry running legacy systems. Modern policy administration systems were emerging.",
+  "context": "Guidewire Software, Inc. is a software for property and casualty insurers focused on core insurance systems, data analytics, and digital engagement. Policy, billing, claims systems for insurers.",
   "competitors": [
-    {"name": "Accenture Duck Creek", "notes": "Insurance policy administration"},
-    {"name": "Oracle Insurance", "notes": "Enterprise insurance solutions"},
-    {"name": "CSC (DXC)", "notes": "Insurance technology services"},
-    {"name": "Majesco", "notes": "Insurance software solutions"},
-    {"name": "Sapiens", "notes": "Insurance platform provider"},
-    {"name": "StoneRiver", "notes": "Insurance technology (merged into Sapiens)"},
-    {"name": "In-house legacy systems", "notes": "Custom-built mainframe systems"}
+    {
+      "name": "Accenture Duck Creek",
+      "notes": "Insurance policy administration"
+    },
+    {
+      "name": "Oracle Insurance",
+      "notes": "Enterprise insurance solutions"
+    },
+    {
+      "name": "CSC (DXC)",
+      "notes": "Insurance technology services"
+    },
+    {
+      "name": "Majesco",
+      "notes": "Insurance software solutions"
+    },
+    {
+      "name": "Sapiens",
+      "notes": "Insurance platform provider"
+    },
+    {
+      "name": "StoneRiver",
+      "notes": "Insurance technology (merged into Sapiens)"
+    },
+    {
+      "name": "In-house legacy systems",
+      "notes": "Custom-built mainframe systems"
+    }
   ],
-  "sources": ["Insurance technology analysis"]
+  "sources": [
+    "Insurance technology analysis"
+  ]
 }

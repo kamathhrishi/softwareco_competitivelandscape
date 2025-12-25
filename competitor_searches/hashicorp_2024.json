@@ -5,19 +5,58 @@
   "search_query": "HashiCorp competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "CyberArk Software", "notes": "Primary competitor in privileged access and secrets management"},
-    {"name": "Red Hat Ansible", "notes": "Top Terraform alternative for infrastructure automation"},
-    {"name": "OpenTofu", "notes": "Open-source fork of Terraform after license change to BuSL"},
-    {"name": "OpenBao", "notes": "Open-source fork of Vault after license change"},
-    {"name": "Pulumi", "notes": "Infrastructure as code with real programming languages"},
-    {"name": "Chef", "notes": "Configuration management competitor"},
-    {"name": "Puppet", "notes": "Configuration management and infrastructure automation"},
-    {"name": "Spacelift", "notes": "Workflow automation for cloud infrastructure management"},
-    {"name": "Akeyless", "notes": "Multi-cloud secrets management platform"},
-    {"name": "Infisical", "notes": "Open-source end-to-end secret management"},
-    {"name": "Azure Automation", "notes": "Microsoft's cloud automation platform"},
-    {"name": "VMware", "notes": "Infrastructure and virtualization competitor"}
+    {
+      "name": "CyberArk Software",
+      "notes": "Primary competitor in privileged access and secrets management"
+    },
+    {
+      "name": "Red Hat Ansible",
+      "notes": "Top Terraform alternative for infrastructure automation"
+    },
+    {
+      "name": "OpenTofu",
+      "notes": "Open-source fork of Terraform after license change to BuSL"
+    },
+    {
+      "name": "OpenBao",
+      "notes": "Open-source fork of Vault after license change"
+    },
+    {
+      "name": "Pulumi",
+      "notes": "Infrastructure as code with real programming languages"
+    },
+    {
+      "name": "Chef",
+      "notes": "Configuration management competitor"
+    },
+    {
+      "name": "Puppet",
+      "notes": "Configuration management and infrastructure automation"
+    },
+    {
+      "name": "Spacelift",
+      "notes": "Workflow automation for cloud infrastructure management"
+    },
+    {
+      "name": "Akeyless",
+      "notes": "Multi-cloud secrets management platform"
+    },
+    {
+      "name": "Infisical",
+      "notes": "Open-source end-to-end secret management"
+    },
+    {
+      "name": "Azure Automation",
+      "notes": "Microsoft's cloud automation platform"
+    },
+    {
+      "name": "VMware",
+      "notes": "Infrastructure and virtualization competitor"
+    }
   ],
-  "context": "2024 marked major turning point. HashiCorp changed license from MPL 2.0 to BuSL in 2023, leading to open-source forks: OpenTofu (Terraform) and OpenBao (Vault). HashiCorp was acquired by IBM in 2024. Competition expanded across infrastructure as code, secrets management, and DevOps tooling.",
-  "sources": ["https://www.g2.com/products/hashicorp-terraform/competitors/alternatives", "https://www.cbinsights.com/company/hashicorp/alternatives-competitors"]
+  "context": "HashiCorp, Inc. is a infrastructure automation software company focused on Terraform, Vault, Consul for multi-cloud infrastructure. Acquired by IBM for $6.4B. BSL license controversy.",
+  "sources": [
+    "https://www.g2.com/products/hashicorp-terraform/competitors/alternatives",
+    "https://www.cbinsights.com/company/hashicorp/alternatives-competitors"
+  ]
 }

@@ -5,14 +5,32 @@
   "search_query": "Paylocity competitors 2005",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "ADP (Automatic Data Processing)", "notes": "Large national payroll provider dominating the market, competitor referenced by founder Steve Sarowitz"},
-    {"name": "Paychex", "notes": "Major national competitor in payroll and HR services (founder shares birthday with Paychex chairman)"},
-    {"name": "Ceridian", "notes": "National payroll and HR services provider"},
-    {"name": "Ultimate Software", "notes": "Growing HR and payroll software provider"},
-    {"name": "Kronos", "notes": "Workforce management and timekeeping solutions"},
-    {"name": "Sage Payroll", "notes": "Payroll software for SMBs"}
+    {
+      "name": "ADP (Automatic Data Processing)",
+      "notes": "Large national payroll provider dominating the market, competitor referenced by founder Steve Sarowitz"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major national competitor in payroll and HR services (founder shares birthday with Paychex chairman)"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "National payroll and HR services provider"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Growing HR and payroll software provider"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Workforce management and timekeeping solutions"
+    },
+    {
+      "name": "Sage Payroll",
+      "notes": "Payroll software for SMBs"
+    }
   ],
-  "context": "In 2005, Paylocity was operating under its new name after being founded as Ameripay Payroll Ltd. in 1997. The company was renamed to Paylocity in December 2005. Founder Steve Sarowitz had positioned the company as 'a good alternative to the large national players,' serving clients who had 'significant problems with our large competitors.' The company had launched its SaaS platform in 2002 and was focused on small to midsize businesses primarily in the Midwest. Paylocity was growing rapidly (1,000% sales increase since founding) and competing against established national players ADP and Paychex by offering better technology integration and customer service.",
+  "context": "Paylocity Holding Corporation is a cloud HCM software company focused on payroll, HR, benefits, and workforce management for mid-market. Cloud payroll development. Mid-market focus.",
   "sources": [
     "https://en.wikipedia.org/wiki/Paylocity",
     "https://matrixbcg.com/blogs/brief-history/paylocity",

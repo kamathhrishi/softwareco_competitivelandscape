@@ -5,14 +5,40 @@
   "search_query": "UiPath RPA automation competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Automation Anywhere", "notes": "Top UiPath competitor with 4,000+ global customers, mature platform with advanced process mining, cognitive capabilities, enterprise application integrations"},
-    {"name": "Blue Prism", "notes": "RPA pioneer focused on high-security enterprise-grade automation, tight mainframe integration, robust governance, ideal for regulated industries like finance and healthcare"},
-    {"name": "Microsoft Power Automate", "notes": "Entered RPA market in 2020, acquired Softmotive, gained traction through seamless Microsoft product integration"},
-    {"name": "WorkFusion", "notes": "AI-powered RPA using NLP and machine learning for unstructured data, excels in document parsing and legacy system automation, strong in insurance and healthcare"},
-    {"name": "Pega", "notes": "Offers robotic automation within broader BPM suite, integrated approach for process management and execution"},
-    {"name": "Kofax", "notes": "Enterprise automation platform for document processing and workflow automation"},
-    {"name": "NICE", "notes": "Provides automation solutions including attended and unattended RPA"}
+    {
+      "name": "Automation Anywhere",
+      "notes": "Top UiPath competitor with 4,000+ global customers, mature platform with advanced process mining, cognitive capabilities, enterprise application integrations"
+    },
+    {
+      "name": "Blue Prism",
+      "notes": "RPA pioneer focused on high-security enterprise-grade automation, tight mainframe integration, robust governance, ideal for regulated industries like finance and healthcare"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "notes": "Entered RPA market in 2020, acquired Softmotive, gained traction through seamless Microsoft product integration"
+    },
+    {
+      "name": "WorkFusion",
+      "notes": "AI-powered RPA using NLP and machine learning for unstructured data, excels in document parsing and legacy system automation, strong in insurance and healthcare"
+    },
+    {
+      "name": "Pega",
+      "notes": "Offers robotic automation within broader BPM suite, integrated approach for process management and execution"
+    },
+    {
+      "name": "Kofax",
+      "notes": "Enterprise automation platform for document processing and workflow automation"
+    },
+    {
+      "name": "NICE",
+      "notes": "Provides automation solutions including attended and unattended RPA"
+    }
   ],
-  "context": "In 2024, UiPath is named a Star Performer for achieving the greatest YoY growth and reinforces its status as a Leader for the eighth consecutive year, claiming the top spot in Gartner's 2025 Magic Quadrant for RPA for the sixth consecutive year. IDC predicts RPA spending will more than double between 2024 and 2028 to reach $8.2 billion. The main competitors are Automation Anywhere (mature enterprise platform), Blue Prism (security-focused for regulated industries), and Microsoft Power Automate (leveraging Microsoft ecosystem integration). WorkFusion differentiates with AI-powered automation for unstructured data processing.",
-  "sources": ["https://www.zluri.com/blog/uipath-alternatives", "https://www.auxis.com/learn/rpa/top-rpa-tools/", "https://www.relevancelab.com/post/uipath-vs-other-rpa-platforms", "https://bstrategyhub.com/uipath-competitors-and-alternatives/"]
+  "context": "UiPath Inc. is a enterprise automation platform company focused on robotic process automation and AI-powered automation. AI-powered automation. Agentic process automation.",
+  "sources": [
+    "https://www.zluri.com/blog/uipath-alternatives",
+    "https://www.auxis.com/learn/rpa/top-rpa-tools/",
+    "https://www.relevancelab.com/post/uipath-vs-other-rpa-platforms",
+    "https://bstrategyhub.com/uipath-competitors-and-alternatives/"
+  ]
 }

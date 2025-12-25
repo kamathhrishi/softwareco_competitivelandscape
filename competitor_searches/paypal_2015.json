@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "PayPal competitors 2015",
   "search_date": "2024-12-24",
-  "context": "PayPal spun off from eBay in July 2015 as an independent public company. The company had 179M active accounts and processed $282B in payments, facing new mobile payment competitors.",
+  "context": "PayPal Holdings, Inc. is a digital payments company focused on online payments, Venmo, Braintree, and merchant services. Spun off from eBay. Venmo and Braintree growth.",
   "competitors": [
-    {"name": "Apple Pay", "notes": "Apple's mobile wallet launched 2014, threatening PayPal in mobile"},
-    {"name": "Google Wallet", "notes": "Google's mobile payment solution"},
-    {"name": "Stripe", "notes": "Developer-focused payments platform growing rapidly"},
-    {"name": "Square", "notes": "Mobile payments and POS competing with PayPal Here"},
-    {"name": "Visa Checkout", "notes": "Visa's online checkout solution"},
-    {"name": "Masterpass", "notes": "Mastercard's digital wallet"},
-    {"name": "Amazon Pay", "notes": "Amazon's payment option for third-party sites"},
-    {"name": "Venmo (owned)", "notes": "P2P payment app acquired by PayPal/Braintree"}
+    {
+      "name": "Apple Pay",
+      "notes": "Apple's mobile wallet launched 2014, threatening PayPal in mobile"
+    },
+    {
+      "name": "Google Wallet",
+      "notes": "Google's mobile payment solution"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Developer-focused payments platform growing rapidly"
+    },
+    {
+      "name": "Square",
+      "notes": "Mobile payments and POS competing with PayPal Here"
+    },
+    {
+      "name": "Visa Checkout",
+      "notes": "Visa's online checkout solution"
+    },
+    {
+      "name": "Masterpass",
+      "notes": "Mastercard's digital wallet"
+    },
+    {
+      "name": "Amazon Pay",
+      "notes": "Amazon's payment option for third-party sites"
+    },
+    {
+      "name": "Venmo (owned)",
+      "notes": "P2P payment app acquired by PayPal/Braintree"
+    }
   ],
-  "sources": ["Payments industry analysis"]
+  "sources": [
+    "Payments industry analysis"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Figma competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Figma became the leading collaborative design tool by 2020, surpassing Sketch in popularity. The pandemic accelerated adoption as remote teams needed real-time collaboration. FigJam launched for whiteboarding.",
+  "context": "Figma, Inc. is a collaborative design platform focused on UI/UX design, prototyping, and design systems in the browser. Design tool of choice for product teams. FigJam whiteboard.",
   "competitors": [
-    {"name": "Sketch", "notes": "Mac design tool losing market share to Figma's collaboration features"},
-    {"name": "Adobe XD", "notes": "Adobe's UI/UX design tool competing directly with Figma"},
-    {"name": "InVision", "notes": "Prototyping platform with DSM and Freehand collaboration"},
-    {"name": "Framer", "notes": "Design and prototyping tool with code-based interactions"},
-    {"name": "Miro", "notes": "Whiteboarding platform competing with FigJam"},
-    {"name": "Canva", "notes": "Browser-based design tool expanding into professional design"},
-    {"name": "Abstract", "notes": "Version control for Sketch files"},
-    {"name": "Zeplin", "notes": "Design handoff tool for developer collaboration"}
+    {
+      "name": "Sketch",
+      "notes": "Mac design tool losing market share to Figma's collaboration features"
+    },
+    {
+      "name": "Adobe XD",
+      "notes": "Adobe's UI/UX design tool competing directly with Figma"
+    },
+    {
+      "name": "InVision",
+      "notes": "Prototyping platform with DSM and Freehand collaboration"
+    },
+    {
+      "name": "Framer",
+      "notes": "Design and prototyping tool with code-based interactions"
+    },
+    {
+      "name": "Miro",
+      "notes": "Whiteboarding platform competing with FigJam"
+    },
+    {
+      "name": "Canva",
+      "notes": "Browser-based design tool expanding into professional design"
+    },
+    {
+      "name": "Abstract",
+      "notes": "Version control for Sketch files"
+    },
+    {
+      "name": "Zeplin",
+      "notes": "Design handoff tool for developer collaboration"
+    }
   ],
-  "sources": ["Design industry analysis"]
+  "sources": [
+    "Design industry analysis"
+  ]
 }

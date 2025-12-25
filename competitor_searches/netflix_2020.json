@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Netflix competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Netflix reached 200M subscribers during pandemic streaming surge. The company faced new competition from Disney+, HBO Max, and other media companies launching direct-to-consumer services.",
+  "context": "Netflix, Inc. is a streaming entertainment service focused on subscription video streaming and original content production. Pandemic streaming surge. 200M+ subscribers reached.",
   "competitors": [
-    {"name": "Disney+", "notes": "Disney's streaming service launched Nov 2019, 87M subs by end of 2020"},
-    {"name": "Amazon Prime Video", "notes": "Bundled with Prime, investing in originals"},
-    {"name": "HBO Max", "notes": "WarnerMedia streaming with HBO content library"},
-    {"name": "Hulu", "notes": "Disney-controlled streaming with next-day TV"},
-    {"name": "Apple TV+", "notes": "Apple's streaming with original content"},
-    {"name": "Peacock", "notes": "NBCUniversal streaming service launched 2020"},
-    {"name": "YouTube", "notes": "Free video competing for viewing time"},
-    {"name": "TikTok", "notes": "Short-form video capturing younger audiences"}
+    {
+      "name": "Disney+",
+      "notes": "Disney's streaming service launched Nov 2019, 87M subs by end of 2020"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "notes": "Bundled with Prime, investing in originals"
+    },
+    {
+      "name": "HBO Max",
+      "notes": "WarnerMedia streaming with HBO content library"
+    },
+    {
+      "name": "Hulu",
+      "notes": "Disney-controlled streaming with next-day TV"
+    },
+    {
+      "name": "Apple TV+",
+      "notes": "Apple's streaming with original content"
+    },
+    {
+      "name": "Peacock",
+      "notes": "NBCUniversal streaming service launched 2020"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Free video competing for viewing time"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Short-form video capturing younger audiences"
+    }
   ],
-  "sources": ["Streaming industry analysis"]
+  "sources": [
+    "Streaming industry analysis"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Figma competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Figma remained independent after Adobe's $20B acquisition was abandoned in December 2023 due to regulatory concerns. The company launched AI features and Dev Mode for design-to-code workflows.",
+  "context": "Figma, Inc. is a collaborative design platform focused on UI/UX design, prototyping, and design systems in the browser. Adobe acquisition cancelled. Independent growth. Dev Mode.",
   "competitors": [
-    {"name": "Adobe Creative Cloud", "notes": "Adobe suite including XD, Illustrator, and Photoshop competing across design workflows"},
-    {"name": "Canva", "notes": "Design platform with 170M+ users expanding into professional and enterprise design"},
-    {"name": "Framer", "notes": "Design tool with AI features and website publishing capabilities"},
-    {"name": "Sketch", "notes": "Mac design tool with declining market share but loyal user base"},
-    {"name": "Miro", "notes": "Whiteboarding platform competing with FigJam"},
-    {"name": "Penpot", "notes": "Open-source design platform as Figma alternative"},
-    {"name": "Webflow", "notes": "Visual web development competing in design-to-production space"},
-    {"name": "Spline", "notes": "3D design tool for interactive web experiences"}
+    {
+      "name": "Adobe Creative Cloud",
+      "notes": "Adobe suite including XD, Illustrator, and Photoshop competing across design workflows"
+    },
+    {
+      "name": "Canva",
+      "notes": "Design platform with 170M+ users expanding into professional and enterprise design"
+    },
+    {
+      "name": "Framer",
+      "notes": "Design tool with AI features and website publishing capabilities"
+    },
+    {
+      "name": "Sketch",
+      "notes": "Mac design tool with declining market share but loyal user base"
+    },
+    {
+      "name": "Miro",
+      "notes": "Whiteboarding platform competing with FigJam"
+    },
+    {
+      "name": "Penpot",
+      "notes": "Open-source design platform as Figma alternative"
+    },
+    {
+      "name": "Webflow",
+      "notes": "Visual web development competing in design-to-production space"
+    },
+    {
+      "name": "Spline",
+      "notes": "3D design tool for interactive web experiences"
+    }
   ],
-  "sources": ["Design industry analysis"]
+  "sources": [
+    "Design industry analysis"
+  ]
 }

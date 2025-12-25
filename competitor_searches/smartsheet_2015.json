@@ -4,18 +4,48 @@
   "year": 2015,
   "search_query": "Smartsheet competitors 2015",
   "search_date": "2025-12-24",
-  "context": "In 2015, Smartsheet was gaining traction as a cloud-based work management platform combining spreadsheet functionality with collaboration tools. The company had been in the market since 2006 and raised $35 million in funding in May 2014. The competitive landscape was dominated by traditional project management tools, spreadsheet applications, and emerging lightweight collaboration platforms. Smartsheet competed primarily in the midweight project management category, offering more features than simple tools like Trello while being more accessible than enterprise solutions like Microsoft Project.",
+  "context": "Smartsheet Inc. is a work management platform company focused on project management, collaboration, and workflow automation. Enterprise work management growth.",
   "competitors": [
-    {"name": "Microsoft Excel", "notes": "Microsoft Excel remained the dominant spreadsheet tool for data organization and analysis. While Excel lacked native cloud collaboration features at this time, it was the familiar baseline that Smartsheet sought to extend with project management and real-time collaboration capabilities."},
-    {"name": "Google Sheets", "notes": "Google Sheets debuted in 2006 as a free browser-based spreadsheet app with cloud collaboration built in. It offered a more user-friendly and accessible alternative to Excel, though with a limited feature set compared to desktop spreadsheet applications."},
-    {"name": "Microsoft Project", "notes": "Microsoft Project was the enterprise standard for project management, offering advanced scheduling, resource management, and Gantt charts. Smartsheet positioned itself as combining some of the functionality of Microsoft Project with the familiarity of Excel."},
-    {"name": "Basecamp", "notes": "Basecamp was a popular web-based project management tool focused on task tracking, file sharing, and team communication. In August 2015, Basecamp claimed to have signed more than 5,000 new companies in one week, demonstrating strong market momentum."},
-    {"name": "Asana", "notes": "Asana launched in 2008 and was a well-rounded tool for traditional projects of medium complexity. Asana priced on number of members and focused on task and project tracking with an intuitive UI for team collaboration."},
-    {"name": "Trello", "notes": "Trello (developed by Atlassian) was a lightweight Kanban-based project management tool that was very easy to set up and use. It was favored by startups, small teams, and temporary projects for its simple, visual board interface."},
-    {"name": "Wrike", "notes": "Wrike was a cloud-based project management software that allowed teams to organize their projects online on a single page, enabling team leaders to follow up on projects in real time. It competed directly with Smartsheet in the midweight category."},
-    {"name": "Atlassian Jira", "notes": "Jira was Atlassian's project and issue tracking tool, primarily designed for software development teams. It was a heavyweight tool used when elaborate processes and customization were needed, particularly for agile development workflows."},
-    {"name": "Atlassian Confluence", "notes": "Confluence was Atlassian's web-based corporate wiki for creating, organizing, and sharing documents and content. It complemented Jira and served as a knowledge management and collaboration platform for teams."},
-    {"name": "SharePoint", "notes": "Microsoft SharePoint offered document management, collaboration, and intranet capabilities. Smartsheet combined some of the functionality of SharePoint with Excel and Project to create a unified work management platform."}
+    {
+      "name": "Microsoft Excel",
+      "notes": "Microsoft Excel remained the dominant spreadsheet tool for data organization and analysis. While Excel lacked native cloud collaboration features at this time, it was the familiar baseline that Smartsheet sought to extend with project management and real-time collaboration capabilities."
+    },
+    {
+      "name": "Google Sheets",
+      "notes": "Google Sheets debuted in 2006 as a free browser-based spreadsheet app with cloud collaboration built in. It offered a more user-friendly and accessible alternative to Excel, though with a limited feature set compared to desktop spreadsheet applications."
+    },
+    {
+      "name": "Microsoft Project",
+      "notes": "Microsoft Project was the enterprise standard for project management, offering advanced scheduling, resource management, and Gantt charts. Smartsheet positioned itself as combining some of the functionality of Microsoft Project with the familiarity of Excel."
+    },
+    {
+      "name": "Basecamp",
+      "notes": "Basecamp was a popular web-based project management tool focused on task tracking, file sharing, and team communication. In August 2015, Basecamp claimed to have signed more than 5,000 new companies in one week, demonstrating strong market momentum."
+    },
+    {
+      "name": "Asana",
+      "notes": "Asana launched in 2008 and was a well-rounded tool for traditional projects of medium complexity. Asana priced on number of members and focused on task and project tracking with an intuitive UI for team collaboration."
+    },
+    {
+      "name": "Trello",
+      "notes": "Trello (developed by Atlassian) was a lightweight Kanban-based project management tool that was very easy to set up and use. It was favored by startups, small teams, and temporary projects for its simple, visual board interface."
+    },
+    {
+      "name": "Wrike",
+      "notes": "Wrike was a cloud-based project management software that allowed teams to organize their projects online on a single page, enabling team leaders to follow up on projects in real time. It competed directly with Smartsheet in the midweight category."
+    },
+    {
+      "name": "Atlassian Jira",
+      "notes": "Jira was Atlassian's project and issue tracking tool, primarily designed for software development teams. It was a heavyweight tool used when elaborate processes and customization were needed, particularly for agile development workflows."
+    },
+    {
+      "name": "Atlassian Confluence",
+      "notes": "Confluence was Atlassian's web-based corporate wiki for creating, organizing, and sharing documents and content. It complemented Jira and served as a knowledge management and collaboration platform for teams."
+    },
+    {
+      "name": "SharePoint",
+      "notes": "Microsoft SharePoint offered document management, collaboration, and intranet capabilities. Smartsheet combined some of the functionality of SharePoint with Excel and Project to create a unified work management platform."
+    }
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/Smartsheet",

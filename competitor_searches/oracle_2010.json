@@ -5,13 +5,33 @@
   "search_query": "Oracle competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "SQL Server, Azure, Dynamics 365 competitor"},
-    {"name": "SAP", "notes": "Ordered to pay Oracle $1.3B for copyright infringement Nov 2010"},
-    {"name": "IBM", "notes": "Enterprise technology and cloud computing competitor"},
-    {"name": "Salesforce", "notes": "CRM leader with 21.9% market share vs Oracle's 5%"},
-    {"name": "Amazon (AWS)", "notes": "Cloud computing competitor launched 2006"},
-    {"name": "Workday", "notes": "HCM and ERP competitor founded 2005"}
+    {
+      "name": "Microsoft",
+      "notes": "SQL Server, Azure, Dynamics 365 competitor"
+    },
+    {
+      "name": "SAP",
+      "notes": "Ordered to pay Oracle $1.3B for copyright infringement Nov 2010"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise technology and cloud computing competitor"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "CRM leader with 21.9% market share vs Oracle's 5%"
+    },
+    {
+      "name": "Amazon (AWS)",
+      "notes": "Cloud computing competitor launched 2006"
+    },
+    {
+      "name": "Workday",
+      "notes": "HCM and ERP competitor founded 2005"
+    }
   ],
-  "context": "Transformational year: Oracle acquired Sun Microsystems for $7B+, becoming software and hardware company. SAP ordered to pay $1.3B for copyright infringement.",
-  "sources": ["https://en.wikipedia.org/wiki/Oracle_Corporation"]
+  "context": "Oracle Corporation is a enterprise software and cloud infrastructure company focused on databases, enterprise applications, and cloud infrastructure. Acquired Sun Microsystems. Hardware and Java.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oracle_Corporation"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Reddit competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Reddit went public in March 2024. The community platform has 90M+ daily active users across 100K+ active communities, with AI data licensing as a new revenue stream.",
+  "context": "Reddit, Inc. is a social news and community platform focused on community forums, content aggregation, and advertising. IPO at $6.4B valuation. Data licensing for AI training.",
   "competitors": [
-    {"name": "Discord", "notes": "Community platform with real-time chat and servers"},
-    {"name": "Twitter/X", "notes": "Real-time discussion and news platform"},
-    {"name": "Facebook Groups", "notes": "Community features within Meta ecosystem"},
-    {"name": "Quora", "notes": "Q&A platform competing for knowledge sharing"},
-    {"name": "Stack Overflow", "notes": "Technical Q&A community"},
-    {"name": "YouTube", "notes": "Video discussions and community features"},
-    {"name": "TikTok", "notes": "Comments and duets create community dynamics"},
-    {"name": "Lemmy/Mastodon", "notes": "Federated alternatives to centralized platforms"}
+    {
+      "name": "Discord",
+      "notes": "Community platform with real-time chat and servers"
+    },
+    {
+      "name": "Twitter/X",
+      "notes": "Real-time discussion and news platform"
+    },
+    {
+      "name": "Facebook Groups",
+      "notes": "Community features within Meta ecosystem"
+    },
+    {
+      "name": "Quora",
+      "notes": "Q&A platform competing for knowledge sharing"
+    },
+    {
+      "name": "Stack Overflow",
+      "notes": "Technical Q&A community"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video discussions and community features"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Comments and duets create community dynamics"
+    },
+    {
+      "name": "Lemmy/Mastodon",
+      "notes": "Federated alternatives to centralized platforms"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

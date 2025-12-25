@@ -5,16 +5,46 @@
   "search_query": "HubSpot CRM competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Salesforce", "notes": "Market leader with 22.74% CRM market share"},
-    {"name": "Apollo.io", "notes": "Sales intelligence and engagement platform; top alternative per G2"},
-    {"name": "Freshsales", "notes": "User-friendly CRM with AI-powered features"},
-    {"name": "ActiveCampaign", "notes": "CRM platform with extensive overlap to HubSpot"},
-    {"name": "Pipedrive", "notes": "Sales pipeline management CRM for SMBs"},
-    {"name": "Zoho CRM", "notes": "Affordable alternative with comprehensive features"},
-    {"name": "monday.com", "notes": "Work management platform expanding into CRM space"},
-    {"name": "EngageBay", "notes": "Budget-friendly all-in-one platform for small businesses"},
-    {"name": "Insightly", "notes": "CRM for seamless lead management"}
+    {
+      "name": "Salesforce",
+      "notes": "Market leader with 22.74% CRM market share"
+    },
+    {
+      "name": "Apollo.io",
+      "notes": "Sales intelligence and engagement platform; top alternative per G2"
+    },
+    {
+      "name": "Freshsales",
+      "notes": "User-friendly CRM with AI-powered features"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "CRM platform with extensive overlap to HubSpot"
+    },
+    {
+      "name": "Pipedrive",
+      "notes": "Sales pipeline management CRM for SMBs"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Affordable alternative with comprehensive features"
+    },
+    {
+      "name": "monday.com",
+      "notes": "Work management platform expanding into CRM space"
+    },
+    {
+      "name": "EngageBay",
+      "notes": "Budget-friendly all-in-one platform for small businesses"
+    },
+    {
+      "name": "Insightly",
+      "notes": "CRM for seamless lead management"
+    }
   ],
-  "context": "In 2024, HubSpot holds a 5.24% market share in the CRM platforms market. The competitive landscape is highly crowded with differentiation based on pricing, features, and target market.",
-  "sources": ["https://www.bigcontacts.com/blog/hubspot-alternatives/", "https://6sense.com/tech/crm-platforms/hubspot-crm-market-share"]
+  "context": "HubSpot, Inc. is a CRM and inbound marketing platform focused on marketing, sales, customer service, and CMS software. AI-powered CRM features. Customer platform vision.",
+  "sources": [
+    "https://www.bigcontacts.com/blog/hubspot-alternatives/",
+    "https://6sense.com/tech/crm-platforms/hubspot-crm-market-share"
+  ]
 }

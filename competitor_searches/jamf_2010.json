@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Jamf competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Jamf specialized in Apple device management for enterprises. iPhone and iPad adoption in enterprise was growing. Mobile device management (MDM) was emerging market.",
+  "context": "Jamf Holding Corp. is a Apple device management company focused on Apple enterprise management, security, and identity. iPhone and iPad enterprise management growing.",
   "competitors": [
-    {"name": "Microsoft SCCM", "notes": "System Center Configuration Manager for Windows"},
-    {"name": "LANDesk", "notes": "Endpoint management solutions"},
-    {"name": "MobileIron", "notes": "Mobile device management platform"},
-    {"name": "AirWatch", "notes": "Enterprise mobility management (acquired by VMware 2014)"},
-    {"name": "Good Technology", "notes": "Mobile security and management"},
-    {"name": "Absolute Software", "notes": "Device tracking and management"},
-    {"name": "Casper Suite", "notes": "Jamf's own product, Apple-focused MDM"}
+    {
+      "name": "Microsoft SCCM",
+      "notes": "System Center Configuration Manager for Windows"
+    },
+    {
+      "name": "LANDesk",
+      "notes": "Endpoint management solutions"
+    },
+    {
+      "name": "MobileIron",
+      "notes": "Mobile device management platform"
+    },
+    {
+      "name": "AirWatch",
+      "notes": "Enterprise mobility management (acquired by VMware 2014)"
+    },
+    {
+      "name": "Good Technology",
+      "notes": "Mobile security and management"
+    },
+    {
+      "name": "Absolute Software",
+      "notes": "Device tracking and management"
+    },
+    {
+      "name": "Casper Suite",
+      "notes": "Jamf's own product, Apple-focused MDM"
+    }
   ],
-  "sources": ["Apple enterprise management analysis"]
+  "sources": [
+    "Apple enterprise management analysis"
+  ]
 }

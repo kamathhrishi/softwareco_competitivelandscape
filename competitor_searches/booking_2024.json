@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Booking Holdings competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Booking Holdings is the largest online travel company by revenue with Booking.com, Priceline, Kayak, and OpenTable. The company expanded connected trip vision integrating flights, hotels, and cars.",
+  "context": "Booking Holdings Inc. is a online travel and reservation platform focused on Booking.com, Priceline, Kayak, and OpenTable. Travel recovery strong. AI-powered trip planning. Competing with Airbnb, Expedia.",
   "competitors": [
-    {"name": "Expedia Group", "notes": "Major OTA competitor with Expedia, Vrbo, Hotels.com"},
-    {"name": "Airbnb", "notes": "Leading alternative accommodations with 7M+ listings"},
-    {"name": "Google Travel", "notes": "Travel search and direct booking threatening OTA model"},
-    {"name": "TripAdvisor", "notes": "Reviews platform with Viator experiences business"},
-    {"name": "Trip.com Group", "notes": "Chinese OTA expanding globally"},
-    {"name": "Hopper", "notes": "Mobile travel app with fintech products"},
-    {"name": "Hotel Direct Channels", "notes": "Hotels driving direct bookings with loyalty and best rate guarantees"},
-    {"name": "Tripadvisor", "notes": "Travel guidance platform with booking capabilities"}
+    {
+      "name": "Expedia Group",
+      "notes": "Major OTA competitor with Expedia, Vrbo, Hotels.com"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Leading alternative accommodations with 7M+ listings"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Travel search and direct booking threatening OTA model"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Reviews platform with Viator experiences business"
+    },
+    {
+      "name": "Trip.com Group",
+      "notes": "Chinese OTA expanding globally"
+    },
+    {
+      "name": "Hopper",
+      "notes": "Mobile travel app with fintech products"
+    },
+    {
+      "name": "Hotel Direct Channels",
+      "notes": "Hotels driving direct bookings with loyalty and best rate guarantees"
+    },
+    {
+      "name": "Tripadvisor",
+      "notes": "Travel guidance platform with booking capabilities"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "PTC CAD PLM competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "CATIA and SOLIDWORKS CAD, ENOVIA PLM"},
-    {"name": "Siemens PLM Software", "notes": "NX CAD, Teamcenter PLM"},
-    {"name": "Autodesk", "notes": "AutoCAD, Inventor product design"},
-    {"name": "SAP PLM", "notes": "Enterprise PLM integration with SAP"},
-    {"name": "Oracle Agile PLM", "notes": "Product lifecycle management"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "CATIA and SOLIDWORKS CAD, ENOVIA PLM"
+    },
+    {
+      "name": "Siemens PLM Software",
+      "notes": "NX CAD, Teamcenter PLM"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "AutoCAD, Inventor product design"
+    },
+    {
+      "name": "SAP PLM",
+      "notes": "Enterprise PLM integration with SAP"
+    },
+    {
+      "name": "Oracle Agile PLM",
+      "notes": "Product lifecycle management"
+    }
   ],
-  "context": "In 2010, PTC competed with Pro/ENGINEER (later Creo) against CATIA and NX in high-end CAD. Windchill competed with Teamcenter and ENOVIA in PLM. The mid-market saw SOLIDWORKS and Inventor competition. PTC was transitioning from perpetual licensing toward subscription models. The market was maturing with focus on PLM integration across enterprise. SolidWorks (Dassault) dominated mid-market CAD.",
-  "sources": ["https://craft.co/ptc/competitors"]
+  "context": "PTC Inc. is a industrial software company focused on CAD, PLM, IoT, and augmented reality for manufacturing. IoT platform development. ThingWorx acquired.",
+  "sources": [
+    "https://craft.co/ptc/competitors"
+  ]
 }

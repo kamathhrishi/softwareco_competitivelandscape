@@ -5,15 +5,41 @@
   "search_query": "NVIDIA competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD", "notes": "Closest competitor, big AI chip orders from Microsoft, Meta, OpenAI"},
-    {"name": "Intel", "notes": "Gaudi3 AI accelerator, ~$500M sales guidance"},
-    {"name": "Google (TPU)", "notes": "6th gen TPU, 4.7x more compute, 67% more efficient"},
-    {"name": "AWS (Trainium/Inferentia)", "notes": "Custom training and inference chips"},
-    {"name": "Microsoft (Maia 100)", "notes": "Custom AI accelerator for Azure"},
-    {"name": "Cerebras Systems", "notes": "Wafer-scale engine architecture"},
-    {"name": "Tenstorrent", "notes": "Raised $700M Dec 2024, backed by Jeff Bezos"},
-    {"name": "Broadcom", "notes": "Major supplier for hyperscaler custom chips"}
+    {
+      "name": "AMD",
+      "notes": "Closest competitor, big AI chip orders from Microsoft, Meta, OpenAI"
+    },
+    {
+      "name": "Intel",
+      "notes": "Gaudi3 AI accelerator, ~$500M sales guidance"
+    },
+    {
+      "name": "Google (TPU)",
+      "notes": "6th gen TPU, 4.7x more compute, 67% more efficient"
+    },
+    {
+      "name": "AWS (Trainium/Inferentia)",
+      "notes": "Custom training and inference chips"
+    },
+    {
+      "name": "Microsoft (Maia 100)",
+      "notes": "Custom AI accelerator for Azure"
+    },
+    {
+      "name": "Cerebras Systems",
+      "notes": "Wafer-scale engine architecture"
+    },
+    {
+      "name": "Tenstorrent",
+      "notes": "Raised $700M Dec 2024, backed by Jeff Bezos"
+    },
+    {
+      "name": "Broadcom",
+      "notes": "Major supplier for hyperscaler custom chips"
+    }
   ],
-  "context": "NVIDIA ~90% AI accelerator market share. Revenue $96.3B (194.6% YoY), 78% from data centers. Hyperscalers developing custom chips to reduce dependency.",
-  "sources": ["https://research.aimultiple.com/ai-chip-makers/"]
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. AI infrastructure leader. $2T+ valuation. Blackwell launch.",
+  "sources": [
+    "https://research.aimultiple.com/ai-chip-makers/"
+  ]
 }

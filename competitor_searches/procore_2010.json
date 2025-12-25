@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Procore competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Procore provided cloud-based construction management software. Construction industry was slowly adopting technology. Mobile apps becoming important for field workers.",
+  "context": "Procore Technologies, Inc. is a construction management software company focused on project management, financial management, and quality for construction. Cloud-based construction management. Mobile apps.",
   "competitors": [
-    {"name": "Oracle Primavera", "notes": "Enterprise project management for construction"},
-    {"name": "Autodesk", "notes": "Design software expanding to construction management"},
-    {"name": "CMiC", "notes": "Construction ERP and project management"},
-    {"name": "Viewpoint", "notes": "Construction software solutions"},
-    {"name": "Sage Construction", "notes": "Construction accounting and management"},
-    {"name": "PlanGrid", "notes": "Construction productivity software (later acquired by Autodesk)"},
-    {"name": "BuilderTREND", "notes": "Construction project management"}
+    {
+      "name": "Oracle Primavera",
+      "notes": "Enterprise project management for construction"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Design software expanding to construction management"
+    },
+    {
+      "name": "CMiC",
+      "notes": "Construction ERP and project management"
+    },
+    {
+      "name": "Viewpoint",
+      "notes": "Construction software solutions"
+    },
+    {
+      "name": "Sage Construction",
+      "notes": "Construction accounting and management"
+    },
+    {
+      "name": "PlanGrid",
+      "notes": "Construction productivity software (later acquired by Autodesk)"
+    },
+    {
+      "name": "BuilderTREND",
+      "notes": "Construction project management"
+    }
   ],
-  "sources": ["Construction technology analysis"]
+  "sources": [
+    "Construction technology analysis"
+  ]
 }

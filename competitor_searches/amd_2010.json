@@ -5,9 +5,19 @@
   "search_query": "AMD CPU GPU competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Intel", "notes": "Primary CPU competitor. Intel's Core series processors held significant lead in performance and efficiency. Intel's Core 2 Quads outperformed AMD's Phenom II"},
-    {"name": "NVIDIA", "notes": "Primary GPU competitor. Released GTX 480, GTX 470, GTX 465, and successful GTX 460 1GB. Unveiled DirectX 11 Fermi architecture in March 2010"}
+    {
+      "name": "Intel",
+      "notes": "Primary CPU competitor. Intel's Core series processors held significant lead in performance and efficiency. Intel's Core 2 Quads outperformed AMD's Phenom II"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Primary GPU competitor. Released GTX 480, GTX 470, GTX 465, and successful GTX 460 1GB. Unveiled DirectX 11 Fermi architecture in March 2010"
+    }
   ],
-  "context": "Around 2010, AMD experienced severe financial difficulties. In April 2010, AMD released the Phenom II Hexa-core (6-core) 'Thuban' processor. On August 30, 2010, AMD announced it would retire the ATI brand for graphics chipsets in favor of the AMD name.",
-  "sources": ["https://en.wikipedia.org/wiki/AMD", "https://wccftech.com/2010-gpu-market-outlook/", "https://pcviewed.com/nvidia-vs-amd-discrete-gpu-market-share/"]
+  "context": "Advanced Micro Devices, Inc. is a semiconductor company designing CPUs, GPUs, and data center chips focused on processors for PCs, gaming, data centers, and embedded systems. Struggling financially while Intel dominated. Spun off manufacturing as GlobalFoundries.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/AMD",
+    "https://wccftech.com/2010-gpu-market-outlook/",
+    "https://pcviewed.com/nvidia-vs-amd-discrete-gpu-market-share/"
+  ]
 }

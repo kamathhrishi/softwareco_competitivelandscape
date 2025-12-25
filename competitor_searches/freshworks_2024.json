@@ -5,16 +5,46 @@
   "search_query": "Freshworks competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "HubSpot", "notes": "AI-based CRM with comprehensive marketing and service solutions"},
-    {"name": "Zendesk", "notes": "Multi-channel support for retail, financial services, education, healthcare"},
-    {"name": "Zoho", "notes": "60,000+ clients, cloud-based tools with AI assistant Zia"},
-    {"name": "Salesforce", "notes": "Leading CRM platform with Service Cloud"},
-    {"name": "Dialpad", "notes": "AI-powered communications platform"},
-    {"name": "Uniphore", "notes": "Top competitor in conversational AI and automation"},
-    {"name": "Forethought", "notes": "Customer support automation with generative AI"},
-    {"name": "Intercom", "notes": "AI customer service company"},
-    {"name": "Pipedrive", "notes": "CRM focused on activity-based selling and pipeline management"}
+    {
+      "name": "HubSpot",
+      "notes": "AI-based CRM with comprehensive marketing and service solutions"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Multi-channel support for retail, financial services, education, healthcare"
+    },
+    {
+      "name": "Zoho",
+      "notes": "60,000+ clients, cloud-based tools with AI assistant Zia"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Leading CRM platform with Service Cloud"
+    },
+    {
+      "name": "Dialpad",
+      "notes": "AI-powered communications platform"
+    },
+    {
+      "name": "Uniphore",
+      "notes": "Top competitor in conversational AI and automation"
+    },
+    {
+      "name": "Forethought",
+      "notes": "Customer support automation with generative AI"
+    },
+    {
+      "name": "Intercom",
+      "notes": "AI customer service company"
+    },
+    {
+      "name": "Pipedrive",
+      "notes": "CRM focused on activity-based selling and pipeline management"
+    }
   ],
-  "context": "As of 2024, Freshworks ranks 6th among 7,759 competitors in business software. Competitive landscape characterized by dominance of major platforms (Salesforce, HubSpot, Zendesk), rise of AI-native competitors (Forethought, Uniphore), and specialized solutions. Market shifted toward AI-powered automation and unified platforms.",
-  "sources": ["https://tracxn.com/d/companies/freshworks/competitors", "https://pitchgrade.com/companies/freshworks-inc"]
+  "context": "Freshworks Inc. is a SaaS customer and employee engagement software focused on CRM, IT service management, and customer support software. Freddy AI across products. SMB and mid-market focus.",
+  "sources": [
+    "https://tracxn.com/d/companies/freshworks/competitors",
+    "https://pitchgrade.com/companies/freshworks-inc"
+  ]
 }

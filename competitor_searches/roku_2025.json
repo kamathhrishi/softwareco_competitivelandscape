@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Roku competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Roku is the leading TV streaming platform in the US with 85M+ active accounts. The Roku Channel is a top 5 streaming app, and Roku OS powers millions of TVs.",
+  "context": "Roku, Inc. is a streaming platform company focused on streaming devices, smart TV OS, and advertising. Streaming OS leader. Competing with Amazon Fire TV, Google.",
   "competitors": [
-    {"name": "Amazon Fire TV", "notes": "Major streaming platform with Prime Video integration"},
-    {"name": "Google TV", "notes": "Android-based platform expanding on smart TVs"},
-    {"name": "Apple TV", "notes": "Premium device with tvOS and Apple services"},
-    {"name": "Samsung Tizen", "notes": "Largest smart TV platform globally"},
-    {"name": "LG webOS", "notes": "Smart TV OS with growing ad business"},
-    {"name": "Vizio", "notes": "Smart TV and FAST platform"},
-    {"name": "Tubi", "notes": "Free ad-supported streaming on all platforms"},
-    {"name": "Comcast Xumo", "notes": "Free streaming and smart TV platform"}
+    {
+      "name": "Amazon Fire TV",
+      "notes": "Major streaming platform with Prime Video integration"
+    },
+    {
+      "name": "Google TV",
+      "notes": "Android-based platform expanding on smart TVs"
+    },
+    {
+      "name": "Apple TV",
+      "notes": "Premium device with tvOS and Apple services"
+    },
+    {
+      "name": "Samsung Tizen",
+      "notes": "Largest smart TV platform globally"
+    },
+    {
+      "name": "LG webOS",
+      "notes": "Smart TV OS with growing ad business"
+    },
+    {
+      "name": "Vizio",
+      "notes": "Smart TV and FAST platform"
+    },
+    {
+      "name": "Tubi",
+      "notes": "Free ad-supported streaming on all platforms"
+    },
+    {
+      "name": "Comcast Xumo",
+      "notes": "Free streaming and smart TV platform"
+    }
   ],
-  "sources": ["Connected TV industry analysis"]
+  "sources": [
+    "Connected TV industry analysis"
+  ]
 }

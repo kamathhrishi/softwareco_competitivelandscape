@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Zillow competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Zillow exited iBuying (Zillow Offers) and refocused on its core media and mortgage businesses. The housing transaction platform vision continues with rentals, mortgages, and agent services.",
+  "context": "Zillow Group, Inc. is a real estate technology company focused on real estate marketplace, rentals, and home services. Exited iBuying. Focus on marketplace and software.",
   "competitors": [
-    {"name": "Realtor.com", "notes": "News Corp-owned portal with MLS data"},
-    {"name": "Redfin", "notes": "Tech-powered brokerage with discount model"},
-    {"name": "CoStar/Homes.com", "notes": "Aggressively expanding into residential real estate"},
-    {"name": "Opendoor", "notes": "Leading iBuyer after Zillow exit"},
-    {"name": "Offerpad", "notes": "iBuyer competitor"},
-    {"name": "Rocket Mortgage", "notes": "Mortgage competitor to Zillow Home Loans"},
-    {"name": "Apartments.com", "notes": "CoStar's rental platform"},
-    {"name": "Traditional Brokerages", "notes": "Compass, eXp, Keller Williams agents"}
+    {
+      "name": "Realtor.com",
+      "notes": "News Corp-owned portal with MLS data"
+    },
+    {
+      "name": "Redfin",
+      "notes": "Tech-powered brokerage with discount model"
+    },
+    {
+      "name": "CoStar/Homes.com",
+      "notes": "Aggressively expanding into residential real estate"
+    },
+    {
+      "name": "Opendoor",
+      "notes": "Leading iBuyer after Zillow exit"
+    },
+    {
+      "name": "Offerpad",
+      "notes": "iBuyer competitor"
+    },
+    {
+      "name": "Rocket Mortgage",
+      "notes": "Mortgage competitor to Zillow Home Loans"
+    },
+    {
+      "name": "Apartments.com",
+      "notes": "CoStar's rental platform"
+    },
+    {
+      "name": "Traditional Brokerages",
+      "notes": "Compass, eXp, Keller Williams agents"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

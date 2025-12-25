@@ -5,18 +5,55 @@
   "search_query": "IBM competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon Web Services (AWS)", "notes": "Leading cloud infrastructure provider, major competitor in IaaS"},
-    {"name": "Microsoft", "notes": "Strong competitor in cloud (Azure), enterprise software, and AI"},
-    {"name": "Google", "notes": "Competitor in cloud computing, AI, and analytics"},
-    {"name": "Accenture", "notes": "Leading IT consulting, strategy, and digital transformation competitor"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Major IT services and consulting competitor"},
-    {"name": "Hewlett Packard Enterprise (HPE)", "notes": "Newly formed (2015) from HP split, focused on servers, storage, networking"},
-    {"name": "Dell Technologies", "notes": "Competitor in hardware infrastructure, servers, and storage"},
-    {"name": "Oracle", "notes": "Competitor in enterprise software, databases, and cloud"},
-    {"name": "SAP", "notes": "Major competitor in enterprise software"},
-    {"name": "Infosys", "notes": "Indian IT services and consulting competitor"},
-    {"name": "Cisco Systems", "notes": "Competitor in networking and cybersecurity"}
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Leading cloud infrastructure provider, major competitor in IaaS"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Strong competitor in cloud (Azure), enterprise software, and AI"
+    },
+    {
+      "name": "Google",
+      "notes": "Competitor in cloud computing, AI, and analytics"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Leading IT consulting, strategy, and digital transformation competitor"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Major IT services and consulting competitor"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Newly formed (2015) from HP split, focused on servers, storage, networking"
+    },
+    {
+      "name": "Dell Technologies",
+      "notes": "Competitor in hardware infrastructure, servers, and storage"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise software, databases, and cloud"
+    },
+    {
+      "name": "SAP",
+      "notes": "Major competitor in enterprise software"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Indian IT services and consulting competitor"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in networking and cybersecurity"
+    }
   ],
-  "context": "In 2015, IBM's Global Technological Services (GTS) was the 2nd most profitable segment, accounting for 41% of revenue. HPE was created in 2015 from the HP split. IBM Watson was a key differentiator in AI.",
-  "sources": ["https://www.owler.com/company/ibm", "https://emvigotech.com/blog/top-ibm-competitors/", "https://fourweekmba.com/ibm-competitors/"]
+  "context": "International Business Machines Corporation is a technology and consulting company focused on hybrid cloud, AI, enterprise software, and consulting. Red Hat acquisition announced. Hybrid cloud strategy.",
+  "sources": [
+    "https://www.owler.com/company/ibm",
+    "https://emvigotech.com/blog/top-ibm-competitors/",
+    "https://fourweekmba.com/ibm-competitors/"
+  ]
 }

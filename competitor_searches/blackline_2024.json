@@ -5,19 +5,58 @@
   "search_query": "BlackLine competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Trintech", "notes": "Top competitor with ~15% market share, Adra suite"},
-    {"name": "Workiva", "notes": "Generates $65.8M more revenue than BlackLine"},
-    {"name": "FloQast", "notes": "Raised $175M+, targets mid-market"},
-    {"name": "OneStream", "notes": "Comprehensive financial close and consolidation"},
-    {"name": "Vena", "notes": "Financial planning and close automation"},
-    {"name": "Oracle Cloud EPM", "notes": "Integrated financial management"},
-    {"name": "SAP", "notes": "Major ERP with financial close"},
-    {"name": "Microsoft Dynamics", "notes": "ERP financial management"},
-    {"name": "NetSuite Advanced Financial Close", "notes": "Cloud ERP financial close"},
-    {"name": "Redwood Finance Automation", "notes": "Superior SAP/Excel integration"},
-    {"name": "Planful", "notes": "Financial planning and close management"},
-    {"name": "Numeric", "notes": "Modern financial close automation"}
+    {
+      "name": "Trintech",
+      "notes": "Top competitor with ~15% market share, Adra suite"
+    },
+    {
+      "name": "Workiva",
+      "notes": "Generates $65.8M more revenue than BlackLine"
+    },
+    {
+      "name": "FloQast",
+      "notes": "Raised $175M+, targets mid-market"
+    },
+    {
+      "name": "OneStream",
+      "notes": "Comprehensive financial close and consolidation"
+    },
+    {
+      "name": "Vena",
+      "notes": "Financial planning and close automation"
+    },
+    {
+      "name": "Oracle Cloud EPM",
+      "notes": "Integrated financial management"
+    },
+    {
+      "name": "SAP",
+      "notes": "Major ERP with financial close"
+    },
+    {
+      "name": "Microsoft Dynamics",
+      "notes": "ERP financial management"
+    },
+    {
+      "name": "NetSuite Advanced Financial Close",
+      "notes": "Cloud ERP financial close"
+    },
+    {
+      "name": "Redwood Finance Automation",
+      "notes": "Superior SAP/Excel integration"
+    },
+    {
+      "name": "Planful",
+      "notes": "Financial planning and close management"
+    },
+    {
+      "name": "Numeric",
+      "notes": "Modern financial close automation"
+    }
   ],
-  "context": "By 2024, BlackLine (NASDAQ: BL, IPO 2016) has 1,810 employees, ranked 2nd among top 10 competitors. Market matured with pure-play vendors, ERP vendors, and cloud-native platforms. FloQast raised $175M+.",
-  "sources": ["https://www.numeric.io/blog/blackline-competitors-top-blackline-alternatives", "https://www.gartner.com/reviews/market/cloud-financial-close-solutions/vendor/blackline/product/blackline/alternatives"]
+  "context": "BlackLine, Inc. is a cloud financial operations platform focused on accounting automation, financial close management, and intercompany solutions. AI for financial operations. Expanded SAP partnership.",
+  "sources": [
+    "https://www.numeric.io/blog/blackline-competitors-top-blackline-alternatives",
+    "https://www.gartner.com/reviews/market/cloud-financial-close-solutions/vendor/blackline/product/blackline/alternatives"
+  ]
 }

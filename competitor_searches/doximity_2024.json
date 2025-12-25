@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Doximity competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Doximity is the dominant professional network for US physicians with 80%+ market share. The company generates revenue from pharmaceutical marketing, telehealth, and physician recruitment.",
+  "context": "Doximity, Inc. is a digital platform for medical professionals focused on physician network, telehealth, and healthcare professional tools. AI tools for healthcare professionals. Hiring solutions.",
   "competitors": [
-    {"name": "LinkedIn", "notes": "Microsoft's professional network used by some physicians"},
-    {"name": "Sermo", "notes": "Physician network for peer discussions"},
-    {"name": "Medscape", "notes": "Medical news, CME, and drug information"},
-    {"name": "UpToDate", "notes": "Clinical decision support used by physicians"},
-    {"name": "Definitive Healthcare", "notes": "Healthcare commercial intelligence"},
-    {"name": "Veeva (Veeva CRM)", "notes": "Pharma CRM for physician engagement"},
-    {"name": "IQVIA", "notes": "Healthcare data and pharma services"},
-    {"name": "ZocDoc", "notes": "Patient-facing but competes for physician attention"}
+    {
+      "name": "LinkedIn",
+      "notes": "Microsoft's professional network used by some physicians"
+    },
+    {
+      "name": "Sermo",
+      "notes": "Physician network for peer discussions"
+    },
+    {
+      "name": "Medscape",
+      "notes": "Medical news, CME, and drug information"
+    },
+    {
+      "name": "UpToDate",
+      "notes": "Clinical decision support used by physicians"
+    },
+    {
+      "name": "Definitive Healthcare",
+      "notes": "Healthcare commercial intelligence"
+    },
+    {
+      "name": "Veeva (Veeva CRM)",
+      "notes": "Pharma CRM for physician engagement"
+    },
+    {
+      "name": "IQVIA",
+      "notes": "Healthcare data and pharma services"
+    },
+    {
+      "name": "ZocDoc",
+      "notes": "Patient-facing but competes for physician attention"
+    }
   ],
-  "sources": ["Healthcare technology analysis"]
+  "sources": [
+    "Healthcare technology analysis"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Coupang competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Coupang achieved profitability and acquired luxury marketplace Farfetch. The company maintained dominant position in South Korea while expanding Coupang Eats and streaming services.",
+  "context": "Coupang, Inc. is a South Korean e-commerce company focused on online retail, rocket delivery, and streaming in Korea. Profitability milestone. Taiwan expansion. Coupang Play streaming.",
   "competitors": [
-    {"name": "Naver", "notes": "Korean internet giant with strong e-commerce"},
-    {"name": "SSG.com", "notes": "Shinsegae retail group's online platform"},
-    {"name": "11st", "notes": "Major Korean marketplace"},
-    {"name": "Amazon Korea", "notes": "Growing presence in Korean market"},
-    {"name": "AliExpress", "notes": "Chinese cross-border competitor"},
-    {"name": "Baemin", "notes": "Delivery Hero's Korean food delivery"},
-    {"name": "Temu", "notes": "Ultra-discount marketplace entering Korea"},
-    {"name": "WeMakePrice", "notes": "Korean social commerce platform"}
+    {
+      "name": "Naver",
+      "notes": "Korean internet giant with strong e-commerce"
+    },
+    {
+      "name": "SSG.com",
+      "notes": "Shinsegae retail group's online platform"
+    },
+    {
+      "name": "11st",
+      "notes": "Major Korean marketplace"
+    },
+    {
+      "name": "Amazon Korea",
+      "notes": "Growing presence in Korean market"
+    },
+    {
+      "name": "AliExpress",
+      "notes": "Chinese cross-border competitor"
+    },
+    {
+      "name": "Baemin",
+      "notes": "Delivery Hero's Korean food delivery"
+    },
+    {
+      "name": "Temu",
+      "notes": "Ultra-discount marketplace entering Korea"
+    },
+    {
+      "name": "WeMakePrice",
+      "notes": "Korean social commerce platform"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

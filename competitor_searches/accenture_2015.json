@@ -4,25 +4,76 @@
   "year": 2015,
   "search_query": "Accenture competitors 2015",
   "search_date": "2025-12-24",
-  "context": "Digital transformation became the dominant theme in 2015 as companies accelerated cloud migration, mobile strategies, and analytics initiatives. The consulting market saw increased competition from both traditional IT services firms and emerging digital agencies. Accenture and competitors were investing heavily in acquiring digital capabilities and building cloud practices.",
+  "context": "Accenture is a global professional services and consulting firm focused on IT consulting, strategy, digital transformation, and technology services. Major push into digital transformation, cloud, and analytics services. Acquired many digital agencies.",
   "competitors": [
-    {"name": "IBM Consulting", "notes": "Major competitor with focus on hybrid cloud and cognitive computing"},
-    {"name": "Deloitte Digital", "notes": "Rapidly growing digital consulting practice within Deloitte"},
-    {"name": "PricewaterhouseCoopers (PwC)", "notes": "Expanding digital and technology consulting services"},
-    {"name": "KPMG", "notes": "Growing technology and digital consulting capabilities"},
-    {"name": "Ernst & Young (EY)", "notes": "Strong focus on digital transformation and advisory services"},
-    {"name": "Capgemini", "notes": "Leading European IT services firm with digital and cloud focus"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Largest Indian IT services firm with digital services growth"},
-    {"name": "Infosys", "notes": "Major Indian IT services competitor investing in digital transformation"},
-    {"name": "Wipro", "notes": "Indian IT services firm expanding digital and consulting offerings"},
-    {"name": "Cognizant", "notes": "Fast-growing IT services firm with strong digital practice"},
-    {"name": "HCL Technologies", "notes": "Indian IT services provider with digital transformation services"},
-    {"name": "DXC Technology", "notes": "Formed from CSC and HP Enterprise Services merger"},
-    {"name": "McKinsey & Company", "notes": "Premier strategy firm expanding digital capabilities"},
-    {"name": "Boston Consulting Group (BCG)", "notes": "Strategy firm with growing digital consulting practice"},
-    {"name": "Bain & Company", "notes": "Top strategy firm with technology focus"},
-    {"name": "Oracle Consulting", "notes": "Cloud applications and technology consulting"},
-    {"name": "SAP Services", "notes": "Enterprise software implementation and consulting"}
+    {
+      "name": "IBM Consulting",
+      "notes": "Major competitor with focus on hybrid cloud and cognitive computing"
+    },
+    {
+      "name": "Deloitte Digital",
+      "notes": "Rapidly growing digital consulting practice within Deloitte"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC)",
+      "notes": "Expanding digital and technology consulting services"
+    },
+    {
+      "name": "KPMG",
+      "notes": "Growing technology and digital consulting capabilities"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "notes": "Strong focus on digital transformation and advisory services"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "Leading European IT services firm with digital and cloud focus"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Largest Indian IT services firm with digital services growth"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Major Indian IT services competitor investing in digital transformation"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services firm expanding digital and consulting offerings"
+    },
+    {
+      "name": "Cognizant",
+      "notes": "Fast-growing IT services firm with strong digital practice"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "Indian IT services provider with digital transformation services"
+    },
+    {
+      "name": "DXC Technology",
+      "notes": "Formed from CSC and HP Enterprise Services merger"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Premier strategy firm expanding digital capabilities"
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "notes": "Strategy firm with growing digital consulting practice"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Top strategy firm with technology focus"
+    },
+    {
+      "name": "Oracle Consulting",
+      "notes": "Cloud applications and technology consulting"
+    },
+    {
+      "name": "SAP Services",
+      "notes": "Enterprise software implementation and consulting"
+    }
   ],
   "sources": [
     "https://www.1840andco.com/blog/accenture-competitors",

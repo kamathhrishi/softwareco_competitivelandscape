@@ -5,12 +5,29 @@
   "search_query": "Apple iPhone competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "HTC", "notes": "HTC Desire was top handset of 2010, 'closest to iPhone killer'"},
-    {"name": "Samsung", "notes": "Galaxy S launched June 2010 alongside iPhone 4"},
-    {"name": "Nokia", "notes": "N8 was last major Symbian smartphone"},
-    {"name": "Google", "notes": "Android OS powering HTC and Samsung devices"},
-    {"name": "Microsoft", "notes": "Windows Phone 6.5 OS"}
+    {
+      "name": "HTC",
+      "notes": "HTC Desire was top handset of 2010, 'closest to iPhone killer'"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Galaxy S launched June 2010 alongside iPhone 4"
+    },
+    {
+      "name": "Nokia",
+      "notes": "N8 was last major Symbian smartphone"
+    },
+    {
+      "name": "Google",
+      "notes": "Android OS powering HTC and Samsung devices"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Windows Phone 6.5 OS"
+    }
   ],
-  "context": "iPhone 4 launched June 7, 2010 with retina display and FaceTime. Android rapidly gaining ground with HTC Desire and Samsung Galaxy S.",
-  "sources": ["https://www.stuff.tv/features/history-of-the-iphone-vs-world/"]
+  "context": "Apple Inc. is a consumer electronics, software, and services company focused on iPhone, Mac, iPad, wearables, and digital services ecosystem. iPhone and iPad revolutionized mobile. App Store ecosystem thriving. Became most valuable company.",
+  "sources": [
+    "https://www.stuff.tv/features/history-of-the-iphone-vs-world/"
+  ]
 }

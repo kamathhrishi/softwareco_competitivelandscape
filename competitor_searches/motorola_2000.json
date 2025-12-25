@@ -4,15 +4,38 @@
   "year": 2000,
   "search_query": "Motorola competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Motorola fell behind in digital cellular transition. Nokia had 30% market share, nearly twice Motorola's. Company was slow to adopt CDMA and TDMA standards. Began showing signs of recovery from sustained decline.",
+  "context": "Motorola Solutions, Inc. is a communications and analytics company focused on land mobile radio, public safety, and command center software. Mobile phone struggles vs Nokia. Began turnaround.",
   "competitors": [
-    {"name": "Nokia", "notes": "Market leader with 30% share, colorful consumer phones like 5110 and 3210"},
-    {"name": "Ericsson", "notes": "Strong in infrastructure, mobile unit losing money, later merged with Sony"},
-    {"name": "Samsung", "notes": "Growing South Korean electronics company"},
-    {"name": "Siemens", "notes": "German telecommunications equipment maker"},
-    {"name": "Alcatel", "notes": "French telecommunications company"},
-    {"name": "Qualcomm", "notes": "CDMA technology and chipsets"},
-    {"name": "LG Electronics", "notes": "South Korean consumer electronics company"}
+    {
+      "name": "Nokia",
+      "notes": "Market leader with 30% share, colorful consumer phones like 5110 and 3210"
+    },
+    {
+      "name": "Ericsson",
+      "notes": "Strong in infrastructure, mobile unit losing money, later merged with Sony"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Growing South Korean electronics company"
+    },
+    {
+      "name": "Siemens",
+      "notes": "German telecommunications equipment maker"
+    },
+    {
+      "name": "Alcatel",
+      "notes": "French telecommunications company"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "CDMA technology and chipsets"
+    },
+    {
+      "name": "LG Electronics",
+      "notes": "South Korean consumer electronics company"
+    }
   ],
-  "sources": ["Mobile phone industry analysis"]
+  "sources": [
+    "Mobile phone industry analysis"
+  ]
 }

@@ -5,19 +5,60 @@
   "search_query": "Domo competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft Power BI", "notes": "Dominant player with competitive $20/user pricing, extensive Microsoft ecosystem integration, easier setup than Domo"},
-    {"name": "Tableau", "notes": "Top alternative with advanced visualization capabilities, though can be expensive for large server deployments"},
-    {"name": "Looker (Google Cloud)", "notes": "Cloud-based tool with Looker Studio offering simple interface and minimal learning curve, backed by LookML semantic modeling"},
-    {"name": "ThoughtSpot", "notes": "AI-powered search analytics with higher G2 ratings than Domo in self-service category, intuitive UI"},
-    {"name": "Mode", "notes": "Strong competitor with intuitive SQL editor for analyzing large datasets and building interactive visualizations"},
-    {"name": "MicroStrategy", "notes": "Connects with multiple data sources, enables dashboard building and embedded analytics"},
-    {"name": "Amazon QuickSight", "notes": "Fast cloud-powered analytics service for building visualizations and ad-hoc analysis"},
-    {"name": "IBM Cognos Analytics", "notes": "Wide range of BI tools for monitoring events, creating reports, and analyzing data"},
-    {"name": "Qlik Sense", "notes": "Self-service analytics and data visualization platform, continued evolution in associative engine technology"},
-    {"name": "Sisense", "notes": "BI platform for complex data analytics and embedded analytics use cases"},
-    {"name": "Ajelix BI", "notes": "Emerging AI-powered BI alternative focused on data analysis"},
-    {"name": "Datapad", "notes": "Modern BI alternative with focus on mobile and simplified analytics"}
+    {
+      "name": "Microsoft Power BI",
+      "notes": "Dominant player with competitive $20/user pricing, extensive Microsoft ecosystem integration, easier setup than Domo"
+    },
+    {
+      "name": "Tableau",
+      "notes": "Top alternative with advanced visualization capabilities, though can be expensive for large server deployments"
+    },
+    {
+      "name": "Looker (Google Cloud)",
+      "notes": "Cloud-based tool with Looker Studio offering simple interface and minimal learning curve, backed by LookML semantic modeling"
+    },
+    {
+      "name": "ThoughtSpot",
+      "notes": "AI-powered search analytics with higher G2 ratings than Domo in self-service category, intuitive UI"
+    },
+    {
+      "name": "Mode",
+      "notes": "Strong competitor with intuitive SQL editor for analyzing large datasets and building interactive visualizations"
+    },
+    {
+      "name": "MicroStrategy",
+      "notes": "Connects with multiple data sources, enables dashboard building and embedded analytics"
+    },
+    {
+      "name": "Amazon QuickSight",
+      "notes": "Fast cloud-powered analytics service for building visualizations and ad-hoc analysis"
+    },
+    {
+      "name": "IBM Cognos Analytics",
+      "notes": "Wide range of BI tools for monitoring events, creating reports, and analyzing data"
+    },
+    {
+      "name": "Qlik Sense",
+      "notes": "Self-service analytics and data visualization platform, continued evolution in associative engine technology"
+    },
+    {
+      "name": "Sisense",
+      "notes": "BI platform for complex data analytics and embedded analytics use cases"
+    },
+    {
+      "name": "Ajelix BI",
+      "notes": "Emerging AI-powered BI alternative focused on data analysis"
+    },
+    {
+      "name": "Datapad",
+      "notes": "Modern BI alternative with focus on mobile and simplified analytics"
+    }
   ],
-  "context": "In 2024, Domo faces intense competition in a mature cloud BI market. Key competitive dynamics include: (1) Price pressure from Power BI's affordable pricing vs Domo's premium model, (2) AI-powered analytics emergence (ThoughtSpot, Ajelix), (3) Simplified/mobile-first solutions (Looker Studio, Datapad), (4) Performance issues with large datasets cited as pain point, (5) Limited customization compared to competitors. Users seek alternatives due to Domo's high pricing for SMBs, scalability cost concerns, and limited visualization capabilities.",
-  "sources": ["https://mode.com/blog/domo-competitors/", "https://ajelix.com/bi/best-domo-alternatives/", "https://www.peerspot.com/products/domo-alternatives-and-competitors", "https://datapad.io/blog/domo-alternatives"]
+  "context": "Domo, Inc. is a cloud-based business intelligence platform focused on data visualization, analytics, and business intelligence for enterprises. AI-powered analytics features. Competing with Tableau, Power BI.",
+  "sources": [
+    "https://mode.com/blog/domo-competitors/",
+    "https://ajelix.com/bi/best-domo-alternatives/",
+    "https://www.peerspot.com/products/domo-alternatives-and-competitors",
+    "https://datapad.io/blog/domo-alternatives"
+  ]
 }

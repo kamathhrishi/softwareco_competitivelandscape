@@ -5,13 +5,35 @@
   "search_query": "PTC competitors 2005",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "Autodesk", "notes": "Major competitor in CAD software with AutoCAD and other design tools"},
-    {"name": "Dassault Systèmes", "notes": "Competitor with CATIA for aerospace/automotive and SolidWorks for mid-market CAD/PLM"},
-    {"name": "Siemens PLM Software", "notes": "Competitor with NX for enterprise CAD and Teamcenter for PLM solutions"},
-    {"name": "UGS (Unigraphics)", "notes": "Major PLM competitor before being acquired by Siemens in 2007"},
-    {"name": "Pro/ENGINEER competitors", "notes": "Various lower-cost CAD vendors that emerged in the mid-1990s challenging PTC's market position"},
-    {"name": "MatrixOne", "notes": "PLM software competitor focused on product lifecycle management"}
+    {
+      "name": "Autodesk",
+      "notes": "Major competitor in CAD software with AutoCAD and other design tools"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "Competitor with CATIA for aerospace/automotive and SolidWorks for mid-market CAD/PLM"
+    },
+    {
+      "name": "Siemens PLM Software",
+      "notes": "Competitor with NX for enterprise CAD and Teamcenter for PLM solutions"
+    },
+    {
+      "name": "UGS (Unigraphics)",
+      "notes": "Major PLM competitor before being acquired by Siemens in 2007"
+    },
+    {
+      "name": "Pro/ENGINEER competitors",
+      "notes": "Various lower-cost CAD vendors that emerged in the mid-1990s challenging PTC's market position"
+    },
+    {
+      "name": "MatrixOne",
+      "notes": "PLM software competitor focused on product lifecycle management"
+    }
   ],
-  "context": "In 2005, PTC was a leader in the CAD/PLM software market with its flagship Pro/ENGINEER product. The company acquired Arbortext for technical publishing technology, expanding beyond pure CAD. PTC faced competition from established players like Autodesk and Dassault Systèmes, as well as Siemens' growing PLM business. The market was characterized by the 'Big Four' players (PTC, Autodesk, Dassault, Siemens) who continue to dominate today.",
-  "sources": ["https://en.wikipedia.org/wiki/PTC_(software_company)", "https://www.comparably.com/companies/ptc/competitors", "https://craft.co/ptc/competitors"]
+  "context": "PTC Inc. is a industrial software company focused on CAD, PLM, IoT, and augmented reality for manufacturing. Windchill PLM platform growth.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/PTC_(software_company)",
+    "https://www.comparably.com/companies/ptc/competitors",
+    "https://craft.co/ptc/competitors"
+  ]
 }

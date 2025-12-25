@@ -5,18 +5,55 @@
   "search_query": "nCino competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Temenos", "notes": "Global banking software leader with comprehensive cloud banking platform and loan origination solutions"},
-    {"name": "Finastra", "notes": "Major fintech provider offering Fusion Loan Origination and comprehensive banking software suite"},
-    {"name": "FIS", "notes": "Large banking technology provider with lending and core banking platforms"},
-    {"name": "Q2 Holdings", "notes": "Digital banking and lending platform provider for regional and community financial institutions"},
-    {"name": "Jack Henry & Associates", "notes": "Core banking and lending technology for community banks with cloud-based solutions"},
-    {"name": "Fiserv", "notes": "Financial services technology with lending, core banking, and digital solutions"},
-    {"name": "Blend Labs", "notes": "Digital lending platform focused on mortgage, consumer, and deposit account opening"},
-    {"name": "ICE Mortgage Technology (Encompass)", "notes": "Mortgage origination platform, part of Intercontinental Exchange"},
-    {"name": "Abrigo (formerly Sageworks)", "notes": "Lending and credit risk management software for community financial institutions"},
-    {"name": "Salesforce Financial Services Cloud", "notes": "CRM and banking platform, though nCino is built on Salesforce platform"},
-    {"name": "Mambu", "notes": "Cloud-native core banking platform competing in digital banking transformation"}
+    {
+      "name": "Temenos",
+      "notes": "Global banking software leader with comprehensive cloud banking platform and loan origination solutions"
+    },
+    {
+      "name": "Finastra",
+      "notes": "Major fintech provider offering Fusion Loan Origination and comprehensive banking software suite"
+    },
+    {
+      "name": "FIS",
+      "notes": "Large banking technology provider with lending and core banking platforms"
+    },
+    {
+      "name": "Q2 Holdings",
+      "notes": "Digital banking and lending platform provider for regional and community financial institutions"
+    },
+    {
+      "name": "Jack Henry & Associates",
+      "notes": "Core banking and lending technology for community banks with cloud-based solutions"
+    },
+    {
+      "name": "Fiserv",
+      "notes": "Financial services technology with lending, core banking, and digital solutions"
+    },
+    {
+      "name": "Blend Labs",
+      "notes": "Digital lending platform focused on mortgage, consumer, and deposit account opening"
+    },
+    {
+      "name": "ICE Mortgage Technology (Encompass)",
+      "notes": "Mortgage origination platform, part of Intercontinental Exchange"
+    },
+    {
+      "name": "Abrigo (formerly Sageworks)",
+      "notes": "Lending and credit risk management software for community financial institutions"
+    },
+    {
+      "name": "Salesforce Financial Services Cloud",
+      "notes": "CRM and banking platform, though nCino is built on Salesforce platform"
+    },
+    {
+      "name": "Mambu",
+      "notes": "Cloud-native core banking platform competing in digital banking transformation"
+    }
   ],
-  "context": "By 2024, nCino is an established public company (NASDAQ: NCNO) and a recognized leader in cloud banking software, particularly for commercial lending and relationship management. The competitive landscape has evolved with increased focus on digital transformation, AI-powered banking solutions, and comprehensive banking platforms. Traditional vendors like Temenos and Finastra have strengthened their cloud offerings, while digital-first competitors like Blend and Q2 continue to gain traction. nCino's differentiation lies in its end-to-end Bank Operating System built on Salesforce, strong presence in commercial lending, and expanding international footprint.",
-  "sources": ["https://www.ncino.com/", "https://www.gartner.com/reviews/market/cloud-core-banking-systems/vendor/ncino/alternatives", "https://tracxn.com/d/companies/ncino/__E8zI0GaI/competitors"]
+  "context": "nCino, Inc. is a cloud banking platform company focused on bank operating system for lending, account opening, and deposits. AI-powered banking insights. Consumer and SMB expansion.",
+  "sources": [
+    "https://www.ncino.com/",
+    "https://www.gartner.com/reviews/market/cloud-core-banking-systems/vendor/ncino/alternatives",
+    "https://tracxn.com/d/companies/ncino/__E8zI0GaI/competitors"
+  ]
 }

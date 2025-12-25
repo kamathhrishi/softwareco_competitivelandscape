@@ -5,15 +5,42 @@
   "search_query": "Appian low-code BPM competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Pega Systems", "notes": "Advanced case management and decisioning capabilities"},
-    {"name": "IBM BPM", "notes": "Comprehensive automation in IBM ecosystem"},
-    {"name": "Oracle BPM", "notes": "Enterprise workflow management"},
-    {"name": "Bizagi", "notes": "User-friendly process modeling"},
-    {"name": "Nintex", "notes": "Easy-to-use automation platform"},
-    {"name": "OutSystems", "notes": "Enterprise app development platform, founded 2001"},
-    {"name": "Mendix", "notes": "Gaining traction in enterprise space"},
-    {"name": "Salesforce", "notes": "Expanding automation capabilities"}
+    {
+      "name": "Pega Systems",
+      "notes": "Advanced case management and decisioning capabilities"
+    },
+    {
+      "name": "IBM BPM",
+      "notes": "Comprehensive automation in IBM ecosystem"
+    },
+    {
+      "name": "Oracle BPM",
+      "notes": "Enterprise workflow management"
+    },
+    {
+      "name": "Bizagi",
+      "notes": "User-friendly process modeling"
+    },
+    {
+      "name": "Nintex",
+      "notes": "Easy-to-use automation platform"
+    },
+    {
+      "name": "OutSystems",
+      "notes": "Enterprise app development platform, founded 2001"
+    },
+    {
+      "name": "Mendix",
+      "notes": "Gaining traction in enterprise space"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Expanding automation capabilities"
+    }
   ],
-  "context": "By 2015, Appian was a Gartner Magic Quadrant leader in low-code and intelligent BPM. The market had matured with clear differentiation between traditional BPM and modern low-code platforms.",
-  "sources": ["https://www.gartner.com/reviews/market/business-process-management-platforms/vendor/appian/product/appian-bpm-suite/alternatives", "https://mindmajix.com/pega-vs-appian"]
+  "context": "Appian Corporation is a low-code automation platform company focused on business process management, workflow automation, and enterprise applications. Low-code development gaining traction. Rapid application development focus.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/business-process-management-platforms/vendor/appian/product/appian-bpm-suite/alternatives",
+    "https://mindmajix.com/pega-vs-appian"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Pinterest competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Pinterest surged during COVID as users sought home, DIY, and recipe inspiration. The company accelerated shopping features and international expansion.",
+  "context": "Pinterest, Inc. is a visual discovery and shopping platform focused on image-based social discovery and e-commerce integration. Pandemic home projects drove engagement.",
   "competitors": [
-    {"name": "Instagram", "notes": "Visual social media, shopping features"},
-    {"name": "TikTok", "notes": "Short video dominating attention"},
-    {"name": "Google Images", "notes": "Visual search"},
-    {"name": "Facebook", "notes": "Social network with groups"},
-    {"name": "YouTube", "notes": "Video tutorials and how-tos"},
-    {"name": "Etsy", "notes": "Discovery for handmade goods"},
-    {"name": "Houzz", "notes": "Home design platform"},
-    {"name": "Amazon", "notes": "Product discovery and shopping"}
+    {
+      "name": "Instagram",
+      "notes": "Visual social media, shopping features"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Short video dominating attention"
+    },
+    {
+      "name": "Google Images",
+      "notes": "Visual search"
+    },
+    {
+      "name": "Facebook",
+      "notes": "Social network with groups"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video tutorials and how-tos"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Discovery for handmade goods"
+    },
+    {
+      "name": "Houzz",
+      "notes": "Home design platform"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Product discovery and shopping"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

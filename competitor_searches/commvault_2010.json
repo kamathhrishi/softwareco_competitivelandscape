@@ -5,14 +5,37 @@
   "search_query": "CommVault backup data protection competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Symantec NetBackup", "notes": "Leading enterprise backup solution after 2005 Veritas acquisition"},
-    {"name": "EMC Avamar", "notes": "Deduplication-based backup solution acquired by EMC in 2006"},
-    {"name": "EMC NetWorker", "notes": "Traditional backup software from EMC (formerly Legato)"},
-    {"name": "IBM Tivoli Storage Manager", "notes": "Enterprise backup, later renamed Spectrum Protect"},
-    {"name": "CA ARCserve", "notes": "Backup and recovery software for enterprise and SMB"},
-    {"name": "Veeam", "notes": "Founded 2006, rapidly growing in VMware backup market"},
-    {"name": "Dell Data Protection Suite", "notes": "Dell's backup solutions including AppAssure"}
+    {
+      "name": "Symantec NetBackup",
+      "notes": "Leading enterprise backup solution after 2005 Veritas acquisition"
+    },
+    {
+      "name": "EMC Avamar",
+      "notes": "Deduplication-based backup solution acquired by EMC in 2006"
+    },
+    {
+      "name": "EMC NetWorker",
+      "notes": "Traditional backup software from EMC (formerly Legato)"
+    },
+    {
+      "name": "IBM Tivoli Storage Manager",
+      "notes": "Enterprise backup, later renamed Spectrum Protect"
+    },
+    {
+      "name": "CA ARCserve",
+      "notes": "Backup and recovery software for enterprise and SMB"
+    },
+    {
+      "name": "Veeam",
+      "notes": "Founded 2006, rapidly growing in VMware backup market"
+    },
+    {
+      "name": "Dell Data Protection Suite",
+      "notes": "Dell's backup solutions including AppAssure"
+    }
   ],
-  "context": "By 2010, the backup market was experiencing significant changes with virtualization becoming mainstream. Veeam was emerging as a strong player focused on VMware backup. Deduplication technology was becoming critical.",
-  "sources": ["https://www.gartner.com/reviews/market/backup-and-data-protection-platforms/vendor/commvault/alternatives"]
+  "context": "Commvault Systems, Inc. is a data protection and management software company focused on backup, recovery, and data management across cloud and on-premises. Virtual machine protection. Cloud backup emerging.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/backup-and-data-protection-platforms/vendor/commvault/alternatives"
+  ]
 }

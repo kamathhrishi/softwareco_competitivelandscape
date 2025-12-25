@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Klarna competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Klarna went public on NYSE in September 2025 at $40/share, valued at $14B. The Swedish BNPL pioneer serves 111M consumers and 790K merchants across 26 countries. Stock opened at $52.",
+  "context": "Klarna Bank AB is a buy now, pay later fintech company focused on installment payments, shopping app, and merchant services. IPO preparation. BNPL market leader. Competing with Affirm, PayPal.",
   "competitors": [
-    {"name": "Affirm", "notes": "US BNPL leader with merchant integrations"},
-    {"name": "Afterpay (Block)", "notes": "Acquired by Block, integrated with Cash App"},
-    {"name": "PayPal Pay Later", "notes": "PayPal's BNPL offering"},
-    {"name": "Apple Pay Later", "notes": "Apple's native BNPL product"},
-    {"name": "Zip", "notes": "Australian BNPL expanding globally"},
-    {"name": "Sezzle", "notes": "BNPL focused on younger consumers"},
-    {"name": "Credit Cards", "notes": "Traditional 0% APR offers"},
-    {"name": "Amazon Pay", "notes": "Amazon's payment and financing options"}
+    {
+      "name": "Affirm",
+      "notes": "US BNPL leader with merchant integrations"
+    },
+    {
+      "name": "Afterpay (Block)",
+      "notes": "Acquired by Block, integrated with Cash App"
+    },
+    {
+      "name": "PayPal Pay Later",
+      "notes": "PayPal's BNPL offering"
+    },
+    {
+      "name": "Apple Pay Later",
+      "notes": "Apple's native BNPL product"
+    },
+    {
+      "name": "Zip",
+      "notes": "Australian BNPL expanding globally"
+    },
+    {
+      "name": "Sezzle",
+      "notes": "BNPL focused on younger consumers"
+    },
+    {
+      "name": "Credit Cards",
+      "notes": "Traditional 0% APR offers"
+    },
+    {
+      "name": "Amazon Pay",
+      "notes": "Amazon's payment and financing options"
+    }
   ],
-  "sources": ["Fintech industry analysis", "CNBC"]
+  "sources": [
+    "Fintech industry analysis",
+    "CNBC"
+  ]
 }

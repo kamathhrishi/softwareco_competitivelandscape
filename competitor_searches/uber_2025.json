@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Uber competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Uber is the global mobility and delivery leader with presence in 70+ countries. The company is integrating autonomous vehicles, expanding advertising, and building a super-app ecosystem.",
+  "context": "Uber Technologies, Inc. is a mobility and delivery platform focused on ridesharing, food delivery, and freight. Mobility platform leader. Competing with Lyft, DoorDash, Waymo.",
   "competitors": [
-    {"name": "Lyft", "notes": "US ride-hailing competitor focused on North American market"},
-    {"name": "DoorDash", "notes": "US food delivery leader, Uber Eats competes globally"},
-    {"name": "Waymo", "notes": "Alphabet's autonomous vehicle service expanding commercially"},
-    {"name": "Tesla", "notes": "Robotaxi ambitions threaten ride-hailing model"},
-    {"name": "Grab", "notes": "Southeast Asian super-app with comprehensive services"},
-    {"name": "Didi", "notes": "Chinese ride-hailing leader with international operations"},
-    {"name": "Bolt", "notes": "European mobility and delivery platform"},
-    {"name": "InDrive", "notes": "Ride-hailing platform with negotiated pricing model"}
+    {
+      "name": "Lyft",
+      "notes": "US ride-hailing competitor focused on North American market"
+    },
+    {
+      "name": "DoorDash",
+      "notes": "US food delivery leader, Uber Eats competes globally"
+    },
+    {
+      "name": "Waymo",
+      "notes": "Alphabet's autonomous vehicle service expanding commercially"
+    },
+    {
+      "name": "Tesla",
+      "notes": "Robotaxi ambitions threaten ride-hailing model"
+    },
+    {
+      "name": "Grab",
+      "notes": "Southeast Asian super-app with comprehensive services"
+    },
+    {
+      "name": "Didi",
+      "notes": "Chinese ride-hailing leader with international operations"
+    },
+    {
+      "name": "Bolt",
+      "notes": "European mobility and delivery platform"
+    },
+    {
+      "name": "InDrive",
+      "notes": "Ride-hailing platform with negotiated pricing model"
+    }
   ],
-  "sources": ["Mobility and delivery industry analysis"]
+  "sources": [
+    "Mobility and delivery industry analysis"
+  ]
 }

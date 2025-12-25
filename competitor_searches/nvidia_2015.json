@@ -5,11 +5,25 @@
   "search_query": "NVIDIA competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD", "notes": "Primary competitor in discrete graphics cards"},
-    {"name": "Intel", "notes": "GPU solutions, mainly integrated graphics"},
-    {"name": "Xilinx", "notes": "FPGAs for data center and AI markets"},
-    {"name": "Qualcomm", "notes": "Mobile GPU and semiconductor competitor"}
+    {
+      "name": "AMD",
+      "notes": "Primary competitor in discrete graphics cards"
+    },
+    {
+      "name": "Intel",
+      "notes": "GPU solutions, mainly integrated graphics"
+    },
+    {
+      "name": "Xilinx",
+      "notes": "FPGAs for data center and AI markets"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Mobile GPU and semiconductor competitor"
+    }
   ],
-  "context": "Competition centered on traditional GPU market for gaming and professional graphics. AI and data center competition just beginning.",
-  "sources": ["https://www.marketbeat.com/stocks/NASDAQ/NVDA/competitors-and-alternatives/"]
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. Deep learning GPU adoption. Data center growth.",
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/NVDA/competitors-and-alternatives/"
+  ]
 }

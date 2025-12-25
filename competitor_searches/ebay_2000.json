@@ -4,15 +4,39 @@
   "year": 2000,
   "search_query": "eBay competitors 2000",
   "search_date": "2024-12-24",
-  "context": "eBay dominated online auctions during the dot-com era with 2.46 million items for sale. Despite dot-com bubble burst, eBay remained profitable while competitors struggled. Yahoo! offered free auctions but lacked eBay's consumer-friendly nature.",
+  "context": "eBay Inc. is a e-commerce marketplace platform focused on online auctions, fixed-price sales, and classifieds. Dominated online auctions. Survived dot-com bust profitably.",
   "competitors": [
-    {"name": "Yahoo! Auctions", "notes": "Free auctions but lacked eBay's community feel and wide product array"},
-    {"name": "Amazon Auctions", "notes": "Amazon's attempt to compete in auction space"},
-    {"name": "Onsale", "notes": "Higher revenue but showed losses, provided inventory unlike eBay"},
-    {"name": "uBid", "notes": "Focused on refurbished electronics, 533K registered users"},
-    {"name": "Priceline.com", "notes": "Name-your-price model for travel and goods"},
-    {"name": "Bidz.com", "notes": "Online jewelry and goods auction site"},
-    {"name": "FairMarket", "notes": "Auction technology provider and marketplace"}
+    {
+      "name": "Yahoo! Auctions",
+      "notes": "Free auctions but lacked eBay's community feel and wide product array"
+    },
+    {
+      "name": "Amazon Auctions",
+      "notes": "Amazon's attempt to compete in auction space"
+    },
+    {
+      "name": "Onsale",
+      "notes": "Higher revenue but showed losses, provided inventory unlike eBay"
+    },
+    {
+      "name": "uBid",
+      "notes": "Focused on refurbished electronics, 533K registered users"
+    },
+    {
+      "name": "Priceline.com",
+      "notes": "Name-your-price model for travel and goods"
+    },
+    {
+      "name": "Bidz.com",
+      "notes": "Online jewelry and goods auction site"
+    },
+    {
+      "name": "FairMarket",
+      "notes": "Auction technology provider and marketplace"
+    }
   ],
-  "sources": ["Dot-com industry analysis", "eBay historical records"]
+  "sources": [
+    "Dot-com industry analysis",
+    "eBay historical records"
+  ]
 }

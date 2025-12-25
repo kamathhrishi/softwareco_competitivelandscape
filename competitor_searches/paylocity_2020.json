@@ -5,12 +5,30 @@
   "search_query": "Paylocity payroll HR competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Paycom", "notes": "Primary competitor in mid-market cloud HCM"},
-    {"name": "ADP", "notes": "Market leader with Workforce Now for mid-market"},
-    {"name": "Paychex", "notes": "Major payroll and HR services provider"},
-    {"name": "Ceridian Dayforce", "notes": "Cloud HCM platform"},
-    {"name": "UKG", "notes": "Formed from Ultimate Software and Kronos merger in 2020"}
+    {
+      "name": "Paycom",
+      "notes": "Primary competitor in mid-market cloud HCM"
+    },
+    {
+      "name": "ADP",
+      "notes": "Market leader with Workforce Now for mid-market"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll and HR services provider"
+    },
+    {
+      "name": "Ceridian Dayforce",
+      "notes": "Cloud HCM platform"
+    },
+    {
+      "name": "UKG",
+      "notes": "Formed from Ultimate Software and Kronos merger in 2020"
+    }
   ],
-  "context": "In 2020, Paylocity competed with Paycom as the primary mid-market cloud HCM rival. The Ultimate Software-Kronos merger creating UKG reshaped the HCM competitive landscape. The pandemic accelerated cloud HCM adoption as organizations needed remote workforce management. Paylocity differentiated with community collaboration features and user experience focus. Competition intensified from both traditional players (ADP, Paychex) and newer cloud-native platforms.",
-  "sources": ["https://www.g2.com/products/paylocity/competitors/alternatives", "https://craft.co/paylocity/competitors"]
+  "context": "Paylocity Holding Corporation is a cloud HCM software company focused on payroll, HR, benefits, and workforce management for mid-market. Community social collaboration. Remote workforce tools.",
+  "sources": [
+    "https://www.g2.com/products/paylocity/competitors/alternatives",
+    "https://craft.co/paylocity/competitors"
+  ]
 }

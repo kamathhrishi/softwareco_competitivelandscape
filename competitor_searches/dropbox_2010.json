@@ -4,15 +4,38 @@
   "year": 2010,
   "search_query": "Dropbox competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Dropbox was early cloud storage pioneer since 2007 launch. Consumer-focused with simple file sync. Neither Google Drive (2012) nor iCloud (2011) existed yet. Company growing rapidly.",
+  "context": "Dropbox, Inc. is a cloud storage and collaboration platform focused on file sync, sharing, and team collaboration tools. Rapid consumer growth. Freemium model success.",
   "competitors": [
-    {"name": "Box", "notes": "Enterprise-focused cloud storage competitor"},
-    {"name": "SugarSync", "notes": "Cloud file sync and backup"},
-    {"name": "Mozy", "notes": "EMC-owned backup service"},
-    {"name": "Carbonite", "notes": "Online backup service"},
-    {"name": "Windows Live Mesh", "notes": "Microsoft's file sync solution"},
-    {"name": "SpiderOak", "notes": "Privacy-focused cloud storage"},
-    {"name": "Wuala", "notes": "Secure cloud storage service"}
+    {
+      "name": "Box",
+      "notes": "Enterprise-focused cloud storage competitor"
+    },
+    {
+      "name": "SugarSync",
+      "notes": "Cloud file sync and backup"
+    },
+    {
+      "name": "Mozy",
+      "notes": "EMC-owned backup service"
+    },
+    {
+      "name": "Carbonite",
+      "notes": "Online backup service"
+    },
+    {
+      "name": "Windows Live Mesh",
+      "notes": "Microsoft's file sync solution"
+    },
+    {
+      "name": "SpiderOak",
+      "notes": "Privacy-focused cloud storage"
+    },
+    {
+      "name": "Wuala",
+      "notes": "Secure cloud storage service"
+    }
   ],
-  "sources": ["Cloud storage industry analysis"]
+  "sources": [
+    "Cloud storage industry analysis"
+  ]
 }

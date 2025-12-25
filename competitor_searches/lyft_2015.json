@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Lyft competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Lyft was the #2 US ride-hailing platform in 2015, competing with Uber through a friendlier brand and driver-focused approach. The company raised $1B from investors including Didi and GM.",
+  "context": "Lyft, Inc. is a rideshare and transportation company focused on ridesharing, bikes, scooters, and autonomous vehicles. Growing rideshare competitor to Uber. US-only focus.",
   "competitors": [
-    {"name": "Uber", "notes": "Dominant global competitor with ~80% US market share"},
-    {"name": "Sidecar", "notes": "Smaller ride-sharing competitor (shut down 2015)"},
-    {"name": "Gett", "notes": "Corporate-focused ride service"},
-    {"name": "Via", "notes": "Shared ride platform in urban areas"},
-    {"name": "Juno", "notes": "NYC-focused ride-hailing startup"},
-    {"name": "Traditional Taxis", "notes": "Legacy taxi industry being disrupted"},
-    {"name": "Car Rentals", "notes": "Traditional car rental companies like Hertz, Enterprise"},
-    {"name": "Public Transit", "notes": "Mass transit systems competing for urban transportation"}
+    {
+      "name": "Uber",
+      "notes": "Dominant global competitor with ~80% US market share"
+    },
+    {
+      "name": "Sidecar",
+      "notes": "Smaller ride-sharing competitor (shut down 2015)"
+    },
+    {
+      "name": "Gett",
+      "notes": "Corporate-focused ride service"
+    },
+    {
+      "name": "Via",
+      "notes": "Shared ride platform in urban areas"
+    },
+    {
+      "name": "Juno",
+      "notes": "NYC-focused ride-hailing startup"
+    },
+    {
+      "name": "Traditional Taxis",
+      "notes": "Legacy taxi industry being disrupted"
+    },
+    {
+      "name": "Car Rentals",
+      "notes": "Traditional car rental companies like Hertz, Enterprise"
+    },
+    {
+      "name": "Public Transit",
+      "notes": "Mass transit systems competing for urban transportation"
+    }
   ],
-  "sources": ["Ride-hailing industry analysis"]
+  "sources": [
+    "Ride-hailing industry analysis"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "Jamf Apple device management competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Microsoft Intune", "notes": "Enterprise device management with Windows focus"},
-    {"name": "VMware Workspace ONE", "notes": "Unified endpoint management"},
-    {"name": "IBM MaaS360", "notes": "Enterprise mobility management"},
-    {"name": "Kandji", "notes": "Apple-focused MDM competitor"},
-    {"name": "Mosyle", "notes": "Apple device management for education and business"}
+    {
+      "name": "Microsoft Intune",
+      "notes": "Enterprise device management with Windows focus"
+    },
+    {
+      "name": "VMware Workspace ONE",
+      "notes": "Unified endpoint management"
+    },
+    {
+      "name": "IBM MaaS360",
+      "notes": "Enterprise mobility management"
+    },
+    {
+      "name": "Kandji",
+      "notes": "Apple-focused MDM competitor"
+    },
+    {
+      "name": "Mosyle",
+      "notes": "Apple device management for education and business"
+    }
   ],
-  "context": "In 2020, Jamf went public (July 2020 IPO) as the leading Apple device management platform. The pandemic accelerated remote work and device management needs. Jamf's exclusive Apple focus differentiated against multi-platform competitors. Microsoft Intune grew with Microsoft 365 adoption. New Apple-focused competitors emerged in the market.",
-  "sources": ["https://craft.co/jamf-software/competitors"]
+  "context": "Jamf Holding Corp. is a Apple device management company focused on Apple enterprise management, security, and identity. IPO. Remote work drove Apple device deployment.",
+  "sources": [
+    "https://craft.co/jamf-software/competitors"
+  ]
 }

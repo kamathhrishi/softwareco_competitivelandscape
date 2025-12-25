@@ -5,17 +5,50 @@
   "search_query": "C3.ai enterprise AI competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Tech giant with Azure AI"},
-    {"name": "Palantir Technologies", "notes": "Primary competitor with deep resources, focused on government/defense"},
-    {"name": "DataRobot", "notes": "Direct competitor in enterprise AI and automated ML"},
-    {"name": "Databricks", "notes": "Top competitor providing unified data analytics platform"},
-    {"name": "Domino", "notes": "Enterprise AI platform for building and deploying models"},
-    {"name": "Snorkel AI", "notes": "Top competitor in enterprise AI space"},
-    {"name": "Altair", "notes": "Competitor with Altair AI Studio platform"},
-    {"name": "ASAPP", "notes": "AI-based enterprise software for contact centers"},
-    {"name": "Obviously AI", "notes": "Primary competitor in AI automation"},
-    {"name": "Alteryx", "notes": "Data analytics and AI platform"}
+    {
+      "name": "Microsoft",
+      "notes": "Tech giant with Azure AI"
+    },
+    {
+      "name": "Palantir Technologies",
+      "notes": "Primary competitor with deep resources, focused on government/defense"
+    },
+    {
+      "name": "DataRobot",
+      "notes": "Direct competitor in enterprise AI and automated ML"
+    },
+    {
+      "name": "Databricks",
+      "notes": "Top competitor providing unified data analytics platform"
+    },
+    {
+      "name": "Domino",
+      "notes": "Enterprise AI platform for building and deploying models"
+    },
+    {
+      "name": "Snorkel AI",
+      "notes": "Top competitor in enterprise AI space"
+    },
+    {
+      "name": "Altair",
+      "notes": "Competitor with Altair AI Studio platform"
+    },
+    {
+      "name": "ASAPP",
+      "notes": "AI-based enterprise software for contact centers"
+    },
+    {
+      "name": "Obviously AI",
+      "notes": "Primary competitor in AI automation"
+    },
+    {
+      "name": "Alteryx",
+      "notes": "Data analytics and AI platform"
+    }
   ],
-  "context": "By 2020, C3.ai touted first-mover status but faced increasingly crowded competition. Had raised $481M in funding and had 612 active competitors including 133 funded companies.",
-  "sources": ["https://www.cbinsights.com/company/c3-energy/alternatives-competitors", "https://www.nasdaq.com/articles/c3ai-faces-hard-competition-enterprise-ai-can-it-defend-turf"]
+  "context": "C3.ai, Inc. is a enterprise AI software company focused on AI applications for enterprise, government, and defense. IPO. AI applications for energy, manufacturing, and defense.",
+  "sources": [
+    "https://www.cbinsights.com/company/c3-energy/alternatives-competitors",
+    "https://www.nasdaq.com/articles/c3ai-faces-hard-competition-enterprise-ai-can-it-defend-turf"
+  ]
 }

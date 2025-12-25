@@ -5,19 +5,59 @@
   "search_query": "Amplitude analytics competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Mixpanel", "notes": "Original product analytics platform, 6,300 of top 1M sites use it (vs Amplitude's 10,678 as of Jan 2024)"},
-    {"name": "Pendo", "notes": "3,711 of top 1M sites, focuses on in-app guides, feedback, product tools, includes session replay"},
-    {"name": "Heap", "notes": "Autocaptures all user activity data without manual tracking setup"},
-    {"name": "Google Analytics", "notes": "Free comprehensive analytics platform, top alternative for website and app tracking"},
-    {"name": "Adobe Analytics", "notes": "Enterprise feature-heavy solution, no free version, complex pricing"},
-    {"name": "PostHog", "notes": "Open-source platform combining product analytics, session replay, feature flags, A/B testing, user surveys"},
-    {"name": "Fullstory", "notes": "Behavioral data platform with patented technology for quality behavioral data at scale"},
-    {"name": "Glassbox", "notes": "Mobile-focused analytics with session replay, 386 of top 1M websites as of Jan 2024"},
-    {"name": "LogRocket", "notes": "Includes performance monitoring and error tracking (which Amplitude lacks)"},
-    {"name": "Contentsquare", "notes": "Exceptional user analytics functionality, unique capabilities for feature release analytics"},
-    {"name": "Kubit", "notes": "Warehouse-native architecture, lower TCO, data security focus"},
-    {"name": "Optimizely Warehouse-Native Analytics", "notes": "Warehouse-native tool that directly queries cloud warehouses"}
+    {
+      "name": "Mixpanel",
+      "notes": "Original product analytics platform, 6,300 of top 1M sites use it (vs Amplitude's 10,678 as of Jan 2024)"
+    },
+    {
+      "name": "Pendo",
+      "notes": "3,711 of top 1M sites, focuses on in-app guides, feedback, product tools, includes session replay"
+    },
+    {
+      "name": "Heap",
+      "notes": "Autocaptures all user activity data without manual tracking setup"
+    },
+    {
+      "name": "Google Analytics",
+      "notes": "Free comprehensive analytics platform, top alternative for website and app tracking"
+    },
+    {
+      "name": "Adobe Analytics",
+      "notes": "Enterprise feature-heavy solution, no free version, complex pricing"
+    },
+    {
+      "name": "PostHog",
+      "notes": "Open-source platform combining product analytics, session replay, feature flags, A/B testing, user surveys"
+    },
+    {
+      "name": "Fullstory",
+      "notes": "Behavioral data platform with patented technology for quality behavioral data at scale"
+    },
+    {
+      "name": "Glassbox",
+      "notes": "Mobile-focused analytics with session replay, 386 of top 1M websites as of Jan 2024"
+    },
+    {
+      "name": "LogRocket",
+      "notes": "Includes performance monitoring and error tracking (which Amplitude lacks)"
+    },
+    {
+      "name": "Contentsquare",
+      "notes": "Exceptional user analytics functionality, unique capabilities for feature release analytics"
+    },
+    {
+      "name": "Kubit",
+      "notes": "Warehouse-native architecture, lower TCO, data security focus"
+    },
+    {
+      "name": "Optimizely Warehouse-Native Analytics",
+      "notes": "Warehouse-native tool that directly queries cloud warehouses"
+    }
   ],
-  "context": "By 2024, Amplitude had established itself as a leading product analytics platform with 10,678 of the top 1 million websites using it. The competitive landscape had become highly fragmented with specialized tools emerging in different niches. Key competitive trends include: (1) warehouse-native architectures (Kubit, Optimizely) offering lower cost and better data security, (2) all-in-one platforms combining analytics with session replay, feature flags, and A/B testing (PostHog, Pendo), (3) autocapture capabilities to reduce manual tracking burden (Heap). Amplitude's pricing had increased to around $25,000/year for entry plans.",
-  "sources": ["https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/amplitude/product/amplitude-analytics/alternatives", "https://posthog.com/blog/best-amplitude-alternatives", "https://kubit.ai/amplitude-alternatives-and-competitors/"]
+  "context": "Amplitude, Inc. is a digital analytics platform company focused on product analytics, experimentation, and customer data platform. Competing with Mixpanel, Google Analytics, and enterprise analytics platforms.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/amplitude/product/amplitude-analytics/alternatives",
+    "https://posthog.com/blog/best-amplitude-alternatives",
+    "https://kubit.ai/amplitude-alternatives-and-competitors/"
+  ]
 }

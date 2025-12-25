@@ -5,13 +5,34 @@
   "search_query": "Cloudflare CDN security competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Akamai", "notes": "Industry leader in CDN with vast global network, enterprise focus"},
-    {"name": "Amazon CloudFront", "notes": "AWS CDN integrated with AWS ecosystem"},
-    {"name": "Fastly", "notes": "Edge cloud platform with real-time capabilities"},
-    {"name": "Imperva", "notes": "Application security and CDN provider"},
-    {"name": "Cloudflare", "notes": "Self-comparison for market positioning"},
-    {"name": "StackPath", "notes": "Edge computing and security platform"}
+    {
+      "name": "Akamai",
+      "notes": "Industry leader in CDN with vast global network, enterprise focus"
+    },
+    {
+      "name": "Amazon CloudFront",
+      "notes": "AWS CDN integrated with AWS ecosystem"
+    },
+    {
+      "name": "Fastly",
+      "notes": "Edge cloud platform with real-time capabilities"
+    },
+    {
+      "name": "Imperva",
+      "notes": "Application security and CDN provider"
+    },
+    {
+      "name": "Cloudflare",
+      "notes": "Self-comparison for market positioning"
+    },
+    {
+      "name": "StackPath",
+      "notes": "Edge computing and security platform"
+    }
   ],
-  "context": "In 2020, Cloudflare was expanding beyond CDN into broader edge computing and security services. The company went public in September 2019. Main competitors included established players like Akamai and newer cloud-native options like Fastly. The pandemic accelerated demand for web performance and security services as digital traffic increased significantly. Cloudflare launched Workers KV and expanded its serverless edge computing offerings.",
-  "sources": ["https://www.gartner.com/reviews/market/global-cdn", "https://www.g2.com/products/cloudflare/competitors/alternatives"]
+  "context": "Cloudflare, Inc. is a cloud services and network security company focused on CDN, DDoS protection, edge computing, and Zero Trust security. IPO success. Remote work drove Zero Trust adoption.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/global-cdn",
+    "https://www.g2.com/products/cloudflare/competitors/alternatives"
+  ]
 }

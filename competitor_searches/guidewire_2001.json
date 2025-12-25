@@ -5,9 +5,21 @@
   "search_query": "Guidewire insurance software competitors 2001",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Duck Creek Technologies", "notes": "Founded in 2000, focuses on P&C and general insurance industry with cloud-based platform for insurance systems"},
-    {"name": "Majesco", "notes": "Founded in 1982, provides technology and insurance experience for P&C and L&AH insurers with platform solutions for core insurance functions"}
+    {
+      "name": "Duck Creek Technologies",
+      "notes": "Founded in 2000, focuses on P&C and general insurance industry with cloud-based platform for insurance systems"
+    },
+    {
+      "name": "Majesco",
+      "notes": "Founded in 1982, provides technology and insurance experience for P&C and L&AH insurers with platform solutions for core insurance functions"
+    }
   ],
-  "context": "Guidewire was founded in 2001 (formerly known as Centrica Software) by John Raguin, Mark Shaw, Kenneth W Branson, John Seybold and James Kwak. Limited specific competitor information available from 2001 as the company was just starting. Duck Creek Technologies (founded 2000) and Majesco (founded 1982) were the established players in the insurance software market at that time.",
-  "sources": ["https://www.cbinsights.com/company/guidewire", "https://www.cbinsights.com/company/guidewire/alternatives-competitors", "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives", "https://www.selecthub.com/insurance-software/guidewire/alternatives/", "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share"]
+  "context": "Guidewire Software, Inc. is a software for property and casualty insurers focused on core insurance systems, data analytics, and digital engagement. Founded for P&C insurance core systems modernization.",
+  "sources": [
+    "https://www.cbinsights.com/company/guidewire",
+    "https://www.cbinsights.com/company/guidewire/alternatives-competitors",
+    "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives",
+    "https://www.selecthub.com/insurance-software/guidewire/alternatives/",
+    "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share"
+  ]
 }

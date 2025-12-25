@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Netflix competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Netflix has 280M+ subscribers and leads streaming with password sharing crackdown, ad tier, and live events. The company added NFL games and WWE to expand into sports and live content.",
+  "context": "Netflix, Inc. is a streaming entertainment service focused on subscription video streaming and original content production. Ad tier and password sharing crackdown drove growth.",
   "competitors": [
-    {"name": "Disney+", "notes": "Disney streaming with Hulu bundle, reached profitability"},
-    {"name": "Amazon Prime Video", "notes": "Streaming included with Prime, adding live sports"},
-    {"name": "Max (HBO)", "notes": "Warner Bros Discovery streaming with HBO content"},
-    {"name": "Apple TV+", "notes": "Premium originals and live sports (MLS)"},
-    {"name": "YouTube", "notes": "Largest video platform, YouTube TV for live"},
-    {"name": "Peacock", "notes": "NBCUniversal streaming with Olympics and sports"},
-    {"name": "Paramount+", "notes": "Paramount Global streaming service"},
-    {"name": "TikTok", "notes": "Short-form video competing for attention"}
+    {
+      "name": "Disney+",
+      "notes": "Disney streaming with Hulu bundle, reached profitability"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "notes": "Streaming included with Prime, adding live sports"
+    },
+    {
+      "name": "Max (HBO)",
+      "notes": "Warner Bros Discovery streaming with HBO content"
+    },
+    {
+      "name": "Apple TV+",
+      "notes": "Premium originals and live sports (MLS)"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Largest video platform, YouTube TV for live"
+    },
+    {
+      "name": "Peacock",
+      "notes": "NBCUniversal streaming with Olympics and sports"
+    },
+    {
+      "name": "Paramount+",
+      "notes": "Paramount Global streaming service"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Short-form video competing for attention"
+    }
   ],
-  "sources": ["Streaming industry analysis"]
+  "sources": [
+    "Streaming industry analysis"
+  ]
 }

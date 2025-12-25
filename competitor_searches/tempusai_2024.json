@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Tempus AI competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Tempus AI went public in June 2024, one of the notable healthcare AI IPOs of the year. The company uses AI to analyze clinical and molecular data for personalized cancer treatment.",
+  "context": "Tempus AI, Inc. is a healthcare AI and precision medicine company focused on clinical AI, genomic sequencing, and data analytics for healthcare. IPO. AI-powered precision medicine platform.",
   "competitors": [
-    {"name": "Foundation Medicine", "notes": "Genomic profiling for cancer"},
-    {"name": "Guardant Health", "notes": "Liquid biopsy testing"},
-    {"name": "Illumina", "notes": "Sequencing platform provider"},
-    {"name": "Grail", "notes": "Early cancer detection AI"},
-    {"name": "Natera", "notes": "Genetic testing company"},
-    {"name": "Caris Life Sciences", "notes": "Molecular profiling"},
-    {"name": "Flatiron Health", "notes": "Oncology data analytics"},
-    {"name": "PathAI", "notes": "AI-powered pathology"}
+    {
+      "name": "Foundation Medicine",
+      "notes": "Genomic profiling for cancer"
+    },
+    {
+      "name": "Guardant Health",
+      "notes": "Liquid biopsy testing"
+    },
+    {
+      "name": "Illumina",
+      "notes": "Sequencing platform provider"
+    },
+    {
+      "name": "Grail",
+      "notes": "Early cancer detection AI"
+    },
+    {
+      "name": "Natera",
+      "notes": "Genetic testing company"
+    },
+    {
+      "name": "Caris Life Sciences",
+      "notes": "Molecular profiling"
+    },
+    {
+      "name": "Flatiron Health",
+      "notes": "Oncology data analytics"
+    },
+    {
+      "name": "PathAI",
+      "notes": "AI-powered pathology"
+    }
   ],
-  "sources": ["Healthcare AI industry analysis"]
+  "sources": [
+    "Healthcare AI industry analysis"
+  ]
 }

@@ -5,14 +5,38 @@
   "search_query": "Workday competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Oracle HCM", "notes": "Major enterprise HCM provider transitioning from PeopleSoft to cloud solutions"},
-    {"name": "SAP SuccessFactors", "notes": "Enterprise HCM solution for global companies with multinational workforces"},
-    {"name": "ADP", "notes": "Global provider of cloud-based HCM and HR outsourcing solutions"},
-    {"name": "Ultimate Software", "notes": "Cloud-based HR, payroll, and workforce management (now part of UKG)"},
-    {"name": "IBM", "notes": "Enterprise software provider competing in HR technology space"},
-    {"name": "Ceridian", "notes": "HR and payroll solutions provider"},
-    {"name": "Kronos", "notes": "Workforce management and time/attendance solutions (merged with Ultimate Software in 2020 to form UKG)"}
+    {
+      "name": "Oracle HCM",
+      "notes": "Major enterprise HCM provider transitioning from PeopleSoft to cloud solutions"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Enterprise HCM solution for global companies with multinational workforces"
+    },
+    {
+      "name": "ADP",
+      "notes": "Global provider of cloud-based HCM and HR outsourcing solutions"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud-based HR, payroll, and workforce management (now part of UKG)"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise software provider competing in HR technology space"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "HR and payroll solutions provider"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Workforce management and time/attendance solutions (merged with Ultimate Software in 2020 to form UKG)"
+    }
   ],
-  "context": "By 2010, Workday was gaining traction as a cloud-native HCM platform, competing against established enterprise players like Oracle and SAP who were beginning their cloud transitions.",
-  "sources": ["https://technologyadvice.com/blog/human-resources/workday-competitors/", "https://www.rippling.com/blog/workday-competitors"]
+  "context": "Workday, Inc. is a enterprise cloud applications company focused on HCM, finance, and planning software for enterprises. Financial management addition. Cloud-only approach.",
+  "sources": [
+    "https://technologyadvice.com/blog/human-resources/workday-competitors/",
+    "https://www.rippling.com/blog/workday-competitors"
+  ]
 }

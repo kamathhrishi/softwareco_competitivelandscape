@@ -5,12 +5,29 @@
   "search_query": "Paycom payroll competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ADP", "notes": "Dominant payroll services provider"},
-    {"name": "Paychex", "notes": "Major payroll and HR services"},
-    {"name": "Ceridian", "notes": "HR and payroll technology"},
-    {"name": "Ultimate Software", "notes": "Cloud HCM solutions"},
-    {"name": "Kronos", "notes": "Workforce management and timekeeping"}
+    {
+      "name": "ADP",
+      "notes": "Dominant payroll services provider"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll and HR services"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "HR and payroll technology"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud HCM solutions"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Workforce management and timekeeping"
+    }
   ],
-  "context": "In 2010, Paycom was a regional payroll company based in Oklahoma City growing its cloud-based HCM platform. ADP and Paychex dominated payroll services. The market was transitioning from service bureaus to software platforms. Ultimate Software and Workday were emerging cloud HCM competitors. Paycom differentiated with single-database architecture and employee self-service. The company was building toward its 2014 IPO.",
-  "sources": ["https://craft.co/paycom-software/competitors"]
+  "context": "Paycom Software, Inc. is a HCM software company focused on payroll, HR, and talent management for enterprises. Cloud HCM platform. Employee self-service focus.",
+  "sources": [
+    "https://craft.co/paycom-software/competitors"
+  ]
 }

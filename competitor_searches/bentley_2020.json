@@ -5,12 +5,29 @@
   "search_query": "Bentley Systems infrastructure software competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Autodesk", "notes": "AutoCAD, Revit, and infrastructure design tools"},
-    {"name": "Trimble", "notes": "Construction and geospatial technology"},
-    {"name": "Hexagon", "notes": "Geospatial and industrial software"},
-    {"name": "ESRI", "notes": "GIS and mapping software"},
-    {"name": "Dassault Systèmes", "notes": "3DEXPERIENCE for infrastructure"}
+    {
+      "name": "Autodesk",
+      "notes": "AutoCAD, Revit, and infrastructure design tools"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Construction and geospatial technology"
+    },
+    {
+      "name": "Hexagon",
+      "notes": "Geospatial and industrial software"
+    },
+    {
+      "name": "ESRI",
+      "notes": "GIS and mapping software"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "3DEXPERIENCE for infrastructure"
+    }
   ],
-  "context": "In 2020, Bentley Systems went public (September 2020 IPO). The company specialized in infrastructure engineering software for roads, bridges, utilities, and buildings. Competition came from Autodesk in design and Trimble in construction technology. Bentley differentiated with digital twin focus for infrastructure assets.",
-  "sources": ["https://craft.co/bentley-systems/competitors"]
+  "context": "Bentley Systems, Incorporated is a infrastructure engineering software company focused on design, construction, and operations software for infrastructure. IPO. iTwin platform for infrastructure digital twins.",
+  "sources": [
+    "https://craft.co/bentley-systems/competitors"
+  ]
 }

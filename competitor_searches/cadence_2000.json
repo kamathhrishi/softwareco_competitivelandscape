@@ -5,12 +5,30 @@
   "search_query": "Cadence Design Systems EDA competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Synopsys", "notes": "Major EDA vendor focusing on front-end synthesis while Cadence dominated back-end design"},
-    {"name": "Mentor Graphics", "notes": "Major EDA competitor, part of the 'Big Three' EDA companies"},
-    {"name": "Ambit Design Systems", "notes": "Acquired by Cadence for $260 million in 1998"},
-    {"name": "OrCAD Systems", "notes": "EDA tools provider, acquired by Cadence in 1999"},
-    {"name": "Quickturn Design Systems", "notes": "Acquired by Cadence in 1999"}
+    {
+      "name": "Synopsys",
+      "notes": "Major EDA vendor focusing on front-end synthesis while Cadence dominated back-end design"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Major EDA competitor, part of the 'Big Three' EDA companies"
+    },
+    {
+      "name": "Ambit Design Systems",
+      "notes": "Acquired by Cadence for $260 million in 1998"
+    },
+    {
+      "name": "OrCAD Systems",
+      "notes": "EDA tools provider, acquired by Cadence in 1999"
+    },
+    {
+      "name": "Quickturn Design Systems",
+      "notes": "Acquired by Cadence in 1999"
+    }
   ],
-  "context": "Around 2000, the EDA industry was consolidating around the 'Big Three': Synopsys, Cadence, and Mentor Graphics. Cadence was actively acquiring competitors. Synopsys dominated front-end design while Cadence owned the back-end.",
-  "sources": ["https://en.wikipedia.org/wiki/List_of_EDA_companies", "https://en.wikipedia.org/wiki/Cadence_Design_Systems"]
+  "context": "Cadence Design Systems, Inc. is a electronic design automation (EDA) software company focused on chip design, verification, and system analysis software. EDA duopoly with Synopsys. Digital and analog design tools.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_EDA_companies",
+    "https://en.wikipedia.org/wiki/Cadence_Design_Systems"
+  ]
 }

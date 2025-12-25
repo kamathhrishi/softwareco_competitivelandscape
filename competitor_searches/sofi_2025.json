@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "SoFi competitors 2025",
   "search_date": "2024-12-24",
-  "context": "SoFi is a financial super-app with banking, lending, investing, and B2B technology. The company's bank charter and Galileo/Technisys platforms power both consumer services and other fintechs.",
+  "context": "SoFi Technologies, Inc. is a digital financial services company focused on lending, banking, investing, and financial products. Digital finance platform. Competing with traditional banks.",
   "competitors": [
-    {"name": "Robinhood", "notes": "Trading app expanding into full financial services"},
-    {"name": "Chime", "notes": "Leading neobank by customer count"},
-    {"name": "Cash App", "notes": "Block's financial ecosystem for consumers"},
-    {"name": "LendingClub", "notes": "Digital marketplace bank"},
-    {"name": "Ally Financial", "notes": "Digital bank with investing and lending"},
-    {"name": "Dave", "notes": "Neobank focused on financial wellness"},
-    {"name": "Traditional Banks", "notes": "Major banks improving digital experience"},
-    {"name": "Marqeta/Galileo", "notes": "B2B fintech infrastructure competition"}
+    {
+      "name": "Robinhood",
+      "notes": "Trading app expanding into full financial services"
+    },
+    {
+      "name": "Chime",
+      "notes": "Leading neobank by customer count"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Block's financial ecosystem for consumers"
+    },
+    {
+      "name": "LendingClub",
+      "notes": "Digital marketplace bank"
+    },
+    {
+      "name": "Ally Financial",
+      "notes": "Digital bank with investing and lending"
+    },
+    {
+      "name": "Dave",
+      "notes": "Neobank focused on financial wellness"
+    },
+    {
+      "name": "Traditional Banks",
+      "notes": "Major banks improving digital experience"
+    },
+    {
+      "name": "Marqeta/Galileo",
+      "notes": "B2B fintech infrastructure competition"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

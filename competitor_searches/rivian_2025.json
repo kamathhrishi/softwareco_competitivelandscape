@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Rivian competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Rivian continues to scale production of R1T truck and R1S SUV while developing the R2 mass-market platform. The company maintains Amazon delivery van partnership and works toward profitability.",
+  "context": "Rivian Automotive, Inc. is a electric vehicle manufacturer focused on electric trucks, SUVs, and delivery vans. EV truck leader. Competing with Tesla, Ford, legacy OEMs.",
   "competitors": [
-    {"name": "Tesla", "notes": "EV market leader with Cybertruck"},
-    {"name": "Ford", "notes": "F-150 Lightning electric truck"},
-    {"name": "GM", "notes": "Hummer EV, Silverado EV, Ultium platform"},
-    {"name": "Lucid Motors", "notes": "Premium EV competitor"},
-    {"name": "Fisker", "notes": "EV startup (filed bankruptcy 2024)"},
-    {"name": "Toyota", "notes": "Expanding EV lineup"},
-    {"name": "Volkswagen", "notes": "ID series and Scout brand revival"},
-    {"name": "Hyundai/Kia", "notes": "Ioniq and EV6 models"}
+    {
+      "name": "Tesla",
+      "notes": "EV market leader with Cybertruck"
+    },
+    {
+      "name": "Ford",
+      "notes": "F-150 Lightning electric truck"
+    },
+    {
+      "name": "GM",
+      "notes": "Hummer EV, Silverado EV, Ultium platform"
+    },
+    {
+      "name": "Lucid Motors",
+      "notes": "Premium EV competitor"
+    },
+    {
+      "name": "Fisker",
+      "notes": "EV startup (filed bankruptcy 2024)"
+    },
+    {
+      "name": "Toyota",
+      "notes": "Expanding EV lineup"
+    },
+    {
+      "name": "Volkswagen",
+      "notes": "ID series and Scout brand revival"
+    },
+    {
+      "name": "Hyundai/Kia",
+      "notes": "Ioniq and EV6 models"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

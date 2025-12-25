@@ -4,15 +4,38 @@
   "year": 2015,
   "search_query": "Unity Technologies competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Unity 5 released with powerful rendering tools and removed royalties. Epic made Unreal Engine free with 5% royalty. Both engines became accessible to indie developers. Unity supported 25 platforms vs Unreal's 10.",
+  "context": "Unity Software Inc. is a real-time 3D development platform focused on game engine, AR/VR, and interactive content creation. Unity 5 with advanced features. No royalties.",
   "competitors": [
-    {"name": "Unreal Engine", "notes": "Became free in 2015 with 5% royalty, photorealistic graphics"},
-    {"name": "CryEngine", "notes": "Crytek's engine, supports PC and console"},
-    {"name": "Amazon Lumberyard", "notes": "Free engine based on CryEngine, launched 2016"},
-    {"name": "GameMaker Studio", "notes": "Popular for 2D indie games"},
-    {"name": "Godot", "notes": "Open source engine gaining popularity"},
-    {"name": "Cocos2d-x", "notes": "Open source mobile game framework"},
-    {"name": "Construct 2", "notes": "HTML5 game development"}
+    {
+      "name": "Unreal Engine",
+      "notes": "Became free in 2015 with 5% royalty, photorealistic graphics"
+    },
+    {
+      "name": "CryEngine",
+      "notes": "Crytek's engine, supports PC and console"
+    },
+    {
+      "name": "Amazon Lumberyard",
+      "notes": "Free engine based on CryEngine, launched 2016"
+    },
+    {
+      "name": "GameMaker Studio",
+      "notes": "Popular for 2D indie games"
+    },
+    {
+      "name": "Godot",
+      "notes": "Open source engine gaining popularity"
+    },
+    {
+      "name": "Cocos2d-x",
+      "notes": "Open source mobile game framework"
+    },
+    {
+      "name": "Construct 2",
+      "notes": "HTML5 game development"
+    }
   ],
-  "sources": ["Game engine industry analysis"]
+  "sources": [
+    "Game engine industry analysis"
+  ]
 }

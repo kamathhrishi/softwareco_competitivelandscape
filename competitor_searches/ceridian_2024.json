@@ -5,17 +5,49 @@
   "search_query": "Ceridian competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Workday", "notes": "Market leader with 23.71% HCM market share, cloud-native HRIS"},
-    {"name": "ADP", "notes": "Largest HCM player for all business sizes"},
-    {"name": "SAP SuccessFactors", "notes": "Cloud-based HCM with global reach and ERP integration"},
-    {"name": "UKG", "notes": "Powerful HCM, payroll, workforce management suite"},
-    {"name": "Oracle PeopleSoft", "notes": "Enterprise HCM with 13.67% market share"},
-    {"name": "Paylocity", "notes": "Leading payroll competitor with 12.63% market share"},
-    {"name": "Paychex", "notes": "Direct competitor in payroll and HR services"},
-    {"name": "Sage Payroll", "notes": "Payroll management with 10.37% market share"},
-    {"name": "BambooHR", "notes": "Cloud-based HR for onboarding, payroll, benefits"},
-    {"name": "Zenefits", "notes": "All-in-one HR platform"}
+    {
+      "name": "Workday",
+      "notes": "Market leader with 23.71% HCM market share, cloud-native HRIS"
+    },
+    {
+      "name": "ADP",
+      "notes": "Largest HCM player for all business sizes"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Cloud-based HCM with global reach and ERP integration"
+    },
+    {
+      "name": "UKG",
+      "notes": "Powerful HCM, payroll, workforce management suite"
+    },
+    {
+      "name": "Oracle PeopleSoft",
+      "notes": "Enterprise HCM with 13.67% market share"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Leading payroll competitor with 12.63% market share"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Direct competitor in payroll and HR services"
+    },
+    {
+      "name": "Sage Payroll",
+      "notes": "Payroll management with 10.37% market share"
+    },
+    {
+      "name": "BambooHR",
+      "notes": "Cloud-based HR for onboarding, payroll, benefits"
+    },
+    {
+      "name": "Zenefits",
+      "notes": "All-in-one HR platform"
+    }
   ],
-  "context": "Ceridian annual revenue is $1.16 billion with 3.58% HCM market share and 3.21% payroll share. The 2024 landscape is highly crowded with 169 competitors in payroll management alone. Market leadership by Workday (23.71%), Oracle (13.67%), SAP (12.53%).",
-  "sources": ["https://www.gartner.com/reviews/market/cloud-hcm-suites-for-1000-employees/vendor/ceridian/product/ceridian-dayforce/alternatives"]
+  "context": "Dayforce (formerly Ceridian HCM) is a human capital management software company focused on payroll, HR, talent management, and workforce management. Rebranded to Dayforce. AI-powered HCM features.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-hcm-suites-for-1000-employees/vendor/ceridian/product/ceridian-dayforce/alternatives"
+  ]
 }

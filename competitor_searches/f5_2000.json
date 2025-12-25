@@ -4,13 +4,28 @@
   "year": 2000,
   "search_query": "F5 Networks competitors 2000",
   "search_date": "2025-12-24",
-  "context": "F5 Networks was in its early stages, focusing on application delivery and load balancing solutions. The market was emerging from basic load balancing systems developed in the late 1990s to ensure website availability and scalability. Competition was primarily from networking equipment vendors.",
+  "context": "F5, Inc. is a application delivery and security company focused on load balancing, application security, and multi-cloud networking. Application delivery controllers for load balancing.",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Major networking vendor with load balancing products including CSS (Content Services Switch)"},
-    {"name": "Foundry Networks", "notes": "Provider of high-performance network switching and load balancing solutions (later acquired by Brocade)"},
-    {"name": "Radware", "notes": "Early competitor in application delivery and load balancing"},
-    {"name": "Alteon (Nortel)", "notes": "Load balancing and application switching solutions"},
-    {"name": "Resonate", "notes": "Early application delivery and global load balancing vendor"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Major networking vendor with load balancing products including CSS (Content Services Switch)"
+    },
+    {
+      "name": "Foundry Networks",
+      "notes": "Provider of high-performance network switching and load balancing solutions (later acquired by Brocade)"
+    },
+    {
+      "name": "Radware",
+      "notes": "Early competitor in application delivery and load balancing"
+    },
+    {
+      "name": "Alteon (Nortel)",
+      "notes": "Load balancing and application switching solutions"
+    },
+    {
+      "name": "Resonate",
+      "notes": "Early application delivery and global load balancing vendor"
+    }
   ],
   "sources": [
     "https://sumble.com/tech/f5",

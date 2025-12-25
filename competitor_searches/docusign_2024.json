@@ -5,19 +5,60 @@
   "search_query": "DocuSign e-signature competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Adobe Acrobat Sign", "notes": "Adobe Suite partner offering eSignature as secondary service, advanced electronic signatures for PDF documents"},
-    {"name": "PandaDoc", "notes": "Best alternative for businesses managing sales documents efficiently, comprehensive document management beyond basic eSignature"},
-    {"name": "OneSpan Sign", "notes": "Outranks DocuSign in ease of use, setup, and administration according to G2; rated 94% vs DocuSign's 84% for being a good business partner"},
-    {"name": "Juro", "notes": "Top-rated DocuSign competitor, comprehensive contract lifecycle management"},
-    {"name": "Signaturely", "notes": "Top DocuSign alternative with simpler interface and competitive pricing"},
-    {"name": "Dropbox Sign", "notes": "Formerly HelloSign, integrated with Dropbox ecosystem for seamless document signing"},
-    {"name": "signNow", "notes": "Top-5 DocuSign competitor offering affordable eSignature solutions"},
-    {"name": "Zoho Sign", "notes": "Strong integration with Zoho CRM, Books, WorkDrive, and Creator ecosystem"},
-    {"name": "DocHub", "notes": "Complete platform for document collaboration with team collaboration and editing functionalities"},
-    {"name": "SignRequest", "notes": "Simple and straightforward signature solution for teams of every size"},
-    {"name": "Documenso", "notes": "Open source DocuSign alternative with enterprise-grade functionality"},
-    {"name": "OpenSign", "notes": "Free and open source alternative offering unlimited e-signatures"}
+    {
+      "name": "Adobe Acrobat Sign",
+      "notes": "Adobe Suite partner offering eSignature as secondary service, advanced electronic signatures for PDF documents"
+    },
+    {
+      "name": "PandaDoc",
+      "notes": "Best alternative for businesses managing sales documents efficiently, comprehensive document management beyond basic eSignature"
+    },
+    {
+      "name": "OneSpan Sign",
+      "notes": "Outranks DocuSign in ease of use, setup, and administration according to G2; rated 94% vs DocuSign's 84% for being a good business partner"
+    },
+    {
+      "name": "Juro",
+      "notes": "Top-rated DocuSign competitor, comprehensive contract lifecycle management"
+    },
+    {
+      "name": "Signaturely",
+      "notes": "Top DocuSign alternative with simpler interface and competitive pricing"
+    },
+    {
+      "name": "Dropbox Sign",
+      "notes": "Formerly HelloSign, integrated with Dropbox ecosystem for seamless document signing"
+    },
+    {
+      "name": "signNow",
+      "notes": "Top-5 DocuSign competitor offering affordable eSignature solutions"
+    },
+    {
+      "name": "Zoho Sign",
+      "notes": "Strong integration with Zoho CRM, Books, WorkDrive, and Creator ecosystem"
+    },
+    {
+      "name": "DocHub",
+      "notes": "Complete platform for document collaboration with team collaboration and editing functionalities"
+    },
+    {
+      "name": "SignRequest",
+      "notes": "Simple and straightforward signature solution for teams of every size"
+    },
+    {
+      "name": "Documenso",
+      "notes": "Open source DocuSign alternative with enterprise-grade functionality"
+    },
+    {
+      "name": "OpenSign",
+      "notes": "Free and open source alternative offering unlimited e-signatures"
+    }
   ],
-  "context": "DocuSign dominates the e-signature market with over 70% market share in 2024. However, G2 counts at least 350 DocuSign competitors, with 100 having four-star ratings or better. Users commonly seek alternatives due to DocuSign's complex interface, lack of free plan, and limited monthly signature requests on lower tiers. DocuSign's Personal plan costs $120 annually but limits users to 5 signature requests per month. Many alternatives offer better usage limits, competitive pricing, and advanced features as standard, with some providing unlimited signatures for free.",
-  "sources": ["https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives", "https://www.pandadoc.com/blog/docusign-alternatives/", "https://juro.com/learn/docusign-alternatives", "https://signaturely.com/docusign-competitors/"]
+  "context": "DocuSign, Inc. is a electronic signature and agreement cloud company focused on e-signature, contract lifecycle management, and agreement automation. Intelligent Agreement Management with AI. Post-pandemic normalization.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives",
+    "https://www.pandadoc.com/blog/docusign-alternatives/",
+    "https://juro.com/learn/docusign-alternatives",
+    "https://signaturely.com/docusign-competitors/"
+  ]
 }

@@ -4,19 +4,52 @@
   "year": 2000,
   "search_query": "Accenture competitors 2000",
   "search_date": "2025-12-24",
-  "context": "Year 2000 marked Accenture's transition from Andersen Consulting to an independent entity. The IT consulting market was dominated by large systems integrators and the Big Five accounting firms expanding their consulting practices. Y2K remediation projects were winding down, and companies were focused on enterprise systems implementation (especially ERP) and early e-business transformation.",
+  "context": "Accenture is a global professional services and consulting firm focused on IT consulting, strategy, digital transformation, and technology services. Split from Arthur Andersen and rebranded from Andersen Consulting. Y2K projects winding down, focus on ERP implementations.",
   "competitors": [
-    {"name": "IBM Global Services", "notes": "Major IT services and consulting competitor with global reach"},
-    {"name": "Deloitte Consulting", "notes": "Big Five accounting firm with extensive technology consulting practice"},
-    {"name": "PricewaterhouseCoopers (PwC)", "notes": "Big Five firm offering IT consulting and business transformation services"},
-    {"name": "KPMG Consulting", "notes": "Big Five firm with technology and management consulting services"},
-    {"name": "Ernst & Young (EY)", "notes": "Big Five firm providing IT and business consulting"},
-    {"name": "Capgemini", "notes": "European-based global IT consulting and outsourcing leader"},
-    {"name": "McKinsey & Company", "notes": "Premier strategy consulting firm competing in high-end management consulting"},
-    {"name": "Boston Consulting Group (BCG)", "notes": "Top-tier strategy consulting firm"},
-    {"name": "Bain & Company", "notes": "Leading strategy consulting firm, part of 'Big Three'"},
-    {"name": "CSC (Computer Sciences Corporation)", "notes": "Major IT services and systems integration company"},
-    {"name": "EDS (Electronic Data Systems)", "notes": "Large IT services and business process outsourcing provider"}
+    {
+      "name": "IBM Global Services",
+      "notes": "Major IT services and consulting competitor with global reach"
+    },
+    {
+      "name": "Deloitte Consulting",
+      "notes": "Big Five accounting firm with extensive technology consulting practice"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC)",
+      "notes": "Big Five firm offering IT consulting and business transformation services"
+    },
+    {
+      "name": "KPMG Consulting",
+      "notes": "Big Five firm with technology and management consulting services"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "notes": "Big Five firm providing IT and business consulting"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "European-based global IT consulting and outsourcing leader"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Premier strategy consulting firm competing in high-end management consulting"
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "notes": "Top-tier strategy consulting firm"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Leading strategy consulting firm, part of 'Big Three'"
+    },
+    {
+      "name": "CSC (Computer Sciences Corporation)",
+      "notes": "Major IT services and systems integration company"
+    },
+    {
+      "name": "EDS (Electronic Data Systems)",
+      "notes": "Large IT services and business process outsourcing provider"
+    }
   ],
   "sources": [
     "https://www.1840andco.com/blog/accenture-competitors",

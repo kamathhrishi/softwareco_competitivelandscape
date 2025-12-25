@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Netflix competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Netflix is the global streaming leader with 300M+ subscribers. The company expanded into live sports (NFL, WWE), gaming, and advertising while competitors consolidate amid streaming wars.",
+  "context": "Netflix, Inc. is a streaming entertainment service focused on subscription video streaming and original content production. Streaming leader with live events. Competing with Disney+, Amazon.",
   "competitors": [
-    {"name": "Disney+", "notes": "Disney streaming with ESPN integration plans"},
-    {"name": "Amazon Prime Video", "notes": "Streaming with Thursday Night Football and MGM content"},
-    {"name": "YouTube", "notes": "Largest video platform competing for viewing time"},
-    {"name": "Max", "notes": "Warner Bros Discovery streaming with HBO originals"},
-    {"name": "Apple TV+", "notes": "Premium originals and sports rights"},
-    {"name": "Peacock", "notes": "NBCU streaming with sports and Olympics"},
-    {"name": "TikTok", "notes": "Short-form video capturing younger demographics"},
-    {"name": "Tubi", "notes": "Free ad-supported streaming growing rapidly"}
+    {
+      "name": "Disney+",
+      "notes": "Disney streaming with ESPN integration plans"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "notes": "Streaming with Thursday Night Football and MGM content"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Largest video platform competing for viewing time"
+    },
+    {
+      "name": "Max",
+      "notes": "Warner Bros Discovery streaming with HBO originals"
+    },
+    {
+      "name": "Apple TV+",
+      "notes": "Premium originals and sports rights"
+    },
+    {
+      "name": "Peacock",
+      "notes": "NBCU streaming with sports and Olympics"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Short-form video capturing younger demographics"
+    },
+    {
+      "name": "Tubi",
+      "notes": "Free ad-supported streaming growing rapidly"
+    }
   ],
-  "sources": ["Streaming industry analysis"]
+  "sources": [
+    "Streaming industry analysis"
+  ]
 }

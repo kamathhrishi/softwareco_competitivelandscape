@@ -5,12 +5,30 @@
   "search_query": "Elastic ELK Stack competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Splunk", "notes": "Enterprise machine data analytics, primary commercial competitor"},
-    {"name": "Datadog", "notes": "Cloud-native monitoring platform with log management"},
-    {"name": "Sumo Logic", "notes": "Cloud-native machine data analytics"},
-    {"name": "AWS CloudWatch", "notes": "Native AWS logging and monitoring"},
-    {"name": "Graylog", "notes": "Open-source log management alternative"}
+    {
+      "name": "Splunk",
+      "notes": "Enterprise machine data analytics, primary commercial competitor"
+    },
+    {
+      "name": "Datadog",
+      "notes": "Cloud-native monitoring platform with log management"
+    },
+    {
+      "name": "Sumo Logic",
+      "notes": "Cloud-native machine data analytics"
+    },
+    {
+      "name": "AWS CloudWatch",
+      "notes": "Native AWS logging and monitoring"
+    },
+    {
+      "name": "Graylog",
+      "notes": "Open-source log management alternative"
+    }
   ],
-  "context": "In 2020, Elastic competed with its ELK Stack (Elasticsearch, Logstash, Kibana) against Splunk and cloud-native alternatives. AWS's launch of Open Distro for Elasticsearch created tension over open-source licensing. The observability market was consolidating around unified platforms combining logs, metrics, and APM. Elastic expanded beyond search into observability and security (SIEM). Cloud deployment through Elastic Cloud became increasingly important as customers sought managed services.",
-  "sources": ["https://www.g2.com/products/elastic-stack/competitors/alternatives", "https://www.gartner.com/reviews/market/security-information-event-management"]
+  "context": "Elastic N.V. is a search and observability company focused on Elasticsearch, observability, and enterprise search solutions. IPO. Cloud adoption. Observability and security expansion.",
+  "sources": [
+    "https://www.g2.com/products/elastic-stack/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/security-information-event-management"
+  ]
 }

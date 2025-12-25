@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Redfin competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Redfin is a technology-powered real estate brokerage in a challenged housing market. NAR commission settlement creates opportunity for transparent pricing model Redfin pioneered.",
+  "context": "Redfin Corporation is a technology-powered real estate brokerage focused on real estate brokerage, iBuying, and mortgage services. Exited iBuying. Focus on core brokerage and services.",
   "competitors": [
-    {"name": "Zillow", "notes": "Leading real estate portal and Zillow Home Loans mortgage"},
-    {"name": "Compass", "notes": "Tech-enabled luxury brokerage"},
-    {"name": "eXp Realty", "notes": "Cloud-based brokerage with agent model"},
-    {"name": "Opendoor", "notes": "iBuyer and buy-before-you-sell services"},
-    {"name": "Traditional Brokerages", "notes": "Keller Williams, RE/MAX, Coldwell Banker"},
-    {"name": "Realtor.com", "notes": "Real estate portal with agent services"},
-    {"name": "Rocket Homes", "notes": "Rocket Companies real estate brokerage"},
-    {"name": "Offerpad", "notes": "iBuyer competitor"}
+    {
+      "name": "Zillow",
+      "notes": "Leading real estate portal and Zillow Home Loans mortgage"
+    },
+    {
+      "name": "Compass",
+      "notes": "Tech-enabled luxury brokerage"
+    },
+    {
+      "name": "eXp Realty",
+      "notes": "Cloud-based brokerage with agent model"
+    },
+    {
+      "name": "Opendoor",
+      "notes": "iBuyer and buy-before-you-sell services"
+    },
+    {
+      "name": "Traditional Brokerages",
+      "notes": "Keller Williams, RE/MAX, Coldwell Banker"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "Real estate portal with agent services"
+    },
+    {
+      "name": "Rocket Homes",
+      "notes": "Rocket Companies real estate brokerage"
+    },
+    {
+      "name": "Offerpad",
+      "notes": "iBuyer competitor"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

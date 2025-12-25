@@ -4,18 +4,50 @@
   "year": 2024,
   "search_query": "Tesla competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Tesla faced margin pressure from EV price wars while ramping Cybertruck production. The company focused on FSD development, energy business growth, and next-gen affordable vehicle platform.",
+  "context": "Tesla, Inc. is a electric vehicle and clean energy company focused on electric vehicles, energy storage, and solar. Cybertruck production. FSD advancements. Energy growing.",
   "competitors": [
-    {"name": "BYD", "notes": "Surpassed Tesla in quarterly EV sales"},
-    {"name": "Ford", "notes": "Major EV investments, F-150 Lightning"},
-    {"name": "GM", "notes": "Chevy Equinox EV, Ultium platform"},
-    {"name": "Rivian", "notes": "R1T/R1S and Amazon partnership"},
-    {"name": "Lucid", "notes": "Air sedan and Gravity SUV"},
-    {"name": "Mercedes-Benz", "notes": "EQS, EQE luxury EVs"},
-    {"name": "Volkswagen", "notes": "ID.4, ID.Buzz"},
-    {"name": "Hyundai", "notes": "Ioniq 5, Ioniq 6"},
-    {"name": "Polestar", "notes": "Volvo/Geely premium EVs"},
-    {"name": "NIO", "notes": "Chinese premium EV with battery swap"}
+    {
+      "name": "BYD",
+      "notes": "Surpassed Tesla in quarterly EV sales"
+    },
+    {
+      "name": "Ford",
+      "notes": "Major EV investments, F-150 Lightning"
+    },
+    {
+      "name": "GM",
+      "notes": "Chevy Equinox EV, Ultium platform"
+    },
+    {
+      "name": "Rivian",
+      "notes": "R1T/R1S and Amazon partnership"
+    },
+    {
+      "name": "Lucid",
+      "notes": "Air sedan and Gravity SUV"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "notes": "EQS, EQE luxury EVs"
+    },
+    {
+      "name": "Volkswagen",
+      "notes": "ID.4, ID.Buzz"
+    },
+    {
+      "name": "Hyundai",
+      "notes": "Ioniq 5, Ioniq 6"
+    },
+    {
+      "name": "Polestar",
+      "notes": "Volvo/Geely premium EVs"
+    },
+    {
+      "name": "NIO",
+      "notes": "Chinese premium EV with battery swap"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

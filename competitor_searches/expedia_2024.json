@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Expedia competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Expedia unified its brands on a single technology platform. The company combines OTA business (Expedia, Hotels.com), vacation rentals (Vrbo), and B2B travel technology.",
+  "context": "Expedia Group, Inc. is a online travel platform focused on travel booking, vacation rentals, and travel technology. Travel recovery. One Key loyalty program. AI travel planning.",
   "competitors": [
-    {"name": "Booking Holdings", "notes": "Largest OTA with Booking.com global leadership"},
-    {"name": "Airbnb", "notes": "Alternative accommodations competitor to Vrbo"},
-    {"name": "Google Travel", "notes": "Travel search and planning with AI capabilities"},
-    {"name": "TripAdvisor", "notes": "Viator experiences and travel reviews"},
-    {"name": "Hopper", "notes": "Mobile travel fintech with price prediction"},
-    {"name": "Trip.com Group", "notes": "Global OTA based in China"},
-    {"name": "Marriott/Hilton Direct", "notes": "Hotel chains with strong loyalty programs"},
-    {"name": "Kayak (Booking)", "notes": "Metasearch competing for travel planning"}
+    {
+      "name": "Booking Holdings",
+      "notes": "Largest OTA with Booking.com global leadership"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Alternative accommodations competitor to Vrbo"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Travel search and planning with AI capabilities"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Viator experiences and travel reviews"
+    },
+    {
+      "name": "Hopper",
+      "notes": "Mobile travel fintech with price prediction"
+    },
+    {
+      "name": "Trip.com Group",
+      "notes": "Global OTA based in China"
+    },
+    {
+      "name": "Marriott/Hilton Direct",
+      "notes": "Hotel chains with strong loyalty programs"
+    },
+    {
+      "name": "Kayak (Booking)",
+      "notes": "Metasearch competing for travel planning"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

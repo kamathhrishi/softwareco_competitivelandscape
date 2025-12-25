@@ -5,17 +5,50 @@
   "search_query": "Blackbaud competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Salesforce Nonprofit Cloud", "notes": "Leading competitor with 360-view CRM"},
-    {"name": "Bloomerang", "notes": "Major competitor in donor retention"},
-    {"name": "GiveCampus", "notes": "Strong in education fundraising"},
-    {"name": "Virtuous CRM", "notes": "For mid-sized organizations"},
-    {"name": "NeonCRM", "notes": "Relationship-focused with automation"},
-    {"name": "DonorPerfect", "notes": "User-friendly established platform"},
-    {"name": "Bonterra (formerly EveryAction)", "notes": "Major nonprofit technology provider"},
-    {"name": "Community Brands", "notes": "Enterprise competitor"},
-    {"name": "Benevity", "notes": "Corporate social responsibility platform"},
-    {"name": "Ellucian", "notes": "Higher education software"}
+    {
+      "name": "Salesforce Nonprofit Cloud",
+      "notes": "Leading competitor with 360-view CRM"
+    },
+    {
+      "name": "Bloomerang",
+      "notes": "Major competitor in donor retention"
+    },
+    {
+      "name": "GiveCampus",
+      "notes": "Strong in education fundraising"
+    },
+    {
+      "name": "Virtuous CRM",
+      "notes": "For mid-sized organizations"
+    },
+    {
+      "name": "NeonCRM",
+      "notes": "Relationship-focused with automation"
+    },
+    {
+      "name": "DonorPerfect",
+      "notes": "User-friendly established platform"
+    },
+    {
+      "name": "Bonterra (formerly EveryAction)",
+      "notes": "Major nonprofit technology provider"
+    },
+    {
+      "name": "Community Brands",
+      "notes": "Enterprise competitor"
+    },
+    {
+      "name": "Benevity",
+      "notes": "Corporate social responsibility platform"
+    },
+    {
+      "name": "Ellucian",
+      "notes": "Higher education software"
+    }
   ],
-  "context": "By 2024, Blackbaud faces 568+ active competitors. Market fragmented with specialized solutions for different org sizes: enterprise (Salesforce), mid-size (Virtuous, NeonCRM), and small orgs. Blackbaud ranks 3rd among 647 competitors despite challenges with pricing and complexity.",
-  "sources": ["https://www.bonterratech.com/blog/blackbaud-alternatives", "https://tracxn.com/d/companies/blackbaud/__CDq1hONSAElB0s4ziqPsfWSmZq1eELukb_rnjucopiQ/competitors"]
+  "context": "Blackbaud, Inc. is a software for nonprofits and social good organizations focused on fundraising, CRM, financial management, and analytics for nonprofits. Acquired by Clearlake Capital. Cloud platform modernization.",
+  "sources": [
+    "https://www.bonterratech.com/blog/blackbaud-alternatives",
+    "https://tracxn.com/d/companies/blackbaud/__CDq1hONSAElB0s4ziqPsfWSmZq1eELukb_rnjucopiQ/competitors"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "Teradata data warehouse competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Oracle Exadata", "notes": "Engineered system for data warehouse and OLTP"},
-    {"name": "IBM Netezza", "notes": "Data warehouse appliance"},
-    {"name": "SAP HANA", "notes": "In-memory database platform"},
-    {"name": "Amazon Redshift", "notes": "Emerging cloud data warehouse"},
-    {"name": "Microsoft SQL Server", "notes": "Enterprise database with data warehouse capabilities"}
+    {
+      "name": "Oracle Exadata",
+      "notes": "Engineered system for data warehouse and OLTP"
+    },
+    {
+      "name": "IBM Netezza",
+      "notes": "Data warehouse appliance"
+    },
+    {
+      "name": "SAP HANA",
+      "notes": "In-memory database platform"
+    },
+    {
+      "name": "Amazon Redshift",
+      "notes": "Emerging cloud data warehouse"
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "notes": "Enterprise database with data warehouse capabilities"
+    }
   ],
-  "context": "In 2015, Teradata was the leading data warehouse appliance vendor facing cloud disruption. Amazon Redshift (launched 2012) was gaining traction as cloud-native alternative. SAP HANA's in-memory architecture represented new competitive threat. The market was beginning multi-year transition from on-premises appliances to cloud data warehouses. Teradata was developing cloud strategy while defending enterprise installed base. Hadoop ecosystem also competed for analytics workloads.",
-  "sources": ["https://6sense.com/tech/data-warehouse/teradata-market-share"]
+  "context": "Teradata Corporation is a cloud analytics and data platform company focused on enterprise data warehousing and analytics. Cloud hybrid strategy development.",
+  "sources": [
+    "https://6sense.com/tech/data-warehouse/teradata-market-share"
+  ]
 }

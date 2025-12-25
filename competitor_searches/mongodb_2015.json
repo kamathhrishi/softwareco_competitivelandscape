@@ -5,15 +5,41 @@
   "search_query": "MongoDB NoSQL competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Apache Cassandra", "notes": "Open-source NoSQL database built for high availability and scalability"},
-    {"name": "Redis", "notes": "Open-source in-memory data store offering extreme speed"},
-    {"name": "Amazon DynamoDB", "notes": "Fully managed NoSQL database from AWS"},
-    {"name": "Couchbase", "notes": "Distributed NoSQL database platform"},
-    {"name": "Apache HBase", "notes": "Open-source wide-column NoSQL database"},
-    {"name": "RethinkDB", "notes": "Open-source distributed NoSQL database for real-time applications"},
-    {"name": "CockroachDB", "notes": "Distributed SQL database founded in 2015"},
-    {"name": "PostgreSQL", "notes": "Relational database adding JSON support"}
+    {
+      "name": "Apache Cassandra",
+      "notes": "Open-source NoSQL database built for high availability and scalability"
+    },
+    {
+      "name": "Redis",
+      "notes": "Open-source in-memory data store offering extreme speed"
+    },
+    {
+      "name": "Amazon DynamoDB",
+      "notes": "Fully managed NoSQL database from AWS"
+    },
+    {
+      "name": "Couchbase",
+      "notes": "Distributed NoSQL database platform"
+    },
+    {
+      "name": "Apache HBase",
+      "notes": "Open-source wide-column NoSQL database"
+    },
+    {
+      "name": "RethinkDB",
+      "notes": "Open-source distributed NoSQL database for real-time applications"
+    },
+    {
+      "name": "CockroachDB",
+      "notes": "Distributed SQL database founded in 2015"
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Relational database adding JSON support"
+    }
   ],
-  "context": "By 2015, the NoSQL database market had matured significantly. MongoDB faced strong competition from various NoSQL alternatives, each with different strengths.",
-  "sources": ["https://www.cloudzero.com/blog/mongodb-alternatives/"]
+  "context": "MongoDB, Inc. is a database platform company focused on document database, Atlas cloud, and developer data platform. Atlas cloud database launched. Enterprise growth.",
+  "sources": [
+    "https://www.cloudzero.com/blog/mongodb-alternatives/"
+  ]
 }

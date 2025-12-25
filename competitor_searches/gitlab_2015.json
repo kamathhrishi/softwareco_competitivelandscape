@@ -5,12 +5,29 @@
   "search_query": "GitLab DevOps competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "GitHub", "notes": "Dominant code hosting platform, particularly for open source"},
-    {"name": "Bitbucket", "notes": "Atlassian's Git repository service"},
-    {"name": "Jenkins", "notes": "Open-source CI/CD automation server"},
-    {"name": "Travis CI", "notes": "Hosted CI service popular with open source projects"},
-    {"name": "CircleCI", "notes": "Cloud-based continuous integration platform"}
+    {
+      "name": "GitHub",
+      "notes": "Dominant code hosting platform, particularly for open source"
+    },
+    {
+      "name": "Bitbucket",
+      "notes": "Atlassian's Git repository service"
+    },
+    {
+      "name": "Jenkins",
+      "notes": "Open-source CI/CD automation server"
+    },
+    {
+      "name": "Travis CI",
+      "notes": "Hosted CI service popular with open source projects"
+    },
+    {
+      "name": "CircleCI",
+      "notes": "Cloud-based continuous integration platform"
+    }
   ],
-  "context": "In 2015, GitLab was an early-stage startup positioning against GitHub with open-source self-hosted option. GitHub dominated code hosting while GitLab differentiated with integrated CI/CD and self-hosted deployment option. The DevOps movement was accelerating CI/CD adoption. GitLab received Series A funding and began building its all-in-one DevOps platform vision. Competition focused on repository hosting, with CI/CD tools as separate products.",
-  "sources": ["https://about.gitlab.com/company/history/"]
+  "context": "GitLab Inc. is a DevSecOps platform company focused on source code management, CI/CD, and security in single platform. Open source Git platform. Self-hosted alternative to GitHub.",
+  "sources": [
+    "https://about.gitlab.com/company/history/"
+  ]
 }

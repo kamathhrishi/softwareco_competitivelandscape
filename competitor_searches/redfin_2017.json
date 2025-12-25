@@ -4,16 +4,42 @@
   "year": 2017,
   "search_query": "Redfin competitors 2017",
   "search_date": "2024-12-24",
-  "context": "Redfin went public in July 2017 as a technology-powered real estate brokerage. The company offered 1-1.5% listing fees compared to traditional 2.5-3%, combining agents with technology.",
+  "context": "Redfin Corporation is a technology-powered real estate brokerage focused on real estate brokerage, iBuying, and mortgage services. Expanded markets. Mobile app and web tools.",
   "competitors": [
-    {"name": "Zillow", "notes": "Real estate portal with agent referral business"},
-    {"name": "Realtor.com", "notes": "MLS-powered real estate website"},
-    {"name": "Trulia (Zillow)", "notes": "Real estate portal owned by Zillow"},
-    {"name": "Opendoor", "notes": "Emerging iBuyer model for instant offers"},
-    {"name": "Traditional Brokerages", "notes": "Coldwell Banker, RE/MAX, Keller Williams"},
-    {"name": "Compass", "notes": "Tech-enabled luxury brokerage"},
-    {"name": "Purplebricks", "notes": "UK-based flat-fee brokerage entering US"},
-    {"name": "FSBO", "notes": "For sale by owner options"}
+    {
+      "name": "Zillow",
+      "notes": "Real estate portal with agent referral business"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "MLS-powered real estate website"
+    },
+    {
+      "name": "Trulia (Zillow)",
+      "notes": "Real estate portal owned by Zillow"
+    },
+    {
+      "name": "Opendoor",
+      "notes": "Emerging iBuyer model for instant offers"
+    },
+    {
+      "name": "Traditional Brokerages",
+      "notes": "Coldwell Banker, RE/MAX, Keller Williams"
+    },
+    {
+      "name": "Compass",
+      "notes": "Tech-enabled luxury brokerage"
+    },
+    {
+      "name": "Purplebricks",
+      "notes": "UK-based flat-fee brokerage entering US"
+    },
+    {
+      "name": "FSBO",
+      "notes": "For sale by owner options"
+    }
   ],
-  "sources": ["Real estate technology analysis"]
+  "sources": [
+    "Real estate technology analysis"
+  ]
 }

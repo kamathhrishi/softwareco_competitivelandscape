@@ -5,17 +5,49 @@
   "search_query": "Fortinet security competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Leading competitor with cloud-first approach to security"},
-    {"name": "Cisco Systems", "notes": "Extensive range of high-performance security products"},
-    {"name": "Check Point Software Technologies", "notes": "Unified security management with advanced threat prevention"},
-    {"name": "Symantec (Broadcom)", "notes": "Major enterprise security provider"},
-    {"name": "Trend Micro", "notes": "Global cybersecurity leader"},
-    {"name": "Sophos", "notes": "Simplified, centralized management with strong endpoint protection"},
-    {"name": "Juniper Networks", "notes": "High-performance, scalable security solutions"},
-    {"name": "SonicWall", "notes": "Trusted provider of firewalls, VPNs, and security solutions"},
-    {"name": "Zscaler", "notes": "Cloud security platform leader in zero trust and SASE"},
-    {"name": "CrowdStrike", "notes": "Endpoint security leader expanding into network security"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading competitor with cloud-first approach to security"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Extensive range of high-performance security products"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Unified security management with advanced threat prevention"
+    },
+    {
+      "name": "Symantec (Broadcom)",
+      "notes": "Major enterprise security provider"
+    },
+    {
+      "name": "Trend Micro",
+      "notes": "Global cybersecurity leader"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Simplified, centralized management with strong endpoint protection"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "High-performance, scalable security solutions"
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Trusted provider of firewalls, VPNs, and security solutions"
+    },
+    {
+      "name": "Zscaler",
+      "notes": "Cloud security platform leader in zero trust and SASE"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Endpoint security leader expanding into network security"
+    }
   ],
-  "context": "In 2024, the network security market is dominated by the convergence of SASE, zero trust architecture, and AI-powered threat detection. Traditional appliance vendors compete against cloud-native providers.",
-  "sources": ["https://www.exabeam.com/explainers/fortinet/10-fortinet-competitors-to-know-in-2025/"]
+  "context": "Fortinet, Inc. is a cybersecurity company focused on network security, firewalls, and security fabric. AI-powered security operations. FortiAI capabilities.",
+  "sources": [
+    "https://www.exabeam.com/explainers/fortinet/10-fortinet-competitors-to-know-in-2025/"
+  ]
 }

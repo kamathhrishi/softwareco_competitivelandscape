@@ -4,16 +4,42 @@
   "year": 2005,
   "search_query": "PayPal competitors 2005",
   "search_date": "2024-12-24",
-  "context": "PayPal was owned by eBay (acquired 2002) and was the dominant online payment method. The company processed $27B in payments in 2005, enabling e-commerce growth.",
+  "context": "PayPal Holdings, Inc. is a digital payments company focused on online payments, Venmo, Braintree, and merchant services. eBay subsidiary. Online payment standard.",
   "competitors": [
-    {"name": "Credit Cards", "notes": "Visa, Mastercard, Amex for online payments"},
-    {"name": "Google Checkout", "notes": "Google's payment service competing with PayPal"},
-    {"name": "Amazon Payments", "notes": "Amazon's checkout service"},
-    {"name": "Bill Me Later", "notes": "Buy now pay later service later acquired by PayPal"},
-    {"name": "Western Union", "notes": "Money transfer service"},
-    {"name": "MoneyGram", "notes": "Money transfer competitor"},
-    {"name": "Authorize.net", "notes": "Payment gateway for merchants"},
-    {"name": "Bank Transfers", "notes": "ACH and wire transfers"}
+    {
+      "name": "Credit Cards",
+      "notes": "Visa, Mastercard, Amex for online payments"
+    },
+    {
+      "name": "Google Checkout",
+      "notes": "Google's payment service competing with PayPal"
+    },
+    {
+      "name": "Amazon Payments",
+      "notes": "Amazon's checkout service"
+    },
+    {
+      "name": "Bill Me Later",
+      "notes": "Buy now pay later service later acquired by PayPal"
+    },
+    {
+      "name": "Western Union",
+      "notes": "Money transfer service"
+    },
+    {
+      "name": "MoneyGram",
+      "notes": "Money transfer competitor"
+    },
+    {
+      "name": "Authorize.net",
+      "notes": "Payment gateway for merchants"
+    },
+    {
+      "name": "Bank Transfers",
+      "notes": "ACH and wire transfers"
+    }
   ],
-  "sources": ["Payments industry analysis"]
+  "sources": [
+    "Payments industry analysis"
+  ]
 }

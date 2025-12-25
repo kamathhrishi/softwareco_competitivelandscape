@@ -4,16 +4,42 @@
   "year": 2021,
   "search_query": "Rivian competitors 2021",
   "search_date": "2024-12-24",
-  "context": "Rivian went public in November 2021 in the largest IPO of the year, raising $10.5B at $78/share. The company began R1T deliveries, becoming first to market with an electric pickup truck.",
+  "context": "Rivian Automotive, Inc. is a electric vehicle manufacturer focused on electric trucks, SUVs, and delivery vans. IPO at $66B. R1T and R1S production began.",
   "competitors": [
-    {"name": "Tesla", "notes": "EV leader, Cybertruck delayed"},
-    {"name": "Ford", "notes": "F-150 Lightning coming in 2022"},
-    {"name": "GM", "notes": "Hummer EV and Ultium announced"},
-    {"name": "Lucid Motors", "notes": "Luxury EV sedan going public via SPAC"},
-    {"name": "Lordstown Motors", "notes": "Endurance electric truck"},
-    {"name": "Nikola", "notes": "Electric/hydrogen truck startup"},
-    {"name": "Canoo", "notes": "EV startup with lifestyle vehicle"},
-    {"name": "Amazon", "notes": "Investor and delivery van customer"}
+    {
+      "name": "Tesla",
+      "notes": "EV leader, Cybertruck delayed"
+    },
+    {
+      "name": "Ford",
+      "notes": "F-150 Lightning coming in 2022"
+    },
+    {
+      "name": "GM",
+      "notes": "Hummer EV and Ultium announced"
+    },
+    {
+      "name": "Lucid Motors",
+      "notes": "Luxury EV sedan going public via SPAC"
+    },
+    {
+      "name": "Lordstown Motors",
+      "notes": "Endurance electric truck"
+    },
+    {
+      "name": "Nikola",
+      "notes": "Electric/hydrogen truck startup"
+    },
+    {
+      "name": "Canoo",
+      "notes": "EV startup with lifestyle vehicle"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Investor and delivery van customer"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

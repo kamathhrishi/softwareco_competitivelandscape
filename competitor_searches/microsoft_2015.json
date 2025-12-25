@@ -5,15 +5,41 @@
   "search_query": "Microsoft competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Google (Alphabet Inc.)", "notes": "G Suite vs Office 365, Google Cloud vs Azure, Android dominance"},
-    {"name": "Apple Inc.", "notes": "iPhone competed with Windows Phone through 2015"},
-    {"name": "Amazon (AWS)", "notes": "AWS competing with Microsoft Azure in cloud computing"},
-    {"name": "Salesforce", "notes": "Dominant in CRM, Dynamics 365 competitor"},
-    {"name": "IBM", "notes": "IBM Cloud competing with Azure, enterprise solutions"},
-    {"name": "Oracle", "notes": "Competitor in cloud and enterprise software"},
-    {"name": "Sony", "notes": "PlayStation competing with Xbox"},
-    {"name": "Nintendo", "notes": "Gaming platform competitor"}
+    {
+      "name": "Google (Alphabet Inc.)",
+      "notes": "G Suite vs Office 365, Google Cloud vs Azure, Android dominance"
+    },
+    {
+      "name": "Apple Inc.",
+      "notes": "iPhone competed with Windows Phone through 2015"
+    },
+    {
+      "name": "Amazon (AWS)",
+      "notes": "AWS competing with Microsoft Azure in cloud computing"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Dominant in CRM, Dynamics 365 competitor"
+    },
+    {
+      "name": "IBM",
+      "notes": "IBM Cloud competing with Azure, enterprise solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in cloud and enterprise software"
+    },
+    {
+      "name": "Sony",
+      "notes": "PlayStation competing with Xbox"
+    },
+    {
+      "name": "Nintendo",
+      "notes": "Gaming platform competitor"
+    }
   ],
-  "context": "Transitional period as Microsoft pivoted to cloud under Satya Nadella. Windows Phone era ending. Competition in cloud infrastructure (Azure vs AWS vs Google Cloud) intensified.",
-  "sources": ["https://qz.com/1553700/this-30-year-timeline-reveals-microsofts-biggest-competitors"]
+  "context": "Microsoft Corporation is a technology company focused on cloud computing, productivity software, gaming, and AI. Satya Nadella transformation. Cloud-first, mobile-first.",
+  "sources": [
+    "https://qz.com/1553700/this-30-year-timeline-reveals-microsofts-biggest-competitors"
+  ]
 }

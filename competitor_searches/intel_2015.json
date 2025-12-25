@@ -5,15 +5,43 @@
   "search_query": "Intel competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD (Advanced Micro Devices)", "notes": "Intel's biggest competitor in x86 microprocessor market; top x86 manufacturer second to Intel"},
-    {"name": "NVIDIA", "notes": "Key player in GPU market; expanding into data centers, AI, and machine learning"},
-    {"name": "Samsung", "notes": "Competing in semiconductors; would surpass Intel as largest semiconductor maker by revenue in 2017-2018"},
-    {"name": "IBM", "notes": "Competes with own processors in servers and mainframes"},
-    {"name": "TSMC", "notes": "Competed with Intel for Apple chip fabrication contracts (2011-2015)"},
-    {"name": "Qualcomm", "notes": "Telecommunications and semiconductor manufacturer; mobile processor dominance"},
-    {"name": "ARM", "notes": "UK-based company focused on energy-efficient processor design"},
-    {"name": "Freescale Semiconductor", "notes": "Embedded processing solutions; acquired by NXP for $11.8B in June 2015"}
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Intel's biggest competitor in x86 microprocessor market; top x86 manufacturer second to Intel"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Key player in GPU market; expanding into data centers, AI, and machine learning"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Competing in semiconductors; would surpass Intel as largest semiconductor maker by revenue in 2017-2018"
+    },
+    {
+      "name": "IBM",
+      "notes": "Competes with own processors in servers and mainframes"
+    },
+    {
+      "name": "TSMC",
+      "notes": "Competed with Intel for Apple chip fabrication contracts (2011-2015)"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Telecommunications and semiconductor manufacturer; mobile processor dominance"
+    },
+    {
+      "name": "ARM",
+      "notes": "UK-based company focused on energy-efficient processor design"
+    },
+    {
+      "name": "Freescale Semiconductor",
+      "notes": "Embedded processing solutions; acquired by NXP for $11.8B in June 2015"
+    }
   ],
-  "context": "By 2015, Intel faced intensifying competition. Samsung emerged as a major threat. Intel competed with TSMC and Samsung for Apple chip fabrication contracts. Intel acquired Altera in 2015 for programmable logic devices.",
-  "sources": ["https://businessmodelanalyst.com/intel-competitors-alternatives/", "https://bstrategyhub.com/intel-competitors-and-alternatives/", "https://www.executivegov.com/articles/intels-dominance-chip-market-comprehensive-analysis"]
+  "context": "Intel Corporation is a semiconductor company focused on CPUs for PCs and data centers, foundry services. Data center growth. Missed mobile processor market.",
+  "sources": [
+    "https://businessmodelanalyst.com/intel-competitors-alternatives/",
+    "https://bstrategyhub.com/intel-competitors-and-alternatives/",
+    "https://www.executivegov.com/articles/intels-dominance-chip-market-comprehensive-analysis"
+  ]
 }

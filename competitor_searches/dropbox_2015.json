@@ -5,16 +5,46 @@
   "search_query": "Dropbox cloud storage competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Google Drive", "notes": "15 GB free storage vs Dropbox's 2 GB, Google Workspace integration"},
-    {"name": "Box", "notes": "Enterprise-focused with 10 GB free storage, enhanced security"},
-    {"name": "Microsoft OneDrive", "notes": "1TB cloud storage, integrated with Microsoft Office"},
-    {"name": "MEGA", "notes": "Launched 2013, 50 GB free storage, secure file storage"},
-    {"name": "Amazon Drive", "notes": "From Amazon but lacks syncing features"},
-    {"name": "Sync.com", "notes": "Focused on security and privacy"},
-    {"name": "pCloud", "notes": "Secure cloud storage services"},
-    {"name": "Tresorit", "notes": "Swiss-based, high security standards"},
-    {"name": "ownCloud", "notes": "Self-hosted storage for data privacy and control"}
+    {
+      "name": "Google Drive",
+      "notes": "15 GB free storage vs Dropbox's 2 GB, Google Workspace integration"
+    },
+    {
+      "name": "Box",
+      "notes": "Enterprise-focused with 10 GB free storage, enhanced security"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "1TB cloud storage, integrated with Microsoft Office"
+    },
+    {
+      "name": "MEGA",
+      "notes": "Launched 2013, 50 GB free storage, secure file storage"
+    },
+    {
+      "name": "Amazon Drive",
+      "notes": "From Amazon but lacks syncing features"
+    },
+    {
+      "name": "Sync.com",
+      "notes": "Focused on security and privacy"
+    },
+    {
+      "name": "pCloud",
+      "notes": "Secure cloud storage services"
+    },
+    {
+      "name": "Tresorit",
+      "notes": "Swiss-based, high security standards"
+    },
+    {
+      "name": "ownCloud",
+      "notes": "Self-hosted storage for data privacy and control"
+    }
   ],
-  "context": "By 2015, the cloud storage market had matured significantly with 'the days when Dropbox ruled' beginning to end. Dropbox faced intense competition from tech giants (Google, Microsoft, Amazon) and security-focused providers (MEGA, Tresorit, Sync.com). Competitors offered more generous free tiers.",
-  "sources": ["https://www.cloudwards.net/top-10-secure-dropbox-alternatives/", "https://www.techradar.com/best/dropbox-alternatives"]
+  "context": "Dropbox, Inc. is a cloud storage and collaboration platform focused on file sync, sharing, and team collaboration tools. Enterprise focus growing. Dropbox Business launched.",
+  "sources": [
+    "https://www.cloudwards.net/top-10-secure-dropbox-alternatives/",
+    "https://www.techradar.com/best/dropbox-alternatives"
+  ]
 }

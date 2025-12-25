@@ -5,11 +5,26 @@
   "search_query": "Cadence Design Systems EDA competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Synopsys", "notes": "Leading EDA vendor with strong focus on innovation, made more than 100 acquisitions since founding"},
-    {"name": "Mentor Graphics", "notes": "Major EDA competitor, later acquired by Siemens in 2017"},
-    {"name": "Keysight Technologies", "notes": "Provides design and test solutions for electronic systems"},
-    {"name": "Zuken", "notes": "Specializes in PCB and cable harness design software"}
+    {
+      "name": "Synopsys",
+      "notes": "Leading EDA vendor with strong focus on innovation, made more than 100 acquisitions since founding"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Major EDA competitor, later acquired by Siemens in 2017"
+    },
+    {
+      "name": "Keysight Technologies",
+      "notes": "Provides design and test solutions for electronic systems"
+    },
+    {
+      "name": "Zuken",
+      "notes": "Specializes in PCB and cable harness design software"
+    }
   ],
-  "context": "By 2010, the 'Big Three' EDA companies dominated the market. In January 2009, Lip-Bu Tan was confirmed as Cadence's president and CEO. Cadence had withdrawn a $1.6 billion offer to purchase Mentor Graphics in 2008.",
-  "sources": ["https://en.wikipedia.org/wiki/List_of_EDA_companies", "https://en.wikipedia.org/wiki/Cadence_Design_Systems"]
+  "context": "Cadence Design Systems, Inc. is a electronic design automation (EDA) software company focused on chip design, verification, and system analysis software. System design and analysis. Low-power design methodology.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_EDA_companies",
+    "https://en.wikipedia.org/wiki/Cadence_Design_Systems"
+  ]
 }

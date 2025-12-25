@@ -4,15 +4,38 @@
   "year": 2005,
   "search_query": "Take-Two Interactive competitors 2005",
   "search_date": "2024-12-24",
-  "context": "Take-Two established 2K publishing label after acquiring Visual Concepts from Sega. Hot Coffee mod controversy in GTA San Andreas led to FTC investigation and $20.1M settlement. GTA Liberty City Stories released for PSP.",
+  "context": "Take-Two Interactive Software, Inc. is a video game publisher focused on Grand Theft Auto, NBA 2K, and other AAA game franchises. Established 2K label. Hot Coffee controversy.",
   "competitors": [
-    {"name": "Electronic Arts", "notes": "Industry leader, dominated sports games with FIFA and Madden"},
-    {"name": "Activision", "notes": "Major publisher, Call of Duty franchise growing"},
-    {"name": "Ubisoft", "notes": "French publisher, Assassin's Creed in development"},
-    {"name": "THQ", "notes": "WWE games and licensed properties"},
-    {"name": "Sega", "notes": "Former console maker, now third-party publisher, Yakuza series began"},
-    {"name": "Midway Games", "notes": "Mortal Kombat publisher"},
-    {"name": "Vivendi Games", "notes": "Blizzard parent company"}
+    {
+      "name": "Electronic Arts",
+      "notes": "Industry leader, dominated sports games with FIFA and Madden"
+    },
+    {
+      "name": "Activision",
+      "notes": "Major publisher, Call of Duty franchise growing"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "French publisher, Assassin's Creed in development"
+    },
+    {
+      "name": "THQ",
+      "notes": "WWE games and licensed properties"
+    },
+    {
+      "name": "Sega",
+      "notes": "Former console maker, now third-party publisher, Yakuza series began"
+    },
+    {
+      "name": "Midway Games",
+      "notes": "Mortal Kombat publisher"
+    },
+    {
+      "name": "Vivendi Games",
+      "notes": "Blizzard parent company"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

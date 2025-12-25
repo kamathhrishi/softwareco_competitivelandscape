@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "PayPal competitors 2025",
   "search_date": "2024-12-24",
-  "context": "PayPal competes as a two-sided network with 400M+ accounts. The company focuses on checkout innovation, Venmo commerce, and advertising while facing pressure from Apple and banks.",
+  "context": "PayPal Holdings, Inc. is a digital payments company focused on online payments, Venmo, Braintree, and merchant services. Digital payments leader. Competing with Apple Pay, Block.",
   "competitors": [
-    {"name": "Apple Pay", "notes": "Dominant mobile wallet with browser/app checkout expansion"},
-    {"name": "Block", "notes": "Cash App and Square ecosystem competing in payments"},
-    {"name": "Stripe", "notes": "Leading payment infrastructure provider"},
-    {"name": "Adyen", "notes": "Unified commerce for global enterprises"},
-    {"name": "Shopify", "notes": "Integrated payments dominating e-commerce"},
-    {"name": "Klarna", "notes": "BNPL and payments super-app"},
-    {"name": "Affirm", "notes": "BNPL with major retail partnerships"},
-    {"name": "Zelle/FedNow", "notes": "Bank real-time payments networks"}
+    {
+      "name": "Apple Pay",
+      "notes": "Dominant mobile wallet with browser/app checkout expansion"
+    },
+    {
+      "name": "Block",
+      "notes": "Cash App and Square ecosystem competing in payments"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Leading payment infrastructure provider"
+    },
+    {
+      "name": "Adyen",
+      "notes": "Unified commerce for global enterprises"
+    },
+    {
+      "name": "Shopify",
+      "notes": "Integrated payments dominating e-commerce"
+    },
+    {
+      "name": "Klarna",
+      "notes": "BNPL and payments super-app"
+    },
+    {
+      "name": "Affirm",
+      "notes": "BNPL with major retail partnerships"
+    },
+    {
+      "name": "Zelle/FedNow",
+      "notes": "Bank real-time payments networks"
+    }
   ],
-  "sources": ["Payments industry analysis"]
+  "sources": [
+    "Payments industry analysis"
+  ]
 }

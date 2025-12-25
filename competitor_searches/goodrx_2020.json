@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "GoodRx competitors 2020",
   "search_date": "2024-12-24",
-  "context": "GoodRx went public in September 2020 during COVID. The company provides prescription drug price comparison and discount cards, helping consumers save on medications.",
+  "context": "GoodRx Holdings, Inc. is a healthcare platform for prescription pricing focused on prescription drug pricing, telehealth, and healthcare savings. IPO. Drug pricing transparency platform.",
   "competitors": [
-    {"name": "RxSaver (RetailMeNot)", "notes": "Prescription savings platform"},
-    {"name": "Blink Health", "notes": "Prescription discounts with home delivery"},
-    {"name": "SingleCare", "notes": "Prescription savings card company"},
-    {"name": "Amazon Pharmacy", "notes": "Amazon's online pharmacy with Prime savings"},
-    {"name": "Costco Pharmacy", "notes": "Low-cost pharmacy option"},
-    {"name": "Walmart $4 Generics", "notes": "Retailer discount prescription program"},
-    {"name": "Insurance PBMs", "notes": "Express Scripts, CVS Caremark pharmacy benefits"},
-    {"name": "Mark Cuban Cost Plus", "notes": "Emerging transparent pharmacy"}
+    {
+      "name": "RxSaver (RetailMeNot)",
+      "notes": "Prescription savings platform"
+    },
+    {
+      "name": "Blink Health",
+      "notes": "Prescription discounts with home delivery"
+    },
+    {
+      "name": "SingleCare",
+      "notes": "Prescription savings card company"
+    },
+    {
+      "name": "Amazon Pharmacy",
+      "notes": "Amazon's online pharmacy with Prime savings"
+    },
+    {
+      "name": "Costco Pharmacy",
+      "notes": "Low-cost pharmacy option"
+    },
+    {
+      "name": "Walmart $4 Generics",
+      "notes": "Retailer discount prescription program"
+    },
+    {
+      "name": "Insurance PBMs",
+      "notes": "Express Scripts, CVS Caremark pharmacy benefits"
+    },
+    {
+      "name": "Mark Cuban Cost Plus",
+      "notes": "Emerging transparent pharmacy"
+    }
   ],
-  "sources": ["Healthcare technology analysis"]
+  "sources": [
+    "Healthcare technology analysis"
+  ]
 }

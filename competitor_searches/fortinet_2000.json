@@ -5,13 +5,33 @@
   "search_query": "Fortinet firewall competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Multinational technology conglomerate specializing in networking hardware"},
-    {"name": "Check Point Software Technologies", "notes": "Israeli cybersecurity provider in firewall and network security"},
-    {"name": "Juniper Networks", "notes": "Networking and cybersecurity company offering routers and firewalls"},
-    {"name": "SonicWall", "notes": "Provider of comprehensive network security features"},
-    {"name": "WatchGuard", "notes": "Network security provider offering firewall solutions"},
-    {"name": "Barracuda Networks", "notes": "Security solutions provider"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Multinational technology conglomerate specializing in networking hardware"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Israeli cybersecurity provider in firewall and network security"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Networking and cybersecurity company offering routers and firewalls"
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Provider of comprehensive network security features"
+    },
+    {
+      "name": "WatchGuard",
+      "notes": "Network security provider offering firewall solutions"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "Security solutions provider"
+    }
   ],
-  "context": "Fortinet was founded in 2000 by Ken Xie and Michael Xie in Sunnyvale, California. The network security market was dominated by established players like Cisco, Check Point, and Juniper Networks.",
-  "sources": ["https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"]
+  "context": "Fortinet, Inc. is a cybersecurity company focused on network security, firewalls, and security fabric. Founded. FortiGate firewall with custom ASIC chips.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"
+  ]
 }

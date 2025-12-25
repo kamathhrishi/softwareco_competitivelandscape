@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Expedia competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Expedia Group competes through unified platform across Expedia, Hotels.com, Vrbo, and B2B travel technology. AI-powered trip planning enhances the booking experience.",
+  "context": "Expedia Group, Inc. is a online travel platform focused on travel booking, vacation rentals, and travel technology. Unified travel platform. Competing with Booking Holdings, Airbnb.",
   "competitors": [
-    {"name": "Booking Holdings", "notes": "Global OTA leader with connected trip strategy"},
-    {"name": "Airbnb", "notes": "Alternative accommodations and experiences leader"},
-    {"name": "Google Travel", "notes": "AI travel assistant threatening OTA model"},
-    {"name": "Trip.com Group", "notes": "Major Asian OTA with global expansion"},
-    {"name": "Hopper", "notes": "Mobile travel fintech with price prediction AI"},
-    {"name": "TripAdvisor/Viator", "notes": "Experiences and activities marketplace"},
-    {"name": "Hotel Direct Channels", "notes": "Chains driving direct bookings with AI and loyalty"},
-    {"name": "Airline NDC", "notes": "Airlines using new distribution to go direct"}
+    {
+      "name": "Booking Holdings",
+      "notes": "Global OTA leader with connected trip strategy"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Alternative accommodations and experiences leader"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "AI travel assistant threatening OTA model"
+    },
+    {
+      "name": "Trip.com Group",
+      "notes": "Major Asian OTA with global expansion"
+    },
+    {
+      "name": "Hopper",
+      "notes": "Mobile travel fintech with price prediction AI"
+    },
+    {
+      "name": "TripAdvisor/Viator",
+      "notes": "Experiences and activities marketplace"
+    },
+    {
+      "name": "Hotel Direct Channels",
+      "notes": "Chains driving direct bookings with AI and loyalty"
+    },
+    {
+      "name": "Airline NDC",
+      "notes": "Airlines using new distribution to go direct"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

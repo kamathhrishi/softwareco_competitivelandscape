@@ -5,13 +5,34 @@
   "search_query": "Cadence Design Systems EDA competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Synopsys", "notes": "Leading provider of EDA tools with broad range of solutions, part of EDA oligopoly"},
-    {"name": "Siemens EDA (Mentor Graphics)", "notes": "Strong in automotive and mil-aero sectors, integration with Siemens' broader portfolio"},
-    {"name": "Ansys", "notes": "Engineering simulation software for thermal, electromagnetic, and structural analysis"},
-    {"name": "Keysight Technologies", "notes": "Design and test solutions for RF, microwave, and high-speed digital design"},
-    {"name": "Zuken", "notes": "Specializes in PCB and cable harness design software"},
-    {"name": "Altair Engineering", "notes": "Emerging competitor in EDA and simulation space"}
+    {
+      "name": "Synopsys",
+      "notes": "Leading provider of EDA tools with broad range of solutions, part of EDA oligopoly"
+    },
+    {
+      "name": "Siemens EDA (Mentor Graphics)",
+      "notes": "Strong in automotive and mil-aero sectors, integration with Siemens' broader portfolio"
+    },
+    {
+      "name": "Ansys",
+      "notes": "Engineering simulation software for thermal, electromagnetic, and structural analysis"
+    },
+    {
+      "name": "Keysight Technologies",
+      "notes": "Design and test solutions for RF, microwave, and high-speed digital design"
+    },
+    {
+      "name": "Zuken",
+      "notes": "Specializes in PCB and cable harness design software"
+    },
+    {
+      "name": "Altair Engineering",
+      "notes": "Emerging competitor in EDA and simulation space"
+    }
   ],
-  "context": "The 2024 EDA market exhibits oligopolistic concentration with Synopsys, Cadence, and Siemens EDA collectively controlling the majority of revenue. Cadence is historically strong in networking and computing. New EDA startups face significant challenges from entrenched technical complexity and switching costs.",
-  "sources": ["https://pitchgrade.com/companies/cadence-design-systems", "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung"]
+  "context": "Cadence Design Systems, Inc. is a electronic design automation (EDA) software company focused on chip design, verification, and system analysis software. AI chip design explosion. Cadence.AI platform. Record backlog.",
+  "sources": [
+    "https://pitchgrade.com/companies/cadence-design-systems",
+    "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung"
+  ]
 }

@@ -4,22 +4,64 @@
   "year": 2024,
   "search_query": "Smartsheet competitors 2024",
   "search_date": "2025-12-24",
-  "context": "In 2024, Smartsheet was a mature public company serving over 9,400 enterprise customers with more than 2,000 employees. The company reported strong Q2 2024 revenue of $235.6 million, up 26% year-over-year, though with a net loss of $33.4 million. Major enterprise customers included HPE, Airbus, Iron Mountain, and Pacific Life. In September 2024, Vista Equity Partners and Blackstone announced their intent to acquire Smartsheet for $8.4 billion in cash at $56.50 per share, signaling strong private equity interest in the collaborative work management space. The competitive landscape had become increasingly crowded with specialized tools, all-in-one platforms, and AI-enhanced solutions. Common complaints about Smartsheet included high costs, complex user interface, steep learning curve, limited customization, and automation constraints.",
+  "context": "Smartsheet Inc. is a work management platform company focused on project management, collaboration, and workflow automation. AI features for project management.",
   "competitors": [
-    {"name": "Monday.com", "notes": "Monday.com remained a top competitor as a Work OS providing customizable no-code building blocks for shaping workflows. It offered work management, CRM, and development-focused products at a more competitive price point than Smartsheet, with strong visual interfaces and automation capabilities."},
-    {"name": "Asana", "notes": "Asana was recognized as the best alternative for managing complex projects with its simple interface and robust management. It offered a free plan supporting teams up to 15 people and was simpler to adopt than Smartsheet, especially for teams not needing deep resource modeling."},
-    {"name": "Wrike", "notes": "Wrike was one of the biggest Smartsheet competitors, offering a cloud-based platform with a free plan providing unlimited users, task management, and spreadsheet view. It combined versatility and security with flexibility for enterprise-level project needs."},
-    {"name": "ClickUp", "notes": "ClickUp positioned itself as the most cost-effective option with a Free Forever Plan and paid subscriptions at $7/user/month. It offered comprehensive coverage including task management, documentation, dashboards, and custom fields, helping teams consolidate multiple tool subscriptions."},
-    {"name": "Zoho Projects", "notes": "Zoho Projects was highlighted as a cost-effective Smartsheet alternative with user-friendly, intuitive interface suitable for employees of different skill levels. It included Gantt charts, time tracking, workflow automation, and strong team collaboration tools."},
-    {"name": "Microsoft Project", "notes": "Microsoft Project remained relevant as the Microsoft version of Smartsheet, allowing teams to manage small to large projects with interactive dashboards, dynamic scheduling, automated workflows, and collaboration tools, particularly for organizations in the Microsoft ecosystem."},
-    {"name": "Airtable", "notes": "Airtable continued to be Smartsheet's biggest competitor in the relational database and flexible project management space, empowering business users to create sophisticated data management solutions with customizable views and dynamic linking."},
-    {"name": "OpenProject", "notes": "OpenProject offered an open source and self-hosted alternative to Smartsheet, providing absolute transparency and high flexibility. It appealed to organizations requiring data sovereignty and customization without vendor lock-in."},
-    {"name": "Basecamp", "notes": "Basecamp remained a simpler alternative focused on task tracking and team collaboration for small to medium-sized businesses, though users noted it was not ideal for agile development processes."},
-    {"name": "Scoro", "notes": "Scoro was a work management platform helping teams scale faster by accessing crucial project data, with inbuilt CRM, automated billing, resource usage tracking, and revenue forecasting capabilities."},
-    {"name": "Quickbase", "notes": "Quickbase emerged as a low-code platform alternative for building custom work management applications, competing in the enterprise space with flexible workflow automation and database capabilities."},
-    {"name": "Workfront", "notes": "Workfront (Adobe) positioned itself as an enterprise work management solution for marketing and creative teams, offering robust portfolio and resource management features."},
-    {"name": "Notion", "notes": "Notion continued to grow as a versatile all-in-one workspace combining wiki, database, and project management capabilities, appealing to teams seeking integrated knowledge management."},
-    {"name": "Fibery", "notes": "Fibery emerged as a work management platform with strong product management focus, offering customizable workflows and connected databases for complex business processes."}
+    {
+      "name": "Monday.com",
+      "notes": "Monday.com remained a top competitor as a Work OS providing customizable no-code building blocks for shaping workflows. It offered work management, CRM, and development-focused products at a more competitive price point than Smartsheet, with strong visual interfaces and automation capabilities."
+    },
+    {
+      "name": "Asana",
+      "notes": "Asana was recognized as the best alternative for managing complex projects with its simple interface and robust management. It offered a free plan supporting teams up to 15 people and was simpler to adopt than Smartsheet, especially for teams not needing deep resource modeling."
+    },
+    {
+      "name": "Wrike",
+      "notes": "Wrike was one of the biggest Smartsheet competitors, offering a cloud-based platform with a free plan providing unlimited users, task management, and spreadsheet view. It combined versatility and security with flexibility for enterprise-level project needs."
+    },
+    {
+      "name": "ClickUp",
+      "notes": "ClickUp positioned itself as the most cost-effective option with a Free Forever Plan and paid subscriptions at $7/user/month. It offered comprehensive coverage including task management, documentation, dashboards, and custom fields, helping teams consolidate multiple tool subscriptions."
+    },
+    {
+      "name": "Zoho Projects",
+      "notes": "Zoho Projects was highlighted as a cost-effective Smartsheet alternative with user-friendly, intuitive interface suitable for employees of different skill levels. It included Gantt charts, time tracking, workflow automation, and strong team collaboration tools."
+    },
+    {
+      "name": "Microsoft Project",
+      "notes": "Microsoft Project remained relevant as the Microsoft version of Smartsheet, allowing teams to manage small to large projects with interactive dashboards, dynamic scheduling, automated workflows, and collaboration tools, particularly for organizations in the Microsoft ecosystem."
+    },
+    {
+      "name": "Airtable",
+      "notes": "Airtable continued to be Smartsheet's biggest competitor in the relational database and flexible project management space, empowering business users to create sophisticated data management solutions with customizable views and dynamic linking."
+    },
+    {
+      "name": "OpenProject",
+      "notes": "OpenProject offered an open source and self-hosted alternative to Smartsheet, providing absolute transparency and high flexibility. It appealed to organizations requiring data sovereignty and customization without vendor lock-in."
+    },
+    {
+      "name": "Basecamp",
+      "notes": "Basecamp remained a simpler alternative focused on task tracking and team collaboration for small to medium-sized businesses, though users noted it was not ideal for agile development processes."
+    },
+    {
+      "name": "Scoro",
+      "notes": "Scoro was a work management platform helping teams scale faster by accessing crucial project data, with inbuilt CRM, automated billing, resource usage tracking, and revenue forecasting capabilities."
+    },
+    {
+      "name": "Quickbase",
+      "notes": "Quickbase emerged as a low-code platform alternative for building custom work management applications, competing in the enterprise space with flexible workflow automation and database capabilities."
+    },
+    {
+      "name": "Workfront",
+      "notes": "Workfront (Adobe) positioned itself as an enterprise work management solution for marketing and creative teams, offering robust portfolio and resource management features."
+    },
+    {
+      "name": "Notion",
+      "notes": "Notion continued to grow as a versatile all-in-one workspace combining wiki, database, and project management capabilities, appealing to teams seeking integrated knowledge management."
+    },
+    {
+      "name": "Fibery",
+      "notes": "Fibery emerged as a work management platform with strong product management focus, offering customizable workflows and connected databases for complex business processes."
+    }
   ],
   "sources": [
     "https://fibery.io/blog/product-management/smartsheet-competitors/",

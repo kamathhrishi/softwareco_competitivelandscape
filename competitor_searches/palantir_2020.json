@@ -5,13 +5,34 @@
   "search_query": "Palantir data analytics competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Databricks", "notes": "Unified analytics platform gaining enterprise traction"},
-    {"name": "Splunk", "notes": "Machine data analytics and SIEM platform"},
-    {"name": "IBM Watson", "notes": "Enterprise AI and analytics platform"},
-    {"name": "SAS", "notes": "Traditional analytics and business intelligence leader"},
-    {"name": "AWS", "notes": "Cloud analytics services including Redshift and SageMaker"},
-    {"name": "Microsoft Azure", "notes": "Azure Synapse and Power BI analytics solutions"}
+    {
+      "name": "Databricks",
+      "notes": "Unified analytics platform gaining enterprise traction"
+    },
+    {
+      "name": "Splunk",
+      "notes": "Machine data analytics and SIEM platform"
+    },
+    {
+      "name": "IBM Watson",
+      "notes": "Enterprise AI and analytics platform"
+    },
+    {
+      "name": "SAS",
+      "notes": "Traditional analytics and business intelligence leader"
+    },
+    {
+      "name": "AWS",
+      "notes": "Cloud analytics services including Redshift and SageMaker"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Azure Synapse and Power BI analytics solutions"
+    }
   ],
-  "context": "Palantir went public via direct listing in September 2020. The company was heavily focused on government contracts (especially defense and intelligence) while expanding commercial business. COVID-19 pandemic showcased Palantir's capabilities through NHS contact tracing work in UK. Competition intensified from cloud providers and specialized analytics platforms like Databricks. Palantir differentiated with Gotham (government) and Foundry (commercial) platforms.",
-  "sources": ["https://craft.co/palantir-technologies/competitors", "https://www.cbinsights.com/company/palantir-technologies/alternatives-competitors"]
+  "context": "Palantir Technologies Inc. is a data analytics and AI platform company focused on government intelligence, commercial analytics, and AI operations. IPO via direct listing. COVID response contracts.",
+  "sources": [
+    "https://craft.co/palantir-technologies/competitors",
+    "https://www.cbinsights.com/company/palantir-technologies/alternatives-competitors"
+  ]
 }

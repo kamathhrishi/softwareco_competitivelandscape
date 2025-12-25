@@ -5,9 +5,17 @@
   "search_query": "NVIDIA GPU competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD (ATI Radeon)", "notes": "Only remaining high-end discrete GPU competitor"},
-    {"name": "Intel", "notes": "Present primarily with integrated graphics"}
+    {
+      "name": "AMD (ATI Radeon)",
+      "notes": "Only remaining high-end discrete GPU competitor"
+    },
+    {
+      "name": "Intel",
+      "notes": "Present primarily with integrated graphics"
+    }
   ],
-  "context": "Challenging year with problematic Fermi architecture (GTX 480). AMD remained sole high-end competitor. GeForce vs Radeon rivalry continued.",
-  "sources": ["https://www.tomshardware.com/features/best-nvidia-gpus-of-all-time"]
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. Tegra for mobile. Tesla GPU for HPC.",
+  "sources": [
+    "https://www.tomshardware.com/features/best-nvidia-gpus-of-all-time"
+  ]
 }

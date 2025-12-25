@@ -5,17 +5,50 @@
   "search_query": "CrowdStrike competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "SentinelOne Singularity", "notes": "Strong replacement with similar EDR performance at lower pricing. 10% market share. Stock rose 10% after July 2024 CrowdStrike outage."},
-    {"name": "Microsoft Defender for Endpoint", "notes": "Strong choice for Microsoft-invested businesses. Part of Microsoft 365 E5 package. 11.82% market share."},
-    {"name": "Palo Alto Networks Cortex XDR", "notes": "One of world's best detection and response providers. Stock rose 10% after July 2024 CrowdStrike outage."},
-    {"name": "McAfee ePO", "notes": "Leading competitor with 15.73% market share in endpoint protection."},
-    {"name": "Sophos", "notes": "Focuses on mid-sized organizations. Strong position in SMB market."},
-    {"name": "Trend Micro Vision One", "notes": "Unified security platform for all business sizes."},
-    {"name": "Trellix", "notes": "Endpoint security competitor (merger of McAfee Enterprise and FireEye)."},
-    {"name": "VMware Carbon Black Endpoint", "notes": "Cloud-native endpoint protection with EDR capabilities."},
-    {"name": "Fortinet", "notes": "Cybersecurity competitor in endpoint protection."},
-    {"name": "Cynet 360 AutoXDR Protector", "notes": "XDR platform competitor."},
-    {"name": "Darktrace", "notes": "AI-driven cybersecurity competitor."}
+    {
+      "name": "SentinelOne Singularity",
+      "notes": "Strong replacement with similar EDR performance at lower pricing. 10% market share. Stock rose 10% after July 2024 CrowdStrike outage."
+    },
+    {
+      "name": "Microsoft Defender for Endpoint",
+      "notes": "Strong choice for Microsoft-invested businesses. Part of Microsoft 365 E5 package. 11.82% market share."
+    },
+    {
+      "name": "Palo Alto Networks Cortex XDR",
+      "notes": "One of world's best detection and response providers. Stock rose 10% after July 2024 CrowdStrike outage."
+    },
+    {
+      "name": "McAfee ePO",
+      "notes": "Leading competitor with 15.73% market share in endpoint protection."
+    },
+    {
+      "name": "Sophos",
+      "notes": "Focuses on mid-sized organizations. Strong position in SMB market."
+    },
+    {
+      "name": "Trend Micro Vision One",
+      "notes": "Unified security platform for all business sizes."
+    },
+    {
+      "name": "Trellix",
+      "notes": "Endpoint security competitor (merger of McAfee Enterprise and FireEye)."
+    },
+    {
+      "name": "VMware Carbon Black Endpoint",
+      "notes": "Cloud-native endpoint protection with EDR capabilities."
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Cybersecurity competitor in endpoint protection."
+    },
+    {
+      "name": "Cynet 360 AutoXDR Protector",
+      "notes": "XDR platform competitor."
+    },
+    {
+      "name": "Darktrace",
+      "notes": "AI-driven cybersecurity competitor."
+    }
   ],
   "market_share": {
     "crowdstrike": "21.21%",
@@ -26,6 +59,10 @@
   "key_events": {
     "july_2024_outage": "Global IT outage on July 19, 2024 affected 8.5M+ Windows devices. Estimated $10B in worldwide financial damage."
   },
-  "context": "CrowdStrike maintains 21.21% market share as leader in endpoint protection. The July 2024 global outage significantly impacted CrowdStrike's reputation, benefiting competitors like SentinelOne and Palo Alto Networks. Market is transitioning from EDR to XDR.",
-  "sources": ["https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions/vendor/crowdstrike/product/crowdstrike-falcon/alternatives", "https://www.techrepublic.com/article/crowdstrike-alternatives/", "https://6sense.com/tech/endpoint-protection/crowdstrike-market-share"]
+  "context": "CrowdStrike Holdings, Inc. is a cloud-native cybersecurity company focused on endpoint protection, threat intelligence, and extended detection and response. Global IT outage in July. Recovery and platform expansion continuing.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions/vendor/crowdstrike/product/crowdstrike-falcon/alternatives",
+    "https://www.techrepublic.com/article/crowdstrike-alternatives/",
+    "https://6sense.com/tech/endpoint-protection/crowdstrike-market-share"
+  ]
 }

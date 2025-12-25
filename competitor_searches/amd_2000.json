@@ -5,12 +5,31 @@
   "search_query": "AMD competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Intel", "notes": "Primary CPU competitor. Dominant position in microprocessor market. AMD competed with successful Athlon processors (launched 1999)"},
-    {"name": "NVIDIA", "notes": "Major competitor in graphics processor market. AMD not yet in GPU market at this time"},
-    {"name": "Qualcomm", "notes": "Competitor in semiconductor and processor space"},
-    {"name": "Analog Devices", "notes": "Competitor in semiconductor market"},
-    {"name": "Synaptics", "notes": "Competitor in semiconductor market"}
+    {
+      "name": "Intel",
+      "notes": "Primary CPU competitor. Dominant position in microprocessor market. AMD competed with successful Athlon processors (launched 1999)"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Major competitor in graphics processor market. AMD not yet in GPU market at this time"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Competitor in semiconductor and processor space"
+    },
+    {
+      "name": "Analog Devices",
+      "notes": "Competitor in semiconductor market"
+    },
+    {
+      "name": "Synaptics",
+      "notes": "Competitor in semiconductor market"
+    }
   ],
-  "context": "In the early 2000s, AMD experienced significant growth thanks to Athlon processors (launched 1999). The Athlon processors delivered exceptional performance and value, gaining significant market share. AMD was not yet in the GPU market - dominated by NVIDIA and ATI Technologies (which AMD would acquire in 2006).",
-  "sources": ["https://www.marketbeat.com/stocks/NASDAQ/AMD/competitors-and-alternatives/", "https://en.wikipedia.org/wiki/AMD", "https://thebrandhopper.com/2024/05/13/who-are-amds-top-competitors-and-alternatives/"]
+  "context": "Advanced Micro Devices, Inc. is a semiconductor company designing CPUs, GPUs, and data center chips focused on processors for PCs, gaming, data centers, and embedded systems. Athlon processors challenging Intel. Acquired ATI for graphics. PC market still growing.",
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/AMD/competitors-and-alternatives/",
+    "https://en.wikipedia.org/wiki/AMD",
+    "https://thebrandhopper.com/2024/05/13/who-are-amds-top-competitors-and-alternatives/"
+  ]
 }

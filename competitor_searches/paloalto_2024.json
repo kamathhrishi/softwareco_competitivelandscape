@@ -5,20 +5,63 @@
   "search_query": "Palo Alto Networks cybersecurity competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Dominant player in networking and cybersecurity with comprehensive security solutions"},
-    {"name": "Fortinet", "notes": "Major competitor with Security Fabric architecture, FortiGate formidable competitor"},
-    {"name": "CrowdStrike", "notes": "Cloud-native endpoint protection platform specialist, leveraging AI for threat detection"},
-    {"name": "Check Point Software Technologies", "notes": "Major competitor offering wide range of security solutions"},
-    {"name": "Zscaler", "notes": "Cloud security specialist with comprehensive suite for protecting cloud environments"},
-    {"name": "Juniper Networks", "notes": "NGFW provider with integrated threat protection and content inspection"},
-    {"name": "Cybereason", "notes": "Cybersecurity software provider focusing on attack protection"},
-    {"name": "Armis", "notes": "Cybersecurity competitor"},
-    {"name": "Netskope", "notes": "Cloud security and SASE competitor"},
-    {"name": "Barracuda Networks", "notes": "Network security and firewall solutions provider"},
-    {"name": "FireEye", "notes": "Threat detection and response competitor"},
-    {"name": "Symantec", "notes": "Established cybersecurity vendor"},
-    {"name": "Sophos", "notes": "Cybersecurity solutions provider with Managed Detection and Response"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Dominant player in networking and cybersecurity with comprehensive security solutions"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Major competitor with Security Fabric architecture, FortiGate formidable competitor"
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Cloud-native endpoint protection platform specialist, leveraging AI for threat detection"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Major competitor offering wide range of security solutions"
+    },
+    {
+      "name": "Zscaler",
+      "notes": "Cloud security specialist with comprehensive suite for protecting cloud environments"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "NGFW provider with integrated threat protection and content inspection"
+    },
+    {
+      "name": "Cybereason",
+      "notes": "Cybersecurity software provider focusing on attack protection"
+    },
+    {
+      "name": "Armis",
+      "notes": "Cybersecurity competitor"
+    },
+    {
+      "name": "Netskope",
+      "notes": "Cloud security and SASE competitor"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "Network security and firewall solutions provider"
+    },
+    {
+      "name": "FireEye",
+      "notes": "Threat detection and response competitor"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Established cybersecurity vendor"
+    },
+    {
+      "name": "Sophos",
+      "notes": "Cybersecurity solutions provider with Managed Detection and Response"
+    }
   ],
-  "context": "In 2024, Palo Alto Networks is a platform-based cybersecurity vendor covering network security, cloud security, and security operations. The company serves 85,000+ customers worldwide, including more than three-fourths of the Global 2000. Competes with 196 tools in the network-security category. The global cybersecurity market is projected to reach $366.10 billion by 2028.",
-  "sources": ["https://thebrandhopper.com/2024/09/23/top-palo-alto-networks-competitors-a-comprehensive-analysis/", "https://pitchgrade.com/companies/palo-alto-networks", "https://www.checkpoint.com/comparison/pan-alternatives/"]
+  "context": "Palo Alto Networks, Inc. is a cybersecurity platform company focused on network security, cloud security, and security operations. Platformization strategy. Prisma and Cortex growth.",
+  "sources": [
+    "https://thebrandhopper.com/2024/09/23/top-palo-alto-networks-competitors-a-comprehensive-analysis/",
+    "https://pitchgrade.com/companies/palo-alto-networks",
+    "https://www.checkpoint.com/comparison/pan-alternatives/"
+  ]
 }

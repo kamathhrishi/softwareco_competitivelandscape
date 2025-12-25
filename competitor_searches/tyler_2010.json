@@ -5,12 +5,29 @@
   "search_query": "Tyler Technologies government software competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "SAP", "notes": "Enterprise ERP with public sector solutions"},
-    {"name": "Oracle", "notes": "Enterprise software for government"},
-    {"name": "SunGard", "notes": "Public sector and financial software"},
-    {"name": "Thomson Reuters", "notes": "Courts and legal software"},
-    {"name": "Harris Corporation", "notes": "Public safety communications"}
+    {
+      "name": "SAP",
+      "notes": "Enterprise ERP with public sector solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software for government"
+    },
+    {
+      "name": "SunGard",
+      "notes": "Public sector and financial software"
+    },
+    {
+      "name": "Thomson Reuters",
+      "notes": "Courts and legal software"
+    },
+    {
+      "name": "Harris Corporation",
+      "notes": "Public safety communications"
+    }
   ],
-  "context": "In 2010, Tyler Technologies was a leading provider of software for local government. The company grew through acquisitions including Incode (2010) for property tax and billing. Competition came from enterprise vendors like SAP and Oracle as well as specialized government software providers. The market was fragmented with many small regional vendors. Tyler focused on comprehensive solutions for courts, public safety, financials, and other local government functions.",
-  "sources": ["https://craft.co/tyler-technologies/competitors"]
+  "context": "Tyler Technologies, Inc. is a government software company focused on software for local government, courts, and public safety. Cloud transition for government. SaaS growth.",
+  "sources": [
+    "https://craft.co/tyler-technologies/competitors"
+  ]
 }

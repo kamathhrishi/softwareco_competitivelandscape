@@ -5,17 +5,50 @@
   "search_query": "Procore Technologies competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk Construction Cloud", "notes": "Best overall alternative with PlanGrid and BuildingConnected acquisitions"},
-    {"name": "Oracle Primavera & Aconex", "notes": "Strong in large-scale capital projects with AI-driven scheduling"},
-    {"name": "Trimble Viewpoint", "notes": "Major competitor in construction management"},
-    {"name": "Fieldwire by Hilti", "notes": "Field construction project management"},
-    {"name": "e-Builder", "notes": "Cloud-based construction management for capital projects"},
-    {"name": "HCSS", "notes": "Construction management software"},
-    {"name": "RedTeam Flex", "notes": "Construction project management solution"},
-    {"name": "Bluebeam", "notes": "Construction documentation and collaboration"},
-    {"name": "Smartsheet", "notes": "Flexible project management platform"},
-    {"name": "Buildertrend", "notes": "Best for home builders and remodelers"}
+    {
+      "name": "Autodesk Construction Cloud",
+      "notes": "Best overall alternative with PlanGrid and BuildingConnected acquisitions"
+    },
+    {
+      "name": "Oracle Primavera & Aconex",
+      "notes": "Strong in large-scale capital projects with AI-driven scheduling"
+    },
+    {
+      "name": "Trimble Viewpoint",
+      "notes": "Major competitor in construction management"
+    },
+    {
+      "name": "Fieldwire by Hilti",
+      "notes": "Field construction project management"
+    },
+    {
+      "name": "e-Builder",
+      "notes": "Cloud-based construction management for capital projects"
+    },
+    {
+      "name": "HCSS",
+      "notes": "Construction management software"
+    },
+    {
+      "name": "RedTeam Flex",
+      "notes": "Construction project management solution"
+    },
+    {
+      "name": "Bluebeam",
+      "notes": "Construction documentation and collaboration"
+    },
+    {
+      "name": "Smartsheet",
+      "notes": "Flexible project management platform"
+    },
+    {
+      "name": "Buildertrend",
+      "notes": "Best for home builders and remodelers"
+    }
   ],
-  "context": "In 2024, Procore holds 7.4% market share in construction applications. Ranks 1st in Product Quality Score (4.1/5) and Net Promoter Score (44). Competition intensified with AI-driven features becoming standard.",
-  "sources": ["https://www.g2.com/products/procore/competitors/alternatives", "https://craft.co/procore-technologies/competitors"]
+  "context": "Procore Technologies, Inc. is a construction management software company focused on project management, financial management, and quality for construction. AI-powered construction insights. Marketplace growth.",
+  "sources": [
+    "https://www.g2.com/products/procore/competitors/alternatives",
+    "https://craft.co/procore-technologies/competitors"
+  ]
 }

@@ -5,16 +5,45 @@
   "search_query": "Google competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft (Bing)", "notes": "Direct search competitor with Copilot integration"},
-    {"name": "OpenAI (ChatGPT)", "notes": "100M users in 2 months, redefining search"},
-    {"name": "Perplexity", "notes": "AI-powered answer engine citing sources"},
-    {"name": "TikTok", "notes": "Younger users turning to TikTok for search"},
-    {"name": "Reddit", "notes": "Users search on Reddit directly"},
-    {"name": "DuckDuckGo", "notes": "Privacy-focused search alternative"},
-    {"name": "Baidu", "notes": "75% market share in China"},
-    {"name": "Amazon", "notes": "Major cloud competitor (AWS)"},
-    {"name": "Alibaba Cloud", "notes": "Leading cloud provider in Asia"}
+    {
+      "name": "Microsoft (Bing)",
+      "notes": "Direct search competitor with Copilot integration"
+    },
+    {
+      "name": "OpenAI (ChatGPT)",
+      "notes": "100M users in 2 months, redefining search"
+    },
+    {
+      "name": "Perplexity",
+      "notes": "AI-powered answer engine citing sources"
+    },
+    {
+      "name": "TikTok",
+      "notes": "Younger users turning to TikTok for search"
+    },
+    {
+      "name": "Reddit",
+      "notes": "Users search on Reddit directly"
+    },
+    {
+      "name": "DuckDuckGo",
+      "notes": "Privacy-focused search alternative"
+    },
+    {
+      "name": "Baidu",
+      "notes": "75% market share in China"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Major cloud competitor (AWS)"
+    },
+    {
+      "name": "Alibaba Cloud",
+      "notes": "Leading cloud provider in Asia"
+    }
   ],
-  "context": "June 2024: Google's search share dipped to 91%—lowest in nearly a decade. AI alternatives (ChatGPT, Perplexity) reframing search.",
-  "sources": ["https://www.wordstream.com/blog/google-competitors"]
+  "context": "Alphabet Inc. (Google) is a technology conglomerate focused on search, advertising, cloud, Android, YouTube, and AI. Gemini AI launch. Search AI integration. Cloud growth.",
+  "sources": [
+    "https://www.wordstream.com/blog/google-competitors"
+  ]
 }

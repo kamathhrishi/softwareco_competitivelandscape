@@ -4,7 +4,7 @@
   "year": 2025,
   "search_query": "NVIDIA competitors 2025 competitive landscape",
   "search_date": "2025-12-24",
-  "context": "NVIDIA reached a $5 trillion valuation in late October 2025 and dominates the GPU market with 92-94% of discrete GPU market share in Q2 FY25. For AI training GPUs and supercomputers, NVIDIA holds an estimated 80-95% market share as of 2025. The company is projected to report more net income in 2025 than its two main rivals' combined sales. However, NVIDIA faces growing threats from custom ASICs by major cloud providers (Google TPU Ironwood 7th gen, Amazon Trainium2 with 500K chips for Anthropic) and well-funded AI chip startups. U.S.-China relations pose the biggest external risk, potentially cutting off Chinese customers and accelerating homegrown Chinese competitors.",
+  "context": "NVIDIA Corporation is a semiconductor and AI computing company focused on GPUs for gaming, data centers, AI training, and automotive. Essential AI infrastructure. Data center and robotics expansion.",
   "competitors": [
     {
       "name": "AMD (Advanced Micro Devices)",

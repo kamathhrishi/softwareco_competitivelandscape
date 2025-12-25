@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Affirm competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Affirm was preparing for IPO as buy now pay later gained momentum during the pandemic. The company partnered with Shopify and major retailers to offer transparent installment loans.",
+  "context": "Affirm Holdings is a buy now, pay later (BNPL) fintech company focused on point-of-sale consumer financing and installment payments. Rapid growth during pandemic e-commerce boom. Partnered with major retailers like Peloton and Walmart.",
   "competitors": [
-    {"name": "Klarna", "notes": "Swedish BNPL leader with 90M users globally"},
-    {"name": "Afterpay", "notes": "Australian BNPL popular with millennials and Gen Z"},
-    {"name": "PayPal Credit", "notes": "PayPal's financing options including Pay in 4"},
-    {"name": "Quadpay (Zip)", "notes": "BNPL platform later acquired by Zip"},
-    {"name": "Sezzle", "notes": "BNPL targeting younger consumers"},
-    {"name": "Bread", "notes": "White-label financing for retailers"},
-    {"name": "Splitit", "notes": "Installment payments using existing credit"},
-    {"name": "Credit Cards", "notes": "Traditional credit competing for financing"}
+    {
+      "name": "Klarna",
+      "notes": "Swedish BNPL leader with 90M users globally"
+    },
+    {
+      "name": "Afterpay",
+      "notes": "Australian BNPL popular with millennials and Gen Z"
+    },
+    {
+      "name": "PayPal Credit",
+      "notes": "PayPal's financing options including Pay in 4"
+    },
+    {
+      "name": "Quadpay (Zip)",
+      "notes": "BNPL platform later acquired by Zip"
+    },
+    {
+      "name": "Sezzle",
+      "notes": "BNPL targeting younger consumers"
+    },
+    {
+      "name": "Bread",
+      "notes": "White-label financing for retailers"
+    },
+    {
+      "name": "Splitit",
+      "notes": "Installment payments using existing credit"
+    },
+    {
+      "name": "Credit Cards",
+      "notes": "Traditional credit competing for financing"
+    }
   ],
-  "sources": ["BNPL industry analysis"]
+  "sources": [
+    "BNPL industry analysis"
+  ]
 }

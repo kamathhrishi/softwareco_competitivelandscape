@@ -5,15 +5,41 @@
   "search_query": "Fortinet firewall competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Cisco Systems", "notes": "Market leader with NGFWs, IPS, and security solutions"},
-    {"name": "Palo Alto Networks", "notes": "Rising competitor with market-leading NGFWs"},
-    {"name": "Check Point Software Technologies", "notes": "Established leader with unified security management"},
-    {"name": "Juniper Networks", "notes": "Comprehensive networking and security portfolio"},
-    {"name": "SonicWall", "notes": "Strong in SMB and mid-market"},
-    {"name": "Barracuda Networks", "notes": "Affordable, easy-to-use security solutions"},
-    {"name": "WatchGuard Network Security", "notes": "Simplified, multi-layered security for SMBs"},
-    {"name": "McAfee", "notes": "Comprehensive security software provider"}
+    {
+      "name": "Cisco Systems",
+      "notes": "Market leader with NGFWs, IPS, and security solutions"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Rising competitor with market-leading NGFWs"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Established leader with unified security management"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Comprehensive networking and security portfolio"
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Strong in SMB and mid-market"
+    },
+    {
+      "name": "Barracuda Networks",
+      "notes": "Affordable, easy-to-use security solutions"
+    },
+    {
+      "name": "WatchGuard Network Security",
+      "notes": "Simplified, multi-layered security for SMBs"
+    },
+    {
+      "name": "McAfee",
+      "notes": "Comprehensive security software provider"
+    }
   ],
-  "context": "By 2010, the next-generation firewall (NGFW) market was fully established, with vendors competing on application awareness, intrusion prevention, and deep packet inspection capabilities.",
-  "sources": ["https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"]
+  "context": "Fortinet, Inc. is a cybersecurity company focused on network security, firewalls, and security fabric. High-performance security appliances. FortiOS platform.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"
+  ]
 }

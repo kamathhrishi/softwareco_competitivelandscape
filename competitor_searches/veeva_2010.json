@@ -5,12 +5,29 @@
   "search_query": "Veeva Systems life sciences competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Cegedim", "notes": "European CRM and data provider for pharmaceutical"},
-    {"name": "IMS Health", "notes": "Pharmaceutical data and CRM solutions"},
-    {"name": "Siebel Pharma", "notes": "Oracle's pharmaceutical CRM after Siebel acquisition"},
-    {"name": "Dendrite", "notes": "Pharma CRM before Cegedim acquisition"},
-    {"name": "Salesforce", "notes": "Platform for Veeva, also competing in life sciences"}
+    {
+      "name": "Cegedim",
+      "notes": "European CRM and data provider for pharmaceutical"
+    },
+    {
+      "name": "IMS Health",
+      "notes": "Pharmaceutical data and CRM solutions"
+    },
+    {
+      "name": "Siebel Pharma",
+      "notes": "Oracle's pharmaceutical CRM after Siebel acquisition"
+    },
+    {
+      "name": "Dendrite",
+      "notes": "Pharma CRM before Cegedim acquisition"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Platform for Veeva, also competing in life sciences"
+    }
   ],
-  "context": "In 2010, Veeva was a young startup (founded 2007) building cloud CRM for pharmaceutical industry on Salesforce platform. The pharmaceutical CRM market was dominated by on-premises solutions from Cegedim and Siebel. IMS Health provided pharmaceutical data and analytics. Veeva differentiated with cloud-native, industry-specific CRM purpose-built for pharma sales teams. The company was growing rapidly as pharma companies sought modern alternatives to legacy systems.",
-  "sources": ["https://www.veeva.com/company/"]
+  "context": "Veeva Systems Inc. is a cloud software for life sciences focused on CRM, content management, and data solutions for pharma. Founded for life sciences CRM on Salesforce.",
+  "sources": [
+    "https://www.veeva.com/company/"
+  ]
 }

@@ -5,12 +5,30 @@
   "search_query": "Bentley Systems infrastructure engineering software competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Autodesk", "notes": "CAD and engineering software provider, AutoCAD competitor to MicroStation"},
-    {"name": "Trimble", "notes": "Positioning, modeling, connectivity, and data analytics solutions"},
-    {"name": "AVEVA", "notes": "Engineering design and information management for plant, power and marine"},
-    {"name": "Esri", "notes": "GIS and mapping software, competing in infrastructure planning"},
-    {"name": "AspenTech", "notes": "Enterprise asset performance management and optimization"}
+    {
+      "name": "Autodesk",
+      "notes": "CAD and engineering software provider, AutoCAD competitor to MicroStation"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Positioning, modeling, connectivity, and data analytics solutions"
+    },
+    {
+      "name": "AVEVA",
+      "notes": "Engineering design and information management for plant, power and marine"
+    },
+    {
+      "name": "Esri",
+      "notes": "GIS and mapping software, competing in infrastructure planning"
+    },
+    {
+      "name": "AspenTech",
+      "notes": "Enterprise asset performance management and optimization"
+    }
   ],
-  "context": "In 2000, Bentley (founded 1984) competed primarily in CAD and infrastructure engineering. The competitive landscape was dominated by Autodesk AutoCAD vs Bentley MicroStation. Industry transitioning from 2D to 3D design.",
-  "sources": ["https://www.comparably.com/companies/bentley-systems/competitors", "https://craft.co/bentley-systems/competitors"]
+  "context": "Bentley Systems, Incorporated is a infrastructure engineering software company focused on design, construction, and operations software for infrastructure. MicroStation competing with AutoCAD in infrastructure design.",
+  "sources": [
+    "https://www.comparably.com/companies/bentley-systems/competitors",
+    "https://craft.co/bentley-systems/competitors"
+  ]
 }

@@ -5,15 +5,41 @@
   "search_query": "Atlassian competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Major threat with GitHub acquisition (2018), Azure DevOps, Microsoft 365 suite"},
-    {"name": "GitLab", "notes": "DevSecOps platform for software development lifecycle"},
-    {"name": "GitHub", "notes": "Source code hosting platform owned by Microsoft"},
-    {"name": "Asana", "notes": "Work orchestration platform, top competitor for project management"},
-    {"name": "Notion", "notes": "Block-based editor with database capabilities, direct competitor to Confluence"},
-    {"name": "ServiceNow", "notes": "Digital workflow and enterprise operations platform"},
-    {"name": "Zendesk", "notes": "Customer service and support platform"},
-    {"name": "Google", "notes": "Google Workspace for collaboration and productivity"}
+    {
+      "name": "Microsoft",
+      "notes": "Major threat with GitHub acquisition (2018), Azure DevOps, Microsoft 365 suite"
+    },
+    {
+      "name": "GitLab",
+      "notes": "DevSecOps platform for software development lifecycle"
+    },
+    {
+      "name": "GitHub",
+      "notes": "Source code hosting platform owned by Microsoft"
+    },
+    {
+      "name": "Asana",
+      "notes": "Work orchestration platform, top competitor for project management"
+    },
+    {
+      "name": "Notion",
+      "notes": "Block-based editor with database capabilities, direct competitor to Confluence"
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Digital workflow and enterprise operations platform"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Customer service and support platform"
+    },
+    {
+      "name": "Google",
+      "notes": "Google Workspace for collaboration and productivity"
+    }
   ],
-  "context": "By 2020, Atlassian faced intensified competition from Microsoft, which had acquired GitHub in 2018. New challenger Notion emerged as a competitor to Confluence. COVID-19 pandemic accelerated remote work trends.",
-  "sources": ["https://bstrategyhub.com/atlassian-competitors-and-alternatives/"]
+  "context": "Atlassian Corporation is a team collaboration and productivity software company focused on Jira, Confluence, Trello, and developer tools. Remote work accelerated cloud adoption. Ended server product sales.",
+  "sources": [
+    "https://bstrategyhub.com/atlassian-competitors-and-alternatives/"
+  ]
 }

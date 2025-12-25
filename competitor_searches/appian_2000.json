@@ -5,12 +5,30 @@
   "search_query": "Appian low-code BPM competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Caspio", "notes": "Launched in 2000, low-code platform for large enterprises"},
-    {"name": "Alpha Software", "notes": "Founded in 2000, early low-code platform provider"},
-    {"name": "Pega Systems", "notes": "Established BPM vendor with case management and workflow capabilities"},
-    {"name": "IBM BPM", "notes": "Strong integration with IBM products, comprehensive process optimization"},
-    {"name": "Oracle BPM", "notes": "Enterprise BPM solution from Oracle"}
+    {
+      "name": "Caspio",
+      "notes": "Launched in 2000, low-code platform for large enterprises"
+    },
+    {
+      "name": "Alpha Software",
+      "notes": "Founded in 2000, early low-code platform provider"
+    },
+    {
+      "name": "Pega Systems",
+      "notes": "Established BPM vendor with case management and workflow capabilities"
+    },
+    {
+      "name": "IBM BPM",
+      "notes": "Strong integration with IBM products, comprehensive process optimization"
+    },
+    {
+      "name": "Oracle BPM",
+      "notes": "Enterprise BPM solution from Oracle"
+    }
   ],
-  "context": "In 2000, the low-code BPM market was in early stages. Appian (founded 1999) was among the pioneers. The low-code category was not yet well-defined, with most competitors focused on traditional BPM approaches.",
-  "sources": ["https://www.gartner.com/reviews/market/business-process-management-platforms/vendor/appian/product/appian-bpm-suite/alternatives", "https://bpmapp.com/appian-alternative"]
+  "context": "Appian Corporation is a low-code automation platform company focused on business process management, workflow automation, and enterprise applications. Early BPM (business process management) software development. Enterprise workflow automation.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/business-process-management-platforms/vendor/appian/product/appian-bpm-suite/alternatives",
+    "https://bpmapp.com/appian-alternative"
+  ]
 }

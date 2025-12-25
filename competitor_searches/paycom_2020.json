@@ -5,12 +5,30 @@
   "search_query": "Paycom payroll HR competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ADP", "notes": "Market leader in payroll and HR services"},
-    {"name": "Paychex", "notes": "Major payroll provider for small and mid-sized businesses"},
-    {"name": "Paylocity", "notes": "Direct competitor in mid-market cloud HCM"},
-    {"name": "Ceridian Dayforce", "notes": "Cloud HCM platform competitor"},
-    {"name": "Ultimate Software", "notes": "Merged with Kronos in 2020 to form UKG"}
+    {
+      "name": "ADP",
+      "notes": "Market leader in payroll and HR services"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll provider for small and mid-sized businesses"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Direct competitor in mid-market cloud HCM"
+    },
+    {
+      "name": "Ceridian Dayforce",
+      "notes": "Cloud HCM platform competitor"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Merged with Kronos in 2020 to form UKG"
+    }
   ],
-  "context": "In 2020, Paycom competed in the mid-market HCM space against larger players ADP and Paychex and similar-sized Paylocity. The major industry event was the merger of Ultimate Software and Kronos to form UKG in April 2020, creating a major competitor. The pandemic shifted focus to remote workforce management and digital HR processes, benefiting cloud-native HCM providers. Paycom's single-database architecture and employee self-service were key differentiators.",
-  "sources": ["https://www.g2.com/products/paycom/competitors/alternatives", "https://craft.co/paycom-software/competitors"]
+  "context": "Paycom Software, Inc. is a HCM software company focused on payroll, HR, and talent management for enterprises. Beti employee-driven payroll. Automation focus.",
+  "sources": [
+    "https://www.g2.com/products/paycom/competitors/alternatives",
+    "https://craft.co/paycom-software/competitors"
+  ]
 }

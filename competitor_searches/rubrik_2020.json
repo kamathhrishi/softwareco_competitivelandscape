@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Rubrik competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Rubrik was a leading unicorn in the data management space, providing cloud data management and ransomware recovery solutions. The company grew rapidly during remote work transition.",
+  "context": "Rubrik, Inc. is a data security company focused on backup, recovery, and cyber resilience for hybrid cloud. Zero Trust data security. Ransomware protection.",
   "competitors": [
-    {"name": "Cohesity", "notes": "Main competitor in modern backup"},
-    {"name": "Veeam", "notes": "VMware backup market leader"},
-    {"name": "Commvault", "notes": "Enterprise data protection"},
-    {"name": "Veritas NetBackup", "notes": "Legacy enterprise backup"},
-    {"name": "Dell EMC Data Domain", "notes": "Enterprise deduplication backup"},
-    {"name": "Actifio", "notes": "Copy data management (acquired by Google)"},
-    {"name": "Zerto", "notes": "Disaster recovery platform"},
-    {"name": "Druva", "notes": "Cloud-first data protection"}
+    {
+      "name": "Cohesity",
+      "notes": "Main competitor in modern backup"
+    },
+    {
+      "name": "Veeam",
+      "notes": "VMware backup market leader"
+    },
+    {
+      "name": "Commvault",
+      "notes": "Enterprise data protection"
+    },
+    {
+      "name": "Veritas NetBackup",
+      "notes": "Legacy enterprise backup"
+    },
+    {
+      "name": "Dell EMC Data Domain",
+      "notes": "Enterprise deduplication backup"
+    },
+    {
+      "name": "Actifio",
+      "notes": "Copy data management (acquired by Google)"
+    },
+    {
+      "name": "Zerto",
+      "notes": "Disaster recovery platform"
+    },
+    {
+      "name": "Druva",
+      "notes": "Cloud-first data protection"
+    }
   ],
-  "sources": ["Data management industry analysis"]
+  "sources": [
+    "Data management industry analysis"
+  ]
 }

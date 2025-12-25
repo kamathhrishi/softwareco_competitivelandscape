@@ -5,11 +5,25 @@
   "search_query": "Atlassian Jira competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Bugzilla", "notes": "Early bug tracking system, widely used in open source projects"},
-    {"name": "Microsoft Project", "notes": "Traditional project management software, dominant in enterprise"},
-    {"name": "Trac", "notes": "Open source project management and bug tracking"},
-    {"name": "Basecamp", "notes": "Project management and collaboration tool"}
+    {
+      "name": "Bugzilla",
+      "notes": "Early bug tracking system, widely used in open source projects"
+    },
+    {
+      "name": "Microsoft Project",
+      "notes": "Traditional project management software, dominant in enterprise"
+    },
+    {
+      "name": "Trac",
+      "notes": "Open source project management and bug tracking"
+    },
+    {
+      "name": "Basecamp",
+      "notes": "Project management and collaboration tool"
+    }
   ],
-  "context": "Atlassian was founded in 2002 by Mike Cannon-Brookes and Scott Farquhar in Sydney, Australia. By 2005, Jira was gaining adoption as an alternative to traditional bug tracking and project management tools.",
-  "sources": ["https://www.atlassian.com/software/jira/comparison"]
+  "context": "Atlassian Corporation is a team collaboration and productivity software company focused on Jira, Confluence, Trello, and developer tools. Jira for issue tracking growing in software development. Self-service model.",
+  "sources": [
+    "https://www.atlassian.com/software/jira/comparison"
+  ]
 }

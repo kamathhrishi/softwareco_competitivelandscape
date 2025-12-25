@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "CoStar competitors 2025",
   "search_date": "2024-12-24",
-  "context": "CoStar is the leading commercial real estate data provider and a growing residential portal through Homes.com. The company owns Apartments.com, LoopNet, and Ten-X auction platform.",
+  "context": "CoStar Group, Inc. is a commercial real estate information and analytics company focused on commercial real estate data, analytics, and marketplace platforms. Commercial and residential data platform. Portal strategy competition.",
   "competitors": [
-    {"name": "Zillow", "notes": "Dominant residential real estate portal"},
-    {"name": "Realtor.com", "notes": "Major residential real estate website"},
-    {"name": "Yardi Systems", "notes": "Property management software competitor"},
-    {"name": "CBRE", "notes": "Commercial real estate services with data"},
-    {"name": "JLL", "notes": "Commercial real estate services and research"},
-    {"name": "Zumper", "notes": "Rental platform for apartments"},
-    {"name": "Real Capital Analytics", "notes": "CRE transaction data"},
-    {"name": "Crexi", "notes": "Commercial real estate marketplace"}
+    {
+      "name": "Zillow",
+      "notes": "Dominant residential real estate portal"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "Major residential real estate website"
+    },
+    {
+      "name": "Yardi Systems",
+      "notes": "Property management software competitor"
+    },
+    {
+      "name": "CBRE",
+      "notes": "Commercial real estate services with data"
+    },
+    {
+      "name": "JLL",
+      "notes": "Commercial real estate services and research"
+    },
+    {
+      "name": "Zumper",
+      "notes": "Rental platform for apartments"
+    },
+    {
+      "name": "Real Capital Analytics",
+      "notes": "CRE transaction data"
+    },
+    {
+      "name": "Crexi",
+      "notes": "Commercial real estate marketplace"
+    }
   ],
-  "sources": ["Real estate industry analysis"]
+  "sources": [
+    "Real estate industry analysis"
+  ]
 }

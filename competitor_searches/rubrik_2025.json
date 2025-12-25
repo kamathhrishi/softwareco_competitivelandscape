@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Rubrik competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Rubrik is a leading data security and backup platform using AI to protect enterprise data. The company went public in 2024 and continues to grow in the cybersecurity and data management space.",
+  "context": "Rubrik, Inc. is a data security company focused on backup, recovery, and cyber resilience for hybrid cloud. Data security leader. Competing with Cohesity, Commvault.",
   "competitors": [
-    {"name": "Cohesity", "notes": "Primary competitor in modern data management"},
-    {"name": "Veeam", "notes": "Major backup and recovery vendor"},
-    {"name": "Commvault", "notes": "Enterprise data protection"},
-    {"name": "Veritas", "notes": "Legacy backup and data management"},
-    {"name": "Dell EMC", "notes": "Enterprise backup solutions"},
-    {"name": "Druva", "notes": "SaaS data protection"},
-    {"name": "Zerto", "notes": "Disaster recovery (HPE)"},
-    {"name": "Acronis", "notes": "Backup and cybersecurity"}
+    {
+      "name": "Cohesity",
+      "notes": "Primary competitor in modern data management"
+    },
+    {
+      "name": "Veeam",
+      "notes": "Major backup and recovery vendor"
+    },
+    {
+      "name": "Commvault",
+      "notes": "Enterprise data protection"
+    },
+    {
+      "name": "Veritas",
+      "notes": "Legacy backup and data management"
+    },
+    {
+      "name": "Dell EMC",
+      "notes": "Enterprise backup solutions"
+    },
+    {
+      "name": "Druva",
+      "notes": "SaaS data protection"
+    },
+    {
+      "name": "Zerto",
+      "notes": "Disaster recovery (HPE)"
+    },
+    {
+      "name": "Acronis",
+      "notes": "Backup and cybersecurity"
+    }
   ],
-  "sources": ["Data management industry analysis"]
+  "sources": [
+    "Data management industry analysis"
+  ]
 }

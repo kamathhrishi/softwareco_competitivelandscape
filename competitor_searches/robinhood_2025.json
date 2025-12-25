@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Robinhood competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Robinhood is a leading retail investing platform expanding into banking, retirement, and credit. The company targets becoming a full financial services provider for the next generation of investors.",
+  "context": "Robinhood Markets, Inc. is a commission-free trading platform focused on stock, options, crypto trading, and cash management. Retail trading platform. Competing with Schwab, Fidelity.",
   "competitors": [
-    {"name": "Charles Schwab", "notes": "Largest retail broker after TD Ameritrade merger"},
-    {"name": "Fidelity", "notes": "Major broker with strong mobile app and research"},
-    {"name": "Webull", "notes": "Trading app with advanced charting and options"},
-    {"name": "SoFi", "notes": "Financial super-app competitor with broader services"},
-    {"name": "Cash App", "notes": "Investing and banking in Block's consumer app"},
-    {"name": "Public", "notes": "Social investing with stocks, crypto, and alternatives"},
-    {"name": "Coinbase", "notes": "Crypto platform expanding into traditional assets"},
-    {"name": "E*TRADE", "notes": "Morgan Stanley's retail trading platform"}
+    {
+      "name": "Charles Schwab",
+      "notes": "Largest retail broker after TD Ameritrade merger"
+    },
+    {
+      "name": "Fidelity",
+      "notes": "Major broker with strong mobile app and research"
+    },
+    {
+      "name": "Webull",
+      "notes": "Trading app with advanced charting and options"
+    },
+    {
+      "name": "SoFi",
+      "notes": "Financial super-app competitor with broader services"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Investing and banking in Block's consumer app"
+    },
+    {
+      "name": "Public",
+      "notes": "Social investing with stocks, crypto, and alternatives"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "Crypto platform expanding into traditional assets"
+    },
+    {
+      "name": "E*TRADE",
+      "notes": "Morgan Stanley's retail trading platform"
+    }
   ],
-  "sources": ["Retail brokerage industry analysis"]
+  "sources": [
+    "Retail brokerage industry analysis"
+  ]
 }

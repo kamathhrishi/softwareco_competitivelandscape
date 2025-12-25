@@ -5,16 +5,46 @@
   "search_query": "Five9 competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Genesys Cloud CX", "notes": "Top competitor, Leader in 2024 Gartner Magic Quadrant for CCaaS"},
-    {"name": "NICE CXone", "notes": "Comprehensive features with advanced customization"},
-    {"name": "Amazon Connect", "notes": "Leader in 2024 Gartner Magic Quadrant, AI-driven"},
-    {"name": "Talkdesk", "notes": "Leading innovator offering CX Cloud platform"},
-    {"name": "RingCentral Contact Center", "notes": "Unified communications with contact center integration"},
-    {"name": "8x8 Contact Center", "notes": "Cloud communications platform with XCaaS"},
-    {"name": "Vonage", "notes": "CPaaS and contact center solutions"},
-    {"name": "Dialpad", "notes": "AI-powered communications with TrueCaaS"},
-    {"name": "Aircall", "notes": "Cloud-based phone system for modern businesses"}
+    {
+      "name": "Genesys Cloud CX",
+      "notes": "Top competitor, Leader in 2024 Gartner Magic Quadrant for CCaaS"
+    },
+    {
+      "name": "NICE CXone",
+      "notes": "Comprehensive features with advanced customization"
+    },
+    {
+      "name": "Amazon Connect",
+      "notes": "Leader in 2024 Gartner Magic Quadrant, AI-driven"
+    },
+    {
+      "name": "Talkdesk",
+      "notes": "Leading innovator offering CX Cloud platform"
+    },
+    {
+      "name": "RingCentral Contact Center",
+      "notes": "Unified communications with contact center integration"
+    },
+    {
+      "name": "8x8 Contact Center",
+      "notes": "Cloud communications platform with XCaaS"
+    },
+    {
+      "name": "Vonage",
+      "notes": "CPaaS and contact center solutions"
+    },
+    {
+      "name": "Dialpad",
+      "notes": "AI-powered communications with TrueCaaS"
+    },
+    {
+      "name": "Aircall",
+      "notes": "Cloud-based phone system for modern businesses"
+    }
   ],
-  "context": "In 2024, Five9 operates in highly competitive mature CCaaS market. Named Leader in Gartner Magic Quadrant for Contact Center as a Service. Competition intensified with major cloud providers (AWS, Google) entering market. AI and automation became key differentiators across all competitors.",
-  "sources": ["https://www.gartner.com/reviews/market/contact-center-as-a-service/vendor/five9/alternatives", "https://www.g2.com/products/five9-intelligent-cloud-contact-center-platform/competitors/alternatives"]
+  "context": "Five9, Inc. is a cloud contact center software company focused on omnichannel contact center, workforce optimization, and AI. AI-powered virtual agents and analytics.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/contact-center-as-a-service/vendor/five9/alternatives",
+    "https://www.g2.com/products/five9-intelligent-cloud-contact-center-platform/competitors/alternatives"
+  ]
 }

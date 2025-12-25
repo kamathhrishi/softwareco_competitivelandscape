@@ -5,14 +5,37 @@
   "search_query": "Rapid7 security analytics competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Tenable (Nessus)", "notes": "Leading vulnerability scanning with Nessus engine"},
-    {"name": "Qualys", "notes": "Cloud security platform with compliance and automation"},
-    {"name": "BeyondTrust", "notes": "Privileged access and vulnerability management"},
-    {"name": "Splunk", "notes": "SIEM and security analytics platform"},
-    {"name": "FireEye", "notes": "Advanced threat detection and incident response"},
-    {"name": "Symantec", "notes": "Enterprise security and endpoint protection"},
-    {"name": "Core Security Technologies", "notes": "Penetration testing and vulnerability assessment"}
+    {
+      "name": "Tenable (Nessus)",
+      "notes": "Leading vulnerability scanning with Nessus engine"
+    },
+    {
+      "name": "Qualys",
+      "notes": "Cloud security platform with compliance and automation"
+    },
+    {
+      "name": "BeyondTrust",
+      "notes": "Privileged access and vulnerability management"
+    },
+    {
+      "name": "Splunk",
+      "notes": "SIEM and security analytics platform"
+    },
+    {
+      "name": "FireEye",
+      "notes": "Advanced threat detection and incident response"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Enterprise security and endpoint protection"
+    },
+    {
+      "name": "Core Security Technologies",
+      "notes": "Penetration testing and vulnerability assessment"
+    }
   ],
-  "context": "By 2010, the cybersecurity market had matured with specialized vendors in vulnerability management and SIEM. Rapid7 established itself with Metasploit framework and expanded into commercial VM solutions. Cloud-based platforms like Qualys gained traction.",
-  "sources": ["https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/rapid7/alternatives"]
+  "context": "Rapid7, Inc. is a security analytics and automation company focused on vulnerability management, SIEM, and detection and response. Metasploit community leadership.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/rapid7/alternatives"
+  ]
 }

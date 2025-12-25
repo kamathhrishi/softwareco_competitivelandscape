@@ -5,12 +5,29 @@
   "search_query": "Dynatrace APM competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Compuware Gomez", "notes": "Parent company of Dynatrace, web performance monitoring"},
-    {"name": "HP Application Performance", "notes": "Enterprise APM from HP"},
-    {"name": "CA Wily", "notes": "APM acquired by CA Technologies"},
-    {"name": "IBM Tivoli", "notes": "Enterprise systems management"},
-    {"name": "Quest Foglight", "notes": "Application monitoring tools"}
+    {
+      "name": "Compuware Gomez",
+      "notes": "Parent company of Dynatrace, web performance monitoring"
+    },
+    {
+      "name": "HP Application Performance",
+      "notes": "Enterprise APM from HP"
+    },
+    {
+      "name": "CA Wily",
+      "notes": "APM acquired by CA Technologies"
+    },
+    {
+      "name": "IBM Tivoli",
+      "notes": "Enterprise systems management"
+    },
+    {
+      "name": "Quest Foglight",
+      "notes": "Application monitoring tools"
+    }
   ],
-  "context": "In 2010, Dynatrace was part of Compuware (acquired 2008 as dynaTrace software). The APM market was dominated by on-premises enterprise solutions from HP, CA, and IBM. New Relic was just launching as cloud-native alternative. Application performance monitoring was evolving from infrastructure monitoring to application-centric views. Dynatrace differentiated with PurePath technology for transaction tracing. The market was preparing for cloud and SaaS transformation.",
-  "sources": ["https://www.dynatrace.com/company/"]
+  "context": "Dynatrace, Inc. is a software intelligence platform focused on application performance monitoring, observability, and AIOps. User experience monitoring. Mobile APM growing.",
+  "sources": [
+    "https://www.dynatrace.com/company/"
+  ]
 }

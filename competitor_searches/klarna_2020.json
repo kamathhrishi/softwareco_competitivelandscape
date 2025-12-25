@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "Klarna competitors 2020",
   "search_date": "2024-12-24",
-  "context": "Klarna benefited from e-commerce boom during COVID-19. BNPL gained mainstream adoption as consumers sought flexible payment options. Company valued at $10.6B after funding round.",
+  "context": "Klarna Bank AB is a buy now, pay later fintech company focused on installment payments, shopping app, and merchant services. BNPL growth during e-commerce boom. $45.6B peak valuation.",
   "competitors": [
-    {"name": "Afterpay", "notes": "Australian BNPL expanding to US"},
-    {"name": "Affirm", "notes": "US BNPL backed by Max Levchin"},
-    {"name": "Quadpay", "notes": "US BNPL acquired by Zip"},
-    {"name": "Sezzle", "notes": "Emerging BNPL player"},
-    {"name": "PayPal Credit", "notes": "PayPal's credit offerings"},
-    {"name": "Splitit", "notes": "Credit card installment solution"},
-    {"name": "Bread Financial", "notes": "White-label financing"},
-    {"name": "Retail Store Cards", "notes": "Traditional store financing"}
+    {
+      "name": "Afterpay",
+      "notes": "Australian BNPL expanding to US"
+    },
+    {
+      "name": "Affirm",
+      "notes": "US BNPL backed by Max Levchin"
+    },
+    {
+      "name": "Quadpay",
+      "notes": "US BNPL acquired by Zip"
+    },
+    {
+      "name": "Sezzle",
+      "notes": "Emerging BNPL player"
+    },
+    {
+      "name": "PayPal Credit",
+      "notes": "PayPal's credit offerings"
+    },
+    {
+      "name": "Splitit",
+      "notes": "Credit card installment solution"
+    },
+    {
+      "name": "Bread Financial",
+      "notes": "White-label financing"
+    },
+    {
+      "name": "Retail Store Cards",
+      "notes": "Traditional store financing"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

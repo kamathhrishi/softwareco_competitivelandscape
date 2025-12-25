@@ -5,16 +5,48 @@
   "search_query": "SentinelOne endpoint security competitors 2024",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "CrowdStrike Falcon", "notes": "Best overall alternative, cloud-native architecture, comprehensive endpoint protection, threat intelligence, 24/7 threat hunting, better threat intelligence but higher price point"},
-    {"name": "Microsoft Defender for Endpoint", "notes": "Robust endpoint protection integrated with Windows ecosystem, AI-powered ransomware and cyberattack protection, recognized as Gartner EPP Leader like SentinelOne"},
-    {"name": "Palo Alto Networks Cortex XDR", "notes": "Detection and response platform integrating network, endpoint, and cloud data, behavioral analytics, ML, automated threat hunting, broader security approach"},
-    {"name": "Cynet", "notes": "Comprehensive cybersecurity platform with threat detection/response, UEBA, and NTA, broader security capabilities beyond endpoint"},
-    {"name": "Sophos Intercept X", "notes": "Uses deep learning for known/unknown malware detection, exploit prevention, ransomware protection, easier to use for smaller businesses"},
-    {"name": "ESET", "notes": "30+ years providing protection for computers, networks, and mobile devices, XDR solution for complex threat identification"},
-    {"name": "ThreatDown", "notes": "Protection against malware, phishing, and ransomware for devices, emails, and cloud services"},
-    {"name": "Bitdefender GravityZone", "notes": "Combines all security services into single delivery platform"},
-    {"name": "Huntress", "notes": "Managed security platform alternative"}
+    {
+      "name": "CrowdStrike Falcon",
+      "notes": "Best overall alternative, cloud-native architecture, comprehensive endpoint protection, threat intelligence, 24/7 threat hunting, better threat intelligence but higher price point"
+    },
+    {
+      "name": "Microsoft Defender for Endpoint",
+      "notes": "Robust endpoint protection integrated with Windows ecosystem, AI-powered ransomware and cyberattack protection, recognized as Gartner EPP Leader like SentinelOne"
+    },
+    {
+      "name": "Palo Alto Networks Cortex XDR",
+      "notes": "Detection and response platform integrating network, endpoint, and cloud data, behavioral analytics, ML, automated threat hunting, broader security approach"
+    },
+    {
+      "name": "Cynet",
+      "notes": "Comprehensive cybersecurity platform with threat detection/response, UEBA, and NTA, broader security capabilities beyond endpoint"
+    },
+    {
+      "name": "Sophos Intercept X",
+      "notes": "Uses deep learning for known/unknown malware detection, exploit prevention, ransomware protection, easier to use for smaller businesses"
+    },
+    {
+      "name": "ESET",
+      "notes": "30+ years providing protection for computers, networks, and mobile devices, XDR solution for complex threat identification"
+    },
+    {
+      "name": "ThreatDown",
+      "notes": "Protection against malware, phishing, and ransomware for devices, emails, and cloud services"
+    },
+    {
+      "name": "Bitdefender GravityZone",
+      "notes": "Combines all security services into single delivery platform"
+    },
+    {
+      "name": "Huntress",
+      "notes": "Managed security platform alternative"
+    }
   ],
-  "context": "For the fifth year in a row, SentinelOne has been named a Leader in the 2025 Gartner Magic Quadrant for Endpoint Protection Platforms. CrowdStrike Falcon is considered the best overall alternative with superior threat intelligence, though at a higher price point suitable for large enterprises. Microsoft Defender for Endpoint offers strong Windows ecosystem integration. A common criticism of SentinelOne is its complex user interface with a steep learning curve, making it less intuitive than some competitors. The market includes enterprise-focused solutions (CrowdStrike, Palo Alto) and SMB-friendly options (Sophos).",
-  "sources": ["https://www.cynet.com/endpoint-security/5-sentinelone-competitors-and-alternatives-you-should-know/", "https://www.sangfor.com/blog/cybersecurity/sentinelone-competitors-15-alternatives-endpoint-security-2025", "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/sentinelone/product/sentinelone-singularity-endpoint/alternatives", "https://heimdalsecurity.com/blog/sentinelone-competitors-alternatives/"]
+  "context": "SentinelOne, Inc. is a autonomous cybersecurity platform company focused on endpoint protection, XDR, and AI-powered security. Purple AI for security operations. Cloud and data security.",
+  "sources": [
+    "https://www.cynet.com/endpoint-security/5-sentinelone-competitors-and-alternatives-you-should-know/",
+    "https://www.sangfor.com/blog/cybersecurity/sentinelone-competitors-15-alternatives-endpoint-security-2025",
+    "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/sentinelone/product/sentinelone-singularity-endpoint/alternatives",
+    "https://heimdalsecurity.com/blog/sentinelone-competitors-alternatives/"
+  ]
 }

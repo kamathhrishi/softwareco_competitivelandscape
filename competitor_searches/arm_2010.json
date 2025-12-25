@@ -4,16 +4,42 @@
   "year": 2010,
   "search_query": "ARM Holdings competitors 2010",
   "search_date": "2024-12-24",
-  "context": "ARM architecture became dominant in smartphones with iPhone and Android growth. The company introduced Cortex-A15 for high performance and expanded into tablets.",
+  "context": "Arm Holdings plc is a semiconductor IP and architecture licensing company focused on processor architecture licensing for mobile, IoT, automotive, and data centers. Dominant in mobile processors. Every smartphone used Arm architecture.",
   "competitors": [
-    {"name": "Intel", "notes": "x86 giant trying to enter mobile"},
-    {"name": "MIPS Technologies", "notes": "RISC competitor in embedded"},
-    {"name": "PowerPC (IBM/Freescale)", "notes": "Alternative embedded architecture"},
-    {"name": "Imagination Technologies", "notes": "PowerVR GPU IP"},
-    {"name": "Synopsys ARC", "notes": "Embedded processor IP"},
-    {"name": "Tensilica", "notes": "Configurable processor IP"},
-    {"name": "AMD", "notes": "x86 alternative"},
-    {"name": "VIA Technologies", "notes": "x86 competitor"}
+    {
+      "name": "Intel",
+      "notes": "x86 giant trying to enter mobile"
+    },
+    {
+      "name": "MIPS Technologies",
+      "notes": "RISC competitor in embedded"
+    },
+    {
+      "name": "PowerPC (IBM/Freescale)",
+      "notes": "Alternative embedded architecture"
+    },
+    {
+      "name": "Imagination Technologies",
+      "notes": "PowerVR GPU IP"
+    },
+    {
+      "name": "Synopsys ARC",
+      "notes": "Embedded processor IP"
+    },
+    {
+      "name": "Tensilica",
+      "notes": "Configurable processor IP"
+    },
+    {
+      "name": "AMD",
+      "notes": "x86 alternative"
+    },
+    {
+      "name": "VIA Technologies",
+      "notes": "x86 competitor"
+    }
   ],
-  "sources": ["Semiconductor industry analysis"]
+  "sources": [
+    "Semiconductor industry analysis"
+  ]
 }

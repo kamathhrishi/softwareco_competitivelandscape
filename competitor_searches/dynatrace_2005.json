@@ -5,11 +5,25 @@
   "search_query": "Dynatrace APM competitors 2005",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Mercury Interactive", "notes": "Application performance management, acquired by HP 2006"},
-    {"name": "Wily Technology", "notes": "APM vendor, acquired by CA Technologies 2006"},
-    {"name": "HP OpenView", "notes": "Enterprise systems management"},
-    {"name": "IBM Tivoli", "notes": "Enterprise monitoring and management"}
+    {
+      "name": "Mercury Interactive",
+      "notes": "Application performance management, acquired by HP 2006"
+    },
+    {
+      "name": "Wily Technology",
+      "notes": "APM vendor, acquired by CA Technologies 2006"
+    },
+    {
+      "name": "HP OpenView",
+      "notes": "Enterprise systems management"
+    },
+    {
+      "name": "IBM Tivoli",
+      "notes": "Enterprise monitoring and management"
+    }
   ],
-  "context": "In 2005, Dynatrace was founded as dynaTrace software in Austria. The APM market was dominated by Mercury Interactive (acquired by HP 2006) and Wily Technology (acquired by CA 2006). Dynatrace differentiated with PurePath technology for deep transaction tracing. Application performance monitoring was evolving from infrastructure monitoring to application-centric views. The market was preparing for major consolidation with HP and CA acquisitions.",
-  "sources": ["https://www.dynatrace.com/company/"]
+  "context": "Dynatrace, Inc. is a software intelligence platform focused on application performance monitoring, observability, and AIOps. Application performance management pioneer. Java monitoring.",
+  "sources": [
+    "https://www.dynatrace.com/company/"
+  ]
 }

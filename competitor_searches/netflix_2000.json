@@ -4,14 +4,35 @@
   "year": 2000,
   "search_query": "Netflix competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Netflix struggled for relevance, burning through $50M and failing to hit 300K subscribers. Reed Hastings offered to sell Netflix to Blockbuster for $50M but was rejected. Company abandoned IPO plans as dot-com bubble burst.",
+  "context": "Netflix, Inc. is a streaming entertainment service focused on subscription video streaming and original content production. DVD-by-mail rental. Offered to sell to Blockbuster.",
   "competitors": [
-    {"name": "Blockbuster", "notes": "Dominant video rental chain with 9,000+ stores, rejected Netflix acquisition offer"},
-    {"name": "Hollywood Video", "notes": "Second largest video rental chain in US"},
-    {"name": "Movie Gallery", "notes": "Video rental chain focused on rural markets"},
-    {"name": "Amazon", "notes": "DVD sales online, potential threat to Netflix model"},
-    {"name": "Walmart", "notes": "DVD sales and emerging video rental services"},
-    {"name": "Traditional video stores", "notes": "Local mom-and-pop rental shops"}
+    {
+      "name": "Blockbuster",
+      "notes": "Dominant video rental chain with 9,000+ stores, rejected Netflix acquisition offer"
+    },
+    {
+      "name": "Hollywood Video",
+      "notes": "Second largest video rental chain in US"
+    },
+    {
+      "name": "Movie Gallery",
+      "notes": "Video rental chain focused on rural markets"
+    },
+    {
+      "name": "Amazon",
+      "notes": "DVD sales online, potential threat to Netflix model"
+    },
+    {
+      "name": "Walmart",
+      "notes": "DVD sales and emerging video rental services"
+    },
+    {
+      "name": "Traditional video stores",
+      "notes": "Local mom-and-pop rental shops"
+    }
   ],
-  "sources": ["Netflix company history", "DVD rental industry analysis"]
+  "sources": [
+    "Netflix company history",
+    "DVD rental industry analysis"
+  ]
 }

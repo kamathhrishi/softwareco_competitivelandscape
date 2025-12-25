@@ -5,16 +5,40 @@
   "search_query": "Ceridian competitors 2005",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "ADP (Automatic Data Processing)", "notes": "Market leader in payroll processing services with decades of experience, dominant position in small to large enterprise payroll"},
-    {"name": "Paychex", "notes": "Major payroll and HR services provider, particularly strong in small and mid-sized business market"},
-    {"name": "Oracle PeopleSoft", "notes": "Enterprise HCM platform (acquired by Oracle in January 2005), strong in large enterprise HR and financial management"},
-    {"name": "SAP", "notes": "Enterprise resource planning and HR software provider, strong in large multinational corporations"},
-    {"name": "Kronos", "notes": "Leading workforce management and time/attendance solutions provider"},
-    {"name": "Ultimate Software", "notes": "HR and payroll software provider, beginning to build cloud-based HCM solutions"},
-    {"name": "Sage Payroll", "notes": "Payroll management software for small to medium businesses"},
-    {"name": "Lawson Software", "notes": "Enterprise resource planning and HCM software provider"}
+    {
+      "name": "ADP (Automatic Data Processing)",
+      "notes": "Market leader in payroll processing services with decades of experience, dominant position in small to large enterprise payroll"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll and HR services provider, particularly strong in small and mid-sized business market"
+    },
+    {
+      "name": "Oracle PeopleSoft",
+      "notes": "Enterprise HCM platform (acquired by Oracle in January 2005), strong in large enterprise HR and financial management"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise resource planning and HR software provider, strong in large multinational corporations"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Leading workforce management and time/attendance solutions provider"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "HR and payroll software provider, beginning to build cloud-based HCM solutions"
+    },
+    {
+      "name": "Sage Payroll",
+      "notes": "Payroll management software for small to medium businesses"
+    },
+    {
+      "name": "Lawson Software",
+      "notes": "Enterprise resource planning and HCM software provider"
+    }
   ],
-  "context": "In 2005, Ceridian was operating as a traditional payroll services and HR outsourcing company following its 2001 restructuring. The HCM market was dominated by on-premise software solutions and service bureau models. ADP and Paychex led the payroll services market, while Oracle's acquisition of PeopleSoft in January 2005 consolidated the enterprise HCM software market. Cloud-based HCM solutions were just emerging with Workday's founding in 2005. Ceridian competed in payroll processing, benefits administration, and HR outsourcing services.",
+  "context": "Dayforce (formerly Ceridian HCM) is a human capital management software company focused on payroll, HR, talent management, and workforce management. Beginning cloud transition. Competing with ADP and legacy providers.",
   "sources": [
     "https://en.wikipedia.org/wiki/Dayforce",
     "https://en.wikipedia.org/wiki/PeopleSoft",

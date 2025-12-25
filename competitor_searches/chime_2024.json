@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Chime competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Chime prepared for IPO while maintaining position as largest US neobank by customer count. The company focused on profitability and expanded credit products including secured credit card.",
+  "context": "Chime Financial, Inc. is a digital banking platform focused on mobile-first banking, early paycheck access, and fee-free accounts. Pursuing banking charter. Credit products expansion.",
   "competitors": [
-    {"name": "SoFi", "notes": "Diversified fintech with banking charter"},
-    {"name": "Cash App", "notes": "Square's banking and payments ecosystem"},
-    {"name": "Varo Bank", "notes": "Digital bank with full banking license"},
-    {"name": "Current", "notes": "Mobile banking for younger demographics"},
-    {"name": "Dave", "notes": "Overdraft and cash advance app"},
-    {"name": "Ally Bank", "notes": "Established online-only bank"},
-    {"name": "Marcus by Goldman Sachs", "notes": "Goldman's consumer banking arm"},
-    {"name": "Robinhood", "notes": "Expanding into banking with cash card"}
+    {
+      "name": "SoFi",
+      "notes": "Diversified fintech with banking charter"
+    },
+    {
+      "name": "Cash App",
+      "notes": "Square's banking and payments ecosystem"
+    },
+    {
+      "name": "Varo Bank",
+      "notes": "Digital bank with full banking license"
+    },
+    {
+      "name": "Current",
+      "notes": "Mobile banking for younger demographics"
+    },
+    {
+      "name": "Dave",
+      "notes": "Overdraft and cash advance app"
+    },
+    {
+      "name": "Ally Bank",
+      "notes": "Established online-only bank"
+    },
+    {
+      "name": "Marcus by Goldman Sachs",
+      "notes": "Goldman's consumer banking arm"
+    },
+    {
+      "name": "Robinhood",
+      "notes": "Expanding into banking with cash card"
+    }
   ],
-  "sources": ["Fintech industry analysis"]
+  "sources": [
+    "Fintech industry analysis"
+  ]
 }

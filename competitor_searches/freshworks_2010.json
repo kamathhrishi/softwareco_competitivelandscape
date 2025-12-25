@@ -5,10 +5,22 @@
   "search_query": "Freshworks Freshdesk customer service competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Zendesk", "notes": "Established customer service platform, founded 2007, market leader by 2010"},
-    {"name": "Salesforce Service Cloud", "notes": "Enterprise-grade customer service software"},
-    {"name": "Zoho Desk", "notes": "Part of Zoho's suite, early cloud-based helpdesk competitor"}
+    {
+      "name": "Zendesk",
+      "notes": "Established customer service platform, founded 2007, market leader by 2010"
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "notes": "Enterprise-grade customer service software"
+    },
+    {
+      "name": "Zoho Desk",
+      "notes": "Part of Zoho's suite, early cloud-based helpdesk competitor"
+    }
   ],
-  "context": "Freshworks (originally Freshdesk) was founded in 2010 in Chennai, India. At launch, the company entered a market already dominated by Zendesk. The competitive landscape was characterized by early cloud-based customer service solutions competing against legacy on-premise systems. Freshdesk positioned itself as more affordable, user-friendly alternative for SMBs.",
-  "sources": ["https://www.helpscout.com/blog/freshdesk-alternatives/", "https://www.cbinsights.com/company/freshdesk/alternatives-competitors"]
+  "context": "Freshworks Inc. is a SaaS customer and employee engagement software focused on CRM, IT service management, and customer support software. Founded in India as Freshdesk. SMB help desk software.",
+  "sources": [
+    "https://www.helpscout.com/blog/freshdesk-alternatives/",
+    "https://www.cbinsights.com/company/freshdesk/alternatives-competitors"
+  ]
 }

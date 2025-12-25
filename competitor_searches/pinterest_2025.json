@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Pinterest competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Pinterest is a visual discovery and shopping platform with 500M+ monthly users. AI-powered recommendations and shoppable content drive commerce as the platform differentiates with positive, inspiring content.",
+  "context": "Pinterest, Inc. is a visual discovery and shopping platform focused on image-based social discovery and e-commerce integration. Visual shopping platform. Competing with Instagram, TikTok.",
   "competitors": [
-    {"name": "Instagram", "notes": "Meta's visual platform with comprehensive shopping"},
-    {"name": "TikTok Shop", "notes": "Social commerce integrated with short-form video"},
-    {"name": "Google", "notes": "Visual search, Shopping, and AI discovery"},
-    {"name": "Amazon", "notes": "Product discovery and shopping destination"},
-    {"name": "YouTube", "notes": "Video inspiration and affiliate shopping"},
-    {"name": "Etsy", "notes": "Unique goods marketplace"},
-    {"name": "LTK", "notes": "Creator commerce platform"},
-    {"name": "Xiaohongshu", "notes": "Chinese social commerce platform"}
+    {
+      "name": "Instagram",
+      "notes": "Meta's visual platform with comprehensive shopping"
+    },
+    {
+      "name": "TikTok Shop",
+      "notes": "Social commerce integrated with short-form video"
+    },
+    {
+      "name": "Google",
+      "notes": "Visual search, Shopping, and AI discovery"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Product discovery and shopping destination"
+    },
+    {
+      "name": "YouTube",
+      "notes": "Video inspiration and affiliate shopping"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Unique goods marketplace"
+    },
+    {
+      "name": "LTK",
+      "notes": "Creator commerce platform"
+    },
+    {
+      "name": "Xiaohongshu",
+      "notes": "Chinese social commerce platform"
+    }
   ],
-  "sources": ["Social media industry analysis"]
+  "sources": [
+    "Social media industry analysis"
+  ]
 }

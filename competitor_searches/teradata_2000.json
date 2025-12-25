@@ -5,12 +5,29 @@
   "search_query": "Teradata data warehouse competitors 2000",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Oracle", "notes": "Enterprise database with data warehousing capabilities"},
-    {"name": "IBM DB2", "notes": "Enterprise database and data warehousing"},
-    {"name": "Informix", "notes": "Relational database, acquired by IBM 2001"},
-    {"name": "Red Brick", "notes": "Data warehouse database, acquired by Informix"},
-    {"name": "NCR", "notes": "Parent company of Teradata division"}
+    {
+      "name": "Oracle",
+      "notes": "Enterprise database with data warehousing capabilities"
+    },
+    {
+      "name": "IBM DB2",
+      "notes": "Enterprise database and data warehousing"
+    },
+    {
+      "name": "Informix",
+      "notes": "Relational database, acquired by IBM 2001"
+    },
+    {
+      "name": "Red Brick",
+      "notes": "Data warehouse database, acquired by Informix"
+    },
+    {
+      "name": "NCR",
+      "notes": "Parent company of Teradata division"
+    }
   ],
-  "context": "In 2000, Teradata was a division of NCR Corporation (spun off as independent company in 2007). Teradata was the leading specialized data warehouse vendor competing against general-purpose databases from Oracle and IBM. The data warehouse market was growing with e-commerce and CRM analytics demands. Red Brick was a specialized competitor before being acquired. Teradata's massively parallel processing architecture was a key differentiator for large-scale analytics.",
-  "sources": ["https://www.teradata.com/about-us/history"]
+  "context": "Teradata Corporation is a cloud analytics and data platform company focused on enterprise data warehousing and analytics. Data warehouse leader for large enterprises.",
+  "sources": [
+    "https://www.teradata.com/about-us/history"
+  ]
 }

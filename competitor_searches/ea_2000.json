@@ -4,16 +4,42 @@
   "year": 2000,
   "search_query": "Electronic Arts competitors 2000",
   "search_date": "2024-12-24",
-  "context": "EA dominated console gaming with sports franchises (FIFA, Madden, NBA Live) and The Sims launch. PS2 generation beginning.",
+  "context": "Electronic Arts Inc. is a video game company focused on sports games, action titles, and mobile gaming. Sports game dominance with FIFA, Madden, NHL. Annual releases.",
   "competitors": [
-    {"name": "Activision", "notes": "Tony Hawk's Pro Skater success"},
-    {"name": "THQ", "notes": "WWF wrestling games"},
-    {"name": "Eidos", "notes": "Tomb Raider, Hitman"},
-    {"name": "Infogrames", "notes": "European publisher"},
-    {"name": "Acclaim", "notes": "Sports and licensed games"},
-    {"name": "Midway", "notes": "Arcade and console games"},
-    {"name": "Take-Two", "notes": "GTA III in development"},
-    {"name": "Sega", "notes": "Dreamcast first-party, going third-party"}
+    {
+      "name": "Activision",
+      "notes": "Tony Hawk's Pro Skater success"
+    },
+    {
+      "name": "THQ",
+      "notes": "WWF wrestling games"
+    },
+    {
+      "name": "Eidos",
+      "notes": "Tomb Raider, Hitman"
+    },
+    {
+      "name": "Infogrames",
+      "notes": "European publisher"
+    },
+    {
+      "name": "Acclaim",
+      "notes": "Sports and licensed games"
+    },
+    {
+      "name": "Midway",
+      "notes": "Arcade and console games"
+    },
+    {
+      "name": "Take-Two",
+      "notes": "GTA III in development"
+    },
+    {
+      "name": "Sega",
+      "notes": "Dreamcast first-party, going third-party"
+    }
   ],
-  "sources": ["Gaming industry analysis"]
+  "sources": [
+    "Gaming industry analysis"
+  ]
 }

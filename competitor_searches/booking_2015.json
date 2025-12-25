@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Priceline Booking.com competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Priceline Group (later Booking Holdings) dominated online travel with Booking.com, Priceline, Kayak, and Agoda. Mobile bookings grew rapidly.",
+  "context": "Booking Holdings Inc. is a online travel and reservation platform focused on Booking.com, Priceline, Kayak, and OpenTable. Expanded beyond hotels to homes and experiences. OpenTable acquisition.",
   "competitors": [
-    {"name": "Expedia", "notes": "Major OTA rival with Hotels.com, Trivago stake"},
-    {"name": "TripAdvisor", "notes": "Reviews expanding into bookings"},
-    {"name": "Airbnb", "notes": "Alternative accommodations disrupting hotels"},
-    {"name": "Ctrip", "notes": "Chinese online travel leader"},
-    {"name": "Google", "notes": "Travel search and Hotel Finder"},
-    {"name": "Hotels.com", "notes": "Expedia-owned hotel booking"},
-    {"name": "Orbitz", "notes": "OTA competitor (acquired by Expedia)"},
-    {"name": "HRS", "notes": "European hotel booking"}
+    {
+      "name": "Expedia",
+      "notes": "Major OTA rival with Hotels.com, Trivago stake"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Reviews expanding into bookings"
+    },
+    {
+      "name": "Airbnb",
+      "notes": "Alternative accommodations disrupting hotels"
+    },
+    {
+      "name": "Ctrip",
+      "notes": "Chinese online travel leader"
+    },
+    {
+      "name": "Google",
+      "notes": "Travel search and Hotel Finder"
+    },
+    {
+      "name": "Hotels.com",
+      "notes": "Expedia-owned hotel booking"
+    },
+    {
+      "name": "Orbitz",
+      "notes": "OTA competitor (acquired by Expedia)"
+    },
+    {
+      "name": "HRS",
+      "notes": "European hotel booking"
+    }
   ],
-  "sources": ["Travel industry analysis"]
+  "sources": [
+    "Travel industry analysis"
+  ]
 }

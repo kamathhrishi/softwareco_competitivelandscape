@@ -5,10 +5,22 @@
   "search_query": "Palo Alto Networks firewall competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Check Point Software", "notes": "Key player in cybersecurity since 1997, established firewall vendor"},
-    {"name": "Cisco Systems", "notes": "Major networking and security equipment provider with robust firewall solutions"},
-    {"name": "Juniper Networks", "notes": "Established network security player offering enterprise firewall solutions"}
+    {
+      "name": "Check Point Software",
+      "notes": "Key player in cybersecurity since 1997, established firewall vendor"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Major networking and security equipment provider with robust firewall solutions"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Established network security player offering enterprise firewall solutions"
+    }
   ],
-  "context": "Palo Alto Networks was founded in 2005 by security veteran Nir Zuk. In 2005, the company was just starting out and had not yet released its first product. The enterprise firewall market was dominated by Check Point (since 1997), Cisco, and Juniper. Palo Alto would not release its revolutionary next-generation firewall until 2007.",
-  "sources": ["https://www.gartner.com/reviews/market/network-firewalls/vendor/palo-alto-networks/alternatives", "https://www.zenarmor.com/docs/network-security-tutorials/palo-alto-alternatives"]
+  "context": "Palo Alto Networks, Inc. is a cybersecurity platform company focused on network security, cloud security, and security operations. Founded. Next-generation firewall pioneer.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/palo-alto-networks/alternatives",
+    "https://www.zenarmor.com/docs/network-security-tutorials/palo-alto-alternatives"
+  ]
 }

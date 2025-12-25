@@ -5,11 +5,25 @@
   "search_query": "DocuSign e-signature competitors 2005",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Silanis", "notes": "E-signature and digital signature solutions"},
-    {"name": "Adobe", "notes": "PDF and document solutions before EchoSign"},
-    {"name": "ARX", "notes": "Digital signature solutions"},
-    {"name": "Entrust", "notes": "Digital certificates and security"}
+    {
+      "name": "Silanis",
+      "notes": "E-signature and digital signature solutions"
+    },
+    {
+      "name": "Adobe",
+      "notes": "PDF and document solutions before EchoSign"
+    },
+    {
+      "name": "ARX",
+      "notes": "Digital signature solutions"
+    },
+    {
+      "name": "Entrust",
+      "notes": "Digital certificates and security"
+    }
   ],
-  "context": "In 2005, DocuSign was founded (incorporated 2003) in Seattle. The e-signature market was nascent with limited enterprise adoption. The ESIGN Act (2000) had established legal validity but adoption was slow. DocuSign focused on transaction management platform for real estate and financial services. Competition was minimal as the market was just developing. Most document signing was still paper-based.",
-  "sources": ["https://www.docusign.com/company/history"]
+  "context": "DocuSign, Inc. is a electronic signature and agreement cloud company focused on e-signature, contract lifecycle management, and agreement automation. Pioneered electronic signature market. Legal acceptance growing.",
+  "sources": [
+    "https://www.docusign.com/company/history"
+  ]
 }

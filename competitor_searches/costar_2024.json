@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "CoStar competitors 2024",
   "search_date": "2024-12-24",
-  "context": "CoStar is aggressively expanding Homes.com to challenge Zillow in residential real estate. The company dominates commercial real estate data and multifamily with Apartments.com.",
+  "context": "CoStar Group, Inc. is a commercial real estate information and analytics company focused on commercial real estate data, analytics, and marketplace platforms. Homes.com investment. Competing with Zillow in residential.",
   "competitors": [
-    {"name": "Zillow", "notes": "Leading residential real estate portal"},
-    {"name": "Realtor.com", "notes": "Residential real estate competitor"},
-    {"name": "Redfin", "notes": "Tech-enabled residential brokerage"},
-    {"name": "Yardi Systems", "notes": "Property management software"},
-    {"name": "RealPage", "notes": "Multifamily software (antitrust scrutiny)"},
-    {"name": "CBRE", "notes": "Commercial real estate services"},
-    {"name": "Rent.com (Redfin)", "notes": "Rental listings competitor"},
-    {"name": "Zumper", "notes": "Rental platform competitor"}
+    {
+      "name": "Zillow",
+      "notes": "Leading residential real estate portal"
+    },
+    {
+      "name": "Realtor.com",
+      "notes": "Residential real estate competitor"
+    },
+    {
+      "name": "Redfin",
+      "notes": "Tech-enabled residential brokerage"
+    },
+    {
+      "name": "Yardi Systems",
+      "notes": "Property management software"
+    },
+    {
+      "name": "RealPage",
+      "notes": "Multifamily software (antitrust scrutiny)"
+    },
+    {
+      "name": "CBRE",
+      "notes": "Commercial real estate services"
+    },
+    {
+      "name": "Rent.com (Redfin)",
+      "notes": "Rental listings competitor"
+    },
+    {
+      "name": "Zumper",
+      "notes": "Rental platform competitor"
+    }
   ],
-  "sources": ["Real estate industry analysis"]
+  "sources": [
+    "Real estate industry analysis"
+  ]
 }

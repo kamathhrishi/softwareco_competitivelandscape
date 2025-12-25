@@ -5,12 +5,33 @@
   "search_query": "Guidewire insurance software competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Majesco", "notes": "Technology and insurance experience provider for P&C and L&AH insurers, offering platform solutions for core insurance functions, data management, analytics, distribution, underwriting"},
-    {"name": "Duck Creek Technologies", "notes": "Solutions provider focused on P&C and general insurance industry with cloud-based platform for insurance systems"},
-    {"name": "Sapiens", "notes": "Specializes in providing insurance software solutions across various sectors of the insurance industry"},
-    {"name": "OneShield", "notes": "Provides core insurance platform solutions for P&C insurers and managing general agents (MGAs)"},
-    {"name": "BriteCore", "notes": "Alternative platform for insurance administration, cited as overall alternative to Guidewire InsuranceSuite"}
+    {
+      "name": "Majesco",
+      "notes": "Technology and insurance experience provider for P&C and L&AH insurers, offering platform solutions for core insurance functions, data management, analytics, distribution, underwriting"
+    },
+    {
+      "name": "Duck Creek Technologies",
+      "notes": "Solutions provider focused on P&C and general insurance industry with cloud-based platform for insurance systems"
+    },
+    {
+      "name": "Sapiens",
+      "notes": "Specializes in providing insurance software solutions across various sectors of the insurance industry"
+    },
+    {
+      "name": "OneShield",
+      "notes": "Provides core insurance platform solutions for P&C insurers and managing general agents (MGAs)"
+    },
+    {
+      "name": "BriteCore",
+      "notes": "Alternative platform for insurance administration, cited as overall alternative to Guidewire InsuranceSuite"
+    }
   ],
-  "context": "By 2010, Guidewire had established itself in the P&C insurance software market. The competitive landscape included established players like Majesco and Duck Creek Technologies, along with other specialized insurance software providers like Sapiens and OneShield. Market share data shows Guidewire InsuranceSuite competing with 216 tools in the insurance-administration-and-management category.",
-  "sources": ["https://www.cbinsights.com/company/guidewire/alternatives-competitors", "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives", "https://www.selecthub.com/insurance-software/guidewire/alternatives/", "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share", "https://www.gartner.com/reviews/market/saas-p-and-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives"]
+  "context": "Guidewire Software, Inc. is a software for property and casualty insurers focused on core insurance systems, data analytics, and digital engagement. IPO. Leading P&C core platform provider.",
+  "sources": [
+    "https://www.cbinsights.com/company/guidewire/alternatives-competitors",
+    "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives",
+    "https://www.selecthub.com/insurance-software/guidewire/alternatives/",
+    "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share",
+    "https://www.gartner.com/reviews/market/saas-p-and-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives"
+  ]
 }

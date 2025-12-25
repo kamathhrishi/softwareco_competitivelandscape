@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Spotify competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Spotify reached 600M+ monthly users and achieved profitability. The company is the global leader in music and podcasts, expanding into audiobooks and AI-powered features.",
+  "context": "Spotify Technology S.A. is a audio streaming platform focused on music streaming, podcasts, and audiobooks. Audiobooks expansion. 600M+ monthly active users.",
   "competitors": [
-    {"name": "Apple Music", "notes": "Second-largest music streaming with Apple ecosystem integration"},
-    {"name": "Amazon Music", "notes": "Growing streaming tied to Prime and Alexa"},
-    {"name": "YouTube Music", "notes": "Google streaming with YouTube Premium bundle"},
-    {"name": "Tidal", "notes": "High-fidelity streaming owned by Block"},
-    {"name": "Deezer", "notes": "European music streaming service"},
-    {"name": "Pandora", "notes": "SiriusXM-owned streaming and radio"},
-    {"name": "Audible (Amazon)", "notes": "Audiobooks competing with Spotify expansion"},
-    {"name": "Apple Podcasts", "notes": "Podcast platform competing for listeners"}
+    {
+      "name": "Apple Music",
+      "notes": "Second-largest music streaming with Apple ecosystem integration"
+    },
+    {
+      "name": "Amazon Music",
+      "notes": "Growing streaming tied to Prime and Alexa"
+    },
+    {
+      "name": "YouTube Music",
+      "notes": "Google streaming with YouTube Premium bundle"
+    },
+    {
+      "name": "Tidal",
+      "notes": "High-fidelity streaming owned by Block"
+    },
+    {
+      "name": "Deezer",
+      "notes": "European music streaming service"
+    },
+    {
+      "name": "Pandora",
+      "notes": "SiriusXM-owned streaming and radio"
+    },
+    {
+      "name": "Audible (Amazon)",
+      "notes": "Audiobooks competing with Spotify expansion"
+    },
+    {
+      "name": "Apple Podcasts",
+      "notes": "Podcast platform competing for listeners"
+    }
   ],
-  "sources": ["Music streaming industry analysis"]
+  "sources": [
+    "Music streaming industry analysis"
+  ]
 }

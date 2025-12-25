@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "AppLovin competitors 2025",
   "search_date": "2024-12-24",
-  "context": "AppLovin has emerged as a major force in mobile gaming and advertising technology in 2025, with its stock surging over 700% as AI-powered advertising drives unprecedented growth. The company's Axon AI platform has revolutionized mobile ad targeting.",
+  "context": "AppLovin Corporation is a mobile app technology and marketing platform focused on mobile advertising, app monetization, and mobile gaming. Leading mobile advertising platform. Expanded beyond gaming into broader app ecosystem.",
   "competitors": [
-    {"name": "Unity Technologies", "notes": "Direct competitor in mobile game development tools and advertising monetization through Unity Ads"},
-    {"name": "ironSource (Unity)", "notes": "Mobile app monetization and marketing platform, now part of Unity after 2022 merger"},
-    {"name": "Digital Turbine", "notes": "Mobile growth and monetization platform competing in app discovery and advertising"},
-    {"name": "Liftoff (Unity)", "notes": "Mobile app marketing and retargeting platform competing in programmatic advertising"},
-    {"name": "InMobi", "notes": "Independent mobile advertising platform with global reach in app monetization"},
-    {"name": "Moloco", "notes": "Machine learning-based mobile advertising platform competing with AI-driven ad optimization"},
-    {"name": "The Trade Desk", "notes": "Programmatic advertising platform expanding into mobile and connected TV advertising"},
-    {"name": "Meta Audience Network", "notes": "Facebook's mobile advertising network competing for mobile ad spend"}
+    {
+      "name": "Unity Technologies",
+      "notes": "Direct competitor in mobile game development tools and advertising monetization through Unity Ads"
+    },
+    {
+      "name": "ironSource (Unity)",
+      "notes": "Mobile app monetization and marketing platform, now part of Unity after 2022 merger"
+    },
+    {
+      "name": "Digital Turbine",
+      "notes": "Mobile growth and monetization platform competing in app discovery and advertising"
+    },
+    {
+      "name": "Liftoff (Unity)",
+      "notes": "Mobile app marketing and retargeting platform competing in programmatic advertising"
+    },
+    {
+      "name": "InMobi",
+      "notes": "Independent mobile advertising platform with global reach in app monetization"
+    },
+    {
+      "name": "Moloco",
+      "notes": "Machine learning-based mobile advertising platform competing with AI-driven ad optimization"
+    },
+    {
+      "name": "The Trade Desk",
+      "notes": "Programmatic advertising platform expanding into mobile and connected TV advertising"
+    },
+    {
+      "name": "Meta Audience Network",
+      "notes": "Facebook's mobile advertising network competing for mobile ad spend"
+    }
   ],
-  "sources": ["MarketBeat", "Competitor analysis reports"]
+  "sources": [
+    "MarketBeat",
+    "Competitor analysis reports"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "Palantir data analytics competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "IBM i2", "notes": "Intelligence analysis and link analysis software"},
-    {"name": "SAS", "notes": "Analytics and business intelligence"},
-    {"name": "SPSS", "notes": "Statistical analysis, acquired by IBM in 2009"},
-    {"name": "Raytheon", "notes": "Defense analytics and intelligence systems"},
-    {"name": "General Dynamics", "notes": "Defense and intelligence technology"}
+    {
+      "name": "IBM i2",
+      "notes": "Intelligence analysis and link analysis software"
+    },
+    {
+      "name": "SAS",
+      "notes": "Analytics and business intelligence"
+    },
+    {
+      "name": "SPSS",
+      "notes": "Statistical analysis, acquired by IBM in 2009"
+    },
+    {
+      "name": "Raytheon",
+      "notes": "Defense analytics and intelligence systems"
+    },
+    {
+      "name": "General Dynamics",
+      "notes": "Defense and intelligence technology"
+    }
   ],
-  "context": "In 2010, Palantir was a secretive startup focused primarily on government and intelligence community clients. The company's Gotham platform was used by CIA, NSA, and military intelligence. Competition came from defense contractors and specialized analytics vendors like i2 (acquired by IBM 2011). Palantir differentiated with user-friendly data integration and analysis for analysts. Commercial expansion was limited; the focus was government contracts worth hundreds of millions.",
-  "sources": ["https://www.palantir.com/about/"]
+  "context": "Palantir Technologies Inc. is a data analytics and AI platform company focused on government intelligence, commercial analytics, and AI operations. Gotham platform for government. Counter-terrorism focus.",
+  "sources": [
+    "https://www.palantir.com/about/"
+  ]
 }

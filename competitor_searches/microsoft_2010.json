@@ -5,15 +5,41 @@
   "search_query": "Microsoft competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Google", "notes": "Major competitor in search, productivity suite, Chrome browser"},
-    {"name": "Apple", "notes": "iPhone competing with Windows Phone (Microsoft had 3.1% smartphone share)"},
-    {"name": "Oracle", "notes": "Primary vendor for large organizations competing with Dynamics"},
-    {"name": "SAP", "notes": "Intensely competitive in enterprise software market"},
-    {"name": "IBM", "notes": "Competitor in office productivity and enterprise solutions"},
-    {"name": "Salesforce.com", "notes": "On-demand CRM competing with Dynamics CRM"},
-    {"name": "Adobe", "notes": "Software application vendor competing with Office"},
-    {"name": "Mozilla Firefox", "notes": "Browser challenging Internet Explorer dominance"}
+    {
+      "name": "Google",
+      "notes": "Major competitor in search, productivity suite, Chrome browser"
+    },
+    {
+      "name": "Apple",
+      "notes": "iPhone competing with Windows Phone (Microsoft had 3.1% smartphone share)"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Primary vendor for large organizations competing with Dynamics"
+    },
+    {
+      "name": "SAP",
+      "notes": "Intensely competitive in enterprise software market"
+    },
+    {
+      "name": "IBM",
+      "notes": "Competitor in office productivity and enterprise solutions"
+    },
+    {
+      "name": "Salesforce.com",
+      "notes": "On-demand CRM competing with Dynamics CRM"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Software application vendor competing with Office"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "notes": "Browser challenging Internet Explorer dominance"
+    }
   ],
-  "context": "Windows Phone 7 struggled with 3.1% market share. Google emerged as major multi-front threat. Competition shifted to cloud services and mobile platforms.",
-  "sources": ["https://www.microsoft.com/investor/reports/ar10/10k_fr_bus_01.html"]
+  "context": "Microsoft Corporation is a technology company focused on cloud computing, productivity software, gaming, and AI. Azure cloud launched. Windows Phone effort. Kinect.",
+  "sources": [
+    "https://www.microsoft.com/investor/reports/ar10/10k_fr_bus_01.html"
+  ]
 }

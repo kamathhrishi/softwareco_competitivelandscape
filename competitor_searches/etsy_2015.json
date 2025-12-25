@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Etsy competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Etsy went public in April 2015 as the leading marketplace for handmade and vintage goods. The company had 1.5M active sellers and 22M active buyers.",
+  "context": "Etsy, Inc. is a e-commerce marketplace for handmade and vintage goods focused on artisan marketplace, unique items, and creative entrepreneurship. IPO. Authenticity and handmade focus. Mobile growth.",
   "competitors": [
-    {"name": "Amazon Handmade", "notes": "Amazon's marketplace for artisans launched 2015"},
-    {"name": "eBay", "notes": "Auction and fixed-price marketplace with vintage and crafts"},
-    {"name": "Artfire", "notes": "Handmade goods marketplace"},
-    {"name": "Zibbet", "notes": "Multi-channel selling for handmade goods"},
-    {"name": "Bonanza", "notes": "Online marketplace for unique items"},
-    {"name": "Ruby Lane", "notes": "Antiques and vintage goods marketplace"},
-    {"name": "Pinterest", "notes": "Visual discovery driving traffic to sellers"},
-    {"name": "Shopify", "notes": "Enabling sellers to build own stores"}
+    {
+      "name": "Amazon Handmade",
+      "notes": "Amazon's marketplace for artisans launched 2015"
+    },
+    {
+      "name": "eBay",
+      "notes": "Auction and fixed-price marketplace with vintage and crafts"
+    },
+    {
+      "name": "Artfire",
+      "notes": "Handmade goods marketplace"
+    },
+    {
+      "name": "Zibbet",
+      "notes": "Multi-channel selling for handmade goods"
+    },
+    {
+      "name": "Bonanza",
+      "notes": "Online marketplace for unique items"
+    },
+    {
+      "name": "Ruby Lane",
+      "notes": "Antiques and vintage goods marketplace"
+    },
+    {
+      "name": "Pinterest",
+      "notes": "Visual discovery driving traffic to sellers"
+    },
+    {
+      "name": "Shopify",
+      "notes": "Enabling sellers to build own stores"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

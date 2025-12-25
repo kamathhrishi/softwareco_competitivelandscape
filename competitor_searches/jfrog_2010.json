@@ -5,10 +5,23 @@
   "search_query": "JFrog Artifactory DevOps competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Sonatype Nexus Repository", "notes": "Primary competitor; one of the two most established self-hosted repository managers alongside JFrog Artifactory, with stronger historical ties to the Java ecosystem"},
-    {"name": "Apache Archiva", "notes": "Open-source repository manager for Maven artifacts, commonly used in 2010 for Java-based projects"},
-    {"name": "Apache Maven", "notes": "Build automation and dependency management tool primarily for Java projects, included repository management capabilities"}
+    {
+      "name": "Sonatype Nexus Repository",
+      "notes": "Primary competitor; one of the two most established self-hosted repository managers alongside JFrog Artifactory, with stronger historical ties to the Java ecosystem"
+    },
+    {
+      "name": "Apache Archiva",
+      "notes": "Open-source repository manager for Maven artifacts, commonly used in 2010 for Java-based projects"
+    },
+    {
+      "name": "Apache Maven",
+      "notes": "Build automation and dependency management tool primarily for Java projects, included repository management capabilities"
+    }
   ],
-  "context": "In 2010, the DevOps and artifact repository management space was still emerging. JFrog was founded in 2008 and Artifactory was in its early stages. The competitive landscape was dominated by open-source solutions, particularly in the Java ecosystem. Sonatype Nexus (launched around 2008) was the primary commercial competitor. Cloud-native DevOps tools and container registries had not yet emerged. The market was primarily focused on Maven repository management for Java artifacts, with limited support for other package formats.",
-  "sources": ["https://www.trustradius.com/products/jfrog-artifactory/competitors", "https://www.saasworthy.com/product-alternative/27417/jfrog-artifactory", "https://buildkite.com/resources/blog/alternatives-to-jfrog-artifactory/"]
+  "context": "JFrog Ltd. is a software supply chain platform company focused on binary management, DevOps, and software distribution. Founded. Artifactory for binary repository management.",
+  "sources": [
+    "https://www.trustradius.com/products/jfrog-artifactory/competitors",
+    "https://www.saasworthy.com/product-alternative/27417/jfrog-artifactory",
+    "https://buildkite.com/resources/blog/alternatives-to-jfrog-artifactory/"
+  ]
 }

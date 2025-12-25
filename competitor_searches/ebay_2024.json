@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "eBay competitors 2024",
   "search_date": "2024-12-24",
-  "context": "eBay focuses on enthusiast categories including collectibles, trading cards, luxury goods, and refurbished electronics. The company divested StubHub and PayPal to focus on core marketplace.",
+  "context": "eBay Inc. is a e-commerce marketplace platform focused on online auctions, fixed-price sales, and classifieds. Focus on enthusiast categories. AI-powered selling tools.",
   "competitors": [
-    {"name": "Amazon", "notes": "Dominant e-commerce platform"},
-    {"name": "Etsy", "notes": "Marketplace for unique and vintage goods"},
-    {"name": "Mercari", "notes": "Mobile-first resale marketplace"},
-    {"name": "Poshmark", "notes": "Fashion resale social commerce"},
-    {"name": "Facebook Marketplace", "notes": "Local selling integrated with social network"},
-    {"name": "StockX", "notes": "Sneaker and streetwear marketplace with authentication"},
-    {"name": "Whatnot", "notes": "Live auction platform for collectibles"},
-    {"name": "Temu", "notes": "Low-cost marketplace changing consumer expectations"}
+    {
+      "name": "Amazon",
+      "notes": "Dominant e-commerce platform"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Marketplace for unique and vintage goods"
+    },
+    {
+      "name": "Mercari",
+      "notes": "Mobile-first resale marketplace"
+    },
+    {
+      "name": "Poshmark",
+      "notes": "Fashion resale social commerce"
+    },
+    {
+      "name": "Facebook Marketplace",
+      "notes": "Local selling integrated with social network"
+    },
+    {
+      "name": "StockX",
+      "notes": "Sneaker and streetwear marketplace with authentication"
+    },
+    {
+      "name": "Whatnot",
+      "notes": "Live auction platform for collectibles"
+    },
+    {
+      "name": "Temu",
+      "notes": "Low-cost marketplace changing consumer expectations"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

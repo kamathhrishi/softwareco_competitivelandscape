@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "Uber competitors 2024",
   "search_date": "2024-12-24",
-  "context": "Uber achieved sustained profitability and became one of the best-performing tech stocks. The company expanded into advertising, autonomous vehicles partnerships, and grocery/retail delivery.",
+  "context": "Uber Technologies, Inc. is a mobility and delivery platform focused on ridesharing, food delivery, and freight. Profitable. Advertising and autonomous partnerships.",
   "competitors": [
-    {"name": "Lyft", "notes": "US ride-hailing competitor with ~25% market share, focused on rides only"},
-    {"name": "DoorDash", "notes": "Food delivery leader in US, Uber Eats is #2"},
-    {"name": "Waymo", "notes": "Autonomous vehicle competitor partnering with Uber but also competing"},
-    {"name": "Tesla Robotaxi", "notes": "Emerging autonomous ride-hailing threat from Tesla"},
-    {"name": "Grab", "notes": "Southeast Asian super-app with rides, delivery, and fintech"},
-    {"name": "Didi", "notes": "Chinese ride-hailing giant recovering from regulatory issues"},
-    {"name": "Bolt", "notes": "European ride-hailing and delivery platform"},
-    {"name": "Instacart", "notes": "Grocery delivery competitor"}
+    {
+      "name": "Lyft",
+      "notes": "US ride-hailing competitor with ~25% market share, focused on rides only"
+    },
+    {
+      "name": "DoorDash",
+      "notes": "Food delivery leader in US, Uber Eats is #2"
+    },
+    {
+      "name": "Waymo",
+      "notes": "Autonomous vehicle competitor partnering with Uber but also competing"
+    },
+    {
+      "name": "Tesla Robotaxi",
+      "notes": "Emerging autonomous ride-hailing threat from Tesla"
+    },
+    {
+      "name": "Grab",
+      "notes": "Southeast Asian super-app with rides, delivery, and fintech"
+    },
+    {
+      "name": "Didi",
+      "notes": "Chinese ride-hailing giant recovering from regulatory issues"
+    },
+    {
+      "name": "Bolt",
+      "notes": "European ride-hailing and delivery platform"
+    },
+    {
+      "name": "Instacart",
+      "notes": "Grocery delivery competitor"
+    }
   ],
-  "sources": ["Mobility and delivery industry analysis"]
+  "sources": [
+    "Mobility and delivery industry analysis"
+  ]
 }

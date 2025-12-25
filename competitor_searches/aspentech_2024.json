@@ -5,17 +5,50 @@
   "search_query": "Aspen Technology competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AVEVA Group plc", "notes": "Global industrial software leader, acquired OSIsoft in 2020"},
-    {"name": "Honeywell", "notes": "Process Solutions for oil & gas, refining, chemicals"},
-    {"name": "Siemens AG", "notes": "Digital Industries for automation and optimization"},
-    {"name": "ANSYS INC", "notes": "Engineering simulation and optimization"},
-    {"name": "Altair", "notes": "Simulation, HPC, and AI solutions"},
-    {"name": "Dassault Systemes", "notes": "3D design, simulation, and manufacturing"},
-    {"name": "SAP", "notes": "Enterprise resource planning and business process software"},
-    {"name": "Schneider Electric", "notes": "Industrial automation and energy management"},
-    {"name": "Bentley Systems", "notes": "Infrastructure engineering software"},
-    {"name": "SIMACRO", "notes": "Digital twin solutions for chemical, energy, bio-manufacturing"}
+    {
+      "name": "AVEVA Group plc",
+      "notes": "Global industrial software leader, acquired OSIsoft in 2020"
+    },
+    {
+      "name": "Honeywell",
+      "notes": "Process Solutions for oil & gas, refining, chemicals"
+    },
+    {
+      "name": "Siemens AG",
+      "notes": "Digital Industries for automation and optimization"
+    },
+    {
+      "name": "ANSYS INC",
+      "notes": "Engineering simulation and optimization"
+    },
+    {
+      "name": "Altair",
+      "notes": "Simulation, HPC, and AI solutions"
+    },
+    {
+      "name": "Dassault Systemes",
+      "notes": "3D design, simulation, and manufacturing"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise resource planning and business process software"
+    },
+    {
+      "name": "Schneider Electric",
+      "notes": "Industrial automation and energy management"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Infrastructure engineering software"
+    },
+    {
+      "name": "SIMACRO",
+      "notes": "Digital twin solutions for chemical, energy, bio-manufacturing"
+    }
   ],
-  "context": "In 2024, following Emerson's acquisition of AspenTech (June 2022), the competitive landscape features major industrial software platforms. AspenTech holds 9.55% EAM market share, ranks 2nd among 305 competitors. Market converging on digital twins, AI/ML, and cloud solutions.",
-  "sources": ["https://pitchgrade.com/companies/aspen-technology-inc", "https://tracxn.com/d/companies/aspentech/__UVzqzXkgzXg6k0xCKZpw3YKbmkoqC6ERHRYdiYVPNCA/competitors"]
+  "context": "Aspen Technology, Inc. is a industrial software company focused on process optimization, asset performance, and supply chain for energy and chemicals. Merged with Emerson units. Industrial AI and sustainability solutions.",
+  "sources": [
+    "https://pitchgrade.com/companies/aspen-technology-inc",
+    "https://tracxn.com/d/companies/aspentech/__UVzqzXkgzXg6k0xCKZpw3YKbmkoqC6ERHRYdiYVPNCA/competitors"
+  ]
 }

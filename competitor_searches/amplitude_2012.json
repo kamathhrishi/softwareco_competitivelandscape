@@ -5,11 +5,26 @@
   "search_query": "Amplitude analytics competitors 2012",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Google Analytics", "notes": "Comprehensive analytics tool for website and app performance, audience segmentation, conversion tracking"},
-    {"name": "Mixpanel", "notes": "Founded 2009, product analytics with event tracking, user segmentation, and A/B testing - most direct competitor"},
-    {"name": "Adobe Analytics (Omniture)", "notes": "Originally launched as Omniture in 1996, acquired by Adobe in 2009, feature-heavy enterprise solution"},
-    {"name": "Kissmetrics", "notes": "Analytics platform focusing on user behavior tracking"}
+    {
+      "name": "Google Analytics",
+      "notes": "Comprehensive analytics tool for website and app performance, audience segmentation, conversion tracking"
+    },
+    {
+      "name": "Mixpanel",
+      "notes": "Founded 2009, product analytics with event tracking, user segmentation, and A/B testing - most direct competitor"
+    },
+    {
+      "name": "Adobe Analytics (Omniture)",
+      "notes": "Originally launched as Omniture in 1996, acquired by Adobe in 2009, feature-heavy enterprise solution"
+    },
+    {
+      "name": "Kissmetrics",
+      "notes": "Analytics platform focusing on user behavior tracking"
+    }
   ],
-  "context": "Amplitude was founded in 2012 by Spenser Skates and Curtis Liu after discovering a gap in the market—no existing tools at the time were available to help make sense of how users interacted with their apps. The company remained in stealth mode until 2014. At the time of founding, the analytics landscape was dominated by web analytics tools like Google Analytics and early product analytics platforms like Mixpanel (founded 2009). The market for mobile and product analytics was still emerging in 2012.",
-  "sources": ["https://userpilot.com/blog/amplitude-alternatives/", "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/amplitude/product/amplitude-analytics/alternatives"]
+  "context": "Amplitude, Inc. is a digital analytics platform company focused on product analytics, experimentation, and customer data platform. Founded to help companies understand user behavior in digital products.",
+  "sources": [
+    "https://userpilot.com/blog/amplitude-alternatives/",
+    "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/amplitude/product/amplitude-analytics/alternatives"
+  ]
 }

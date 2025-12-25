@@ -4,7 +4,7 @@
   "year": 2025,
   "search_query": "Snowflake data warehouse competitors 2025 cloud analytics platform",
   "search_date": "2025-12-24",
-  "context": "Cloud analytics platforms in 2025 are AI-native, enabling faster insights through automation, natural language queries, and embedded intelligence. Snowflake competes with major cloud providers (AWS Redshift, Google BigQuery, Azure Synapse) that offer tight ecosystem integration and often lower costs, plus data lakehouse competitor Databricks. Key differentiators: multi-cloud flexibility vs single-cloud optimization, separation of compute/storage, pricing models, and AI/ML capabilities. Budget-friendly options like ClickHouse and MotherDuck gaining traction.",
+  "context": "Snowflake Inc. is a cloud data platform company focused on data warehousing, data sharing, and data applications. Data Cloud leader. Competing with Databricks, cloud providers.",
   "competitors": [
     {
       "name": "Google BigQuery",

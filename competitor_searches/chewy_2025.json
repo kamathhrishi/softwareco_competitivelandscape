@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Chewy competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Chewy is the leading online pet retailer with 20M+ customers, pharmacy services, and vet telehealth. The company focuses on pet health ecosystem while competing with mass retailers.",
+  "context": "Chewy, Inc. is a online pet products retailer focused on pet food, supplies, pharmacy, and healthcare services. Pet healthcare ecosystem. Subscription services and personalization.",
   "competitors": [
-    {"name": "Amazon", "notes": "Largest e-commerce with significant pet category share"},
-    {"name": "Walmart", "notes": "Omnichannel retailer with value pet products"},
-    {"name": "PetSmart/Petco", "notes": "Specialty pet retailers with services"},
-    {"name": "Costco", "notes": "Value pet products in warehouse stores"},
-    {"name": "Farmer's Dog", "notes": "Fresh pet food subscription"},
-    {"name": "BarkBox", "notes": "Pet subscription and products"},
-    {"name": "Tractor Supply", "notes": "Rural retailer with growing pet category"},
-    {"name": "Independent Pet Stores", "notes": "Local specialty retailers"}
+    {
+      "name": "Amazon",
+      "notes": "Largest e-commerce with significant pet category share"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Omnichannel retailer with value pet products"
+    },
+    {
+      "name": "PetSmart/Petco",
+      "notes": "Specialty pet retailers with services"
+    },
+    {
+      "name": "Costco",
+      "notes": "Value pet products in warehouse stores"
+    },
+    {
+      "name": "Farmer's Dog",
+      "notes": "Fresh pet food subscription"
+    },
+    {
+      "name": "BarkBox",
+      "notes": "Pet subscription and products"
+    },
+    {
+      "name": "Tractor Supply",
+      "notes": "Rural retailer with growing pet category"
+    },
+    {
+      "name": "Independent Pet Stores",
+      "notes": "Local specialty retailers"
+    }
   ],
-  "sources": ["Pet industry analysis"]
+  "sources": [
+    "Pet industry analysis"
+  ]
 }

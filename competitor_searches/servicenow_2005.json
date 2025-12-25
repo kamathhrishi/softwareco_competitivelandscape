@@ -5,10 +5,22 @@
   "search_query": "ServiceNow ITSM competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "BMC Remedy", "notes": "Established enterprise ITSM platform, one of the dominant players before ServiceNow's rise"},
-    {"name": "HP Service Manager", "notes": "Legacy enterprise ITSM solution widely used in large organizations"},
-    {"name": "CA Service Desk Manager", "notes": "Computer Associates' ITSM offering for enterprise IT management"}
+    {
+      "name": "BMC Remedy",
+      "notes": "Established enterprise ITSM platform, one of the dominant players before ServiceNow's rise"
+    },
+    {
+      "name": "HP Service Manager",
+      "notes": "Legacy enterprise ITSM solution widely used in large organizations"
+    },
+    {
+      "name": "CA Service Desk Manager",
+      "notes": "Computer Associates' ITSM offering for enterprise IT management"
+    }
   ],
-  "context": "In 2005, ServiceNow was only one year old (founded 2004) and had minimal market presence. The ITSM market was dominated by traditional on-premise solutions like BMC Remedy, HP Service Manager, and CA Service Desk Manager. ServiceNow would not go public until 2012.",
-  "sources": ["https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives", "https://www.xurrent.com/blog/the-best-alternatives-to-servicenow-in-2025"]
+  "context": "ServiceNow, Inc. is a enterprise workflow platform company focused on IT service management, employee experience, and business workflows. Founded for cloud-based ITSM.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives",
+    "https://www.xurrent.com/blog/the-best-alternatives-to-servicenow-in-2025"
+  ]
 }

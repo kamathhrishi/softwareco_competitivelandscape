@@ -4,18 +4,50 @@
   "year": 2015,
   "search_query": "Tesla competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Tesla launched Model X SUV and announced Model 3 for mass market. The company expanded Supercharger network and introduced Autopilot. Still a niche luxury EV maker.",
+  "context": "Tesla, Inc. is a electric vehicle and clean energy company focused on electric vehicles, energy storage, and solar. Model S success. Model X launch. Gigafactory.",
   "competitors": [
-    {"name": "BMW i-Series", "notes": "i3 and i8 electric/hybrid"},
-    {"name": "Nissan Leaf", "notes": "Best-selling affordable EV"},
-    {"name": "Chevrolet Volt", "notes": "GM's plug-in hybrid"},
-    {"name": "Toyota Prius", "notes": "Dominant hybrid, plug-in version"},
-    {"name": "Mercedes-Benz", "notes": "B-Class Electric, S-Class hybrid"},
-    {"name": "Audi", "notes": "e-tron concepts announced"},
-    {"name": "Porsche", "notes": "Mission E concept (future Taycan)"},
-    {"name": "Faraday Future", "notes": "EV startup with big promises"},
-    {"name": "BYD", "notes": "Chinese EV and battery maker"},
-    {"name": "Fisker", "notes": "Original Karma, company bankrupt"}
+    {
+      "name": "BMW i-Series",
+      "notes": "i3 and i8 electric/hybrid"
+    },
+    {
+      "name": "Nissan Leaf",
+      "notes": "Best-selling affordable EV"
+    },
+    {
+      "name": "Chevrolet Volt",
+      "notes": "GM's plug-in hybrid"
+    },
+    {
+      "name": "Toyota Prius",
+      "notes": "Dominant hybrid, plug-in version"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "notes": "B-Class Electric, S-Class hybrid"
+    },
+    {
+      "name": "Audi",
+      "notes": "e-tron concepts announced"
+    },
+    {
+      "name": "Porsche",
+      "notes": "Mission E concept (future Taycan)"
+    },
+    {
+      "name": "Faraday Future",
+      "notes": "EV startup with big promises"
+    },
+    {
+      "name": "BYD",
+      "notes": "Chinese EV and battery maker"
+    },
+    {
+      "name": "Fisker",
+      "notes": "Original Karma, company bankrupt"
+    }
   ],
-  "sources": ["EV industry analysis"]
+  "sources": [
+    "EV industry analysis"
+  ]
 }

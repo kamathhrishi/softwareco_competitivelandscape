@@ -5,11 +5,25 @@
   "search_query": "Paylocity payroll competitors 2000",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ADP", "notes": "Market leader in payroll services"},
-    {"name": "Paychex", "notes": "Major payroll processor"},
-    {"name": "Ceridian", "notes": "Payroll and HR services"},
-    {"name": "Intuit Payroll", "notes": "Small business payroll solutions"}
+    {
+      "name": "ADP",
+      "notes": "Market leader in payroll services"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll processor"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "Payroll and HR services"
+    },
+    {
+      "name": "Intuit Payroll",
+      "notes": "Small business payroll solutions"
+    }
   ],
-  "context": "In 2000, Paylocity was a small payroll company founded in 1997 in Illinois. The payroll market was dominated by ADP and Paychex outsourced services. Web-based payroll was emerging with the internet boom. Paylocity was building its technology platform during the early internet era. The Y2K transition had driven payroll system upgrades. Competition was primarily from regional payroll service bureaus.",
-  "sources": ["https://www.paylocity.com/about-us/company-history/"]
+  "context": "Paylocity Holding Corporation is a cloud HCM software company focused on payroll, HR, benefits, and workforce management for mid-market. Founded for payroll services.",
+  "sources": [
+    "https://www.paylocity.com/about-us/company-history/"
+  ]
 }

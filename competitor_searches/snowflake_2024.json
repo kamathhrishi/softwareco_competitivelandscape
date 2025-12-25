@@ -5,19 +5,59 @@
   "search_query": "Snowflake competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Databricks", "notes": "Primary competitor with unified lakehouse platform, strong in ML/AI workloads"},
-    {"name": "Amazon Redshift", "notes": "Leading AWS cloud data warehouse, strong for AWS-committed organizations"},
-    {"name": "Google BigQuery", "notes": "Serverless data warehouse with pay-per-query model"},
-    {"name": "Microsoft Azure Synapse Analytics", "notes": "Unified analytics platform combining data warehousing and big data"},
-    {"name": "ClickHouse", "notes": "Open-source columnar database for real-time analytics"},
-    {"name": "Firebolt", "notes": "Cloud data warehouse focused on extreme query performance"},
-    {"name": "Dremio", "notes": "Data lakehouse platform with semantic layer capabilities"},
-    {"name": "Amazon Athena", "notes": "Serverless query service for S3 data"},
-    {"name": "MotherDuck", "notes": "Cloud-based DuckDB service for analytics"},
-    {"name": "Trino", "notes": "Distributed SQL query engine for big data analytics"},
-    {"name": "SingleStore", "notes": "Real-time distributed database for transactions and analytics"},
-    {"name": "Teradata", "notes": "Enterprise data warehouse with cloud offerings"}
+    {
+      "name": "Databricks",
+      "notes": "Primary competitor with unified lakehouse platform, strong in ML/AI workloads"
+    },
+    {
+      "name": "Amazon Redshift",
+      "notes": "Leading AWS cloud data warehouse, strong for AWS-committed organizations"
+    },
+    {
+      "name": "Google BigQuery",
+      "notes": "Serverless data warehouse with pay-per-query model"
+    },
+    {
+      "name": "Microsoft Azure Synapse Analytics",
+      "notes": "Unified analytics platform combining data warehousing and big data"
+    },
+    {
+      "name": "ClickHouse",
+      "notes": "Open-source columnar database for real-time analytics"
+    },
+    {
+      "name": "Firebolt",
+      "notes": "Cloud data warehouse focused on extreme query performance"
+    },
+    {
+      "name": "Dremio",
+      "notes": "Data lakehouse platform with semantic layer capabilities"
+    },
+    {
+      "name": "Amazon Athena",
+      "notes": "Serverless query service for S3 data"
+    },
+    {
+      "name": "MotherDuck",
+      "notes": "Cloud-based DuckDB service for analytics"
+    },
+    {
+      "name": "Trino",
+      "notes": "Distributed SQL query engine for big data analytics"
+    },
+    {
+      "name": "SingleStore",
+      "notes": "Real-time distributed database for transactions and analytics"
+    },
+    {
+      "name": "Teradata",
+      "notes": "Enterprise data warehouse with cloud offerings"
+    }
   ],
-  "context": "By 2024, the cloud data warehouse market matured significantly with Snowflake and Databricks as leading multi-cloud platforms. The landscape diversified with new challengers in real-time analytics (ClickHouse), extreme performance (Firebolt), and open-source alternatives (Trino, DuckDB).",
-  "sources": ["https://www.y42.com/blog/snowflake-competitors", "https://www.chaosgenius.io/blog/snowflake-competitors/", "https://mammoth.io/blog/snowflake-competitors-and-alternatives/"]
+  "context": "Snowflake Inc. is a cloud data platform company focused on data warehousing, data sharing, and data applications. AI/ML workloads. Cortex AI and Snowpark growth.",
+  "sources": [
+    "https://www.y42.com/blog/snowflake-competitors",
+    "https://www.chaosgenius.io/blog/snowflake-competitors/",
+    "https://mammoth.io/blog/snowflake-competitors-and-alternatives/"
+  ]
 }

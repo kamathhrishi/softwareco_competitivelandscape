@@ -5,19 +5,58 @@
   "search_query": "Sprinklr competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Hootsuite", "notes": "Major competitor in social media management"},
-    {"name": "Sprout Social", "notes": "Comprehensive social media management and analytics"},
-    {"name": "Zendesk", "notes": "CRM and customer service platform"},
-    {"name": "LivePerson", "notes": "Conversational analytics and customer engagement"},
-    {"name": "Zoho Social", "notes": "Social media management with broader suite"},
-    {"name": "Meltwater", "notes": "Social media analytics and monitoring"},
-    {"name": "Agorapulse", "notes": "Social media management and analytics"},
-    {"name": "Buffer", "notes": "Social media management for scheduling"},
-    {"name": "Brandwatch", "notes": "Social media analytics and consumer intelligence"},
-    {"name": "Khoros", "notes": "Enterprise social media management"},
-    {"name": "Falcon.io", "notes": "Social media management and customer experience"},
-    {"name": "Talkwalker", "notes": "Social media analytics and listening"}
+    {
+      "name": "Hootsuite",
+      "notes": "Major competitor in social media management"
+    },
+    {
+      "name": "Sprout Social",
+      "notes": "Comprehensive social media management and analytics"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "CRM and customer service platform"
+    },
+    {
+      "name": "LivePerson",
+      "notes": "Conversational analytics and customer engagement"
+    },
+    {
+      "name": "Zoho Social",
+      "notes": "Social media management with broader suite"
+    },
+    {
+      "name": "Meltwater",
+      "notes": "Social media analytics and monitoring"
+    },
+    {
+      "name": "Agorapulse",
+      "notes": "Social media management and analytics"
+    },
+    {
+      "name": "Buffer",
+      "notes": "Social media management for scheduling"
+    },
+    {
+      "name": "Brandwatch",
+      "notes": "Social media analytics and consumer intelligence"
+    },
+    {
+      "name": "Khoros",
+      "notes": "Enterprise social media management"
+    },
+    {
+      "name": "Falcon.io",
+      "notes": "Social media management and customer experience"
+    },
+    {
+      "name": "Talkwalker",
+      "notes": "Social media analytics and listening"
+    }
   ],
-  "context": "By 2020, Sprinklr evolved into AI-powered SaaS for CRM, conversational analytics, and social media for retail and finance. Market matured with specialized competitors across social media management, CRM/analytics, and social listening. Premium pricing made it less accessible to SMBs.",
-  "sources": ["https://craft.co/sprinklr/competitors", "https://blog.hootsuite.com/sprinklr-competitors/"]
+  "context": "Sprinklr, Inc. is a unified customer experience management platform focused on social media management, customer care, and marketing. IPO. Customer experience management expansion.",
+  "sources": [
+    "https://craft.co/sprinklr/competitors",
+    "https://blog.hootsuite.com/sprinklr-competitors/"
+  ]
 }

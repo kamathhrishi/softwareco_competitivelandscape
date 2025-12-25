@@ -5,13 +5,33 @@
   "search_query": "Zscaler cloud security competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Palo Alto Networks", "notes": "Cybersecurity company offering network, cloud, and endpoint protection"},
-    {"name": "Cisco Systems", "notes": "Cloud security via Cisco Umbrella platform"},
-    {"name": "Check Point Software Technologies", "notes": "Network, cloud, and mobile security provider"},
-    {"name": "Fortinet", "notes": "Cybersecurity solutions including FortiGate firewalls"},
-    {"name": "Symantec", "notes": "Enterprise security solutions including web security"},
-    {"name": "Websense", "notes": "Web security gateway provider"}
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Cybersecurity company offering network, cloud, and endpoint protection"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Cloud security via Cisco Umbrella platform"
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "notes": "Network, cloud, and mobile security provider"
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Cybersecurity solutions including FortiGate firewalls"
+    },
+    {
+      "name": "Symantec",
+      "notes": "Enterprise security solutions including web security"
+    },
+    {
+      "name": "Websense",
+      "notes": "Web security gateway provider"
+    }
   ],
-  "context": "By 2010, Zscaler had established itself in the cloud security market as a pioneer. The competitive landscape was dominated by traditional security vendors beginning to offer cloud-based security solutions.",
-  "sources": ["https://businessmodelanalyst.com/zscaler-competitors/"]
+  "context": "Zscaler, Inc. is a cloud security company focused on Zero Trust security, secure web gateway, and CASB. Cloud security pioneer. Secure web gateway.",
+  "sources": [
+    "https://businessmodelanalyst.com/zscaler-competitors/"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2010,
   "search_query": "eBay competitors 2010",
   "search_date": "2024-12-24",
-  "context": "eBay shifted from auctions to fixed-price listings. PayPal growth accelerated. Company faced increasing Amazon competition in retail.",
+  "context": "eBay Inc. is a e-commerce marketplace platform focused on online auctions, fixed-price sales, and classifieds. Fixed-price overtook auctions. Mobile commerce growing.",
   "competitors": [
-    {"name": "Amazon", "notes": "Marketplace and Prime growth"},
-    {"name": "Craigslist", "notes": "Local classifieds"},
-    {"name": "Alibaba", "notes": "Chinese e-commerce expansion"},
-    {"name": "Buy.com", "notes": "Discount e-commerce"},
-    {"name": "Overstock", "notes": "Discount online retail"},
-    {"name": "Newegg", "notes": "Electronics marketplace"},
-    {"name": "Rakuten", "notes": "Japanese marketplace"},
-    {"name": "Google Product Search", "notes": "Shopping comparison"}
+    {
+      "name": "Amazon",
+      "notes": "Marketplace and Prime growth"
+    },
+    {
+      "name": "Craigslist",
+      "notes": "Local classifieds"
+    },
+    {
+      "name": "Alibaba",
+      "notes": "Chinese e-commerce expansion"
+    },
+    {
+      "name": "Buy.com",
+      "notes": "Discount e-commerce"
+    },
+    {
+      "name": "Overstock",
+      "notes": "Discount online retail"
+    },
+    {
+      "name": "Newegg",
+      "notes": "Electronics marketplace"
+    },
+    {
+      "name": "Rakuten",
+      "notes": "Japanese marketplace"
+    },
+    {
+      "name": "Google Product Search",
+      "notes": "Shopping comparison"
+    }
   ],
-  "sources": ["E-commerce industry analysis"]
+  "sources": [
+    "E-commerce industry analysis"
+  ]
 }

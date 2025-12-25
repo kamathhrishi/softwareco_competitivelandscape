@@ -5,15 +5,42 @@
   "search_query": "Intuit TurboTax QuickBooks competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Xero", "notes": "Major cloud-based accounting competitor, strong international presence"},
-    {"name": "Sage Intacct", "notes": "Cloud accounting platform for SMBs and mid-market"},
-    {"name": "NetSuite", "notes": "Comprehensive cloud ERP/accounting solution"},
-    {"name": "FreshBooks", "notes": "Cloud accounting for small businesses and freelancers"},
-    {"name": "H&R Block", "notes": "Leading tax preparation competitor with retail and online offerings"},
-    {"name": "TaxACT", "notes": "Cost-effective tax software competitor"},
-    {"name": "SAP Business One", "notes": "ERP solution for small and medium businesses"},
-    {"name": "Bench", "notes": "Bookkeeping and tax filing services for small businesses"}
+    {
+      "name": "Xero",
+      "notes": "Major cloud-based accounting competitor, strong international presence"
+    },
+    {
+      "name": "Sage Intacct",
+      "notes": "Cloud accounting platform for SMBs and mid-market"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Comprehensive cloud ERP/accounting solution"
+    },
+    {
+      "name": "FreshBooks",
+      "notes": "Cloud accounting for small businesses and freelancers"
+    },
+    {
+      "name": "H&R Block",
+      "notes": "Leading tax preparation competitor with retail and online offerings"
+    },
+    {
+      "name": "TaxACT",
+      "notes": "Cost-effective tax software competitor"
+    },
+    {
+      "name": "SAP Business One",
+      "notes": "ERP solution for small and medium businesses"
+    },
+    {
+      "name": "Bench",
+      "notes": "Bookkeeping and tax filing services for small businesses"
+    }
   ],
-  "context": "By 2015, cloud-based accounting software had become mainstream. Intuit's QuickBooks Online was competing against Xero, FreshBooks, and enterprise solutions like NetSuite and Sage Intacct. TurboTax maintained dominance in tax software.",
-  "sources": ["https://www.gartner.com/reviews/market/finance/vendor/intuit/product/intuit-quickbooks/alternatives", "https://www.g2.com/products/intuit-quickbooks/competitors/alternatives"]
+  "context": "Intuit Inc. is a financial software company focused on TurboTax, QuickBooks, Credit Karma, and Mailchimp. Sold Quicken. Focus on tax, accounting, payments.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/finance/vendor/intuit/product/intuit-quickbooks/alternatives",
+    "https://www.g2.com/products/intuit-quickbooks/competitors/alternatives"
+  ]
 }

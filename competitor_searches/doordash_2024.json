@@ -4,16 +4,42 @@
   "year": 2024,
   "search_query": "DoorDash competitors 2024",
   "search_date": "2024-12-24",
-  "context": "DoorDash maintained US food delivery leadership with ~65% market share. The company expanded into grocery, retail, and international markets while achieving profitability milestones.",
+  "context": "DoorDash, Inc. is a food delivery and local commerce platform focused on restaurant delivery, grocery, convenience, and merchant services. Grocery and retail expansion. DashPass subscriber growth.",
   "competitors": [
-    {"name": "Uber Eats", "notes": "Primary competitor with ~25% US market share, strong international presence"},
-    {"name": "Grubhub", "notes": "Distant third in US, owned by Just Eat Takeaway, exploring sale options"},
-    {"name": "Instacart", "notes": "Grocery delivery leader, went public in 2023, competing in quick commerce"},
-    {"name": "Amazon", "notes": "Competing via Whole Foods delivery and Amazon Fresh"},
-    {"name": "Gopuff", "notes": "Quick commerce/convenience delivery platform"},
-    {"name": "Walmart", "notes": "Grocery delivery through Spark driver network"},
-    {"name": "Target (Shipt)", "notes": "Same-day delivery competing in grocery and retail"},
-    {"name": "Deliveroo", "notes": "European food delivery competitor"}
+    {
+      "name": "Uber Eats",
+      "notes": "Primary competitor with ~25% US market share, strong international presence"
+    },
+    {
+      "name": "Grubhub",
+      "notes": "Distant third in US, owned by Just Eat Takeaway, exploring sale options"
+    },
+    {
+      "name": "Instacart",
+      "notes": "Grocery delivery leader, went public in 2023, competing in quick commerce"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Competing via Whole Foods delivery and Amazon Fresh"
+    },
+    {
+      "name": "Gopuff",
+      "notes": "Quick commerce/convenience delivery platform"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Grocery delivery through Spark driver network"
+    },
+    {
+      "name": "Target (Shipt)",
+      "notes": "Same-day delivery competing in grocery and retail"
+    },
+    {
+      "name": "Deliveroo",
+      "notes": "European food delivery competitor"
+    }
   ],
-  "sources": ["Food delivery industry analysis"]
+  "sources": [
+    "Food delivery industry analysis"
+  ]
 }

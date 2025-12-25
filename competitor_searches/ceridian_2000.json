@@ -5,13 +5,33 @@
   "search_query": "Ceridian HCM payroll competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "ADP", "notes": "Largest HCM player offering payroll, talent management, HR outsourcing"},
-    {"name": "Paychex", "notes": "Direct competitor providing payroll and HR services"},
-    {"name": "Oracle PeopleSoft", "notes": "Major enterprise HCM and payroll provider"},
-    {"name": "SAP", "notes": "Enterprise HCM and payroll solutions with global reach"},
-    {"name": "Ultimate Software", "notes": "HCM software provider (later merged with Kronos to form UKG)"},
-    {"name": "Kronos", "notes": "Workforce management and HCM solutions (later merged to form UKG)"}
+    {
+      "name": "ADP",
+      "notes": "Largest HCM player offering payroll, talent management, HR outsourcing"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Direct competitor providing payroll and HR services"
+    },
+    {
+      "name": "Oracle PeopleSoft",
+      "notes": "Major enterprise HCM and payroll provider"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise HCM and payroll solutions with global reach"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "HCM software provider (later merged with Kronos to form UKG)"
+    },
+    {
+      "name": "Kronos",
+      "notes": "Workforce management and HCM solutions (later merged to form UKG)"
+    }
   ],
-  "context": "In 2000, the HCM and payroll market was dominated by established enterprise software companies. Ceridian (founded 1992) competed primarily in payroll processing and workforce management. The market was transitioning from on-premise mainframe systems to more modern architectures.",
-  "sources": ["https://6sense.com/tech/payroll-management/dayforce-ceridian-hcm-market-share"]
+  "context": "Dayforce (formerly Ceridian HCM) is a human capital management software company focused on payroll, HR, talent management, and workforce management. Traditional payroll processing company. Bureau services model.",
+  "sources": [
+    "https://6sense.com/tech/payroll-management/dayforce-ceridian-hcm-market-share"
+  ]
 }

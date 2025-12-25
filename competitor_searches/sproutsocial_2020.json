@@ -5,16 +5,47 @@
   "search_query": "Sprout Social social media management competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Hootsuite", "notes": "All-in-one social media management platform with scheduling, employee advocacy, social listening, and community management features"},
-    {"name": "Buffer", "notes": "Social media management tool for scheduling, publishing, and analyzing content across Facebook, Twitter, Instagram, LinkedIn, Pinterest"},
-    {"name": "Sprinklr", "notes": "AI-powered customer experience management platform with four main products: Sprinklr Service, Social, Insights, and Marketing"},
-    {"name": "Khoros", "notes": "Multi-channel platform with content library, social listening, sentiment analysis, and integrated customer care functionalities"},
-    {"name": "Dash Social", "notes": "Social media management platform focused on growth and performance for brands"},
-    {"name": "Planable", "notes": "Best for agencies with focus on content management and collaboration"},
-    {"name": "Agorapulse", "notes": "Platform with strong social inbox management capabilities"},
-    {"name": "Statusbrew", "notes": "Platform known for advanced reporting features"},
-    {"name": "Zoho Social", "notes": "Affordable social media management tool with smart scheduling, social listening, content calendar and detailed analytics reports"}
+    {
+      "name": "Hootsuite",
+      "notes": "All-in-one social media management platform with scheduling, employee advocacy, social listening, and community management features"
+    },
+    {
+      "name": "Buffer",
+      "notes": "Social media management tool for scheduling, publishing, and analyzing content across Facebook, Twitter, Instagram, LinkedIn, Pinterest"
+    },
+    {
+      "name": "Sprinklr",
+      "notes": "AI-powered customer experience management platform with four main products: Sprinklr Service, Social, Insights, and Marketing"
+    },
+    {
+      "name": "Khoros",
+      "notes": "Multi-channel platform with content library, social listening, sentiment analysis, and integrated customer care functionalities"
+    },
+    {
+      "name": "Dash Social",
+      "notes": "Social media management platform focused on growth and performance for brands"
+    },
+    {
+      "name": "Planable",
+      "notes": "Best for agencies with focus on content management and collaboration"
+    },
+    {
+      "name": "Agorapulse",
+      "notes": "Platform with strong social inbox management capabilities"
+    },
+    {
+      "name": "Statusbrew",
+      "notes": "Platform known for advanced reporting features"
+    },
+    {
+      "name": "Zoho Social",
+      "notes": "Affordable social media management tool with smart scheduling, social listening, content calendar and detailed analytics reports"
+    }
   ],
-  "context": "By 2020, the social media management market had matured significantly. Sprout Social had established itself as a premium player, competing against a diverse range of platforms from established veterans like Hootsuite to specialized tools like Buffer and Planable. The market saw increasing differentiation with platforms focusing on specific niches - agencies, enterprise customers, budget-conscious businesses, and those needing advanced analytics or customer service integration.",
-  "sources": ["https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprout-social/product/sprout-social/alternatives", "https://blog.hootsuite.com/sprout-social-competitors/", "https://planable.io/blog/sprout-social-alternatives/"]
+  "context": "Sprout Social, Inc. is a social media management platform focused on social media publishing, analytics, and engagement. IPO. Employee advocacy and social listening.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprout-social/product/sprout-social/alternatives",
+    "https://blog.hootsuite.com/sprout-social-competitors/",
+    "https://planable.io/blog/sprout-social-alternatives/"
+  ]
 }

@@ -5,19 +5,58 @@
   "search_query": "Varonis competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft Purview", "notes": "Data governance, risk, compliance with classification and lineage"},
-    {"name": "Netwrix Auditor", "notes": "User behavior and risk analysis"},
-    {"name": "Strac", "notes": "Modern cloud-focused data security"},
-    {"name": "BigID", "notes": "Data discovery, classification, privacy compliance"},
-    {"name": "Cyera", "notes": "Modern data security posture management (DSPM)"},
-    {"name": "Securiti", "notes": "Data privacy and security platform"},
-    {"name": "Sentra", "notes": "Cloud data security platform"},
-    {"name": "Dig Security", "notes": "Data security for cloud environments"},
-    {"name": "Lepide Auditor", "notes": "Data security auditing"},
-    {"name": "SailPoint", "notes": "Identity governance"},
-    {"name": "CyberArk", "notes": "Privileged access management"},
-    {"name": "Splunk Enterprise", "notes": "Security information and event management"}
+    {
+      "name": "Microsoft Purview",
+      "notes": "Data governance, risk, compliance with classification and lineage"
+    },
+    {
+      "name": "Netwrix Auditor",
+      "notes": "User behavior and risk analysis"
+    },
+    {
+      "name": "Strac",
+      "notes": "Modern cloud-focused data security"
+    },
+    {
+      "name": "BigID",
+      "notes": "Data discovery, classification, privacy compliance"
+    },
+    {
+      "name": "Cyera",
+      "notes": "Modern data security posture management (DSPM)"
+    },
+    {
+      "name": "Securiti",
+      "notes": "Data privacy and security platform"
+    },
+    {
+      "name": "Sentra",
+      "notes": "Cloud data security platform"
+    },
+    {
+      "name": "Dig Security",
+      "notes": "Data security for cloud environments"
+    },
+    {
+      "name": "Lepide Auditor",
+      "notes": "Data security auditing"
+    },
+    {
+      "name": "SailPoint",
+      "notes": "Identity governance"
+    },
+    {
+      "name": "CyberArk",
+      "notes": "Privileged access management"
+    },
+    {
+      "name": "Splunk Enterprise",
+      "notes": "Security information and event management"
+    }
   ],
-  "context": "By 2024, Varonis ranked 13th among 362 competitors in data security. Landscape shifted toward cloud-native solutions. Users noted Varonis cloud capabilities still maturing vs newer DSPM vendors. Pricing around $100-150K cited as pain point.",
-  "sources": ["https://www.gartner.com/reviews/market/file-analysis-software/vendor/varonis/product/varonis-data-security-platform/alternatives", "https://www.strac.io/blog/top-10-varonis-competitors-and-alternatives"]
+  "context": "Varonis Systems, Inc. is a data security platform company focused on data protection, insider threat detection, and compliance. SaaS platform growth. AI-powered data security.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/file-analysis-software/vendor/varonis/product/varonis-data-security-platform/alternatives",
+    "https://www.strac.io/blog/top-10-varonis-competitors-and-alternatives"
+  ]
 }

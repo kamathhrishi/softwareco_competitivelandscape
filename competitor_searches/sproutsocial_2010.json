@@ -5,10 +5,23 @@
   "search_query": "Sprout Social social media management competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Hootsuite", "notes": "Founded in 2008, veteran in social media management space, known for publishing and analytics features across multiple social media networks"},
-    {"name": "Sprinklr", "notes": "Founded in 2010, customer experience management platform with social media management, engagement and data analytics"},
-    {"name": "Meltwater", "notes": "Founded in 2001, serves over 27,000 customers, offers solutions for social media management and analytics"}
+    {
+      "name": "Hootsuite",
+      "notes": "Founded in 2008, veteran in social media management space, known for publishing and analytics features across multiple social media networks"
+    },
+    {
+      "name": "Sprinklr",
+      "notes": "Founded in 2010, customer experience management platform with social media management, engagement and data analytics"
+    },
+    {
+      "name": "Meltwater",
+      "notes": "Founded in 2001, serves over 27,000 customers, offers solutions for social media management and analytics"
+    }
   ],
-  "context": "Sprout Social was founded in 2010 alongside Sprinklr, entering an emerging social media management market. Hootsuite (founded 2008) was already established as a veteran platform. The social media management landscape was just beginning to take shape as businesses recognized the need for dedicated tools to manage their growing social media presence. Early competitors focused on basic publishing and analytics features.",
-  "sources": ["https://planable.io/blog/sprout-social-alternatives/", "https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprout-social/product/sprout-social/alternatives", "https://sproutsocial.com/insights/sprout-social-alternatives/"]
+  "context": "Sprout Social, Inc. is a social media management platform focused on social media publishing, analytics, and engagement. Founded for social media management for businesses.",
+  "sources": [
+    "https://planable.io/blog/sprout-social-alternatives/",
+    "https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprout-social/product/sprout-social/alternatives",
+    "https://sproutsocial.com/insights/sprout-social-alternatives/"
+  ]
 }

@@ -5,13 +5,33 @@
   "search_query": "Oracle competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Amazon (AWS)", "notes": "$46B revenue in 2020, main cloud competitor"},
-    {"name": "Microsoft", "notes": "Most direct competitor: Azure, Dynamics 365, SQL Server"},
-    {"name": "Salesforce", "notes": "CRM competitor offering similar services"},
-    {"name": "SAP", "notes": "Enterprise software: ERP, CRM, supply chain"},
-    {"name": "IBM", "notes": "Cloud computing and enterprise technology"},
-    {"name": "Google Cloud", "notes": "Strong AI/ML capabilities"}
+    {
+      "name": "Amazon (AWS)",
+      "notes": "$46B revenue in 2020, main cloud competitor"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Most direct competitor: Azure, Dynamics 365, SQL Server"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "CRM competitor offering similar services"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software: ERP, CRM, supply chain"
+    },
+    {
+      "name": "IBM",
+      "notes": "Cloud computing and enterprise technology"
+    },
+    {
+      "name": "Google Cloud",
+      "notes": "Strong AI/ML capabilities"
+    }
   ],
-  "context": "AWS revenue ($46B) exceeded Oracle's total revenue. Microsoft remained most direct multi-product competitor. Market shifted to cloud-first strategies.",
-  "sources": ["https://www.spinnakersupport.com/blog/2024/01/17/oracle-competitors/"]
+  "context": "Oracle Corporation is a enterprise software and cloud infrastructure company focused on databases, enterprise applications, and cloud infrastructure. OCI growth. TikTok cloud deal. NetSuite growth.",
+  "sources": [
+    "https://www.spinnakersupport.com/blog/2024/01/17/oracle-competitors/"
+  ]
 }

@@ -5,9 +5,19 @@
   "search_query": "AMD CPU GPU competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Intel", "notes": "Primary CPU competitor. Established CPU powerhouse with Core and Xeon lines. Strong in single-threaded applications. AMD's Ryzen processors offered strong multi-threading performance"},
-    {"name": "NVIDIA", "notes": "Primary GPU competitor and global leader in GPU technology. Released RTX 3080 (Sept 2020), RTX 3070 (Oct 2020) with Ampere architecture, featuring real-time ray tracing and AI-powered DLSS"}
+    {
+      "name": "Intel",
+      "notes": "Primary CPU competitor. Established CPU powerhouse with Core and Xeon lines. Strong in single-threaded applications. AMD's Ryzen processors offered strong multi-threading performance"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Primary GPU competitor and global leader in GPU technology. Released RTX 3080 (Sept 2020), RTX 3070 (Oct 2020) with Ampere architecture, featuring real-time ray tracing and AI-powered DLSS"
+    }
   ],
-  "context": "By 2020, AMD's persistence paid off with Ryzen processors offering strong multi-threading performance, making them serious contenders in gaming and content creation. AMD, Intel, and NVIDIA emerged as the three biggest processor companies. AMD launched competitive RX 6800 XT for 4K gaming. AMD generally beat Intel and NVIDIA in value.",
-  "sources": ["https://www.windowscentral.com/hardware/cpu-gpu-components/intel-vs-amd-vs-nvidia-which-is-the-best-cpu-and-gpu-brand-year", "https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html", "https://www.tomshardware.com/features/amd-vs-intel-cpus"]
+  "context": "Advanced Micro Devices, Inc. is a semiconductor company designing CPUs, GPUs, and data center chips focused on processors for PCs, gaming, data centers, and embedded systems. Ryzen and EPYC success story. Data center wins against Intel. Announced Xilinx acquisition.",
+  "sources": [
+    "https://www.windowscentral.com/hardware/cpu-gpu-components/intel-vs-amd-vs-nvidia-which-is-the-best-cpu-and-gpu-brand-year",
+    "https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html",
+    "https://www.tomshardware.com/features/amd-vs-intel-cpus"
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2020,
   "search_query": "ServiceTitan competitors 2020",
   "search_date": "2024-12-24",
-  "context": "ServiceTitan raised $500M at $8.3B valuation as home services demand surged during COVID-19. Homeowners invested in repairs and improvements while spending more time at home.",
+  "context": "ServiceTitan, Inc. is a software for home and commercial service businesses focused on field service management for HVAC, plumbing, electrical. Unicorn valuation. Trades industry software leader.",
   "competitors": [
-    {"name": "Housecall Pro", "notes": "Growing home services platform"},
-    {"name": "Jobber", "notes": "Canadian field service software"},
-    {"name": "FieldEdge", "notes": "HVAC contractor software"},
-    {"name": "ServiceMax", "notes": "GE Digital field service"},
-    {"name": "Successware", "notes": "Home services software"},
-    {"name": "Contractor Commerce", "notes": "Digital tools for contractors"},
-    {"name": "Service Fusion", "notes": "All-in-one contractor software"},
-    {"name": "FieldAware", "notes": "Mobile field service"}
+    {
+      "name": "Housecall Pro",
+      "notes": "Growing home services platform"
+    },
+    {
+      "name": "Jobber",
+      "notes": "Canadian field service software"
+    },
+    {
+      "name": "FieldEdge",
+      "notes": "HVAC contractor software"
+    },
+    {
+      "name": "ServiceMax",
+      "notes": "GE Digital field service"
+    },
+    {
+      "name": "Successware",
+      "notes": "Home services software"
+    },
+    {
+      "name": "Contractor Commerce",
+      "notes": "Digital tools for contractors"
+    },
+    {
+      "name": "Service Fusion",
+      "notes": "All-in-one contractor software"
+    },
+    {
+      "name": "FieldAware",
+      "notes": "Mobile field service"
+    }
   ],
-  "sources": ["Home services software analysis"]
+  "sources": [
+    "Home services software analysis"
+  ]
 }

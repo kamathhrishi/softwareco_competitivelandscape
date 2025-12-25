@@ -5,16 +5,46 @@
   "search_query": "Five9 contact center cloud competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Genesys Cloud CX", "notes": "Cloud-based omnichannel contact center with extensive customization"},
-    {"name": "NICE CXone", "notes": "Comprehensive cloud contact center platform"},
-    {"name": "Talkdesk", "notes": "Founded 2011, AI-powered cloud contact center for enterprises"},
-    {"name": "RingCentral Contact Center", "notes": "Cloud-based with unified communications focus"},
-    {"name": "8x8 Contact Center", "notes": "Cloud communications and contact center provider"},
-    {"name": "Avaya", "notes": "Legacy provider with cloud, on-premise, hybrid options"},
-    {"name": "Nextiva", "notes": "Unified communications with integrated contact center"},
-    {"name": "Vonage", "notes": "Cloud telephony and contact center services"},
-    {"name": "Dialpad", "notes": "Modern AI-focused cloud communications platform"}
+    {
+      "name": "Genesys Cloud CX",
+      "notes": "Cloud-based omnichannel contact center with extensive customization"
+    },
+    {
+      "name": "NICE CXone",
+      "notes": "Comprehensive cloud contact center platform"
+    },
+    {
+      "name": "Talkdesk",
+      "notes": "Founded 2011, AI-powered cloud contact center for enterprises"
+    },
+    {
+      "name": "RingCentral Contact Center",
+      "notes": "Cloud-based with unified communications focus"
+    },
+    {
+      "name": "8x8 Contact Center",
+      "notes": "Cloud communications and contact center provider"
+    },
+    {
+      "name": "Avaya",
+      "notes": "Legacy provider with cloud, on-premise, hybrid options"
+    },
+    {
+      "name": "Nextiva",
+      "notes": "Unified communications with integrated contact center"
+    },
+    {
+      "name": "Vonage",
+      "notes": "Cloud telephony and contact center services"
+    },
+    {
+      "name": "Dialpad",
+      "notes": "Modern AI-focused cloud communications platform"
+    }
   ],
-  "context": "By 2015, Five9 had established itself as major player in cloud contact center market. CCaaS market was rapidly growing as businesses transitioned from on-premise to cloud. Competition intensified with legacy vendors moving to cloud and new cloud-native competitors emerging.",
-  "sources": ["https://www.nextiva.com/blog/five9-alternatives-competitors.html", "https://www.g2.com/products/five9-intelligent-cloud-contact-center-platform/competitors/alternatives"]
+  "context": "Five9, Inc. is a cloud contact center software company focused on omnichannel contact center, workforce optimization, and AI. IPO. Cloud contact center market growing rapidly.",
+  "sources": [
+    "https://www.nextiva.com/blog/five9-alternatives-competitors.html",
+    "https://www.g2.com/products/five9-intelligent-cloud-contact-center-platform/competitors/alternatives"
+  ]
 }

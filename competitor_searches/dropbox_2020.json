@@ -5,12 +5,29 @@
   "search_query": "Dropbox cloud storage competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Microsoft OneDrive", "notes": "Bundled with Microsoft 365, dominant in enterprise"},
-    {"name": "Google Drive", "notes": "Integrated with Google Workspace"},
-    {"name": "Box", "notes": "Enterprise content management focus"},
-    {"name": "Apple iCloud", "notes": "Consumer cloud storage for Apple users"},
-    {"name": "Amazon Drive", "notes": "Cloud storage from AWS"}
+    {
+      "name": "Microsoft OneDrive",
+      "notes": "Bundled with Microsoft 365, dominant in enterprise"
+    },
+    {
+      "name": "Google Drive",
+      "notes": "Integrated with Google Workspace"
+    },
+    {
+      "name": "Box",
+      "notes": "Enterprise content management focus"
+    },
+    {
+      "name": "Apple iCloud",
+      "notes": "Consumer cloud storage for Apple users"
+    },
+    {
+      "name": "Amazon Drive",
+      "notes": "Cloud storage from AWS"
+    }
   ],
-  "context": "In 2020, Dropbox faced intense competition from bundled cloud storage from Microsoft, Google, and Apple. The pandemic boosted remote work and file collaboration needs. Dropbox pivoted toward collaborative workspace with acquisition of DocSend and HelloSign integration. Competition from free bundled storage pressured the standalone file sync market.",
-  "sources": ["https://craft.co/dropbox/competitors"]
+  "context": "Dropbox, Inc. is a cloud storage and collaboration platform focused on file sync, sharing, and team collaboration tools. Virtual-first company. Document workflows expansion.",
+  "sources": [
+    "https://craft.co/dropbox/competitors"
+  ]
 }

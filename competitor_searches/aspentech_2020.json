@@ -5,12 +5,29 @@
   "search_query": "AspenTech process optimization competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Honeywell Process Solutions", "notes": "Process automation and optimization"},
-    {"name": "Emerson", "notes": "Process automation technology"},
-    {"name": "ABB", "notes": "Industrial automation and control"},
-    {"name": "Siemens", "notes": "Process industries digital solutions"},
-    {"name": "AVEVA", "notes": "Industrial software for process industries"}
+    {
+      "name": "Honeywell Process Solutions",
+      "notes": "Process automation and optimization"
+    },
+    {
+      "name": "Emerson",
+      "notes": "Process automation technology"
+    },
+    {
+      "name": "ABB",
+      "notes": "Industrial automation and control"
+    },
+    {
+      "name": "Siemens",
+      "notes": "Process industries digital solutions"
+    },
+    {
+      "name": "AVEVA",
+      "notes": "Industrial software for process industries"
+    }
   ],
-  "context": "In 2020, AspenTech was a leading provider of software for process industries (chemicals, energy, engineering). The pandemic impacted oil & gas and chemical industries, affecting AspenTech's core markets. Competition came from industrial automation vendors expanding into software. AspenTech differentiated with AI-driven asset optimization.",
-  "sources": ["https://craft.co/aspen-technology/competitors"]
+  "context": "Aspen Technology, Inc. is a industrial software company focused on process optimization, asset performance, and supply chain for energy and chemicals. Digital transformation for process industries. Remote operations enabling.",
+  "sources": [
+    "https://craft.co/aspen-technology/competitors"
+  ]
 }

@@ -5,12 +5,31 @@
   "search_query": "Adobe competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Macromedia", "notes": "Major competitor with Flash web-based player for content creation, online applications, games, and animated video. Later acquired by Adobe in 2005 for $3.4 billion"},
-    {"name": "Autodesk", "notes": "Long-standing competitor (39+ years), develops software including AutoCAD, Maya, and other design/engineering tools"},
-    {"name": "Quark", "notes": "Desktop publishing software competitor, particularly strong in late 1990s/early 2000s"},
-    {"name": "FreeHand", "notes": "Historically the dominant competitor to Adobe's Illustrator software product"},
-    {"name": "Microsoft", "notes": "Competitor in office and creative software space with products like PowerPoint, Word, Excel"}
+    {
+      "name": "Macromedia",
+      "notes": "Major competitor with Flash web-based player for content creation, online applications, games, and animated video. Later acquired by Adobe in 2005 for $3.4 billion"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Long-standing competitor (39+ years), develops software including AutoCAD, Maya, and other design/engineering tools"
+    },
+    {
+      "name": "Quark",
+      "notes": "Desktop publishing software competitor, particularly strong in late 1990s/early 2000s"
+    },
+    {
+      "name": "FreeHand",
+      "notes": "Historically the dominant competitor to Adobe's Illustrator software product"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor in office and creative software space with products like PowerPoint, Word, Excel"
+    }
   ],
-  "context": "In the early 2000s, Adobe faced significant competition in the desktop publishing and creative software markets. Macromedia was a major competitor with its Flash platform for web content. Quark dominated parts of the desktop publishing market, while FreeHand competed directly with Illustrator.",
-  "sources": ["https://bstrategyhub.com/adobe-competitors-alternatives/", "https://www.marketing91.com/adobe-competitors/", "https://en.wikipedia.org/wiki/Adobe_Inc."]
+  "context": "Adobe Inc. is a creative software and digital experience company focused on creative tools, document management, and digital marketing solutions. Dominated print publishing with PostScript and PDF. Photoshop and Illustrator were industry standards.",
+  "sources": [
+    "https://bstrategyhub.com/adobe-competitors-alternatives/",
+    "https://www.marketing91.com/adobe-competitors/",
+    "https://en.wikipedia.org/wiki/Adobe_Inc."
+  ]
 }

@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Instacart competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Instacart is the leading grocery delivery marketplace and retail technology platform. The company's advertising business and Instacart Platform powers delivery for major retailers.",
+  "context": "Instacart (Maplebear Inc.) is a grocery delivery and technology platform focused on grocery delivery, pickup, and retail technology. Grocery technology platform. Competing with DoorDash, Amazon.",
   "competitors": [
-    {"name": "Amazon", "notes": "Grocery delivery through Prime, Whole Foods, and Amazon Fresh"},
-    {"name": "Walmart", "notes": "Dominant grocery retailer with Spark delivery network"},
-    {"name": "DoorDash", "notes": "Grocery and retail delivery expanding beyond restaurants"},
-    {"name": "Uber Eats", "notes": "Grocery delivery integrated with food delivery platform"},
-    {"name": "Kroger", "notes": "Automated fulfillment and own delivery capabilities"},
-    {"name": "Target/Shipt", "notes": "Same-day delivery for groceries and retail"},
-    {"name": "Gopuff", "notes": "Quick commerce platform for convenience items"},
-    {"name": "Retailer Apps", "notes": "Grocers building direct customer relationships"}
+    {
+      "name": "Amazon",
+      "notes": "Grocery delivery through Prime, Whole Foods, and Amazon Fresh"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Dominant grocery retailer with Spark delivery network"
+    },
+    {
+      "name": "DoorDash",
+      "notes": "Grocery and retail delivery expanding beyond restaurants"
+    },
+    {
+      "name": "Uber Eats",
+      "notes": "Grocery delivery integrated with food delivery platform"
+    },
+    {
+      "name": "Kroger",
+      "notes": "Automated fulfillment and own delivery capabilities"
+    },
+    {
+      "name": "Target/Shipt",
+      "notes": "Same-day delivery for groceries and retail"
+    },
+    {
+      "name": "Gopuff",
+      "notes": "Quick commerce platform for convenience items"
+    },
+    {
+      "name": "Retailer Apps",
+      "notes": "Grocers building direct customer relationships"
+    }
   ],
-  "sources": ["Grocery delivery industry analysis"]
+  "sources": [
+    "Grocery delivery industry analysis"
+  ]
 }

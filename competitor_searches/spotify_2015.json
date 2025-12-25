@@ -4,15 +4,38 @@
   "year": 2015,
   "search_query": "Spotify competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Apple Music launched mid-2015 with 3-month free trial, becoming major competitor. Tidal relaunched with Jay-Z ownership emphasizing artist payments and hi-fi audio. Spotify was market leader with largest free tier user base.",
+  "context": "Spotify Technology S.A. is a audio streaming platform focused on music streaming, podcasts, and audiobooks. Apple Music competition began. Podcast investment.",
   "competitors": [
-    {"name": "Apple Music", "notes": "Launched 2015, leveraged Apple ecosystem, no free tier"},
-    {"name": "Tidal", "notes": "Jay-Z owned, artist-focused with lossless audio quality"},
-    {"name": "Pandora", "notes": "Internet radio pioneer, acquired Rdio assets"},
-    {"name": "Google Play Music", "notes": "Google's subscription streaming service"},
-    {"name": "Deezer", "notes": "French music streaming service"},
-    {"name": "Amazon Prime Music", "notes": "Bundled with Prime membership"},
-    {"name": "SoundCloud", "notes": "User-uploaded music platform"}
+    {
+      "name": "Apple Music",
+      "notes": "Launched 2015, leveraged Apple ecosystem, no free tier"
+    },
+    {
+      "name": "Tidal",
+      "notes": "Jay-Z owned, artist-focused with lossless audio quality"
+    },
+    {
+      "name": "Pandora",
+      "notes": "Internet radio pioneer, acquired Rdio assets"
+    },
+    {
+      "name": "Google Play Music",
+      "notes": "Google's subscription streaming service"
+    },
+    {
+      "name": "Deezer",
+      "notes": "French music streaming service"
+    },
+    {
+      "name": "Amazon Prime Music",
+      "notes": "Bundled with Prime membership"
+    },
+    {
+      "name": "SoundCloud",
+      "notes": "User-uploaded music platform"
+    }
   ],
-  "sources": ["Music streaming industry analysis"]
+  "sources": [
+    "Music streaming industry analysis"
+  ]
 }

@@ -5,14 +5,39 @@
   "search_query": "Intel competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD (Advanced Micro Devices)", "notes": "Leading semiconductor competitor; Intel had ~90% PC microprocessor market share"},
-    {"name": "ARM", "notes": "UK-based company designing energy-efficient processors; dominated smartphone market"},
-    {"name": "Apple", "notes": "Introduced first homegrown iPhone chip in 2010 using ARM architecture"},
-    {"name": "Qualcomm", "notes": "Known for mobile phone processors and wireless technologies using ARM architecture"},
-    {"name": "Samsung", "notes": "Major player in consumer electronics and semiconductor industries"},
-    {"name": "IBM", "notes": "Technology and consulting company competing in semiconductor segments"},
-    {"name": "TSMC", "notes": "World's largest foundry specializing in advanced semiconductor manufacturing"}
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Leading semiconductor competitor; Intel had ~90% PC microprocessor market share"
+    },
+    {
+      "name": "ARM",
+      "notes": "UK-based company designing energy-efficient processors; dominated smartphone market"
+    },
+    {
+      "name": "Apple",
+      "notes": "Introduced first homegrown iPhone chip in 2010 using ARM architecture"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Known for mobile phone processors and wireless technologies using ARM architecture"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Major player in consumer electronics and semiconductor industries"
+    },
+    {
+      "name": "IBM",
+      "notes": "Technology and consulting company competing in semiconductor segments"
+    },
+    {
+      "name": "TSMC",
+      "notes": "World's largest foundry specializing in advanced semiconductor manufacturing"
+    }
   ],
-  "context": "2010 marked a critical turning point as smartphone shipments surpassed PC shipments. Nearly every smartphone used ARM-based chips instead of Intel's x86. Intel acquired McAfee for $7.68B and Infineon's Wireless Solutions.",
-  "sources": ["https://en.wikipedia.org/wiki/Intel", "https://businessmodelanalyst.com/intel-competitors-alternatives/", "https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html"]
+  "context": "Intel Corporation is a semiconductor company focused on CPUs for PCs and data centers, foundry services. Mobile chip challenges. Acquiring McAfee, Altera.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Intel",
+    "https://businessmodelanalyst.com/intel-competitors-alternatives/",
+    "https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html"
+  ]
 }

@@ -5,13 +5,35 @@
   "search_query": "SPS Commerce competitors 2010",
   "search_date": "2024-12-24",
   "competitors": [
-    {"name": "IBM Sterling Commerce", "notes": "Leading EDI and B2B integration provider with Sterling Integrator and Gentran solutions"},
-    {"name": "OpenText (GXS)", "notes": "Major EDI VAN and B2B integration network provider"},
-    {"name": "TrueCommerce", "notes": "Cloud-based EDI and supply chain integration provider"},
-    {"name": "Inovis", "notes": "EDI and supply chain visibility solutions provider"},
-    {"name": "DiCentral", "notes": "EDI compliance and trading partner connectivity solutions"},
-    {"name": "Liaison Technologies", "notes": "B2B integration and data management platform provider"}
+    {
+      "name": "IBM Sterling Commerce",
+      "notes": "Leading EDI and B2B integration provider with Sterling Integrator and Gentran solutions"
+    },
+    {
+      "name": "OpenText (GXS)",
+      "notes": "Major EDI VAN and B2B integration network provider"
+    },
+    {
+      "name": "TrueCommerce",
+      "notes": "Cloud-based EDI and supply chain integration provider"
+    },
+    {
+      "name": "Inovis",
+      "notes": "EDI and supply chain visibility solutions provider"
+    },
+    {
+      "name": "DiCentral",
+      "notes": "EDI compliance and trading partner connectivity solutions"
+    },
+    {
+      "name": "Liaison Technologies",
+      "notes": "B2B integration and data management platform provider"
+    }
   ],
-  "context": "2010 was a pivotal year for SPS Commerce as the company completed its IPO on NASDAQ (ticker: SPSC) on April 22, raising approximately $49.1 million. Founded in 1987, SPS Commerce was transitioning to become the largest retail cloud services platform. The EDI market was evolving from traditional VAN services to cloud-based SaaS models. Competition came from both legacy EDI providers like IBM Sterling Commerce and OpenText/GXS, as well as newer cloud-native competitors.",
-  "sources": ["https://www.globaldata.com/company-profile/sps-commerce-inc/competitors/", "https://www.comparably.com/companies/sps-commerce/competitors", "https://www.financecharts.com/stocks/SPSC/profile"]
+  "context": "SPS Commerce, Inc. is a supply chain management software company focused on EDI, analytics, and retail supply chain network. Retail network expansion. Analytics addition.",
+  "sources": [
+    "https://www.globaldata.com/company-profile/sps-commerce-inc/competitors/",
+    "https://www.comparably.com/companies/sps-commerce/competitors",
+    "https://www.financecharts.com/stocks/SPSC/profile"
+  ]
 }

@@ -4,16 +4,43 @@
   "year": 2025,
   "search_query": "Circle Internet Group competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Circle went public on NYSE in June 2025 at $31/share, soaring 168% on debut. The company issues USDC, the second-largest stablecoin with $61B market cap and $25T+ in transaction volume.",
+  "context": "Circle Internet Financial is a digital currency and payments company focused on USDC stablecoin and blockchain infrastructure. Leading stablecoin issuer. Cross-border payments focus.",
   "competitors": [
-    {"name": "Tether", "notes": "Dominant stablecoin issuer with USDT (67% market share)"},
-    {"name": "Paxos", "notes": "Regulated stablecoin and crypto infrastructure"},
-    {"name": "PayPal", "notes": "PYUSD stablecoin for payments"},
-    {"name": "Coinbase", "notes": "USDC partner and crypto exchange"},
-    {"name": "Ripple", "notes": "Cross-border payments and RLUSD stablecoin"},
-    {"name": "Fireblocks", "notes": "Digital asset custody and infrastructure"},
-    {"name": "Anchorage Digital", "notes": "Crypto-native bank and custody"},
-    {"name": "Traditional Payment Rails", "notes": "Visa, Mastercard, SWIFT"}
+    {
+      "name": "Tether",
+      "notes": "Dominant stablecoin issuer with USDT (67% market share)"
+    },
+    {
+      "name": "Paxos",
+      "notes": "Regulated stablecoin and crypto infrastructure"
+    },
+    {
+      "name": "PayPal",
+      "notes": "PYUSD stablecoin for payments"
+    },
+    {
+      "name": "Coinbase",
+      "notes": "USDC partner and crypto exchange"
+    },
+    {
+      "name": "Ripple",
+      "notes": "Cross-border payments and RLUSD stablecoin"
+    },
+    {
+      "name": "Fireblocks",
+      "notes": "Digital asset custody and infrastructure"
+    },
+    {
+      "name": "Anchorage Digital",
+      "notes": "Crypto-native bank and custody"
+    },
+    {
+      "name": "Traditional Payment Rails",
+      "notes": "Visa, Mastercard, SWIFT"
+    }
   ],
-  "sources": ["Crypto industry analysis", "CNBC"]
+  "sources": [
+    "Crypto industry analysis",
+    "CNBC"
+  ]
 }

@@ -5,12 +5,29 @@
   "search_query": "Altair Engineering simulation competitors 2020",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ANSYS", "notes": "Market leader in engineering simulation software"},
-    {"name": "Dassault Systèmes SIMULIA", "notes": "Comprehensive simulation with Abaqus"},
-    {"name": "Siemens Simcenter", "notes": "Integrated simulation portfolio"},
-    {"name": "MSC Software", "notes": "Hexagon-owned structural simulation"},
-    {"name": "Autodesk", "notes": "Design and simulation tools"}
+    {
+      "name": "ANSYS",
+      "notes": "Market leader in engineering simulation software"
+    },
+    {
+      "name": "Dassault Systèmes SIMULIA",
+      "notes": "Comprehensive simulation with Abaqus"
+    },
+    {
+      "name": "Siemens Simcenter",
+      "notes": "Integrated simulation portfolio"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Hexagon-owned structural simulation"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Design and simulation tools"
+    }
   ],
-  "context": "In 2020, Altair competed in engineering simulation and data analytics markets. The company's HyperWorks suite competed against ANSYS and Dassault SIMULIA. Altair differentiated with optimization-focused simulation and units-based licensing model. The pandemic accelerated digital engineering adoption. Altair expanded into data analytics and AI with acquisitions.",
-  "sources": ["https://craft.co/altair-engineering/competitors"]
+  "context": "Altair Engineering Inc. is a computational science and AI company focused on simulation, data analytics, and high-performance computing solutions. Convergence of simulation, data science, and AI. Remote collaboration tools for engineering teams.",
+  "sources": [
+    "https://craft.co/altair-engineering/competitors"
+  ]
 }

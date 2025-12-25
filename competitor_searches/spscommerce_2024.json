@@ -5,18 +5,54 @@
   "search_query": "SPS Commerce competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "IBM", "notes": "IBM Sterling Commerce - enterprise EDI and B2B integration"},
-    {"name": "OpenText", "notes": "Enterprise information management with EDI (includes GXS)"},
-    {"name": "TrueCommerce", "notes": "Leading EDI provider, close mid-market competitor"},
-    {"name": "Cleo Integration Cloud", "notes": "Best overall alternative, cloud-native integration"},
-    {"name": "CommerceHub", "notes": "Retail supply chain and marketplace integration"},
-    {"name": "DiCentral", "notes": "EDI and supply chain compliance"},
-    {"name": "MuleSoft (Salesforce)", "notes": "Horizontal iPaaS with EDI capabilities"},
-    {"name": "Boomi", "notes": "iPaaS with EDI capabilities"},
-    {"name": "Logicbroker", "notes": "EDI and integration for retail and eCommerce"},
-    {"name": "SAP", "notes": "ERP with supply chain including SAP Ariba"},
-    {"name": "Oracle NetSuite", "notes": "Cloud ERP with supply chain management"}
+    {
+      "name": "IBM",
+      "notes": "IBM Sterling Commerce - enterprise EDI and B2B integration"
+    },
+    {
+      "name": "OpenText",
+      "notes": "Enterprise information management with EDI (includes GXS)"
+    },
+    {
+      "name": "TrueCommerce",
+      "notes": "Leading EDI provider, close mid-market competitor"
+    },
+    {
+      "name": "Cleo Integration Cloud",
+      "notes": "Best overall alternative, cloud-native integration"
+    },
+    {
+      "name": "CommerceHub",
+      "notes": "Retail supply chain and marketplace integration"
+    },
+    {
+      "name": "DiCentral",
+      "notes": "EDI and supply chain compliance"
+    },
+    {
+      "name": "MuleSoft (Salesforce)",
+      "notes": "Horizontal iPaaS with EDI capabilities"
+    },
+    {
+      "name": "Boomi",
+      "notes": "iPaaS with EDI capabilities"
+    },
+    {
+      "name": "Logicbroker",
+      "notes": "EDI and integration for retail and eCommerce"
+    },
+    {
+      "name": "SAP",
+      "notes": "ERP with supply chain including SAP Ariba"
+    },
+    {
+      "name": "Oracle NetSuite",
+      "notes": "Cloud ERP with supply chain management"
+    }
   ],
-  "context": "As of 2024, SPS Commerce holds 30-35% market share in retail EDI cloud services with 115,000+ customers. August 2024 acquired SupplyPike for $206M. Competition segmented: mid-market (TrueCommerce, Cleo), enterprise (Boomi, MuleSoft), SMB (regional managed EDI).",
-  "sources": ["https://www.comparably.com/companies/sps-commerce/competitors", "https://craft.co/sps-commerce/competitors"]
+  "context": "SPS Commerce, Inc. is a supply chain management software company focused on EDI, analytics, and retail supply chain network. AI-powered supply chain insights.",
+  "sources": [
+    "https://www.comparably.com/companies/sps-commerce/competitors",
+    "https://craft.co/sps-commerce/competitors"
+  ]
 }

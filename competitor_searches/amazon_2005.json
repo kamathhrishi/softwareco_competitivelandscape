@@ -5,12 +5,29 @@
   "search_query": "Amazon e-commerce competitors 2005",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "eBay", "notes": "Major e-commerce competitor with slower growth"},
-    {"name": "Walmart", "notes": "Enhanced online presence"},
-    {"name": "Target", "notes": "Competing in general merchandise online"},
-    {"name": "Etsy", "notes": "Founded in 2005 for unique handcrafted products"},
-    {"name": "Alibaba", "notes": "Growing as global e-commerce giant in Asia"}
+    {
+      "name": "eBay",
+      "notes": "Major e-commerce competitor with slower growth"
+    },
+    {
+      "name": "Walmart",
+      "notes": "Enhanced online presence"
+    },
+    {
+      "name": "Target",
+      "notes": "Competing in general merchandise online"
+    },
+    {
+      "name": "Etsy",
+      "notes": "Founded in 2005 for unique handcrafted products"
+    },
+    {
+      "name": "Alibaba",
+      "notes": "Growing as global e-commerce giant in Asia"
+    }
   ],
-  "context": "2005: Amazon launched Prime with free 2-day shipping. AWS in early development. Competition remained primarily in e-commerce.",
-  "sources": ["https://doit.software/blog/amazon-competitors"]
+  "context": "Amazon.com, Inc. is a e-commerce, cloud computing, and technology conglomerate focused on online retail, AWS cloud services, streaming, devices, and advertising. Launched Amazon Prime membership. AWS began offering cloud services. Alexa and devices still years away.",
+  "sources": [
+    "https://doit.software/blog/amazon-competitors"
+  ]
 }

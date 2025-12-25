@@ -4,16 +4,42 @@
   "year": 2010,
   "search_query": "Booking Holdings competitors 2010",
   "search_date": "2024-12-24",
-  "context": "Priceline Group (now Booking Holdings) was the largest online travel company by market cap in 2010, powered by Booking.com's growth in Europe. The agency model competed with Expedia's merchant model.",
+  "context": "Booking Holdings Inc. is a online travel and reservation platform focused on Booking.com, Priceline, Kayak, and OpenTable. Booking.com became largest brand. Acquired Kayak. Mobile booking growing.",
   "competitors": [
-    {"name": "Expedia", "notes": "Major OTA competitor with Hotels.com, Hotwire brands"},
-    {"name": "Orbitz", "notes": "OTA competing for US travel bookings"},
-    {"name": "Travelocity", "notes": "Early OTA pioneer owned by Sabre"},
-    {"name": "TripAdvisor", "notes": "Travel reviews site adding booking capabilities"},
-    {"name": "Hotels.com", "notes": "Hotel booking site owned by Expedia"},
-    {"name": "Kayak", "notes": "Travel metasearch later acquired by Priceline"},
-    {"name": "Google Travel", "notes": "Emerging travel search threatening OTAs"},
-    {"name": "Hotel Direct Bookings", "notes": "Hotels building direct booking capabilities"}
+    {
+      "name": "Expedia",
+      "notes": "Major OTA competitor with Hotels.com, Hotwire brands"
+    },
+    {
+      "name": "Orbitz",
+      "notes": "OTA competing for US travel bookings"
+    },
+    {
+      "name": "Travelocity",
+      "notes": "Early OTA pioneer owned by Sabre"
+    },
+    {
+      "name": "TripAdvisor",
+      "notes": "Travel reviews site adding booking capabilities"
+    },
+    {
+      "name": "Hotels.com",
+      "notes": "Hotel booking site owned by Expedia"
+    },
+    {
+      "name": "Kayak",
+      "notes": "Travel metasearch later acquired by Priceline"
+    },
+    {
+      "name": "Google Travel",
+      "notes": "Emerging travel search threatening OTAs"
+    },
+    {
+      "name": "Hotel Direct Bookings",
+      "notes": "Hotels building direct booking capabilities"
+    }
   ],
-  "sources": ["Online travel industry analysis"]
+  "sources": [
+    "Online travel industry analysis"
+  ]
 }

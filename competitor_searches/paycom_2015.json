@@ -5,12 +5,29 @@
   "search_query": "Paycom payroll HR competitors 2015",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "ADP", "notes": "Dominant payroll and HR services provider"},
-    {"name": "Paychex", "notes": "Major payroll processor for small and medium businesses"},
-    {"name": "Ultimate Software", "notes": "Cloud HCM for mid-market and enterprise"},
-    {"name": "Paylocity", "notes": "Cloud-based payroll and HCM competitor"},
-    {"name": "Ceridian", "notes": "HR and payroll technology, Dayforce platform"}
+    {
+      "name": "ADP",
+      "notes": "Dominant payroll and HR services provider"
+    },
+    {
+      "name": "Paychex",
+      "notes": "Major payroll processor for small and medium businesses"
+    },
+    {
+      "name": "Ultimate Software",
+      "notes": "Cloud HCM for mid-market and enterprise"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Cloud-based payroll and HCM competitor"
+    },
+    {
+      "name": "Ceridian",
+      "notes": "HR and payroll technology, Dayforce platform"
+    }
   ],
-  "context": "In 2015, Paycom had recently gone public (April 2014 IPO) and was growing in the mid-market cloud HCM space. ADP and Paychex dominated payroll services. Ultimate Software was a key cloud HCM competitor before its 2020 merger with Kronos. The HCM market was shifting to cloud-based, single-database solutions. Paycom's employee self-service and single application approach were key differentiators against traditional payroll bureaus.",
-  "sources": ["https://craft.co/paycom-software/competitors"]
+  "context": "Paycom Software, Inc. is a HCM software company focused on payroll, HR, and talent management for enterprises. IPO. Talent management expansion.",
+  "sources": [
+    "https://craft.co/paycom-software/competitors"
+  ]
 }

@@ -5,13 +5,33 @@
   "search_query": "Microsoft competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "IBM", "notes": "Most consistent competitor, mentioned 270+ times in competition sections over 30 years"},
-    {"name": "Apple Computer", "notes": "Vertically integrated competitor in software and hardware"},
-    {"name": "Sun Microsystems", "notes": "Vertically integrated competitor in software and hardware"},
-    {"name": "Oracle", "notes": "Significant competitor in server applications and enterprise software"},
-    {"name": "Novell", "notes": "Competitor in network services market"},
-    {"name": "Google", "notes": "Emerging competitor in early 2000s"}
+    {
+      "name": "IBM",
+      "notes": "Most consistent competitor, mentioned 270+ times in competition sections over 30 years"
+    },
+    {
+      "name": "Apple Computer",
+      "notes": "Vertically integrated competitor in software and hardware"
+    },
+    {
+      "name": "Sun Microsystems",
+      "notes": "Vertically integrated competitor in software and hardware"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Significant competitor in server applications and enterprise software"
+    },
+    {
+      "name": "Novell",
+      "notes": "Competitor in network services market"
+    },
+    {
+      "name": "Google",
+      "notes": "Emerging competitor in early 2000s"
+    }
   ],
-  "context": "In 2000, Microsoft was the world's most valuable company with $510B market cap. Competition was primarily in operating systems, network services, and enterprise software.",
-  "sources": ["https://qz.com/1553700/this-30-year-timeline-reveals-microsofts-biggest-competitors"]
+  "context": "Microsoft Corporation is a technology company focused on cloud computing, productivity software, gaming, and AI. Windows monopoly. Office dominance. Antitrust issues.",
+  "sources": [
+    "https://qz.com/1553700/this-30-year-timeline-reveals-microsofts-biggest-competitors"
+  ]
 }

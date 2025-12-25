@@ -4,16 +4,42 @@
   "year": 2025,
   "search_query": "Take-Two Interactive competitors 2025",
   "search_date": "2024-12-24",
-  "context": "Take-Two is launching GTA VI, expected to be the biggest entertainment launch in history. The company combines Rockstar (GTA, Red Dead), 2K (NBA, WWE, Borderlands), and Zynga mobile.",
+  "context": "Take-Two Interactive Software, Inc. is a video game publisher focused on Grand Theft Auto, NBA 2K, and other AAA game franchises. Major publisher. GTA 6 anticipated release.",
   "competitors": [
-    {"name": "Microsoft Gaming", "notes": "Xbox, Activision, Bethesda combined powerhouse"},
-    {"name": "Electronic Arts", "notes": "Sports games and major franchises"},
-    {"name": "Sony Interactive", "notes": "PlayStation exclusives and live services"},
-    {"name": "Ubisoft", "notes": "Open-world games competitor"},
-    {"name": "Epic Games", "notes": "Fortnite platform"},
-    {"name": "Tencent", "notes": "World's largest gaming company"},
-    {"name": "Nintendo", "notes": "First-party games on new platform"},
-    {"name": "Mobile Gaming", "notes": "Various mobile competitors to Zynga"}
+    {
+      "name": "Microsoft Gaming",
+      "notes": "Xbox, Activision, Bethesda combined powerhouse"
+    },
+    {
+      "name": "Electronic Arts",
+      "notes": "Sports games and major franchises"
+    },
+    {
+      "name": "Sony Interactive",
+      "notes": "PlayStation exclusives and live services"
+    },
+    {
+      "name": "Ubisoft",
+      "notes": "Open-world games competitor"
+    },
+    {
+      "name": "Epic Games",
+      "notes": "Fortnite platform"
+    },
+    {
+      "name": "Tencent",
+      "notes": "World's largest gaming company"
+    },
+    {
+      "name": "Nintendo",
+      "notes": "First-party games on new platform"
+    },
+    {
+      "name": "Mobile Gaming",
+      "notes": "Various mobile competitors to Zynga"
+    }
   ],
-  "sources": ["Video game industry analysis"]
+  "sources": [
+    "Video game industry analysis"
+  ]
 }

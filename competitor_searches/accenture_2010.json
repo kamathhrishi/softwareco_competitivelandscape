@@ -4,24 +4,72 @@
   "year": 2010,
   "search_query": "Accenture competitors 2010",
   "search_date": "2025-12-24",
-  "context": "The 2010 consulting landscape was recovering from the 2008-2009 financial crisis. Cloud computing was emerging as a major trend, and clients were increasingly demanding integrated business and technology solutions. Indian offshore firms had matured significantly, and the Big Four accounting firms were aggressively expanding their consulting practices after earlier divestitures.",
+  "context": "Accenture is a global professional services and consulting firm focused on IT consulting, strategy, digital transformation, and technology services. Expanded digital and cloud consulting practices. Enterprise mobility becoming important.",
   "competitors": [
-    {"name": "IBM Global Services", "notes": "Top IT consulting and services competitor with comprehensive offerings"},
-    {"name": "Deloitte Consulting", "notes": "Leading Big Four consulting practice with technology and strategy services"},
-    {"name": "PricewaterhouseCoopers (PwC)", "notes": "Major consulting competitor focusing on business transformation"},
-    {"name": "KPMG", "notes": "Big Four firm with growing technology consulting practice"},
-    {"name": "Ernst & Young (EY)", "notes": "Big Four firm with advisory and consulting services"},
-    {"name": "Capgemini", "notes": "Global IT consulting and outsourcing leader"},
-    {"name": "Tata Consultancy Services (TCS)", "notes": "Leading Indian IT services firm with strong consulting capabilities"},
-    {"name": "Infosys", "notes": "Major Indian IT services and consulting competitor"},
-    {"name": "Wipro", "notes": "Indian IT services firm with global delivery model"},
-    {"name": "Cognizant", "notes": "Rapidly growing IT services and consulting provider"},
-    {"name": "HCL Technologies", "notes": "Indian IT services company expanding consulting offerings"},
-    {"name": "McKinsey & Company", "notes": "Premier strategy consulting firm"},
-    {"name": "Boston Consulting Group (BCG)", "notes": "Top-tier strategy consulting competitor"},
-    {"name": "Bain & Company", "notes": "Elite management consulting firm"},
-    {"name": "CSC (Computer Sciences Corporation)", "notes": "Large IT services and consulting provider"},
-    {"name": "HP Enterprise Services", "notes": "Technology services and consulting division of HP"}
+    {
+      "name": "IBM Global Services",
+      "notes": "Top IT consulting and services competitor with comprehensive offerings"
+    },
+    {
+      "name": "Deloitte Consulting",
+      "notes": "Leading Big Four consulting practice with technology and strategy services"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC)",
+      "notes": "Major consulting competitor focusing on business transformation"
+    },
+    {
+      "name": "KPMG",
+      "notes": "Big Four firm with growing technology consulting practice"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "notes": "Big Four firm with advisory and consulting services"
+    },
+    {
+      "name": "Capgemini",
+      "notes": "Global IT consulting and outsourcing leader"
+    },
+    {
+      "name": "Tata Consultancy Services (TCS)",
+      "notes": "Leading Indian IT services firm with strong consulting capabilities"
+    },
+    {
+      "name": "Infosys",
+      "notes": "Major Indian IT services and consulting competitor"
+    },
+    {
+      "name": "Wipro",
+      "notes": "Indian IT services firm with global delivery model"
+    },
+    {
+      "name": "Cognizant",
+      "notes": "Rapidly growing IT services and consulting provider"
+    },
+    {
+      "name": "HCL Technologies",
+      "notes": "Indian IT services company expanding consulting offerings"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Premier strategy consulting firm"
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "notes": "Top-tier strategy consulting competitor"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Elite management consulting firm"
+    },
+    {
+      "name": "CSC (Computer Sciences Corporation)",
+      "notes": "Large IT services and consulting provider"
+    },
+    {
+      "name": "HP Enterprise Services",
+      "notes": "Technology services and consulting division of HP"
+    }
   ],
   "sources": [
     "https://www.1840andco.com/blog/accenture-competitors",

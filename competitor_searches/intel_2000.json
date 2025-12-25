@@ -5,11 +5,27 @@
   "search_query": "Intel CPU competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD (Advanced Micro Devices)", "notes": "Primary competitor with Athlon processors competing against Pentium III and Pentium 4; gained significant market share"},
-    {"name": "VIA Technologies", "notes": "Competitor in PC chipsets market"},
-    {"name": "Silicon Integrated Systems", "notes": "Competitor in PC chipsets market"},
-    {"name": "Nvidia", "notes": "Competitor in PC chipsets market"}
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Primary competitor with Athlon processors competing against Pentium III and Pentium 4; gained significant market share"
+    },
+    {
+      "name": "VIA Technologies",
+      "notes": "Competitor in PC chipsets market"
+    },
+    {
+      "name": "Silicon Integrated Systems",
+      "notes": "Competitor in PC chipsets market"
+    },
+    {
+      "name": "Nvidia",
+      "notes": "Competitor in PC chipsets market"
+    }
   ],
-  "context": "In 2000, Intel dominated the CPU market with Pentium III and newly released Pentium 4 processors. AMD emerged as the primary competitor with Athlon processors offering competitive performance at lower prices.",
-  "sources": ["https://en.wikipedia.org/wiki/Intel", "https://bstrategyhub.com/intel-competitors-and-alternatives/", "https://www.techtarget.com/whatis/feature/Intels-rise-and-fall-A-timeline-of-what-went-wrong"]
+  "context": "Intel Corporation is a semiconductor company focused on CPUs for PCs and data centers, foundry services. Dominated PC and server processors. Pentium 4 era.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Intel",
+    "https://bstrategyhub.com/intel-competitors-and-alternatives/",
+    "https://www.techtarget.com/whatis/feature/Intels-rise-and-fall-A-timeline-of-what-went-wrong"
+  ]
 }

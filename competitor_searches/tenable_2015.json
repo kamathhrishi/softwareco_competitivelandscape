@@ -5,13 +5,33 @@
   "search_query": "Tenable Nessus vulnerability competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Qualys", "notes": "One of the 'big three' in vulnerability management, cloud-based platform"},
-    {"name": "Rapid7 Nexpose", "notes": "Vulnerability management with real-time risk assessment"},
-    {"name": "OpenVAS", "notes": "Open-source fork of Nessus 2, created after Nessus closed source in 2005"},
-    {"name": "BeyondTrust Retina", "notes": "Vulnerability management with remediation assistance"},
-    {"name": "Invicti (Netsparker)", "notes": "Application security testing platform"},
-    {"name": "Acunetix", "notes": "Web application security for vulnerabilities in web apps and APIs"}
+    {
+      "name": "Qualys",
+      "notes": "One of the 'big three' in vulnerability management, cloud-based platform"
+    },
+    {
+      "name": "Rapid7 Nexpose",
+      "notes": "Vulnerability management with real-time risk assessment"
+    },
+    {
+      "name": "OpenVAS",
+      "notes": "Open-source fork of Nessus 2, created after Nessus closed source in 2005"
+    },
+    {
+      "name": "BeyondTrust Retina",
+      "notes": "Vulnerability management with remediation assistance"
+    },
+    {
+      "name": "Invicti (Netsparker)",
+      "notes": "Application security testing platform"
+    },
+    {
+      "name": "Acunetix",
+      "notes": "Web application security for vulnerabilities in web apps and APIs"
+    }
   ],
-  "context": "By 2015, vulnerability management market had matured. The 'big three' (Tenable, Qualys, Rapid7) established themselves. Nessus recognized as gold standard with superior scanning capabilities. Market included both network-focused scanners and specialized application security tools.",
-  "sources": ["https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/tenable/product/tenable-nessus/alternatives"]
+  "context": "Tenable Holdings, Inc. is a cyber exposure management company focused on vulnerability management, cloud security, and exposure analytics. Tenable.io cloud platform launched.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/tenable/product/tenable-nessus/alternatives"
+  ]
 }

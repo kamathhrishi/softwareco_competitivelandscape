@@ -5,19 +5,58 @@
   "search_query": "Autodesk competitors 2024",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Dassault Systèmes", "notes": "3DEXPERIENCE platform, CATIA, SOLIDWORKS - widely used in automotive, aerospace"},
-    {"name": "Adobe", "notes": "Creative Cloud suite competing in media and entertainment sector"},
-    {"name": "PTC", "notes": "Product lifecycle management software"},
-    {"name": "Bentley Systems", "notes": "MicroStation competes with AutoCAD; comprehensive AEC solutions"},
-    {"name": "Trimble", "notes": "SketchUp 3D modeling; integrates hardware and software for construction"},
-    {"name": "Siemens PLM Software", "notes": "Teamcenter (leading PLM software); automotive, aerospace, industrial machinery"},
-    {"name": "Hexagon", "notes": "Design and engineering solutions"},
-    {"name": "ANSYS Inc.", "notes": "Engineering simulation software"},
-    {"name": "Vectorworks", "notes": "CAD and BIM for architecture, landscape, entertainment"},
-    {"name": "Graphisoft", "notes": "ARCHICAD - architectural design and BIM"},
-    {"name": "FreeCAD", "notes": "Free and open source CAD software"},
-    {"name": "Onshape", "notes": "Cloud-based CAD platform"}
+    {
+      "name": "Dassault Systèmes",
+      "notes": "3DEXPERIENCE platform, CATIA, SOLIDWORKS - widely used in automotive, aerospace"
+    },
+    {
+      "name": "Adobe",
+      "notes": "Creative Cloud suite competing in media and entertainment sector"
+    },
+    {
+      "name": "PTC",
+      "notes": "Product lifecycle management software"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "MicroStation competes with AutoCAD; comprehensive AEC solutions"
+    },
+    {
+      "name": "Trimble",
+      "notes": "SketchUp 3D modeling; integrates hardware and software for construction"
+    },
+    {
+      "name": "Siemens PLM Software",
+      "notes": "Teamcenter (leading PLM software); automotive, aerospace, industrial machinery"
+    },
+    {
+      "name": "Hexagon",
+      "notes": "Design and engineering solutions"
+    },
+    {
+      "name": "ANSYS Inc.",
+      "notes": "Engineering simulation software"
+    },
+    {
+      "name": "Vectorworks",
+      "notes": "CAD and BIM for architecture, landscape, entertainment"
+    },
+    {
+      "name": "Graphisoft",
+      "notes": "ARCHICAD - architectural design and BIM"
+    },
+    {
+      "name": "FreeCAD",
+      "notes": "Free and open source CAD software"
+    },
+    {
+      "name": "Onshape",
+      "notes": "Cloud-based CAD platform"
+    }
   ],
-  "context": "In 2024, Autodesk (founded 1982, 10,000+ employees) faces a highly diversified competitive landscape segmented by industry vertical. In Design & Engineering: Dassault, Siemens, SolidWorks. In AEC: Bentley, Trimble, Vectorworks, Graphisoft. In Media & Entertainment: Adobe.",
-  "sources": ["https://www.marketing91.com/autodesk-competitors/", "https://pitchgrade.com/companies/autodesk-inc"]
+  "context": "Autodesk, Inc. is a design and make software company focused on CAD, 3D design, BIM, and manufacturing software. AI-assisted design features. Forma for early-stage design. Fusion growth.",
+  "sources": [
+    "https://www.marketing91.com/autodesk-competitors/",
+    "https://pitchgrade.com/companies/autodesk-inc"
+  ]
 }

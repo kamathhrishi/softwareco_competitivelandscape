@@ -4,16 +4,42 @@
   "year": 2015,
   "search_query": "Airbnb competitors 2015",
   "search_date": "2024-12-24",
-  "context": "Airbnb was valued at $25B in 2015 as the leading home-sharing platform. The company disrupted traditional hospitality by enabling anyone to rent their home or spare room to travelers.",
+  "context": "Airbnb, Inc. is a online marketplace for short-term lodging and experiences focused on vacation rentals, unique stays, and travel experiences. Valued at $25.5B. Expanding globally despite regulatory battles with cities over housing impacts.",
   "competitors": [
-    {"name": "HomeAway/VRBO", "notes": "Vacation rental platform focused on whole-home rentals, owned by Expedia"},
-    {"name": "Booking.com", "notes": "Online travel agency adding vacation rental inventory"},
-    {"name": "Hotels", "notes": "Traditional hotel industry including Marriott, Hilton, Hyatt being disrupted"},
-    {"name": "FlipKey (TripAdvisor)", "notes": "Vacation rental platform owned by TripAdvisor"},
-    {"name": "Couchsurfing", "notes": "Free home-sharing community for travelers"},
-    {"name": "Wimdu", "notes": "European short-term rental competitor (later shut down)"},
-    {"name": "9flats", "notes": "German vacation rental platform"},
-    {"name": "Tripping.com", "notes": "Vacation rental search aggregator"}
+    {
+      "name": "HomeAway/VRBO",
+      "notes": "Vacation rental platform focused on whole-home rentals, owned by Expedia"
+    },
+    {
+      "name": "Booking.com",
+      "notes": "Online travel agency adding vacation rental inventory"
+    },
+    {
+      "name": "Hotels",
+      "notes": "Traditional hotel industry including Marriott, Hilton, Hyatt being disrupted"
+    },
+    {
+      "name": "FlipKey (TripAdvisor)",
+      "notes": "Vacation rental platform owned by TripAdvisor"
+    },
+    {
+      "name": "Couchsurfing",
+      "notes": "Free home-sharing community for travelers"
+    },
+    {
+      "name": "Wimdu",
+      "notes": "European short-term rental competitor (later shut down)"
+    },
+    {
+      "name": "9flats",
+      "notes": "German vacation rental platform"
+    },
+    {
+      "name": "Tripping.com",
+      "notes": "Vacation rental search aggregator"
+    }
   ],
-  "sources": ["Travel and hospitality industry analysis"]
+  "sources": [
+    "Travel and hospitality industry analysis"
+  ]
 }

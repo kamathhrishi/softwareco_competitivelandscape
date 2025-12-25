@@ -5,11 +5,26 @@
   "search_query": "Intuit TurboTax QuickBooks competitors 2000",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Microsoft", "notes": "Intensified competition with Quicken, Money software for personal finance"},
-    {"name": "Lacerte Software", "notes": "Tax preparation software for professionals (later acquired by Intuit)"},
-    {"name": "H&R Block", "notes": "Traditional tax preparation services competitor"},
-    {"name": "Peachtree (Sage)", "notes": "Small business accounting software competitor"}
+    {
+      "name": "Microsoft",
+      "notes": "Intensified competition with Quicken, Money software for personal finance"
+    },
+    {
+      "name": "Lacerte Software",
+      "notes": "Tax preparation software for professionals (later acquired by Intuit)"
+    },
+    {
+      "name": "H&R Block",
+      "notes": "Traditional tax preparation services competitor"
+    },
+    {
+      "name": "Peachtree (Sage)",
+      "notes": "Small business accounting software competitor"
+    }
   ],
-  "context": "Around 2000, Microsoft intensified competition in Intuit's Quicken business. Intuit pivoted strategy by developing web-based products and prioritizing QuickBooks for small business accounting and TurboTax for tax preparation—segments where Microsoft faced less competition.",
-  "sources": ["https://en.wikipedia.org/wiki/Intuit", "https://www.gartner.com/reviews/market/finance/vendor/intuit/product/intuit-quickbooks/alternatives"]
+  "context": "Intuit Inc. is a financial software company focused on TurboTax, QuickBooks, Credit Karma, and Mailchimp. TurboTax and QuickBooks dominance. Quicken still owned.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Intuit",
+    "https://www.gartner.com/reviews/market/finance/vendor/intuit/product/intuit-quickbooks/alternatives"
+  ]
 }

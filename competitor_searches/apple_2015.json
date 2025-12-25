@@ -5,14 +5,37 @@
   "search_query": "Apple competitors 2015",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Samsung", "notes": "20-30% smartphone market share vs Apple's 13%"},
-    {"name": "Google", "notes": "Android OS as direct challenger to iOS"},
-    {"name": "Microsoft", "notes": "Windows dominant in PC, Surface vs iPad"},
-    {"name": "Huawei", "notes": "Major smartphone competitor with affordable devices"},
-    {"name": "Amazon", "notes": "Competitor in streaming and smart home"},
-    {"name": "Fitbit", "notes": "Wearables competitor (Apple Watch launched 2015)"},
-    {"name": "Spotify", "notes": "Music streaming competitor to Apple Music"}
+    {
+      "name": "Samsung",
+      "notes": "20-30% smartphone market share vs Apple's 13%"
+    },
+    {
+      "name": "Google",
+      "notes": "Android OS as direct challenger to iOS"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Windows dominant in PC, Surface vs iPad"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Major smartphone competitor with affordable devices"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Competitor in streaming and smart home"
+    },
+    {
+      "name": "Fitbit",
+      "notes": "Wearables competitor (Apple Watch launched 2015)"
+    },
+    {
+      "name": "Spotify",
+      "notes": "Music streaming competitor to Apple Music"
+    }
   ],
-  "context": "Apple diversified across phones, tablets, wearables, streaming. Samsung dominant with 20-30% share. Apple Watch vs Fitbit/Garmin emerged.",
-  "sources": ["https://blog.disfold.com/apple-compares-competitors/"]
+  "context": "Apple Inc. is a consumer electronics, software, and services company focused on iPhone, Mac, iPad, wearables, and digital services ecosystem. Apple Watch launched. Services revenue growing. iPhone 6 drove record sales.",
+  "sources": [
+    "https://blog.disfold.com/apple-compares-competitors/"
+  ]
 }

@@ -5,16 +5,46 @@
   "search_query": "Cisco competitors 2010",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "Juniper Networks", "notes": "30% share of $643M core routing market in Q2 2010, closest competitor in security markets"},
-    {"name": "Alcatel-Lucent", "notes": "Major competitor in carrier edge routing"},
-    {"name": "Avaya", "notes": "No. 1 in enterprise telephony with 17% share vs Cisco's 14.6% of $12B market in 2009"},
-    {"name": "Brocade", "notes": "Dominated Fibre Channel SAN business with 64% share of $843M market vs Cisco's 36%"},
-    {"name": "Polycom", "notes": "Re-tooled in 2010 to better compete against Cisco"},
-    {"name": "HP (Hewlett-Packard)", "notes": "Competitor in various market segments"},
-    {"name": "IBM", "notes": "Competitor in various market segments"},
-    {"name": "F5", "notes": "Competitor in application delivery and networking segments"},
-    {"name": "Riverbed", "notes": "Competitor in WAN optimization"}
+    {
+      "name": "Juniper Networks",
+      "notes": "30% share of $643M core routing market in Q2 2010, closest competitor in security markets"
+    },
+    {
+      "name": "Alcatel-Lucent",
+      "notes": "Major competitor in carrier edge routing"
+    },
+    {
+      "name": "Avaya",
+      "notes": "No. 1 in enterprise telephony with 17% share vs Cisco's 14.6% of $12B market in 2009"
+    },
+    {
+      "name": "Brocade",
+      "notes": "Dominated Fibre Channel SAN business with 64% share of $843M market vs Cisco's 36%"
+    },
+    {
+      "name": "Polycom",
+      "notes": "Re-tooled in 2010 to better compete against Cisco"
+    },
+    {
+      "name": "HP (Hewlett-Packard)",
+      "notes": "Competitor in various market segments"
+    },
+    {
+      "name": "IBM",
+      "notes": "Competitor in various market segments"
+    },
+    {
+      "name": "F5",
+      "notes": "Competitor in application delivery and networking segments"
+    },
+    {
+      "name": "Riverbed",
+      "notes": "Competitor in WAN optimization"
+    }
   ],
-  "context": "In FY 2010, Cisco's Q4 results were disappointing and competition was heating up. Avaya led in enterprise telephony with 17% share vs Cisco's 14.6%.",
-  "sources": ["https://www.computerworld.com/article/1538436/cisco-s-top-10-rivals-2.html", "https://www.cio.com/article/220280/10-competitors-cisco-couldnt-kill-off.html"]
+  "context": "Cisco Systems, Inc. is a networking and communications technology company focused on network infrastructure, security, and collaboration solutions. Acquired Tandberg for video. WebEx collaboration. Data center push.",
+  "sources": [
+    "https://www.computerworld.com/article/1538436/cisco-s-top-10-rivals-2.html",
+    "https://www.cio.com/article/220280/10-competitors-cisco-couldnt-kill-off.html"
+  ]
 }

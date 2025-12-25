@@ -5,12 +5,29 @@
   "search_query": "Okta identity management competitors 2010",
   "search_date": "2025-12-24",
   "competitors": [
-    {"name": "Ping Identity", "notes": "Enterprise identity management"},
-    {"name": "Symplified", "notes": "Cloud single sign-on provider"},
-    {"name": "RSA SecurID", "notes": "Enterprise authentication and identity"},
-    {"name": "CA SiteMinder", "notes": "Web access management"},
-    {"name": "Oracle Identity Management", "notes": "Enterprise identity suite"}
+    {
+      "name": "Ping Identity",
+      "notes": "Enterprise identity management"
+    },
+    {
+      "name": "Symplified",
+      "notes": "Cloud single sign-on provider"
+    },
+    {
+      "name": "RSA SecurID",
+      "notes": "Enterprise authentication and identity"
+    },
+    {
+      "name": "CA SiteMinder",
+      "notes": "Web access management"
+    },
+    {
+      "name": "Oracle Identity Management",
+      "notes": "Enterprise identity suite"
+    }
   ],
-  "context": "Okta was founded in 2009 by former Salesforce executives Todd McKinnon and Frederic Kerrest. In 2010, it was an early-stage startup developing cloud-based identity management. The market was dominated by on-premises identity solutions from RSA, CA, and Oracle. Cloud SSO was emerging as enterprises adopted SaaS applications. Okta positioned as cloud-native alternative to complex enterprise identity management systems.",
-  "sources": ["https://www.okta.com/company/"]
+  "context": "Okta, Inc. is a identity and access management company focused on workforce identity, customer identity, and privileged access. Founded for cloud identity management.",
+  "sources": [
+    "https://www.okta.com/company/"
+  ]
 }

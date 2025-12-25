@@ -4,16 +4,42 @@
   "year": 2000,
   "search_query": "Priceline competitors 2000",
   "search_date": "2024-12-24",
-  "context": "Priceline pioneered name-your-own-price for travel during dot-com boom. Stock crashed 99% from peak as business model was questioned.",
+  "context": "Booking Holdings Inc. is a online travel and reservation platform focused on Booking.com, Priceline, Kayak, and OpenTable. Priceline known for name-your-own-price model for travel.",
   "competitors": [
-    {"name": "Expedia", "notes": "Microsoft's online travel agency"},
-    {"name": "Travelocity", "notes": "Sabre's consumer travel site"},
-    {"name": "Orbitz", "notes": "Airlines launching OTA"},
-    {"name": "Hotwire", "notes": "Opaque pricing competitor"},
-    {"name": "Cheap Tickets", "notes": "Discount travel booking"},
-    {"name": "GetThere", "notes": "Corporate travel technology"},
-    {"name": "Preview Travel", "notes": "Early OTA"},
-    {"name": "Traditional Travel Agents", "notes": "Brick and mortar agencies"}
+    {
+      "name": "Expedia",
+      "notes": "Microsoft's online travel agency"
+    },
+    {
+      "name": "Travelocity",
+      "notes": "Sabre's consumer travel site"
+    },
+    {
+      "name": "Orbitz",
+      "notes": "Airlines launching OTA"
+    },
+    {
+      "name": "Hotwire",
+      "notes": "Opaque pricing competitor"
+    },
+    {
+      "name": "Cheap Tickets",
+      "notes": "Discount travel booking"
+    },
+    {
+      "name": "GetThere",
+      "notes": "Corporate travel technology"
+    },
+    {
+      "name": "Preview Travel",
+      "notes": "Early OTA"
+    },
+    {
+      "name": "Traditional Travel Agents",
+      "notes": "Brick and mortar agencies"
+    }
   ],
-  "sources": ["Travel industry analysis"]
+  "sources": [
+    "Travel industry analysis"
+  ]
 }

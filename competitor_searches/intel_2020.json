@@ -5,17 +5,51 @@
   "search_query": "Intel competitors 2020",
   "search_date": "2025-12-23",
   "competitors": [
-    {"name": "AMD (Advanced Micro Devices)", "notes": "Main competitor with Zen microarchitecture; revenue surged 45% to $9.76B, profits up 630% in 2020"},
-    {"name": "TSMC", "notes": "Top competitor in chipmaking; revenue increased 25.2% to $47.78B; controlled 54% of global foundry revenue in 2020"},
-    {"name": "NVIDIA", "notes": "Leading GPU and AI computing solutions; acquired Mellanox Technologies in 2020"},
-    {"name": "Samsung", "notes": "Controls ~5% of microprocessor market; 2020 revenue of $197.69B"},
-    {"name": "Apple", "notes": "Began transition from Intel x86 to Apple Silicon for Mac computers in 2020"},
-    {"name": "Qualcomm", "notes": "Known for mobile phone processors and wireless technologies"},
-    {"name": "IBM", "notes": "Technology and consulting company competing in semiconductors"},
-    {"name": "ARM", "notes": "UK-based company designing energy-efficient processors"},
-    {"name": "GlobalFoundries", "notes": "Semiconductor foundry competitor"},
-    {"name": "Oracle", "notes": "Competitor in enterprise technology and processors"}
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Main competitor with Zen microarchitecture; revenue surged 45% to $9.76B, profits up 630% in 2020"
+    },
+    {
+      "name": "TSMC",
+      "notes": "Top competitor in chipmaking; revenue increased 25.2% to $47.78B; controlled 54% of global foundry revenue in 2020"
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "Leading GPU and AI computing solutions; acquired Mellanox Technologies in 2020"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Controls ~5% of microprocessor market; 2020 revenue of $197.69B"
+    },
+    {
+      "name": "Apple",
+      "notes": "Began transition from Intel x86 to Apple Silicon for Mac computers in 2020"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Known for mobile phone processors and wireless technologies"
+    },
+    {
+      "name": "IBM",
+      "notes": "Technology and consulting company competing in semiconductors"
+    },
+    {
+      "name": "ARM",
+      "notes": "UK-based company designing energy-efficient processors"
+    },
+    {
+      "name": "GlobalFoundries",
+      "notes": "Semiconductor foundry competitor"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Competitor in enterprise technology and processors"
+    }
   ],
-  "context": "2020 was pivotal as Apple announced transition from Intel to Apple Silicon for Macs. Intel had 110,800 employees and $77.9B revenue. AMD achieved 45% revenue increase and 630% profit surge. TSMC dominated foundry with 54% market share.",
-  "sources": ["https://bstrategyhub.com/intel-competitors-and-alternatives/", "https://businessmodelanalyst.com/intel-competitors-alternatives/", "https://en.wikipedia.org/wiki/Intel"]
+  "context": "Intel Corporation is a semiconductor company focused on CPUs for PCs and data centers, foundry services. Manufacturing delays. Apple dropped Intel for M1.",
+  "sources": [
+    "https://bstrategyhub.com/intel-competitors-and-alternatives/",
+    "https://businessmodelanalyst.com/intel-competitors-alternatives/",
+    "https://en.wikipedia.org/wiki/Intel"
+  ]
 }
