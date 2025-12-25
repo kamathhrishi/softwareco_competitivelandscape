@@ -88,6 +88,7 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     gap: 2rem;
+    position: relative;
 }
 
 .page-header h1 {
@@ -100,6 +101,27 @@ body {
 .subtitle {
     color: var(--text-muted);
     font-size: 0.9rem;
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+}
+
+.about-link {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.about-link:hover {
+    color: var(--text);
+    border-bottom-color: var(--text);
 }
 
 .search-container {
@@ -627,6 +649,12 @@ select {
     .page-header {
         flex-direction: column;
         padding: 2rem 1.5rem 1.5rem;
+    }
+
+    .header-actions {
+        position: absolute;
+        top: 1rem;
+        right: 1.5rem;
     }
 
     .search-container {

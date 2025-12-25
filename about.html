@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0RD4HFWXR0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0RD4HFWXR0');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Tech Competitive Intelligence</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        .about-container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+        .about-header {
+            margin-bottom: 3rem;
+        }
+        .about-header h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.5rem;
+        }
+        .about-content {
+            line-height: 1.8;
+            color: var(--text-secondary);
+        }
+        .about-content p {
+            margin-bottom: 1.5rem;
+        }
+        .about-section {
+            margin-bottom: 2.5rem;
+        }
+        .about-section h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+        .contact-info {
+            background: var(--bg-subtle);
+            padding: 1.5rem;
+            border-radius: 6px;
+            border-left: 3px solid var(--accent);
+        }
+        .contact-info a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        .contact-item {
+            margin-bottom: 0.75rem;
+        }
+        .contact-item:last-child {
+            margin-bottom: 0;
+        }
+        .contact-label {
+            font-weight: 500;
+            color: var(--text);
+            margin-right: 0.5rem;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.9rem;
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            transition: all 0.15s;
+        }
+        .back-link:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+            background: var(--accent-light);
+        }
+    </style>
+</head>
+<body>
+    <div class="about-container">
+        <a href="index.html" class="back-link">← Back to Home</a>
+
+        <header class="about-header">
+            <h1>About</h1>
+        </header>
+
+        <div class="about-content">
+            <div class="about-section">
+                <p>
+                    This site tracks the tech competitive landscape across 166 public companies from 2000 to 2025.
+                </p>
+            </div>
+
+            <div class="about-section">
+                <h2>Created By</h2>
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <span class="contact-label">Name:</span>
+                        Hrishikesh Kamath
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Website:</span>
+                        <a href="https://kamathhrishi.github.io" target="_blank" rel="noopener">kamathhrishi.github.io</a>
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Email:</span>
+                        <a href="mailto:kamathhrishi@gmail.com">kamathhrishi@gmail.com</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="about-section">
+                <h2>Feedback</h2>
+                <p>
+                    Have suggestions, corrections, or feedback? Feel free to reach out via email.
+                    Contributions and improvements are always welcome.
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
