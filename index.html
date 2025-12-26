@@ -12,7 +12,7 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Competitive Intelligence</title>
+    <title>Tech Competitive Landscape</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,31 +23,27 @@
     <div id="loadingOverlay" class="loading-overlay active">
         <div class="loading-content">
             <div class="loading-spinner"></div>
-            <div class="loading-text">Loading 165 companies...</div>
+            <div class="loading-text">Loading...</div>
         </div>
     </div>
 
     <!-- Home View -->
     <div id="homeView" class="view active">
         <header class="page-header">
-            <div class="header-content">
-                <h1>Tech Competitive Intelligence</h1>
-                <p class="subtitle">165 companies · 2,642 entities · 2000–2025</p>
+            <div class="header-title">
+                <h1>Tech Competitive Landscape</h1>
+                <p class="subtitle">25 years of competitive data · 2000–2025</p>
             </div>
-            <div class="header-actions">
+            <div class="header-controls">
+                <div class="search-container">
+                    <input type="text" id="globalSearch" placeholder="Search companies..." autocomplete="off">
+                    <div id="searchResults" class="search-dropdown"></div>
+                </div>
                 <a href="about.html" class="about-link">About</a>
-            </div>
-            <div class="search-container">
-                <input type="text" id="globalSearch" placeholder="Search companies..." autocomplete="off">
-                <div id="searchResults" class="search-dropdown"></div>
             </div>
         </header>
 
         <div class="controls">
-            <div class="filter-tabs">
-                <button class="tab active" data-filter="public">Public Companies</button>
-                <button class="tab" data-filter="all">All Entities</button>
-            </div>
             <select id="industryFilter">
                 <option value="">All Industries</option>
             </select>
@@ -136,7 +132,6 @@
         </article>
     </div>
 
-    <script src="data.js"></script>
     <script src="app.js"></script>
 </body>
 </html>

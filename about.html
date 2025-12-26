@@ -12,81 +12,83 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Tech Competitive Intelligence</title>
+    <title>About - Tech Competitive Landscape</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
         .about-container {
-            max-width: 700px;
+            max-width: 560px;
             margin: 0 auto;
-            padding: 4rem 2rem;
+            padding: 3rem 2rem 4rem;
         }
         .about-header {
-            margin-bottom: 3rem;
+            margin-bottom: 2.5rem;
+            text-align: center;
         }
         .about-header h1 {
-            font-size: 2rem;
-            font-weight: 600;
+            font-size: 1.5rem;
+            font-weight: 500;
             letter-spacing: -0.02em;
             margin-bottom: 0.5rem;
-        }
-        .about-content {
-            line-height: 1.8;
-            color: var(--text-secondary);
-        }
-        .about-content p {
-            margin-bottom: 1.5rem;
-        }
-        .about-section {
-            margin-bottom: 2.5rem;
-        }
-        .about-section h2 {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 1rem;
             color: var(--text);
         }
+        .about-content {
+            line-height: 1.75;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+        .about-content p {
+            margin-bottom: 1.25rem;
+        }
+        .about-section {
+            margin-bottom: 2rem;
+        }
+        .about-section h2 {
+            font-size: 0.65rem;
+            font-weight: 500;
+            margin-bottom: 0.75rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
         .contact-info {
-            background: var(--bg-subtle);
-            padding: 1.5rem;
-            border-radius: 6px;
-            border-left: 3px solid var(--accent);
+            font-size: 0.875rem;
         }
         .contact-info a {
-            color: var(--accent);
+            color: var(--text);
             text-decoration: none;
         }
         .contact-info a:hover {
-            text-decoration: underline;
+            opacity: 0.6;
         }
         .contact-item {
-            margin-bottom: 0.75rem;
+            margin-bottom: 0.5rem;
         }
         .contact-item:last-child {
             margin-bottom: 0;
         }
         .contact-label {
-            font-weight: 500;
-            color: var(--text);
-            margin-right: 0.5rem;
+            color: var(--text-muted);
+            margin-right: 0.25rem;
         }
         .back-link {
             display: inline-block;
             margin-bottom: 2rem;
-            color: var(--text-secondary);
+            color: var(--text-muted);
             text-decoration: none;
-            font-size: 0.9rem;
-            padding: 0.5rem 1rem;
-            border: 1px solid var(--border);
-            border-radius: 4px;
-            transition: all 0.15s;
+            font-size: 0.75rem;
+            font-weight: 400;
+            transition: color 0.15s ease;
         }
         .back-link:hover {
-            color: var(--accent);
-            border-color: var(--accent);
-            background: var(--accent-light);
+            color: var(--text);
+        }
+        @media (max-width: 480px) {
+            .about-container {
+                padding: 2rem 1.5rem 3rem;
+            }
         }
     </style>
 </head>

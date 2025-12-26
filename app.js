@@ -1,6 +1,6 @@
 /**
  * Software Sector Competitive Intelligence
- * Clean, information-first interface
+ * Clean, information-first interface with lazy loading
  */
 
 const state = {
@@ -12,28 +12,69 @@ const state = {
     perPage: 20
 };
 
-const entityMap = new Map();
+// Index data (lightweight, loaded on startup)
+let INDEX_DATA = null;
+// Full entity cache (loaded on demand)
+const entityCache = new Map();
 
-// Initialize
-function init() {
-    // Show loading state
+// Initialize - load lightweight public index first for instant display
+async function init() {
     showLoading();
-
-    // Use setTimeout to allow the loading UI to render
-    setTimeout(() => {
-        COMPETITOR_DATA.entities.forEach(entity => {
-            entityMap.set(entity.slug, entity);
-        });
+    try {
+        // Load small public.json (~25KB) first for instant render
+        const publicResp = await fetch('data/public.json');
+        INDEX_DATA = await publicResp.json();
 
         populateIndustryFilter();
         setupEventListeners();
         renderCompanyList();
+        hideLoading();
+
         handleHashChange();
         window.addEventListener('hashchange', handleHashChange);
 
-        // Hide loading
+        // Load full index in background for search across all entities
+        loadFullIndex();
+    } catch (err) {
+        console.error('Failed to load index:', err);
+        document.getElementById('companyList').innerHTML = '<p>Failed to load data</p>';
         hideLoading();
-    }, 10);
+    }
+}
+
+// Load full index in background for comprehensive search
+let FULL_INDEX_LOADED = false;
+async function loadFullIndex() {
+    try {
+        const resp = await fetch('data/index.json');
+        const fullData = await resp.json();
+        // Merge full entities into INDEX_DATA for search
+        INDEX_DATA.entities = fullData.entities;
+        FULL_INDEX_LOADED = true;
+    } catch (err) {
+        console.error('Failed to load full index:', err);
+    }
+}
+
+// Load full entity data on demand
+async function loadEntity(slug) {
+    if (entityCache.has(slug)) return entityCache.get(slug);
+
+    try {
+        const resp = await fetch(`data/entities/${encodeURIComponent(slug)}.json`);
+        if (!resp.ok) return null;
+        const entity = await resp.json();
+        entityCache.set(slug, entity);
+        return entity;
+    } catch (err) {
+        console.error(`Failed to load entity ${slug}:`, err);
+        return null;
+    }
+}
+
+// Get basic entity info from index (fast, no network)
+function getIndexEntity(slug) {
+    return INDEX_DATA?.entities?.find(e => e.slug === slug) || null;
 }
 
 function showLoading() {
@@ -49,7 +90,7 @@ function hideLoading() {
 // Populate industry dropdown
 function populateIndustryFilter() {
     const industries = new Set();
-    Object.values(COMPETITOR_DATA.industries).forEach(list => {
+    Object.values(INDEX_DATA.industries).forEach(list => {
         list.forEach(i => industries.add(i));
     });
 
@@ -64,17 +105,6 @@ function populateIndustryFilter() {
 
 // Event listeners
 function setupEventListeners() {
-    // Filter tabs
-    document.querySelectorAll('.tab').forEach(tab => {
-        tab.addEventListener('click', () => {
-            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-            tab.classList.add('active');
-            state.filter = tab.dataset.filter;
-            state.currentPage = 1;
-            renderCompanyList();
-        });
-    });
-
     // Industry filter
     document.getElementById('industryFilter').addEventListener('change', (e) => {
         state.industry = e.target.value;
@@ -93,7 +123,7 @@ function setupEventListeners() {
             return;
         }
 
-        const results = COMPETITOR_DATA.entities
+        const results = INDEX_DATA.entities
             .filter(entity =>
                 entity.name.toLowerCase().includes(query) ||
                 (entity.ticker && entity.ticker.toLowerCase().includes(query))
@@ -138,7 +168,7 @@ function setupEventListeners() {
 
 // Render company list with pagination
 function renderCompanyList() {
-    let entities = [...COMPETITOR_DATA.entities];
+    let entities = [...INDEX_DATA.entities];
 
     // Filter
     if (state.filter === 'public') {
@@ -148,13 +178,19 @@ function renderCompanyList() {
     // Industry filter
     if (state.industry) {
         entities = entities.filter(e => {
-            const industries = COMPETITOR_DATA.industries[e.slug] || [];
+            const industries = INDEX_DATA.industries[e.slug] || [];
             return industries.includes(state.industry);
         });
     }
 
-    // Sort alphabetically
-    entities.sort((a, b) => a.name.localeCompare(b.name));
+    // Sort by market cap (highest first), products at end
+    entities.sort((a, b) => {
+        const aIsProduct = a.entityType === 'product' || a.entityType === 'division';
+        const bIsProduct = b.entityType === 'product' || b.entityType === 'division';
+        if (aIsProduct !== bIsProduct) return aIsProduct ? 1 : -1;
+        if (a.mcap !== b.mcap) return b.mcap - a.mcap;
+        return a.name.localeCompare(b.name);
+    });
 
     // Pagination
     const totalPages = Math.ceil(entities.length / state.perPage);
@@ -236,10 +272,10 @@ function navigateToEntity(slug) {
     window.location.hash = slug;
 }
 
-function handleHashChange() {
+async function handleHashChange() {
     const hash = window.location.hash.slice(1);
-    if (hash && entityMap.has(hash)) {
-        showEntity(hash);
+    if (hash) {
+        await showEntity(hash);
     } else {
         showHome();
     }
@@ -253,9 +289,14 @@ function showHome() {
 }
 
 // Show entity detail
-function showEntity(slug) {
-    const entity = entityMap.get(slug);
-    if (!entity) return;
+async function showEntity(slug) {
+    showLoading();
+    const entity = await loadEntity(slug);
+    hideLoading();
+    if (!entity) {
+        showHome();
+        return;
+    }
 
     state.currentEntity = entity;
 
@@ -309,7 +350,7 @@ function showEntity(slug) {
     document.getElementById('statCitations').textContent = entity.mentionedBy.length;
 
     // Industries
-    const industries = COMPETITOR_DATA.industries[slug] || [];
+    const industries = INDEX_DATA.industries[slug] || [];
     const industriesSection = document.getElementById('industriesSection');
     const industriesList = document.getElementById('industriesList');
 
@@ -395,36 +436,42 @@ function renderYearContent(entity, year) {
     const data = entity.years[year];
     const container = document.getElementById('yearContent');
 
+    // Enrich and sort competitors by market cap
+    const enrichedComps = data.competitors.map(comp => {
+        const compSlug = createSlug(comp.name);
+        const compEntity = getIndexEntity(compSlug);
+        const mcap = compEntity?.mcap || 0;
+        return { ...comp, compSlug, compEntity, mcap };
+    }).sort((a, b) => {
+        const aIsProduct = a.compEntity?.entityType === 'product' || a.compEntity?.entityType === 'division';
+        const bIsProduct = b.compEntity?.entityType === 'product' || b.compEntity?.entityType === 'division';
+        if (aIsProduct !== bIsProduct) return aIsProduct ? 1 : -1;
+        return b.mcap - a.mcap;
+    });
+
     container.innerHTML = `
         ${data.context ? `<div class="year-context">${data.context}</div>` : ''}
 
         <div class="competitors-for-year">
             <h3>Competitors in ${year}</h3>
-            ${data.competitors.map(comp => {
-                const compSlug = createSlug(comp.name);
-                const compEntity = entityMap.get(compSlug);
+            ${enrichedComps.map(comp => {
+                const { compSlug, compEntity, mcap } = comp;
                 const entityType = compEntity?.entityType || 'unknown';
                 const isProduct = entityType === 'product' || entityType === 'division';
                 const isPublic = compEntity?.isPublic || false;
 
-                // Get year-specific financials
-                const yearFin = getCompetitorFinancials(compSlug, year);
-                const revenueDisplay = yearFin?.revenue || yearFin?.revenue_2024 || null;
-                const mcDisplay = yearFin?.market_cap || null;
-
                 const badgeClass = isProduct ? 'competitor-product' : (isPublic ? 'competitor-public' : '');
                 const badgeText = isProduct ? (entityType === 'division' ? 'Division' : 'Product') : (isPublic ? 'Public' : '');
+                const mcapDisplay = mcap ? formatMcap(mcap) : '';
 
                 return `
                     <div class="competitor-item ${isProduct ? 'is-product' : ''}" data-slug="${encodeURIComponent(compSlug)}">
                         <div class="competitor-header">
                             <span class="competitor-name">${comp.name}</span>
                             ${badgeText ? `<span class="${badgeClass}">${badgeText}</span>` : ''}
-                            ${revenueDisplay ? `<span class="competitor-revenue">${revenueDisplay}</span>` : ''}
-                            ${mcDisplay ? `<span class="competitor-mcap">${mcDisplay}</span>` : ''}
+                            ${mcapDisplay ? `<span class="competitor-mcap">${mcapDisplay}</span>` : ''}
                         </div>
                         ${comp.notes ? `<p class="competitor-notes">${comp.notes}</p>` : ''}
-                        ${isProduct && compEntity?.parentCompany ? `<p class="competitor-parent">Product of ${compEntity.parentCompany}</p>` : ''}
                     </div>
                 `;
             }).join('')}
@@ -505,14 +552,9 @@ function renderCompetitorsSummary(entity) {
         const typeClass = comp.entityType === 'product' || comp.entityType === 'division'
             ? 'chip-product'
             : (comp.isPublic ? 'chip-public' : '');
-        const revenueLabel = comp.financials?.revenue_2024
-            ? `<span class="chip-revenue">${comp.financials.revenue_2024}</span>`
-            : '';
         return `
             <div class="competitor-chip ${typeClass}" data-slug="${encodeURIComponent(comp.slug)}">
                 <span class="chip-name">${comp.name}</span>
-                ${comp.ticker ? `<span class="chip-ticker">${comp.ticker}</span>` : ''}
-                ${revenueLabel}
             </div>
         `;
     }).join('');
@@ -600,19 +642,37 @@ function updateFinancialStats(entity, year) {
 
 // Get year-specific financials for a competitor
 function getCompetitorFinancials(compSlug, year) {
-    const compEntity = entityMap.get(compSlug);
-    if (!compEntity) return null;
-
-    // Try year-specific first
-    if (year && compEntity.financialsByYear && compEntity.financialsByYear[year]) {
-        return compEntity.financialsByYear[year];
+    // First check full entity cache
+    const compEntity = entityCache.get(compSlug);
+    if (compEntity) {
+        // Try year-specific first
+        if (year && compEntity.financialsByYear && compEntity.financialsByYear[year]) {
+            return compEntity.financialsByYear[year];
+        }
+        // Fall back to latest
+        return compEntity.financials;
     }
 
-    // Fall back to latest
-    return compEntity.financials;
+    // Fall back to index (has rev/mcap but not year-specific)
+    const indexEntity = getIndexEntity(compSlug);
+    if (indexEntity && (indexEntity.rev || indexEntity.mcap)) {
+        return {
+            revenue_raw: indexEntity.rev,
+            market_cap_raw: indexEntity.mcap
+        };
+    }
+    return null;
 }
 
 // Utilities
+function formatMcap(value) {
+    if (!value) return '';
+    if (value >= 1e12) return `$${(value / 1e12).toFixed(1)}T`;
+    if (value >= 1e9) return `$${(value / 1e9).toFixed(0)}B`;
+    if (value >= 1e6) return `$${(value / 1e6).toFixed(0)}M`;
+    return `$${value}`;
+}
+
 function createSlug(name) {
     return name
         .toLowerCase()
