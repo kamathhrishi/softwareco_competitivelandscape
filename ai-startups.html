@@ -644,7 +644,7 @@
 
         async function loadData() {
             try {
-                const response = await fetch('../data/ai_startups.json');
+                const response = await fetch('data/ai_startups.json');
                 const data = await response.json();
                 companiesData = data.companies;
                 categoriesData = data.categories;
