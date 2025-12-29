@@ -58,37 +58,6 @@
             border-color: var(--text);
         }
 
-        .filter-spacer {
-            flex: 1;
-        }
-
-        .quick-filters {
-            display: flex;
-            gap: 0.375rem;
-        }
-
-        .quick-filter-btn {
-            padding: 0.375rem 0.625rem;
-            border: 1px solid var(--border);
-            border-radius: var(--radius-sm);
-            background: var(--bg);
-            font-size: 0.75rem;
-            font-weight: 500;
-            color: var(--text-muted);
-            cursor: pointer;
-            transition: all 0.15s ease;
-        }
-
-        .quick-filter-btn:hover {
-            border-color: var(--text-muted);
-            color: var(--text-secondary);
-        }
-
-        .quick-filter-btn.active {
-            background: var(--text);
-            color: var(--bg);
-            border-color: var(--text);
-        }
 
         .company-row {
             display: flex;
@@ -399,14 +368,6 @@
                 padding: 0 1.5rem 0.75rem;
             }
 
-            .filter-spacer {
-                display: none;
-            }
-
-            .quick-filters {
-                width: 100%;
-                justify-content: flex-start;
-            }
         }
 
         @media (max-width: 480px) {
@@ -436,9 +397,6 @@
                 align-items: flex-start;
             }
 
-            .quick-filters {
-                flex-wrap: wrap;
-            }
         }
     </style>
 </head>
@@ -484,14 +442,6 @@
                 <option value="name">By Name</option>
                 <option value="founded">By Founded</option>
             </select>
-            <div class="filter-spacer"></div>
-            <div class="quick-filters">
-                <button class="quick-filter-btn active" data-category="">All</button>
-                <button class="quick-filter-btn" data-category="foundation_models">LLMs</button>
-                <button class="quick-filter-btn" data-category="code_assistants">Code</button>
-                <button class="quick-filter-btn" data-category="image_generation">Image</button>
-                <button class="quick-filter-btn" data-category="video_generation">Video</button>
-            </div>
         </div>
 
         <!-- Results Bar -->
@@ -683,11 +633,6 @@
             });
 
             select.innerHTML = optionsHtml;
-
-            // Update quick filter buttons
-            document.querySelectorAll('.quick-filter-btn').forEach(btn => {
-                btn.classList.toggle('active', btn.dataset.category === (activeCategory || ''));
-            });
         }
 
         function getFilteredCompanies() {
@@ -1002,17 +947,6 @@
                 currentPage = 1;
                 renderCategories();
                 renderCompanyList();
-            });
-
-            // Quick filter buttons
-            document.querySelectorAll('.quick-filter-btn').forEach(btn => {
-                btn.addEventListener('click', () => {
-                    activeCategory = btn.dataset.category || null;
-                    document.getElementById('categorySelect').value = activeCategory || '';
-                    currentPage = 1;
-                    renderCategories();
-                    renderCompanyList();
-                });
             });
 
             // Entity type filter change
