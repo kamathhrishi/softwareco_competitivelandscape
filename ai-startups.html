@@ -674,41 +674,13 @@
             const select = document.getElementById('categorySelect');
             let optionsHtml = '<option value="">All Categories</option>';
 
-            // Group categories
-            const groups = {
-                'AI Models & Research': ['foundation_models', 'ml_platforms', 'ai_frameworks'],
-                'Creative AI': ['image_generation', 'video_generation', 'audio_voice', 'creative_3d', 'design_tools'],
-                'Developer Tools': ['code_assistants', 'ai_coding_agents', 'dev_platforms'],
-                'Enterprise': ['business_intelligence', 'customer_support', 'sales_marketing', 'hr_tech', 'legal', 'workflow_automation', 'business_agents', 'productivity'],
-                'Infrastructure': ['cloud_compute', 'hardware', 'vector_db', 'data_analytics'],
-                'Healthcare': ['clinical_ai', 'drug_discovery'],
-                'Robotics & Autonomy': ['humanoid_robots', 'industrial_robots', 'delivery_robots', 'autonomous_vehicles'],
-                'Other': ['search', 'security', 'fintech', 'defense', 'ai_companions', 'quantum', 'climate', 'gaming']
-            };
-
-            for (const [groupName, catIds] of Object.entries(groups)) {
-                const groupCats = catIds.map(id => categoriesData.find(c => c.id === id)).filter(Boolean);
-                if (groupCats.length > 0) {
-                    optionsHtml += `<optgroup label="${groupName}">`;
-                    groupCats.forEach(cat => {
-                        const count = Object.values(companiesData).filter(c => c.category === cat.id && c.entity_type !== 'product').length;
-                        optionsHtml += `<option value="${cat.id}" ${activeCategory === cat.id ? 'selected' : ''}>${cat.name} (${count})</option>`;
-                    });
-                    optionsHtml += '</optgroup>';
-                }
-            }
-
-            // Add any remaining categories not in groups
-            const groupedIds = Object.values(groups).flat();
-            const remaining = categoriesData.filter(c => !groupedIds.includes(c.id));
-            if (remaining.length > 0) {
-                optionsHtml += '<optgroup label="Other">';
-                remaining.forEach(cat => {
-                    const count = Object.values(companiesData).filter(c => c.category === cat.id && c.entity_type !== 'product').length;
+            // Simple flat list of categories (now broader)
+            categoriesData.forEach(cat => {
+                const count = Object.values(companiesData).filter(c => c.category === cat.id && c.entity_type !== 'product').length;
+                if (count > 0) {
                     optionsHtml += `<option value="${cat.id}" ${activeCategory === cat.id ? 'selected' : ''}>${cat.name} (${count})</option>`;
-                });
-                optionsHtml += '</optgroup>';
-            }
+                }
+            });
 
             select.innerHTML = optionsHtml;
 
