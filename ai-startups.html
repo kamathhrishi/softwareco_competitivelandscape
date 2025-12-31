@@ -837,25 +837,24 @@
             const investorsHtml = (company.investors || []).map(i => `<span class="tag">${i}</span>`).join('');
             document.getElementById('entityInvestors').innerHTML = investorsHtml || '<span class="no-data">No investors listed</span>';
 
-            // Competitors
-            const competitorsHtml = (company.competitors || []).map(comp => {
-                const isInternal = comp.type === 'internal';
-                const linkedCompany = isInternal ? companiesData[comp.id] : null;
+            // Competitors - stored as string IDs
+            const competitorsHtml = (company.competitors || []).map(compId => {
+                const linkedCompany = companiesData[compId];
 
-                if (isInternal && linkedCompany) {
+                if (linkedCompany) {
                     const compIsProduct = linkedCompany.entity_type === 'product';
                     const rightText = compIsProduct ? linkedCompany.parent_company : linkedCompany.valuation;
                     return `
-                        <div class="competitor-row" onclick="event.stopPropagation(); showEntity('${comp.id}')">
-                            <span class="comp-name">${comp.name}${compIsProduct ? ' <span class="product-badge">Product</span>' : ''}</span>
+                        <div class="competitor-row" onclick="event.stopPropagation(); showEntity('${compId}')">
+                            <span class="comp-name">${linkedCompany.name}${compIsProduct ? ' <span class="product-badge">Product</span>' : ''}</span>
                             <span class="comp-valuation">${rightText || ''}</span>
                         </div>
                     `;
                 } else {
                     return `
                         <div class="competitor-row" style="cursor: default; opacity: 0.7;">
-                            <span class="comp-name">${comp.name}</span>
-                            <span class="external-badge">External</span>
+                            <span class="comp-name">${compId}</span>
+                            <span class="external-badge">Not Found</span>
                         </div>
                     `;
                 }
