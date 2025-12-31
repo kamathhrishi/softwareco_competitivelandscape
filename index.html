@@ -29,25 +29,42 @@
 
     <!-- Home View -->
     <div id="homeView" class="view active">
-        <header class="page-header">
-            <div class="header-title">
-                <h1>Tech Competitive Landscape</h1>
-                <p class="subtitle">25 years of competitive data · 2000–2025</p>
-            </div>
-            <div class="header-controls">
-                <div class="search-container">
-                    <input type="text" id="globalSearch" placeholder="Search companies..." autocomplete="off">
-                    <div id="searchResults" class="search-dropdown"></div>
+        <!-- Top Navigation Bar -->
+        <nav class="top-nav">
+            <div class="top-nav-inner">
+                <span class="nav-brand">Public Companies</span>
+                <div class="nav-links">
+                    <a href="ai-startups.html" class="nav-link">AI Companies</a>
+                    <a href="about.html" class="nav-link">About</a>
                 </div>
-                <a href="ai-startups.html" class="about-link">AI Startups</a>
-                <a href="about.html" class="about-link">About</a>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <header class="hero-section">
+            <h1>Tech Competitive Landscape</h1>
+            <p class="hero-subtitle">25 years of competitive data · <span id="heroCompanyCount">900+</span> public companies</p>
+
+            <!-- Search -->
+            <div class="hero-search">
+                <input type="text" id="globalSearch" placeholder="Search companies..." autocomplete="off">
+                <div id="searchResults" class="search-dropdown"></div>
             </div>
         </header>
 
-        <div class="controls">
-            <select id="industryFilter">
-                <option value="">All Industries</option>
-            </select>
+        <!-- Filter Section -->
+        <div class="filter-section">
+            <div class="filter-bar">
+                <div class="filter-group">
+                    <label>Industry</label>
+                    <select id="industryFilter">
+                        <option value="">All Industries</option>
+                    </select>
+                </div>
+            </div>
+            <div class="results-bar">
+                <span class="results-count"><span id="resultsCount">0</span> results</span>
+            </div>
         </div>
 
         <div class="company-list" id="companyList">

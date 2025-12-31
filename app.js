@@ -27,6 +27,7 @@ async function init() {
 
         populateIndustryFilter();
         setupEventListeners();
+        updateHeroStats();
         renderCompanyList();
         hideLoading();
 
@@ -166,6 +167,15 @@ function setupEventListeners() {
     }
 }
 
+// Update hero stats
+function updateHeroStats() {
+    const count = INDEX_DATA.entities ? INDEX_DATA.entities.length : 0;
+    const heroCount = document.getElementById('heroCompanyCount');
+    if (heroCount) {
+        heroCount.textContent = count.toLocaleString();
+    }
+}
+
 // Render company list with pagination
 function renderCompanyList() {
     let entities = [...INDEX_DATA.entities];
@@ -214,6 +224,12 @@ function renderCompanyList() {
         });
     });
 
+    // Update results count
+    const resultsCount = document.getElementById('resultsCount');
+    if (resultsCount) {
+        resultsCount.textContent = entities.length.toLocaleString();
+    }
+
     // Render pagination
     renderPagination(entities.length, totalPages);
 }
@@ -235,6 +251,9 @@ function renderPagination(totalItems, totalPages) {
 
     const pages = [];
     const current = state.currentPage;
+    const perPage = 25;
+    const start = (current - 1) * perPage + 1;
+    const end = Math.min(current * perPage, totalItems);
 
     // Always show first page
     pages.push(1);
@@ -249,15 +268,22 @@ function renderPagination(totalItems, totalPages) {
     // Always show last page
     if (totalPages > 1 && !pages.includes(totalPages)) pages.push(totalPages);
 
-    paginationContainer.innerHTML = `
-        <button class="page-btn" ${current === 1 ? 'disabled' : ''} onclick="goToPage(${current - 1})">←</button>
+    // Page numbers row (top)
+    const pagesHtml = `<div class="pagination-pages">
         ${pages.map(p => p === '...'
-            ? '<span class="page-ellipsis">…</span>'
+            ? '<span class="page-ellipsis">···</span>'
             : `<button class="page-btn ${p === current ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`
         ).join('')}
-        <button class="page-btn" ${current === totalPages ? 'disabled' : ''} onclick="goToPage(${current + 1})">→</button>
-        <span class="page-info">${totalItems} companies</span>
-    `;
+    </div>`;
+
+    // Navigation row (bottom)
+    const navHtml = `<div class="pagination-nav">
+        <button class="page-btn nav-btn" ${current === 1 ? 'disabled' : ''} onclick="goToPage(${current - 1})">← Prev</button>
+        <span class="page-info">${start}–${end} of ${totalItems}</span>
+        <button class="page-btn nav-btn" ${current === totalPages ? 'disabled' : ''} onclick="goToPage(${current + 1})">Next →</button>
+    </div>`;
+
+    paginationContainer.innerHTML = pagesHtml + navHtml;
 }
 
 // Go to specific page
