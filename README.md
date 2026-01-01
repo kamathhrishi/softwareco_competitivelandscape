@@ -1,229 +1,90 @@
-# Tech Competitive Intelligence Database
+# aws-nuke
 
-A comprehensive database tracking competitive relationships across 150+ public technology companies, spanning 2000-2025.
+[![license](https://img.shields.io/github/license/ekristen/aws-nuke.svg)](https://github.com/ekristen/aws-nuke/blob/main/LICENSE)
+[![release](https://img.shields.io/github/release/ekristen/aws-nuke.svg)](https://github.com/ekristen/aws-nuke/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ekristen/aws-nuke)](https://goreportcard.com/report/github.com/ekristen/aws-nuke)
+[![Maintainability](https://api.codeclimate.com/v1/badges/bf05fb12c69f1ea7f257/maintainability)](https://codeclimate.com/github/ekristen/aws-nuke/maintainability)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ekristen/aws-nuke/total)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ekristen/aws-nuke/latest/total)
+
+
 
 ## Overview
 
-This project aggregates and visualizes competitive intelligence data for major technology companies across software, hardware, fintech, e-commerce, streaming, gaming, and more. It provides structured, historical data on who competes with whom, how competitive landscapes have evolved over time, and cross-references between entities.
+Remove all resources from an AWS account.
 
-### Key Statistics
+*aws-nuke* is stable, but it is likely that not all AWS resources are covered by it. Be encouraged to add missing
+resources and create a Pull Request or to create an [Issue](https://github.com/ekristen/aws-nuke/issues/new).
 
-- **165 companies** tracked (public tech companies)
-- **2,640+ entities** referenced as competitors
-- **6,700+ relationships** mapped
-- **26 years** of historical coverage (2000-2025)
-- **806 JSON data files** containing research
+## What's New in Version 3
 
-## Data Structure
+Version 3 is a rewrite of this tool using [libnuke](https://github.com/ekristen/libnuke) with a focus on improving a number of the outstanding things
+that I couldn't get done with the original project without separating out the core code into a library. See Goals
+below for more.
 
-### Source Data
+This is not a comprehensive list, but here are some of the highlights:
 
-Raw competitive intelligence is stored in `/competitor_searches/` as individual JSON files, organized by company and year:
+* New Feature: Signed Darwin Binaries for macOS
+* New Feature: Published Homebrew Tap (ekristen/tap/aws-nuke@3)
+* New Feature: Global Filters
+* New Feature: Run Against All Enabled Regions
+* New Feature: Explain Account and Explain Config Commands
+* Upcoming Feature: Filter Groups (**in progress**)
+* Breaking Change: `root` command no longer triggers the run, must use subcommand `run` (alias: `nuke`)
+* Breaking Change: CloudFormation Stacks now support a hold and wait for parent deletion process
+* Breaking Change: Nested CloudFormation Stacks are now eligible for deletion and no longer omitted
+* Completely rewrote the core of the tool as a dedicated library [libnuke](https://github.com/ekristen/libnuke)
+  * This library has over 95% test coverage which makes iteration and new features easier to implement.
+* Semantic Releases with notifications on issues / pull requests
+* Context is passed throughout the entire library now, including the listing function and the removal function
+  * This is in preparation for supporting AWS SDK Go v2
+* New Resources
+* Broke away from rebuy-de/aws-nuke project as a fork for reasons outlined in the history section
 
-```
-competitor_searches/
-├── microsoft_2024.json
-├── microsoft_2020.json
-├── microsoft_2015.json
-├── salesforce_2024.json
-└── ...
-```
+### Goals
 
-Each JSON file contains:
-- `company`: Company name
-- `ticker`: Stock ticker symbol (or "PRIVATE" for private companies)
-- `year`: Year of competitive data
-- `search_query`: Research query used
-- `search_date`: When research was conducted
-- `context`: Market context and company positioning
-- `competitors`: Array of competitors with notes
-- `sources`: URLs of source materials
+- [x] Easier maintainability and bug fixing, see go report and code climate badges above
+- [x] Adding additional tests around the core library
+- [ ] Adding more tests around specific resource types
+- [x] Adding additional resources and tooling to make adding resources easier
+- [x] Adding documentation for adding resources and using the tool
+- [ ] Consider adding DAG for dependencies between resource types and individual resources
+- [ ] Support for AWS SDK Go v2
 
-### Compiled Data
+## Documentation
 
-The `compile-data.js` script aggregates all JSON files into a unified entity graph (`data.js`):
+All documentation is in the [docs/](docs) directory and is built using [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/). 
 
-- **Entities**: All companies and referenced competitors
-- **Relationships**: Bidirectional competitive relationships
-- **Industries**: Inferred industry classifications
-- **Cross-references**: Who cites whom as a competitor
+It is hosted at [https://ekristen.github.io/aws-nuke/](https://ekristen.github.io/aws-nuke/).
 
-## Companies Covered
+## History of this Fork
 
-The database includes major technology companies across segments:
+**Important:** this is a full fork of the original tool written by the folks over at [rebuy-de](https://github.com/rebuy-de).
+This fork became necessary after attempting to make contributions and respond to issues to learn that the current
+maintainers only have time to work on the project about once a month and while receptive to bringing in other 
+people to help maintain, made it clear it would take time. Considering the feedback cycle was already weeks on 
+initial communications, I had to make the hard decision to fork and maintain it.
 
-### Software & Cloud
+### libnuke
 
-**Cloud & Infrastructure**: Microsoft, Amazon (AWS), Google Cloud, Oracle, IBM, Snowflake, MongoDB, Cloudflare, Nutanix, CoreWeave
+I also needed a version of this tool for Azure and GCP, and initially I just copied and altered the code I needed for
+Azure, but I didn't want to have to maintain multiple copies of the same code, so I decided to create 
+[libnuke](https://github.com/ekristen/libnuke) to abstract all the code that was common between the two tools and write
+proper unit tests for it. 
 
-**Cybersecurity**: Palo Alto Networks, CrowdStrike, Fortinet, Zscaler, SentinelOne, Okta, Qualys, Tenable, Rapid7, Varonis, CyberArk, Check Point
+## Attribution, License, and Copyright
 
-**Enterprise Software**: Salesforce, SAP, ServiceNow, Workday, Intuit, Adobe, Autodesk
+The rewrite of this tool to use [libnuke](https://github.com/ekristen/libnuke) would not have been possible without the
+hard work that came before me on the original tool by the team and contributors over at [rebuy-de](https://github.com/rebuy-de)
+and their original work on [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke).
 
-**Data & Analytics**: Palantir, Datadog, Splunk, Teradata, Confluent, Elastic, Domo, Amplitude
+This tool is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information. The bulk of this
+tool was rewritten to use [libnuke](https://github.com/ekristen/libnuke) which was in part originally sourced from
+[rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke).
 
-**DevOps & Development**: Atlassian, GitLab, JFrog, HashiCorp, Dynatrace
+## Contribute
 
-**HR & Payroll**: Workday, Paycom, Paylocity, Dayforce (Ceridian)
+You can contribute to *aws-nuke* by forking this repository, making your changes and creating a Pull Request against
+this repository. If you are unsure how to solve a problem or have other questions about a contributions, please create
+a GitHub issue.
 
-**CRM & Marketing**: Salesforce, HubSpot, Klaviyo, Braze, Sprinklr, Sprout Social
-
-**Collaboration**: Zoom, Twilio, DocuSign, Box, Dropbox, Five9, Freshworks
-
-**Design & Engineering**: Autodesk, ANSYS, Synopsys, Cadence, PTC, Altair, Bentley Systems, Aspen Technology, Figma
-
-**Vertical Software**: Veeva (life sciences), Guidewire (insurance), Procore (construction), Tyler Technologies (government), nCino (banking), Blackbaud (nonprofits), ServiceTitan (home services)
-
-### Consumer & Digital Platforms
-
-**Streaming & Entertainment**: Netflix, Spotify, Roku
-
-**Social Media**: Snap, Pinterest, Reddit, Meta
-
-**Gaming**: Roblox, Electronic Arts, Take-Two Interactive, Unity Software
-
-**E-commerce**: Etsy, eBay, Chewy, Wayfair, Shopify, Amazon, Coupang
-
-**Delivery & Gig Economy**: DoorDash, Uber, Lyft, Instacart
-
-**Electric Vehicles**: Tesla, Rivian, Lucid Motors
-
-**Travel Tech**: Airbnb, Booking Holdings, Expedia, Navan
-
-### Fintech & Payments
-
-**Payments & Fintech**: PayPal, Block (Square), Affirm, Robinhood, SoFi, Coinbase, Chime, Klarna
-
-**Crypto & Blockchain**: Circle (USDC)
-
-**Financial Software**: Bill Holdings, BlackLine, Zuora, FICO, Payoneer, WEX
-
-### Health Tech
-
-**Digital Health**: Teladoc, Doximity, GoodRx, Tempus AI
-
-### Real Estate Tech
-
-**PropTech**: Zillow, Redfin, CoStar Group
-
-### Hardware & Infrastructure
-
-**Networking & Infrastructure**: Arista Networks, F5, Akamai, NetApp, Pure Storage, Broadcom, Dell Technologies, Motorola Solutions, Zebra Technologies
-
-**Semiconductors**: NVIDIA, Intel, AMD, ARM Holdings, Astera Labs
-
-**Ad Tech & IoT**: The Trade Desk, AppLovin, Samsara
-
-### Services & Other
-
-**IT Services & Consulting**: Accenture, Cognizant, Globant, Gartner
-
-**Data Management**: Informatica, Trimble, Rubrik
-
-**Consumer Tech**: Duolingo, Gen Digital
-
-**Diversified Tech**: Roper Technologies
-
-## Site Features
-
-### Home View
-
-- Alphabetically sorted list of companies
-- Filter by entity type (Public Companies / All Entities)
-- Filter by industry segment
-- Global search across all entities
-- Quick stats: competitor count and citation count
-
-### Entity Detail View
-
-- Centered company header with ticker and type badge
-- Key statistics: competitors, years of data, citations
-- Industry tags
-- **Year-based navigation**: Select any year to view that year's competitive data
-- For each year:
-  - Market context description
-  - List of competitors with detailed notes
-  - Source links to original research
-- All Competitors summary grid
-- Citations: which companies cite this entity as a competitor
-
-### Design Principles
-
-- **Information-first**: Clean, document-style layout focused on data
-- **One year at a time**: Reduces cognitive load, focused viewing
-- **Cross-referencing**: Every entity links to its own page
-- **Professional aesthetic**: Light theme, minimal chrome, clear typography
-
-## Technical Implementation
-
-### Files
-
-```
-site/
-├── index.html          # Main HTML structure
-├── styles.css          # Clean, information-first CSS
-├── app.js              # Application logic and rendering
-├── data.js             # Compiled entity graph (generated)
-├── compile-data.js     # Node.js script to compile JSON files
-├── server.js           # Node.js static file server
-├── package.json        # Node.js project configuration
-├── railway.json        # Railway deployment configuration
-└── README.md           # This file
-```
-
-### Running Locally
-
-1. Compile the data (if JSON files have changed):
-   ```bash
-   npm run compile
-   ```
-
-2. Start the server:
-   ```bash
-   npm start
-   ```
-
-3. Open http://localhost:8000
-
-### Deployment
-
-The site is configured for Railway deployment:
-- Push to GitHub
-- Connect repository to Railway
-- Railway automatically builds and deploys
-
-### Technologies
-
-- Vanilla HTML, CSS, JavaScript (no frameworks)
-- Node.js for data compilation and serving
-- Inter and IBM Plex Mono fonts
-
-## Data Sources
-
-Competitive intelligence was compiled from:
-- SEC filings (10-K, 10-Q reports)
-- Company investor presentations
-- Industry analyst reports (Gartner, Forrester, IDC)
-- Market research publications
-- Business news and press releases
-
-## Use Cases
-
-- **Investment Research**: Understand competitive positioning
-- **Market Analysis**: Track how competitive landscapes evolve
-- **Business Development**: Identify potential partners or acquisition targets
-- **Strategic Planning**: Map competitive threats and opportunities
-
-## Future Enhancements
-
-Potential additions:
-- Export functionality (CSV, JSON)
-- Comparison view (two companies side-by-side)
-- Network visualization of relationships
-- Search within competitor notes
-- Filtering by year range
-- API access for programmatic queries
-
----
-
-*Data compiled December 2024*
